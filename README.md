@@ -21,6 +21,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [Gosu](#gosu)
+- [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -33,6 +34,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
@@ -81,6 +83,8 @@
 
 ## C 
 
+- [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [ifreund/dumb_runtime_dir](https://github.com/ifreund/dumb_runtime_dir) - Creates an XDG_RUNTIME_DIR on login and never removes it.
 - [ohno9119/picom-conf-gtk](https://github.com/ohno9119/picom-conf-gtk) - A graphical configuration tool for Picom.
@@ -194,6 +198,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [k8ieone/srht-docker](https://github.com/k8ieone/srht-docker) - Pre-built Sourcehut containers
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [Itz-fork/X-Bin-Patch](https://github.com/Itz-fork/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
@@ -223,6 +228,8 @@
 
 ## Go 
 
+- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [shared-recruiting-co/shared-recruiting-co](https://github.com/shared-recruiting-co/shared-recruiting-co) - SRC (Shared Recruiting Co.) is an open-source, candidate-centric recruiting platform
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -277,6 +284,10 @@
 ## Gosu 
 
 - [metricube/drivecopy](https://github.com/metricube/drivecopy) - Google Apps Script to copy folders in Google Drive
+
+## Groovy 
+
+- [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 
 ## HCL 
 
@@ -334,6 +345,7 @@
 
 ## JavaScript 
 
+- [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [TFAGaming/DiscordJS-V14-Bot-Template](https://github.com/TFAGaming/DiscordJS-V14-Bot-Template) - A simplified and popular Discord bot commands & events handler built with discord.js version 14 and written in JavaScript. This handler can load up to 4 different types of commands.
 - [ddinan/tsuyo](https://github.com/ddinan/tsuyo) - 🤖 A light-weight and easy-to-use modular Discord bot built with DiscordJS.
@@ -676,6 +688,10 @@
 - [sameersbn/docker-ubuntu](https://github.com/sameersbn/docker-ubuntu) - My Ubuntu boilerplate image that forms the base for my docker containers.
 - [portainer/templates](https://github.com/portainer/templates) - App Templates used by Portainer
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Nix 
 
 - [Daru-san/Snowflake-dots](https://github.com/Daru-san/Snowflake-dots) - [Mirror] My beautiful, functional NixOS Hyprland and Sway configurations, written completely in Nix
@@ -732,6 +748,12 @@
 
 ## Others 
 
+- [penberg/linux-networking](https://github.com/penberg/linux-networking) - Notes on Linux network internals
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
+- [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [kzndotsh/stars](https://github.com/kzndotsh/stars) - 
 - [allthingslinux/code-of-conduct](https://github.com/allthingslinux/code-of-conduct) - Code of Conduct for All Things Linux
 - [jhonyrdesouza/awesome-shadcn-ui](https://github.com/jhonyrdesouza/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -987,6 +1009,7 @@
 
 ## Python 
 
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [nonchris/discord-bot](https://github.com/nonchris/discord-bot) - Generic bot to start with based on discord.py
 - [mpsparrow/applesauce](https://github.com/mpsparrow/applesauce) - Applesauce is a lightweight Discord bot that provides a plugin management framework to enable powerful modular configurations
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
@@ -1303,6 +1326,7 @@
 
 ## Rust 
 
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [its-Lyn/lymerge](https://github.com/its-Lyn/lymerge) - Simple emerge wrapper.
@@ -1353,6 +1377,10 @@
 
 ## Shell 
 
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+- [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
+- [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [z-shell/zsh-eza](https://github.com/z-shell/zsh-eza) - ⚙️ Zsh plugin to replace command gnu/ls with eza-community/eza
 - [renovate-bot/z-shell-_-zsh-eza](https://github.com/renovate-bot/z-shell-_-zsh-eza) - ⚙️ Zsh plugin to replace command gnu/ls with ogham/exa
