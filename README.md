@@ -539,7 +539,6 @@
 - [Leoism/SpotifyChartsDownloader](https://github.com/Leoism/SpotifyChartsDownloader) - Downloader that allows downloading a range of dates for any region at spotifycharts.com
 - [tymmesyde/node-spotify-charts](https://github.com/tymmesyde/node-spotify-charts) - Spotify Charts for node.js
 - [kiewic/spotify-charts](https://github.com/kiewic/spotify-charts) - Script to automatically download all the data available at https://spotifycharts.com/regional
-- [kaustubhrprabhu/spotify-charts-webscraping](https://github.com/kaustubhrprabhu/spotify-charts-webscraping) - Fetching top 10 tracks of the week from Spotify Charts
 - [Sebs66/topCharts](https://github.com/Sebs66/topCharts) - REST API to get historic data of Spotify's top 50 charts.
 - [avivace/dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
 - [izissise/nginx-explorer](https://github.com/izissise/nginx-explorer) - File explorer in javascript, file come from nginx autoindex
