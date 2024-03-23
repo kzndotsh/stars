@@ -2485,7 +2485,6 @@
 - [kiewic/spotify-charts](https://github.com/kiewic/spotify-charts) - Script to automatically download all the data available at https://spotifycharts.com/regional
 - [esteveste/Spotify-Charts-Scraper](https://github.com/esteveste/Spotify-Charts-Scraper) - Python Script for Scrapping all Spotify top 200 by weak/day and country
 - [melissapg/webscraping-bd-spotifycharts](https://github.com/melissapg/webscraping-bd-spotifycharts) - webscraping spotify charts to a relational database
-- [kaustubhrprabhu/spotify-charts-webscraping](https://github.com/kaustubhrprabhu/spotify-charts-webscraping) - Fetching top 10 tracks of the week from Spotify Charts
 - [Sebs66/topCharts](https://github.com/Sebs66/topCharts) - REST API to get historic data of Spotify's top 50 charts.
 - [Kenefab/spotify-api](https://github.com/Kenefab/spotify-api) - get top 100 charts data from spotify
 - [qtilities/picom-conf](https://github.com/qtilities/picom-conf) - GUI configuration tool for Picom X composite manager
