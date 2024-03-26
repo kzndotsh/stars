@@ -14,6 +14,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Cython](#cython)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Elm](#elm)
@@ -194,6 +195,10 @@
 ## Clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+
+## Cython 
+
+- [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## Dockerfile 
 
@@ -992,6 +997,7 @@
 ## PowerShell 
 
 - [chall32/Plex-Parse](https://github.com/chall32/Plex-Parse) - Export Plex Libraries to .csv
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [spotpuff/rename_subtitles](https://github.com/spotpuff/rename_subtitles) - Scripts to rename subtitles for Plex
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
@@ -1007,6 +1013,21 @@
 
 ## Python 
 
+- [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
+- [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
+- [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
+- [IntangibleNetwork/IntangibleNetworkBot](https://github.com/IntangibleNetwork/IntangibleNetworkBot) - 
+- [juniorguru/junior.guru](https://github.com/juniorguru/junior.guru) - The junior.guru website, Discord bot, and synchronization scripts
+- [joinemm/miso-bot](https://github.com/joinemm/miso-bot) - :robot: Discord bot with too many features
+- [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
+- [theshohidul/FastAPI-Boilerplate](https://github.com/theshohidul/FastAPI-Boilerplate) - A dockerized FastAPI Boilerplate with JWT, Loguru logging, Role based authorization, SQLAlchemy ORM with AsyncSession. Repository design pattern, Domain driven design, Service Layer implemented.
+- [erezinman/loguru-config](https://github.com/erezinman/loguru-config) - A configuration-loading class for loguru (but not only).
+- [kaxiluo/fastapi-skeleton](https://github.com/kaxiluo/fastapi-skeleton) - fastapi skeleton. framework integration orm jwt-auth loguru dotenv APScheduler...
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+- [theinfosecguy/python-supabase-crud-api](https://github.com/theinfosecguy/python-supabase-crud-api) - FastAPI & Supabase CRUD Application
+- [rjhoppe/python-supabase-table-data-gen-tool](https://github.com/rjhoppe/python-supabase-table-data-gen-tool) - A couple of scripts I wrote to help me dynamically generate data and load it into Supabase for a proof of concept I was working on.
+- [jod35/supabase_py_playground](https://github.com/jod35/supabase_py_playground) - Source code I used while exploring the Supabase Python SDK
+- [Atticuszz/supabase-py-async](https://github.com/Atticuszz/supabase-py-async) - separated the async part of supabase-py for light integration with fastapi🌠
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [just-max/owo](https://github.com/just-max/owo) - something something owo
 - [iarspider/arachnobot](https://github.com/iarspider/arachnobot) - 
@@ -1518,7 +1539,6 @@
 - [YurinDoctrine/ultra-gaming-setup-wizard](https://github.com/YurinDoctrine/ultra-gaming-setup-wizard) - Gaming on Linux setup works on Arch Linux , Ubuntu or Debian and Fedora
 - [Madic-/Sway-DE](https://github.com/Madic-/Sway-DE) - 🏠 Sway desktop environment dotfile installation for Arch Linux
 - [poststatus/wptest](https://github.com/poststatus/wptest) - WP Test - The Best Tests For WordPress
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [Innei/zshrc](https://github.com/Innei/zshrc) - one-key to configure zsh.
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
 - [janoamaral/tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) - A clean, dark Tmux theme that celebrates the lights of Downtown Tokyo at night.
