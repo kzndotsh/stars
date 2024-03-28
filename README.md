@@ -685,6 +685,7 @@
 
 ## Makefile 
 
+- [leandcesar/prisma-supabase-bytebase-example](https://github.com/leandcesar/prisma-supabase-bytebase-example) - A sample application showcasing the usage of Prisma Client Python, Supabase, and Bytebase.
 - [alerque/etckeeper-packages](https://github.com/alerque/etckeeper-packages) - Track installed packages in etckeeper (alternative to pug and pacmanity)
 - [klutchell/mediaserver](https://github.com/klutchell/mediaserver) - docker-based plex & usenet media server using custom subdomains with tls
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
@@ -1013,6 +1014,22 @@
 
 ## Python 
 
+- [RobertCraigie/prismo](https://github.com/RobertCraigie/prismo) - The bot for the Prisma Python discord server
+- [anand2312/crajybot](https://github.com/anand2312/crajybot) - A small Discord bot
+- [44bananas/nanabot](https://github.com/44bananas/nanabot) - warframe snipe bot for wfm rm and a rough version of tc ocr
+- [Greek/robert](https://github.com/Greek/robert) - Discord bot made in Python and Nextcord.
+- [madebylydia/Vindex](https://github.com/madebylydia/Vindex) - Vindex is a Discord Bot made for DCS communities.
+- [Uzay-G/prisma.py](https://github.com/Uzay-G/prisma.py) - 
+- [crubier/prisma-client-py](https://github.com/crubier/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
+- [brianjp93/amirightladies](https://github.com/brianjp93/amirightladies) - dumb bot that just responds with "am i right ladies" to all your discord messages
+- [shahriyardx/cnc-availability](https://github.com/shahriyardx/cnc-availability) - Availability management discord bot for CNC Leagues
+- [arckoor/journey-bot](https://github.com/arckoor/journey-bot) - A bot for the Journey Discord.
+- [InterStella0/starlight-dpy](https://github.com/InterStella0/starlight-dpy) - A utility library that she uses for discord.py
+- [LunarsDev/cordcutter](https://github.com/LunarsDev/cordcutter) - The circuit breaker design pattern for discord.py application commands
+- [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
+- [alexdelorenzo/aiopath](https://github.com/alexdelorenzo/aiopath) - 📁 Asynchronous pathlib for Python
+- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
+- [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
@@ -1100,7 +1117,6 @@
 - [enzobes/WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release
 - [mtrogman/regrabarr](https://github.com/mtrogman/regrabarr) - A discord bot to delete and search for media
 - [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge) - Bridge your discord's state and activity to a representable badge on your repository / profile to show your discord's current status. Powered by Docker and Python + AsyncIO + discord.py + aiohttp.
-- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [SharkyRawr/matrix-chat-export](https://github.com/SharkyRawr/matrix-chat-export) - Matrix chat exporter (no encryption support yet)
 - [shawntabrizi/matrix-dl-csv](https://github.com/shawntabrizi/matrix-dl-csv) - Export matrix / riot channel chat to a CSV file.
 - [osteele/matrix-archive](https://github.com/osteele/matrix-archive) - Export a Matrix room message archive
