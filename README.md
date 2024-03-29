@@ -1014,6 +1014,7 @@
 
 ## Python 
 
+- [ZRunner/Axobot](https://github.com/ZRunner/Axobot) - A cool multipurpose Discord bot made in Python
 - [RobertCraigie/prismo](https://github.com/RobertCraigie/prismo) - The bot for the Prisma Python discord server
 - [anand2312/crajybot](https://github.com/anand2312/crajybot) - A small Discord bot
 - [44bananas/nanabot](https://github.com/44bananas/nanabot) - warframe snipe bot for wfm rm and a rough version of tc ocr
@@ -1548,7 +1549,7 @@
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
 - [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
 - [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple OSs
 - [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
