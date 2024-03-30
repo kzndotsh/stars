@@ -1623,7 +1623,7 @@
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [snakypy/dotctrl](https://github.com/snakypy/dotctrl) - :snake: :package: :page_facing_up: Dotctrl is a package to control your dotfiles (and more) on Linux or macOS.
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) - Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇
@@ -1665,7 +1665,7 @@
 - [Vonr/align.nvim](https://github.com/Vonr/align.nvim) - A minimal plugin for NeoVim for aligning lines
 - [Flo-Slv/Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim) - WIP - Fade inactive buffers when you use Tokyonight storm theme with NeoVim
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 
 ## machine-learning 
 
