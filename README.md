@@ -134,7 +134,7 @@
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [tsujan/BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [crnihr/dotfiles](https://github.com/crnihr/dotfiles) - dotfiles
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
