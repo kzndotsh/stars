@@ -1118,6 +1118,7 @@
 - [enzobes/WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release
 - [mtrogman/regrabarr](https://github.com/mtrogman/regrabarr) - A discord bot to delete and search for media
 - [CodexLink/discord-activity-badge](https://github.com/CodexLink/discord-activity-badge) - Bridge your discord's state and activity to a representable badge on your repository / profile to show your discord's current status. Powered by Docker and Python + AsyncIO + discord.py + aiohttp.
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [SharkyRawr/matrix-chat-export](https://github.com/SharkyRawr/matrix-chat-export) - Matrix chat exporter (no encryption support yet)
 - [shawntabrizi/matrix-dl-csv](https://github.com/shawntabrizi/matrix-dl-csv) - Export matrix / riot channel chat to a CSV file.
 - [osteele/matrix-archive](https://github.com/osteele/matrix-archive) - Export a Matrix room message archive
