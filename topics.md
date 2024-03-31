@@ -107,6 +107,7 @@
 - [linux](#linux)
 - [low-code](#low-code)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -258,6 +259,7 @@
 - [OultimoCoder/cloudflare-planetscale-hono-boilerplate](https://github.com/OultimoCoder/cloudflare-planetscale-hono-boilerplate) - A boilerplate for building production-ready RESTful APIs using Cloudflare, Hono, and Planetscale
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
 - [Justintime50/easypost-tools-ui](https://github.com/Justintime50/easypost-tools-ui) - Create shipping labels, track, insure, and refund packages all from a simple UI.
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [riimuru/gogoanime-api](https://github.com/riimuru/gogoanime-api) - Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
@@ -1562,6 +1564,7 @@
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [leomeinel/arch-install](https://github.com/leomeinel/arch-install) - My personal Arch Linux install script using LUKS2 encryption, LVM and btrfs with optional RAID1.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -1666,6 +1669,10 @@
 - [Flo-Slv/Tokyonight-fade.nvim](https://github.com/Flo-Slv/Tokyonight-fade.nvim) - WIP - Fade inactive buffers when you use Tokyonight storm theme with NeoVim
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
+
+## mac 
+
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 
 ## machine-learning 
 
@@ -3092,6 +3099,7 @@
 - [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Deleterr is a Python script designed to help you manage available disk space in your Plex media server.
 - [everettsouthwick/Eraserr](https://github.com/everettsouthwick/Eraserr) - Python script for deleting unwatched or stale media from Plex servers using Radarr, Sonarr, and Overseerr.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
