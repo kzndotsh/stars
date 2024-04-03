@@ -1691,7 +1691,7 @@
 - [seanap/Auto-M4B-Tool](https://github.com/seanap/Auto-M4B-Tool) - Script to automate using m4b-tool to convert recently added mp3 audiobook folders to a single chapterized m4b.
 - [BinsonBuzz/unraid_rclone_mount](https://github.com/BinsonBuzz/unraid_rclone_mount) - scripts to create rclone mounts on gdrive
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) - All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [clayrisser/deskterm](https://github.com/clayrisser/deskterm) - Turn your Linux desktop into a terminal
 - [int0x80/anti-forensics](https://github.com/int0x80/anti-forensics) - for the louise
 - [hmaverickadams/breach-parse](https://github.com/hmaverickadams/breach-parse) - A tool for parsing breached passwords
