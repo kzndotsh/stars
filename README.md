@@ -1400,7 +1400,7 @@
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [vinnymeller/twm](https://github.com/vinnymeller/twm) - Tmux Workspace Manager
-- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
+- [supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp) - A Language Server for Postgres
 - [gaplo917/GapStyle](https://github.com/gaplo917/GapStyle) - The world-first* productivity-oriented color scheme for intelliJ and VSCode to fill the gap between programming languages and human.
 - [oknozor/toml-bombadil](https://github.com/oknozor/toml-bombadil) - A dotfile manager with templating
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
@@ -1567,7 +1567,7 @@
 - [brauliobo/gitconfig](https://github.com/brauliobo/gitconfig) - Personal config and stuff
 - [BlackArcheruz/i3wm-nordic-dark](https://github.com/BlackArcheruz/i3wm-nordic-dark) - 
 - [mina-atef-00/i3-nord](https://github.com/mina-atef-00/i3-nord) - My dot files for i3wm with a nordic color theme
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for (Arch) Linux, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [twmru/scripts](https://github.com/twmru/scripts) - 
 - [mohamed-official/i3-nordic-dotfiles](https://github.com/mohamed-official/i3-nordic-dotfiles) - I3 Window Manager Nord theme dotfiles
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
