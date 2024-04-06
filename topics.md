@@ -85,6 +85,7 @@
 - [graphql](#graphql)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
@@ -256,7 +257,7 @@
 
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
 - [OultimoCoder/cloudflare-planetscale-hono-boilerplate](https://github.com/OultimoCoder/cloudflare-planetscale-hono-boilerplate) - A boilerplate for building production-ready RESTful APIs using Cloudflare, Hono, and Planetscale
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
 - [Justintime50/easypost-tools-ui](https://github.com/Justintime50/easypost-tools-ui) - Create shipping labels, track, insure, and refund packages all from a simple UI.
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [riimuru/gogoanime-api](https://github.com/riimuru/gogoanime-api) - Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime
@@ -289,7 +290,7 @@
 - [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
-- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple OSs
+- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
 - [YurinDoctrine/ultra-gaming-setup-wizard](https://github.com/YurinDoctrine/ultra-gaming-setup-wizard) - Gaming on Linux setup works on Arch Linux , Ubuntu or Debian and Fedora
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
@@ -1110,7 +1111,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple OSs
+- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [versionpress/versionpress](https://github.com/versionpress/versionpress) - Git-based version control for WordPress. Whoa!
 - [Todd-Owen-Mpeli/blueinventory](https://github.com/Todd-Owen-Mpeli/blueinventory) - This is a Next.js 13 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 13 static-side & server-side rendering. This projects is developed with 
@@ -1225,6 +1226,10 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
+## hacking-tool 
+
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+
 ## hacktoberfest 
 
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
@@ -1274,7 +1279,7 @@
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple OSs
+- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [BraydenTW/react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) - 👨‍🎨 An open-source portfolio template built with React and Tailwind.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
@@ -1588,7 +1593,7 @@
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple OSs
+- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
 - [YurinDoctrine/ultra-gaming-setup-wizard](https://github.com/YurinDoctrine/ultra-gaming-setup-wizard) - Gaming on Linux setup works on Arch Linux , Ubuntu or Debian and Fedora
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
@@ -3758,7 +3763,7 @@
 
 ## vue 
 
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from Swagger/OpenAPI files ✨
+- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
 - [ycjcl868/monorepo](https://github.com/ycjcl868/monorepo) - Monorepo with pnpm and turborepo, deploying into Vercel.
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
