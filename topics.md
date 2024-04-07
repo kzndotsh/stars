@@ -1826,6 +1826,7 @@
 
 ## nextjs 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [plutomi/plutomi](https://github.com/plutomi/plutomi) - Applicant Management at Any Scale. Currently undergoing maintenance! :D
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
@@ -3072,6 +3073,7 @@
 
 ## python 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
 - [anand2312/crajybot](https://github.com/anand2312/crajybot) - A small Discord bot
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [alexdelorenzo/aiopath](https://github.com/alexdelorenzo/aiopath) - 📁 Asynchronous pathlib for Python
@@ -3197,6 +3199,7 @@
 
 ## react 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
@@ -3622,6 +3625,7 @@
 
 ## typescript 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic discord framework 🧙‍♂️
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
