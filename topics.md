@@ -120,6 +120,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -1824,6 +1825,15 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) - Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇
 
+## nestjs 
+
+- [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
+- [necordjs/necord](https://github.com/necordjs/necord) - 🤖 A module for creating Discord bots using NestJS, based on Discord.js
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+
 ## nextjs 
 
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
@@ -1841,7 +1851,7 @@
 - [enjidev/enji.dev](https://github.com/enjidev/enji.dev) - a monorepo for my personal website and projects, built with Turborepo + pnpm 📚
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🏗️ Turborepo + TailwindCSS + Storybook + shadcn-ui
-- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter built using Next.js 14, Prisma, Planetscale, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe and Server Actions.
+- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe and Server Actions.
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
@@ -3211,7 +3221,7 @@
 - [ycjcl868/monorepo](https://github.com/ycjcl868/monorepo) - Monorepo with pnpm and turborepo, deploying into Vercel.
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🏗️ Turborepo + TailwindCSS + Storybook + shadcn-ui
-- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter built using Next.js 14, Prisma, Planetscale, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe and Server Actions.
+- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe and Server Actions.
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
