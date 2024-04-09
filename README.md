@@ -1014,6 +1014,8 @@
 
 ## Python 
 
+- [Titaniumtown/pyfetch](https://github.com/Titaniumtown/pyfetch) - Port of Neofetch to python
+- [finlaysawyer/discord-uptime](https://github.com/finlaysawyer/discord-uptime) - Discord bot to monitor uptime of services using ping and http requests
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
 - [ZRunner/Axobot](https://github.com/ZRunner/Axobot) - A cool multipurpose Discord bot made in Python
 - [RobertCraigie/prismo](https://github.com/RobertCraigie/prismo) - The bot for the Prisma Python discord server
@@ -1450,7 +1452,7 @@
 - [Arsemy/bemenu-tokyonight](https://github.com/Arsemy/bemenu-tokyonight) - bemenu tokyonight inpired theme
 - [tomaz-f/Arch-BSPWM](https://github.com/tomaz-f/Arch-BSPWM) - Dotfiles from tokyo nigth theme.
 - [rmandvikar/dotfiles](https://github.com/rmandvikar/dotfiles) - dotfiles, git hooks system (global, local hooks), utility shell scripts, configuration for HOME dir.
-- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
