@@ -1020,7 +1020,7 @@
 - [ZRunner/Axobot](https://github.com/ZRunner/Axobot) - A cool multipurpose Discord bot made in Python
 - [RobertCraigie/prismo](https://github.com/RobertCraigie/prismo) - The bot for the Prisma Python discord server
 - [anand2312/crajybot](https://github.com/anand2312/crajybot) - A small Discord bot
-- [44bananas/nanabot](https://github.com/44bananas/nanabot) - warframe snipe bot for wfm rm and a rough version of tc ocr
+- [44bananas/nanabot](https://github.com/44bananas/nanabot) - warframe snipe bot for wfm and rm
 - [Greek/robert](https://github.com/Greek/robert) - Discord bot made in Python and Nextcord.
 - [madebylydia/Vindex](https://github.com/madebylydia/Vindex) - Vindex is a Discord Bot made for DCS communities.
 - [Uzay-G/prisma.py](https://github.com/Uzay-G/prisma.py) - 
