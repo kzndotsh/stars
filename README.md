@@ -696,6 +696,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 
 ## Nix 
 
@@ -930,7 +931,6 @@
 - [adv4000/docker](https://github.com/adv4000/docker) - Docker commands and example of Dockerfile
 - [eon01/DockerCheatSheet](https://github.com/eon01/DockerCheatSheet) - 🐋 Docker Cheat Sheet 🐋
 - [ehazlett/shipyard](https://github.com/ehazlett/shipyard) - Composable Docker Management
-- [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 - [TRaSH-/reverse-proxy-confs](https://github.com/TRaSH-/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
 - [TRaSH-/docker-compose-override](https://github.com/TRaSH-/docker-compose-override) - Collection of override files for DockSTARTer
 
@@ -1014,6 +1014,17 @@
 
 ## Python 
 
+- [Undertone0809/python-package-template](https://github.com/Undertone0809/python-package-template) - 🚀Your next Python package needs a bleeding-edge project structure.
+- [kornicameister/loguru-mypy](https://github.com/kornicameister/loguru-mypy) - mypy plugin for loguru
+- [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
+- [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - 
+- [orsinium-labs/mypy-baseline](https://github.com/orsinium-labs/mypy-baseline) - Integrate mypy in seconds with existing codebase. A friendly CLI tool to make mypy report only new type violations and ignore existing ones.
+- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
+- [davidfstr/trycast](https://github.com/davidfstr/trycast) - trycast parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
+- [KotlinIsland/basedmypy](https://github.com/KotlinIsland/basedmypy) - Based Python static type checker with baseline, sane default settings and based typing features
+- [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
+- [sonatype-nexus-community/jake](https://github.com/sonatype-nexus-community/jake) - Check your Python environments for vulnerable Open Source packages with OSS Index or Sonatype Nexus Lifecycle.
+- [pyupio/safety](https://github.com/pyupio/safety) - Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
 - [Titaniumtown/pyfetch](https://github.com/Titaniumtown/pyfetch) - Port of Neofetch to python
 - [finlaysawyer/discord-uptime](https://github.com/finlaysawyer/discord-uptime) - Discord bot to monitor uptime of services using ping and http requests
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the creator platform for developers & the open source ecosystem.
@@ -1772,6 +1783,7 @@
 
 ## TypeScript 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
