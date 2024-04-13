@@ -2315,7 +2315,6 @@
 - [sun00108/nyamedia-emby-auth-wrangler](https://github.com/sun00108/nyamedia-emby-auth-wrangler) - 
 - [glarivie/emby-random-movie](https://github.com/glarivie/emby-random-movie) - 
 - [panta82/emby-fixer](https://github.com/panta82/emby-fixer) - Execute a number of fixes on emby's library to make its Music collection functionality usable for folder view.
-- [ipuppet/EmbyNameSync](https://github.com/ipuppet/EmbyNameSync) - 
 - [vmoore1000/EmbyTool](https://github.com/vmoore1000/EmbyTool) - 
 - [MediaBrowser/Emby.ApiClient.Javascript](https://github.com/MediaBrowser/Emby.ApiClient.Javascript) - ApiClient allows JavaScript apps to easily access the Emby API
 - [nvllsvm/emby-unlocked](https://github.com/nvllsvm/emby-unlocked) - Emby with the premium Emby Premiere features unlocked.
