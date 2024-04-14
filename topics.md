@@ -171,6 +171,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [svelte](#svelte)
@@ -3578,6 +3579,10 @@
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [zsvoboda/dbd](https://github.com/zsvoboda/dbd) - dbd is a database prototyping tool that enables data analysts and engineers to quickly load and transform data in SQL databases.
 - [prisma/database-schema-examples](https://github.com/prisma/database-schema-examples) - Database Schema Examples we strive to support in Prisma
+
+## stable-diffusion 
+
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 
 ## statistics 
 
