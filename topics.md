@@ -2288,7 +2288,7 @@
 - [grimsleydl/kagayaki](https://github.com/grimsleydl/kagayaki) - Kagayaki font configuration for Archlinux (infinality)
 - [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
 - [Arkham/dotfiles.nix](https://github.com/Arkham/dotfiles.nix) - Dotfiles super-powered by Nix and home-manager
-- [gvolpe/dconf2nix](https://github.com/gvolpe/dconf2nix) - :feet: Convert Dconf files (e.g. Gnome Shell) to Nix, as expected by Home Manager
+- [nix-community/dconf2nix](https://github.com/nix-community/dconf2nix) - :feet: Convert dconf files (e.g. GNOME Shell) to Nix, as expected by Home Manager [maintainer=@jtojnar]
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development (macOS & Linux supported)
 - [r17x/nixpkgs](https://github.com/r17x/nixpkgs) - My "Home" 🏚 with Nix ❄️ ƛ
@@ -2644,7 +2644,7 @@
 - [ellite/plex-scripts](https://github.com/ellite/plex-scripts) - Collection of Plex Scripts
 - [josephrkramer/gcloud-plex-server](https://github.com/josephrkramer/gcloud-plex-server) - Scripts to automate creation of a Plex Server on Google Compute Engine
 - [Eeeeelias/plex_media_move](https://github.com/Eeeeelias/plex_media_move) - Scripts to make naming, organising and moving video files to plex easier
-- [Arial-Z/Plex-Romaji-Renamer](https://github.com/Arial-Z/Plex-Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex with PMM metadata file
+- [Arial-Z/Romaji-Renamer](https://github.com/Arial-Z/Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex with PMM metadata file
 - [sayem314/pirates-mediaserver](https://github.com/sayem314/pirates-mediaserver) - private media server installation script
 - [raydouglass/media_management_scripts](https://github.com/raydouglass/media_management_scripts) - Set of tools for managing media libraries
 - [nwithan8/Plex2Jellyfin](https://github.com/nwithan8/Plex2Jellyfin) - Scripts to assist migrating from a Plex Media Server to a Jellyfin Media Server
