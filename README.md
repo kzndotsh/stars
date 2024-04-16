@@ -715,7 +715,7 @@
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
-- [gvolpe/dconf2nix](https://github.com/gvolpe/dconf2nix) - :feet: Convert Dconf files (e.g. Gnome Shell) to Nix, as expected by Home Manager
+- [nix-community/dconf2nix](https://github.com/nix-community/dconf2nix) - :feet: Convert dconf files (e.g. GNOME Shell) to Nix, as expected by Home Manager [maintainer=@jtojnar]
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development (macOS & Linux supported)
 - [r17x/nixpkgs](https://github.com/r17x/nixpkgs) - My "Home" 🏚 with Nix ❄️ ƛ
@@ -1639,7 +1639,7 @@
 - [danwanderson/PlexScripts](https://github.com/danwanderson/PlexScripts) - Scripts for managing Plex
 - [nicjay/server-cookbook](https://github.com/nicjay/server-cookbook) - Self-hosted containerized services and scripts for my stay-at-home NAS.
 - [josephrkramer/gcloud-plex-server](https://github.com/josephrkramer/gcloud-plex-server) - Scripts to automate creation of a Plex Server on Google Compute Engine
-- [Arial-Z/Plex-Romaji-Renamer](https://github.com/Arial-Z/Plex-Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex with PMM metadata file
+- [Arial-Z/Romaji-Renamer](https://github.com/Arial-Z/Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex with PMM metadata file
 - [sayem314/pirates-mediaserver](https://github.com/sayem314/pirates-mediaserver) - private media server installation script
 - [cacheflowe/media-utility-scripts](https://github.com/cacheflowe/media-utility-scripts) - Scripts for common media file conversion tasks
 - [brianspilner01/media-server-scripts](https://github.com/brianspilner01/media-server-scripts) - 
