@@ -2576,7 +2576,7 @@
 - [vEnhance/dotfiles](https://github.com/vEnhance/dotfiles) - Dot files for Evan Chen (Arch Linux on i3)
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [dracula/i3](https://github.com/dracula/i3) - 🧛🏻‍♂️ Dark theme for i3
-- [endeavouros-team/endeavouros-i3wm-setup](https://github.com/endeavouros-team/endeavouros-i3wm-setup) - The beloved  EndeavourOS default i3 (gaps) theme and setup dotfile repo
+- [endeavouros-team/endeavouros-i3wm-setup](https://github.com/endeavouros-team/endeavouros-i3wm-setup) - The beloved  EndeavourOS default i3 (has gaps) theme and setup dotfile repo
 - [dvragulin/dotfiles-public](https://github.com/dvragulin/dotfiles-public) - Personal Ansible roles for installing i3 on Arch Linux and applying my dotfiles.
 - [SometimesSquishy/i3installscript](https://github.com/SometimesSquishy/i3installscript) - Auto install script for my i3 config
 - [s3rius/i3wm-autoConfig](https://github.com/s3rius/i3wm-autoConfig) - Repository contains script to install i3wm with modded simple configuration
