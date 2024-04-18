@@ -1595,7 +1595,7 @@
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [CodeHeister/dotfiles](https://github.com/CodeHeister/dotfiles) - First rice for i3-gaps
 - [bokub/i3-config](https://github.com/bokub/i3-config) - 🐍 A backup of my i3 config
-- [endeavouros-team/endeavouros-i3wm-setup](https://github.com/endeavouros-team/endeavouros-i3wm-setup) - The beloved  EndeavourOS default i3 (gaps) theme and setup dotfile repo
+- [endeavouros-team/endeavouros-i3wm-setup](https://github.com/endeavouros-team/endeavouros-i3wm-setup) - The beloved  EndeavourOS default i3 (has gaps) theme and setup dotfile repo
 - [mxvish/arch-setup](https://github.com/mxvish/arch-setup) - Installer & setup script for Arch Linux in i3 on UEFI x86-64 pc
 - [Lizards/arch-installer](https://github.com/Lizards/arch-installer) - Basic customizable Arch Linux installation scripts
 - [arcbjorn/arc-robust-arch-linux-installation-guide](https://github.com/arcbjorn/arc-robust-arch-linux-installation-guide) - Arch linux installation guide (Xorg): btrfs, pipewire, i3-gaps, lightdm, rofi, dunst, kitty, polybar
