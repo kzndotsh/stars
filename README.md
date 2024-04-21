@@ -53,6 +53,7 @@
 - [SCSS](#scss)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
@@ -1015,7 +1016,7 @@
 
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
-- [Undertone0809/python-package-template](https://github.com/Undertone0809/python-package-template) - 🚀Your next Python package needs a bleeding-edge project structure.
+- [Undertone0809/3PG](https://github.com/Undertone0809/3PG) - 🚀Python Packages Project Generator-Your next Python package needs a bleeding-edge project structure.
 - [kornicameister/loguru-mypy](https://github.com/kornicameister/loguru-mypy) - mypy plugin for loguru
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - 
@@ -1758,6 +1759,10 @@
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [TRaSH-/DockSTARTer](https://github.com/TRaSH-/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
 
+## Solidity 
+
+- [GithubChemist/UniswapArbitrage](https://github.com/GithubChemist/UniswapArbitrage) - MEV Arbitrage Trading Bot which targets the Uniswap Wrapped Ethereum (WETH) Liquidity Pairs for profitable arbitrage opportunities
+
 ## Svelte 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -1866,7 +1871,7 @@
 - [lubieowoce/tangle](https://github.com/lubieowoce/tangle) - A very messy React Server Components implementation.
 - [lostb1t/overseerr](https://github.com/lostb1t/overseerr) - Request management and media discovery tool for the Plex ecosystem
 - [avallete/qbitorrent-tracker-auto-delete](https://github.com/avallete/qbitorrent-tracker-auto-delete) - 
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
