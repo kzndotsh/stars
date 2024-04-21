@@ -586,7 +586,7 @@
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [JakeLunn/prunerr](https://github.com/JakeLunn/prunerr) - A command line application for cleaning up old media from Plex and optionally notifying Sonarr, Radarr and Overseerr
@@ -1993,7 +1993,7 @@
 ## npm 
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 
 ## open-source 
@@ -2034,9 +2034,10 @@
 
 ## others 
 
+- [GithubChemist/UniswapArbitrage](https://github.com/GithubChemist/UniswapArbitrage) - MEV Arbitrage Trading Bot which targets the Uniswap Wrapped Ethereum (WETH) Liquidity Pairs for profitable arbitrage opportunities
 - [Diverto/cryptsetup-pwguess](https://github.com/Diverto/cryptsetup-pwguess) - Modified cryptsetup to enable password guessing - https://diverto.github.io/2019/11/18/Cracking-LUKS-passphrases
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
-- [Undertone0809/python-package-template](https://github.com/Undertone0809/python-package-template) - 🚀Your next Python package needs a bleeding-edge project structure.
+- [Undertone0809/3PG](https://github.com/Undertone0809/3PG) - 🚀Python Packages Project Generator-Your next Python package needs a bleeding-edge project structure.
 - [kornicameister/loguru-mypy](https://github.com/kornicameister/loguru-mypy) - mypy plugin for loguru
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - 
 - [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
@@ -2999,7 +3000,7 @@
 
 ## package-manager 
 
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 
 ## parsing 
