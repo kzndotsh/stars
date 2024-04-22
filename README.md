@@ -301,6 +301,7 @@
 
 ## HTML 
 
+- [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [Ruixi-rebirth/sway-dotfiles](https://github.com/Ruixi-rebirth/sway-dotfiles) - ⚡️Make it simple⚡️
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [anil-sidhu/dsa-with-js](https://github.com/anil-sidhu/dsa-with-js) - 
@@ -350,6 +351,9 @@
 
 ## JavaScript 
 
+- [GatlenCulp/airtable-utils](https://github.com/GatlenCulp/airtable-utils) - A collection of scripts, formulas, etc. that are helpful to use in Airtable.
+- [mmaatttee/Airtable](https://github.com/mmaatttee/Airtable) - Various Airtable formulas / codes / scripts!
+- [UnlyEd/airtable-utils](https://github.com/UnlyEd/airtable-utils) - Airtable utilities for formulas, scripts, with proper examples
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
@@ -412,7 +416,6 @@
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 - [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots.
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
-- [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [toreylittlefield/my-custom-tailwind-resume](https://github.com/toreylittlefield/my-custom-tailwind-resume) - My Custom Tailwind Resume
 - [crguezl/gh-submodule-add](https://github.com/crguezl/gh-submodule-add) - gh cli extension to create submodules inside a repo
 - [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
@@ -753,6 +756,8 @@
 
 ## Others 
 
+- [motionelements/airtable-formulas](https://github.com/motionelements/airtable-formulas) - Formulas for airtable
+- [joeynotjoe/airtable-formulas](https://github.com/joeynotjoe/airtable-formulas) - A collection of Airtable formulas that I find useful.
 - [penberg/linux-networking](https://github.com/penberg/linux-networking) - Notes on Linux network internals
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
@@ -1014,6 +1019,7 @@
 
 ## Python 
 
+- [0art-vandelay0/Airtable-Formulas](https://github.com/0art-vandelay0/Airtable-Formulas) - 
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [Undertone0809/3PG](https://github.com/Undertone0809/3PG) - 🚀Python Packages Project Generator-Your next Python package needs a bleeding-edge project structure.
@@ -1177,7 +1183,7 @@
 - [devopsarr/sdk-generator](https://github.com/devopsarr/sdk-generator) - arr sdk generator
 - [devops-brain/plex_data_loader](https://github.com/devops-brain/plex_data_loader) - copies backed up sources into my live library.  This is an inelegant solution, better to fingerprint the files and make a DB of the fingerprints...
 - [l3uddz/plex_db_tools](https://github.com/l3uddz/plex_db_tools) - Tool to perform misc Plex actions
-- [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
+- [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
 - [Drapersniper/Qbitrr](https://github.com/Drapersniper/Qbitrr) - A simple Python script to talk to Qbit and Arr's
 - [dosherow/Spotify-Scraper](https://github.com/dosherow/Spotify-Scraper) - Scraping Spotify Top 200 Daily Charts
 - [younver/spotify-top-200-dataset](https://github.com/younver/spotify-top-200-dataset) - Spotify Charts weekly top 200 songs between 2017~2021 in global dataset & api extraction codes
@@ -1221,7 +1227,7 @@
 - [bbilly1/media_organizer](https://github.com/bbilly1/media_organizer) - A set of python scripts to rename movies and tv shows.
 - [raydouglass/media_management_scripts](https://github.com/raydouglass/media_management_scripts) - Set of tools for managing media libraries
 - [nwithan8/Plex2Jellyfin](https://github.com/nwithan8/Plex2Jellyfin) - Scripts to assist migrating from a Plex Media Server to a Jellyfin Media Server
-- [meisnate12/ArrAPI](https://github.com/meisnate12/ArrAPI) - A lightweight Python library for Radarr and Sonarr API.
+- [Kometa-Team/ArrAPI](https://github.com/Kometa-Team/ArrAPI) - A lightweight Python library for Radarr and Sonarr API.
 - [haijeploeg/excludarr](https://github.com/haijeploeg/excludarr) - Excludarr manages your libraries in Radarr/Sonarr. It keeps track of your library and checks if your movies and series are also available on a configured streaming provider. It can exclude the movies 
 - [by275/plex_autoscan](https://github.com/by275/plex_autoscan) - A maintained fork of Plex Autoscan
 - [cooperdk/YAPO-e-plus](https://github.com/cooperdk/YAPO-e-plus) - YAPO e+ - Yet Another Porn Organizer (extended)
@@ -1789,6 +1795,9 @@
 
 ## TypeScript 
 
+- [RomanYarik/airtable-formulas](https://github.com/RomanYarik/airtable-formulas) - 
+- [gabrielalmeida/airtable-formula-builder](https://github.com/gabrielalmeida/airtable-formula-builder) - Airtable Formula Builder 𝒇
+- [Qualifyze/airtable-formulator](https://github.com/Qualifyze/airtable-formulator) - Airtable Formula Manipulator
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
