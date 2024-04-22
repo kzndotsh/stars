@@ -2034,6 +2034,15 @@
 
 ## others 
 
+- [GatlenCulp/airtable-utils](https://github.com/GatlenCulp/airtable-utils) - A collection of scripts, formulas, etc. that are helpful to use in Airtable.
+- [RomanYarik/airtable-formulas](https://github.com/RomanYarik/airtable-formulas) - 
+- [0art-vandelay0/Airtable-Formulas](https://github.com/0art-vandelay0/Airtable-Formulas) - 
+- [motionelements/airtable-formulas](https://github.com/motionelements/airtable-formulas) - Formulas for airtable
+- [mmaatttee/Airtable](https://github.com/mmaatttee/Airtable) - Various Airtable formulas / codes / scripts!
+- [gabrielalmeida/airtable-formula-builder](https://github.com/gabrielalmeida/airtable-formula-builder) - Airtable Formula Builder 𝒇
+- [joeynotjoe/airtable-formulas](https://github.com/joeynotjoe/airtable-formulas) - A collection of Airtable formulas that I find useful.
+- [Qualifyze/airtable-formulator](https://github.com/Qualifyze/airtable-formulator) - Airtable Formula Manipulator
+- [UnlyEd/airtable-utils](https://github.com/UnlyEd/airtable-utils) - Airtable utilities for formulas, scripts, with proper examples
 - [GithubChemist/UniswapArbitrage](https://github.com/GithubChemist/UniswapArbitrage) - MEV Arbitrage Trading Bot which targets the Uniswap Wrapped Ethereum (WETH) Liquidity Pairs for profitable arbitrage opportunities
 - [Diverto/cryptsetup-pwguess](https://github.com/Diverto/cryptsetup-pwguess) - Modified cryptsetup to enable password guessing - https://diverto.github.io/2019/11/18/Cracking-LUKS-passphrases
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
@@ -2546,7 +2555,7 @@
 - [ChuckPa/UserCredentialReset](https://github.com/ChuckPa/UserCredentialReset) - User Credential Reset utility for Plex
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
+- [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
 - [alike03/Screnarr](https://github.com/alike03/Screnarr) - Screnarr is a media management tool for Sonarr and Radarr
 - [dosherow/Spotify-Scraper](https://github.com/dosherow/Spotify-Scraper) - Scraping Spotify Top 200 Daily Charts
 - [davidcsally/spotify-song-charts](https://github.com/davidcsally/spotify-song-charts) - Lil React site I built to scrape and display Spotify's top song data (my first react app!)
@@ -2658,7 +2667,7 @@
 - [bakerboy448/StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc Scripts for Starr related Apps
 - [rasmusbuchholdt/plex-wrapper](https://github.com/rasmusbuchholdt/plex-wrapper) - Small module that makes it easier to use the Plex API for management
 - [jensenkd/plex-api](https://github.com/jensenkd/plex-api) - .NET Core SDK for Plex Media Server
-- [meisnate12/ArrAPI](https://github.com/meisnate12/ArrAPI) - A lightweight Python library for Radarr and Sonarr API.
+- [Kometa-Team/ArrAPI](https://github.com/Kometa-Team/ArrAPI) - A lightweight Python library for Radarr and Sonarr API.
 - [by275/plex_autoscan](https://github.com/by275/plex_autoscan) - A maintained fork of Plex Autoscan
 - [cooperdk/YAPO-e-plus](https://github.com/cooperdk/YAPO-e-plus) - YAPO e+ - Yet Another Porn Organizer (extended)
 - [hthighway/scripts](https://github.com/hthighway/scripts) - various scripts and tool
