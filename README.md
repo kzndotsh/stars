@@ -81,7 +81,7 @@
 ## Batchfile 
 
 - [matthiasxc/PlexClassicCartoons](https://github.com/matthiasxc/PlexClassicCartoons) - Scripts for organizing collections of classic cartoons (Disney, Looney Tunes) properly into Plex
-- [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs) - Config files for Plex Meta Manager
+- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Plex Meta Manager
 
 ## C 
 
@@ -465,7 +465,6 @@
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [duythongle/fshare2gdrive](https://github.com/duythongle/fshare2gdrive) - NodeJS script for direct uploading from FShare.vn FILES/FOLDERS to Google Drive without storing files locally.
-- [riimuru/gogoanime-api](https://github.com/riimuru/gogoanime-api) - Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime
 - [raganwald/javascript-allonge](https://github.com/raganwald/javascript-allonge) - Markdown source for the book "JavaScript Allongé"
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [craigrileyuk/tailwind-fluid-typography](https://github.com/craigrileyuk/tailwind-fluid-typography) - Fluid typography plugin for the tailwindcss framework
@@ -859,6 +858,7 @@
 - [forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [AlexEntrepreneur/Lambda-School-Instruction-Notes](https://github.com/AlexEntrepreneur/Lambda-School-Instruction-Notes) - 
 - [bkirkby/LambdaSchool-Web-Notes](https://github.com/bkirkby/LambdaSchool-Web-Notes) - 
 - [josh-jacobson/lambda-lecture-notes](https://github.com/josh-jacobson/lambda-lecture-notes) - Lecture notes for the classes I teach at Lambda School, covering web application development with React and Redux.
@@ -1003,7 +1003,6 @@
 ## PowerShell 
 
 - [chall32/Plex-Parse](https://github.com/chall32/Plex-Parse) - Export Plex Libraries to .csv
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [spotpuff/rename_subtitles](https://github.com/spotpuff/rename_subtitles) - Scripts to rename subtitles for Plex
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
