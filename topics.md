@@ -2032,6 +2032,7 @@
 
 ## others 
 
+- [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
 - [GatlenCulp/airtable-utils](https://github.com/GatlenCulp/airtable-utils) - A collection of scripts, formulas, etc. that are helpful to use in Airtable.
 - [RomanYarik/airtable-formulas](https://github.com/RomanYarik/airtable-formulas) - 
 - [0art-vandelay0/Airtable-Formulas](https://github.com/0art-vandelay0/Airtable-Formulas) - 
@@ -2968,7 +2969,7 @@
 - [akcryptoguy/vps-harden](https://github.com/akcryptoguy/vps-harden) - Interactive script to Harden Security on a Ubuntu VPS
 - [Val/dedibox_fully_encrypted_debian_install](https://github.com/Val/dedibox_fully_encrypted_debian_install) - Dedibox Fully Encrypted Debian Install
 - [davide125/dedibox-utils](https://github.com/davide125/dedibox-utils) - Misc tools to ease setup and management of dedicated servers
-- [manitra/server-config](https://github.com/manitra/server-config) - My Dedibox and Kimsufi configuration scripts :)
+- [manitra/server-config](https://github.com/manitra/server-config) - Few scripts for configuring my personal servers
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [tualatrix/ubuntu-tweak](https://github.com/tualatrix/ubuntu-tweak) - Ubuntu Tweak is a tool that makes it easy to configure your system and desktop settings. (This project is no longer under maintenance)
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
