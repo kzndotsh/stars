@@ -928,6 +928,7 @@
 - [kodekloudhub/linux-basics-course](https://github.com/kodekloudhub/linux-basics-course) - 
 - [kevinthew/linuxgems](https://github.com/kevinthew/linuxgems) - A succinct cheat sheet for newbie linux coders and system administrators, documenting some of the more obscure and useful gems of linux lore. Intended to be viewed in emacs org-mode, or VimOrganizer, 
 - [Val/dedibox_fully_encrypted_debian_install](https://github.com/Val/dedibox_fully_encrypted_debian_install) - Dedibox Fully Encrypted Debian Install
+- [manitra/server-config](https://github.com/manitra/server-config) - Few scripts for configuring my personal servers
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
 - [tvollscw/portainer-nextcloud](https://github.com/tvollscw/portainer-nextcloud) - NextCloud Compose Stack for Portainer
 - [technorabilia/portainer-templates](https://github.com/technorabilia/portainer-templates) - Various Portainer App Templates
@@ -1018,6 +1019,7 @@
 
 ## Python 
 
+- [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
 - [0art-vandelay0/Airtable-Formulas](https://github.com/0art-vandelay0/Airtable-Formulas) - 
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
@@ -1739,7 +1741,6 @@
 - [harsh-bothra/VPS-Install](https://github.com/harsh-bothra/VPS-Install) - Quick script to install all the required tools over a VPS (tested on DEBIAN)
 - [akcryptoguy/vps-harden](https://github.com/akcryptoguy/vps-harden) - Interactive script to Harden Security on a Ubuntu VPS
 - [davide125/dedibox-utils](https://github.com/davide125/dedibox-utils) - Misc tools to ease setup and management of dedicated servers
-- [manitra/server-config](https://github.com/manitra/server-config) - My Dedibox and Kimsufi configuration scripts :)
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [snwh/ubuntu-post-install](https://github.com/snwh/ubuntu-post-install) - A set of post-installation shell scripts for Ubuntu
