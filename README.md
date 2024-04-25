@@ -53,7 +53,6 @@
 - [SCSS](#scss)
 - [Scheme](#scheme)
 - [Shell](#shell)
-- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
@@ -1041,7 +1040,6 @@
 - [RobertCraigie/prismo](https://github.com/RobertCraigie/prismo) - The bot for the Prisma Python discord server
 - [anand2312/crajybot](https://github.com/anand2312/crajybot) - A small Discord bot
 - [44bananas/nanabot](https://github.com/44bananas/nanabot) - warframe snipe bot for wfm and rm
-- [Greek/robert](https://github.com/Greek/robert) - Discord bot made in Python and Nextcord.
 - [madebylydia/Vindex](https://github.com/madebylydia/Vindex) - Vindex is a Discord Bot made for DCS communities.
 - [Uzay-G/prisma.py](https://github.com/Uzay-G/prisma.py) - 
 - [crubier/prisma-client-py](https://github.com/crubier/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
@@ -1764,10 +1762,6 @@
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [TRaSH-/DockSTARTer](https://github.com/TRaSH-/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
-
-## Solidity 
-
-- [GithubChemist/UniswapArbitrage](https://github.com/GithubChemist/UniswapArbitrage) - MEV Arbitrage Trading Bot which targets the Uniswap Wrapped Ethereum (WETH) Liquidity Pairs for profitable arbitrage opportunities
 
 ## Svelte 
 
