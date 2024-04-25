@@ -2042,7 +2042,6 @@
 - [joeynotjoe/airtable-formulas](https://github.com/joeynotjoe/airtable-formulas) - A collection of Airtable formulas that I find useful.
 - [Qualifyze/airtable-formulator](https://github.com/Qualifyze/airtable-formulator) - Airtable Formula Manipulator
 - [UnlyEd/airtable-utils](https://github.com/UnlyEd/airtable-utils) - Airtable utilities for formulas, scripts, with proper examples
-- [GithubChemist/UniswapArbitrage](https://github.com/GithubChemist/UniswapArbitrage) - MEV Arbitrage Trading Bot which targets the Uniswap Wrapped Ethereum (WETH) Liquidity Pairs for profitable arbitrage opportunities
 - [Diverto/cryptsetup-pwguess](https://github.com/Diverto/cryptsetup-pwguess) - Modified cryptsetup to enable password guessing - https://diverto.github.io/2019/11/18/Cracking-LUKS-passphrases
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [Undertone0809/3PG](https://github.com/Undertone0809/3PG) - 🚀Python Packages Project Generator-Your next Python package needs a bleeding-edge project structure.
@@ -2053,7 +2052,6 @@
 - [leandcesar/prisma-supabase-bytebase-example](https://github.com/leandcesar/prisma-supabase-bytebase-example) - A sample application showcasing the usage of Prisma Client Python, Supabase, and Bytebase.
 - [RobertCraigie/prismo](https://github.com/RobertCraigie/prismo) - The bot for the Prisma Python discord server
 - [44bananas/nanabot](https://github.com/44bananas/nanabot) - warframe snipe bot for wfm and rm
-- [Greek/robert](https://github.com/Greek/robert) - Discord bot made in Python and Nextcord.
 - [madebylydia/Vindex](https://github.com/madebylydia/Vindex) - Vindex is a Discord Bot made for DCS communities.
 - [Uzay-G/prisma.py](https://github.com/Uzay-G/prisma.py) - 
 - [crubier/prisma-client-py](https://github.com/crubier/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
@@ -3347,6 +3345,7 @@
 
 ## react-native 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## reactjs 
