@@ -1308,7 +1308,7 @@
 - [xtu/PlexPlugins](https://github.com/xtu/PlexPlugins) - A collection of plugins that are used by myself for Plex media server.
 - [squaresmile/Plex-Plug-Ins](https://github.com/squaresmile/Plex-Plug-Ins) - 
 - [l3uddz/plex_patrol](https://github.com/l3uddz/plex_patrol) - Monitor a plex server. Kick transcodes (audio or video or both), kick paused streams if not resumed within X minutes.  Kick specific player's, e.g. Plex Web
-- [Sleepingpirates/Invitarr](https://github.com/Sleepingpirates/Invitarr) - Plex Discord Bot to invite a user to a plex server
+- [faizyy01/Invitarr](https://github.com/faizyy01/Invitarr) - Plex Discord Bot to invite a user to a plex server
 - [jmichas/PlexTrainingVideoScannerAndAgent](https://github.com/jmichas/PlexTrainingVideoScannerAndAgent) - A Plex scanner and agent for training videos i.e. Pluralsight, Lynda.com, etc.
 - [iwalton3/plex-mpv-shim](https://github.com/iwalton3/plex-mpv-shim) - Cast media from Plex Mobile and Web apps to MPV. (Unofficial)
 - [barrycarey/Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) - Collects data about your Plex server and sends it to InfluxDB
