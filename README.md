@@ -583,7 +583,6 @@
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
 - [The24thDS/form2role-bot](https://github.com/The24thDS/form2role-bot) - Discord bot that automatically assigns roles to users found in a Google Sheet
 - [sixilli/googlesheets-discord-bot](https://github.com/sixilli/googlesheets-discord-bot) - A bot to track user submissions vai google sheets.
-- [Jay-Nepal/Discord-Message-to-Google-Sheets](https://github.com/Jay-Nepal/Discord-Message-to-Google-Sheets) - Simple bot to create a row on a Google Sheet with a message on Discord channel.
 - [Simpleboy353/SheetsBot](https://github.com/Simpleboy353/SheetsBot) - A discord bot that allows you to read, write and remove data from Google Sheets
 - [Kelo/Google-Sheets-to-Discord](https://github.com/Kelo/Google-Sheets-to-Discord) - Automatically send Google Sheet edits to your Discord!
 - [Plex-2-X/Plex2Discord](https://github.com/Plex-2-X/Plex2Discord) - A simple script that allows you to send Plex's webhooks events to your Discord server via a bot (I.E. New Content, Started Watching, Finished watching.)
@@ -761,6 +760,7 @@
 
 ## Others 
 
+- [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 - [motionelements/airtable-formulas](https://github.com/motionelements/airtable-formulas) - Formulas for airtable
 - [joeynotjoe/airtable-formulas](https://github.com/joeynotjoe/airtable-formulas) - A collection of Airtable formulas that I find useful.
@@ -1028,6 +1028,7 @@
 
 ## Python 
 
+- [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
@@ -1291,6 +1292,7 @@
 - [anisdzdev/nft-whitelist-bot](https://github.com/anisdzdev/nft-whitelist-bot) - Whitelisting bot for NFT projects
 - [tenjinlab/whitelistPy](https://github.com/tenjinlab/whitelistPy) - A discord bot to assist in recording wallet addresses for NFT drops.
 - [Zwivee/AttendanceBot](https://github.com/Zwivee/AttendanceBot) - Discord bot that will track reactions on messages and update Google Sheets spreadsheet with corresponding information.
+- [Jay-Nepal/Discord-Message-to-Google-Sheets](https://github.com/Jay-Nepal/Discord-Message-to-Google-Sheets) - Simple bot to create a row on a Google Sheet with a message on Discord channel.
 - [DionGR/Discord-Role-Manager](https://github.com/DionGR/Discord-Role-Manager) - A Discord BOT that uses Google Sheets for storing the roles and permissions of a discord server.
 - [thund3rsh0ck/Discord-GoogleSheets-bot](https://github.com/thund3rsh0ck/Discord-GoogleSheets-bot) - This is a bot that integrations google sheets with discord API. It was intended to track participation for a game called CATS for Android but could be used for anything
 - [hugonun/discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Discord bot that stores messages to Google Sheet.
@@ -1397,6 +1399,7 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [axsuul/plex-media-server-exporter](https://github.com/axsuul/plex-media-server-exporter) - A better Prometheus exporter for Plex Media Server
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
