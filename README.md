@@ -1959,7 +1959,7 @@
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
 - [AccessLint/accesslint.js](https://github.com/AccessLint/accesslint.js) - Keep accessibility errors in check.
-- [configu/configu](https://github.com/configu/configu) - a simple, modern, and secure standard for managing and collaborating software configurations ⚙️✨.
+- [configu/configu](https://github.com/configu/configu) - Open-source ConfigOps infrastructure ⚙️
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
