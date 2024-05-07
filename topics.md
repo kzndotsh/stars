@@ -481,7 +481,7 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [mxvish/arch-setup](https://github.com/mxvish/arch-setup) - Installer & setup script for Arch Linux in i3 on UEFI x86-64 pc
-- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately crafted for CLI lovers 🐧❤️
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
 - [scriptzteam/SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS) - Yo! Warez scene scriptz!
 - [arcadellama/plex-nowplaying](https://github.com/arcadellama/plex-nowplaying) - A CLI script to show the "Now Playing" status of your Plex Server.
@@ -1676,7 +1676,7 @@
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
-- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately crafted for CLI lovers 🐧❤️
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [wick3dr0se/arch-linux-installation-guide](https://github.com/wick3dr0se/arch-linux-installation-guide) - An easy to follow Arch Linux installation guide. This guide will show you how to properly install Arch Linux on UEFI/BIOS systems, ext4/btrfs file systems; using systemd-bootloader/GRUB and systemd-ne
 - [fkortsagin/Simple-ArchLinux-Install-Guide](https://github.com/fkortsagin/Simple-ArchLinux-Install-Guide) - Archlinux manual and automated simple installation  UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
 - [ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
@@ -1887,7 +1887,7 @@
 - [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
-- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately crafted for CLI lovers 🐧❤️
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) - Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇
@@ -3908,7 +3908,7 @@
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
 - [avivace/dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
-- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately crafted for CLI lovers 🐧❤️
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles for unix, managed by GNU stow.
 - [jayywolff/dotfiles](https://github.com/jayywolff/dotfiles) - Config files for Linux, i3-gaps, polybar, vim, tmux, zsh, alacritty, rofi & more
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
