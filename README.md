@@ -1627,7 +1627,7 @@
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately crafted for CLI lovers 🐧❤️
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [SkyyySi/dots-nordic](https://github.com/SkyyySi/dots-nordic) - My config files (using the Nordic theme)
 - [arcolinuxd/arco-i3](https://github.com/arcolinuxd/arco-i3) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
