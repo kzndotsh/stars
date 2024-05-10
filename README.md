@@ -64,6 +64,7 @@
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [YAML](#yaml)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -91,7 +92,6 @@
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [ifreund/dumb_runtime_dir](https://github.com/ifreund/dumb_runtime_dir) - Creates an XDG_RUNTIME_DIR on login and never removes it.
 - [ohno9119/picom-conf-gtk](https://github.com/ohno9119/picom-conf-gtk) - A graphical configuration tool for Picom.
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
 - [jafarlihi/connmap](https://github.com/jafarlihi/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
@@ -2039,6 +2039,10 @@
 
 - [peolic/stashdb_backlog_data](https://github.com/peolic/stashdb_backlog_data) - Data respository
 - [stashapp/CommunityScrapers](https://github.com/stashapp/CommunityScrapers) - This is a public repository containing scrapers created by the Stash Community.
+
+## Zig 
+
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
