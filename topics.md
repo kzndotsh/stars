@@ -57,6 +57,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -986,6 +987,98 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [binhex/documentation](https://github.com/binhex/documentation) - Documentation for software located in the binhex repositories.
 - [rtorrent-community/rtorrent-docs](https://github.com/rtorrent-community/rtorrent-docs) - “rTorrent Handbook” community project
+
+## dotfiles 
+
+- [Daru-san/Snowflake-dots](https://github.com/Daru-san/Snowflake-dots) - [Mirror] My beautiful, functional NixOS Hyprland and Sway configurations, written completely in Nix
+- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
+- [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
+- [fuku77/dotfiles](https://github.com/fuku77/dotfiles) - Collection of my custom configuration files.
+- [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux dotfiles (Manjaro KDE)
+- [rmandvikar/dotfiles](https://github.com/rmandvikar/dotfiles) - dotfiles, git hooks system (global, local hooks), utility shell scripts, configuration for HOME dir.
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
+- [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 my Personalized Development Environment [PDE]
+- [owpk/dotfiles-sway](https://github.com/owpk/dotfiles-sway) - MOVED TO https://github.com/owpk/dotfiles-swayfx
+- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix for my personal computer and my server. Mirror.
+- [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
+- [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
+- [Difrex/sway](https://github.com/Difrex/sway) - My Sway configuration
+- [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
+- [bastienwirtz/dotfiles](https://github.com/bastienwirtz/dotfiles) - Linux environment configuration files.
+- [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
+- [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
+- [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
+- [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
+- [r17x/nixpkgs](https://github.com/r17x/nixpkgs) - My "Home" 🏚 with Nix ❄️ ƛ
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
+- [aaronjanse/dotfiles](https://github.com/aaronjanse/dotfiles) - My dotfiles as a Nix flake
+- [matu3ba/dotfiles_skeleton](https://github.com/matu3ba/dotfiles_skeleton) - robust and beginner friendly dotfile skeleton
+- [AlexAegis/pont](https://github.com/AlexAegis/pont) - pont, the dotmodule manager
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
+- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
+- [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
+- [mscharley/dotfiles](https://github.com/mscharley/dotfiles) - This repository contains most of the dotfile settings I use regularly.
+- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+- [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
+- [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
+- [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
+- [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
+- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles
+- [w8ste/Tokyonight-rofi-theme](https://github.com/w8ste/Tokyonight-rofi-theme) - Simple and practical tokyonight theme for rofi
+- [aperum/dotfiles](https://github.com/aperum/dotfiles) - dotfiles i'm using
+- [FedericoAntoniazzi/dotfiles](https://github.com/FedericoAntoniazzi/dotfiles) - Personal dotfiles I use for Sway on my ArchLinux laptop and MacOS
+- [saloniamatteo/dotfiles](https://github.com/saloniamatteo/dotfiles) - Salonia Matteo's dotfiles (GNU/Linux configuration)
+- [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
+- [kzndotsh/dotfiles](https://github.com/kzndotsh/dotfiles) - There's no place like ~
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - My dotfiles.
+- [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
+- [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
+- [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
+- [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
+- [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
+- [stronk-dev/Tokyo-Night-Linux](https://github.com/stronk-dev/Tokyo-Night-Linux) - Dark theme for i3+polybar, sway+waybar, rofi, GTK, spotify and Discord based on the Tokyo Night vscode theme
+- [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
+- [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
+- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [Wabri/polybar-minimal-nord-theme](https://github.com/Wabri/polybar-minimal-nord-theme) - Minimal polybar nord theme configuration.
+- [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
+- [oknozor/toml-bombadil](https://github.com/oknozor/toml-bombadil) - A dotfile manager with templating
+- [Addvilz/dots](https://github.com/Addvilz/dots) - Completely automated desktop setup, configuration and maintenance using Ansible
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [CodeHeister/dotfiles](https://github.com/CodeHeister/dotfiles) - First rice for i3-gaps
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [vEnhance/dotfiles](https://github.com/vEnhance/dotfiles) - Dot files for Evan Chen (Arch Linux on i3)
+- [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
+- [dvragulin/dotfiles-public](https://github.com/dvragulin/dotfiles-public) - Personal Ansible roles for installing i3 on Arch Linux and applying my dotfiles.
+- [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
+- [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Config files for my setup
+- [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
+- [avivace/dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: hyprland/sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
+- [sudorook/archlinux](https://github.com/sudorook/archlinux) - Installation and post-installation scripts for Arch Linux.
+- [crispgm/arch-linux-dotfiles](https://github.com/crispgm/arch-linux-dotfiles) - dotfiles for Arch Linux
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
+- [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
+- [jayywolff/dotfiles](https://github.com/jayywolff/dotfiles) - Config files for Linux, i3-gaps, polybar, vim, tmux, zsh, alacritty, rofi & more
+- [Haardispro/Arch_Rice](https://github.com/Haardispro/Arch_Rice) - Dotfiles for my Arch Linux config
+- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
+- [snakypy/dotctrl](https://github.com/snakypy/dotctrl) - :snake: :package: :page_facing_up: Dotctrl is a package to control your dotfiles (and more) on Linux or macOS.
+- [HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) - Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇
+- [doron-cohen/antidot](https://github.com/doron-cohen/antidot) - Cleans up your $HOME from those pesky dotfiles
+- [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 
 ## dotnet 
 
@@ -2256,8 +2349,6 @@
 - [cyclic-software/starter-discord-bot](https://github.com/cyclic-software/starter-discord-bot) - 
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [owpk/dotfiles-sway](https://github.com/owpk/dotfiles-sway) - MOVED TO https://github.com/owpk/dotfiles-swayfx
-- [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix for my personal computer and my server. Mirror.
 - [toreylittlefield/my-custom-tailwind-resume](https://github.com/toreylittlefield/my-custom-tailwind-resume) - My Custom Tailwind Resume
 - [Blank-Cheque/Slurs](https://github.com/Blank-Cheque/Slurs) - Regex slur detectors for automod
 - [BREN0sx/discord-automod-words](https://github.com/BREN0sx/discord-automod-words) - Complete list of bad words to block through Discord's Automod
@@ -2298,7 +2389,6 @@
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
 - [luispabon/sway-dotfiles](https://github.com/luispabon/sway-dotfiles) - My sway desktop config and setup scripts
-- [bastienwirtz/dotfiles](https://github.com/bastienwirtz/dotfiles) - Linux environment configuration files.
 - [rharish101/ReGreet](https://github.com/rharish101/ReGreet) - Clean and customizable greeter for greetd
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [cometkim/asdf-bun](https://github.com/cometkim/asdf-bun) - asdf-vm plugin for installing Bun
@@ -2361,7 +2451,6 @@
 - [NixOS/nixos-artwork](https://github.com/NixOS/nixos-artwork) - Nix related artwork
 - [nix-gui/nix-gui](https://github.com/nix-gui/nix-gui) - Use NixOS Without Coding
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
-- [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers
@@ -2369,18 +2458,12 @@
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [malleguisse/node-jdownloader-api](https://github.com/malleguisse/node-jdownloader-api) - A node wrapper module for My.Jdownloader.org API
 - [grimsleydl/kagayaki](https://github.com/grimsleydl/kagayaki) - Kagayaki font configuration for Archlinux (infinality)
-- [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
 - [Arkham/dotfiles.nix](https://github.com/Arkham/dotfiles.nix) - Dotfiles super-powered by Nix and home-manager
 - [nix-community/dconf2nix](https://github.com/nix-community/dconf2nix) - :feet: Convert dconf files (e.g. GNOME Shell) to Nix, as expected by Home Manager [maintainer=@jtojnar]
-- [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
 - [juspay/nix-dev-home](https://github.com/juspay/nix-dev-home) - A `home-manager` template providing useful tools & settings for Nix-based development (macOS & Linux supported)
-- [r17x/nixpkgs](https://github.com/r17x/nixpkgs) - My "Home" 🏚 with Nix ❄️ ƛ
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [coreyoconnor/nix_configs](https://github.com/coreyoconnor/nix_configs) - The NixOS configuration for my desktop.
-- [aaronjanse/dotfiles](https://github.com/aaronjanse/dotfiles) - My dotfiles as a Nix flake
 - [Panadestein/nixos-config](https://github.com/Panadestein/nixos-config) - A minimalist NixOS config
 - [intentionally-left-nil/systemd-boot-lifeboat](https://github.com/intentionally-left-nil/systemd-boot-lifeboat) - Keep old bootloader images around
-- [AlexAegis/pont](https://github.com/AlexAegis/pont) - pont, the dotmodule manager
 - [Ventto/pug](https://github.com/Ventto/pug) - Automatically Gist-synchronises Pacman & AUR installed package lists.
 - [alerque/etckeeper-packages](https://github.com/alerque/etckeeper-packages) - Track installed packages in etckeeper (alternative to pug and pacmanity)
 - [tylerjl/overdue](https://github.com/tylerjl/overdue) - Get notified about running daemons that reference outdated shared libraries.
@@ -2407,10 +2490,8 @@
 - [dracutdevs/dracut](https://github.com/dracutdevs/dracut) - dracut the event driven initramfs infrastructure
 - [kzndotsh/bloom](https://github.com/kzndotsh/bloom) - Personal Bloom Tech projects and course work.
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [schuelermine/xhmm](https://github.com/schuelermine/xhmm) - Extra home manager modules
-- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [nix-community/nix-unit](https://github.com/nix-community/nix-unit) - Unit testing for Nix code [maintainer=@adisbladis]
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
@@ -2440,7 +2521,6 @@
 - [brutasse/dotfiles](https://github.com/brutasse/dotfiles) - My dotfiles, now under version control
 - [blueyed/dotfiles](https://github.com/blueyed/dotfiles) - My dotfiles (Zsh / Vim / Neovim / Git / scripts) - (not much in sync / outdated)
 - [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
-- [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [chrissicool/zsh-256color](https://github.com/chrissicool/zsh-256color) - ZSH plugin to enhance the terminal environment with 256 colors
@@ -2459,7 +2539,6 @@
 - [graysky2/bin](https://github.com/graysky2/bin) - Collection of scripts perhaps of utility to others.
 - [graysky2/anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
-- [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [ArchItalia/clean](https://github.com/ArchItalia/clean) - Clean easy command for arch linux
 - [kitsunebishi/Wallpapers](https://github.com/kitsunebishi/Wallpapers) - a collection of my best wallpapers
 - [FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers) - My personal Pick of wallpapers
@@ -2488,10 +2567,7 @@
 - [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [kevin-nel/tokyo-night-tilix-black-box-theme](https://github.com/kevin-nel/tokyo-night-tilix-black-box-theme) - tokyo night theme for Tilix/Black Box
 - [wojciech-zurek/mattermost-tokyo-night-theme](https://github.com/wojciech-zurek/mattermost-tokyo-night-theme) - Tokyo Night theme for Mattermost
-- [w8ste/Tokyonight-rofi-theme](https://github.com/w8ste/Tokyonight-rofi-theme) - Simple and practical tokyonight theme for rofi
 - [logan-connolly/tokyonight-gtk](https://github.com/logan-connolly/tokyonight-gtk) - 🎨 Tokyonight theme for gtk (created with oomox)
-- [aperum/dotfiles](https://github.com/aperum/dotfiles) - dotfiles i'm using
-- [FedericoAntoniazzi/dotfiles](https://github.com/FedericoAntoniazzi/dotfiles) - Personal dotfiles I use for Sway on my ArchLinux laptop and MacOS
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [pokedotdev/tokyo-night-insomnia](https://github.com/pokedotdev/tokyo-night-insomnia) - Tokyo Night theme for Insomnia
 - [laggy-tux/tokyo-night-openbox](https://github.com/laggy-tux/tokyo-night-openbox) - personal tokyo night theming
@@ -2501,15 +2577,12 @@
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [wojciech-zurek/ncspot-tokyo-night-theme](https://github.com/wojciech-zurek/ncspot-tokyo-night-theme) - Tokyo Night ncspot Theme
 - [slashedzer0/homepage](https://github.com/slashedzer0/homepage) - Custom homepage for use locally in browser
-- [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [kevin-nel/tokyo-night-kicad-theme](https://github.com/kevin-nel/tokyo-night-kicad-theme) - A clean Kicad schematic editor (eeschema) theme that celebrates the lights of Downtown Tokyo at night.
 - [kevin-nel/tokyo-night-gtksourceview](https://github.com/kevin-nel/tokyo-night-gtksourceview) - tokyo night colorscheme for gtksourceview5 applications  (gnome text editor, gedit, builder)
 - [modulize-org/email](https://github.com/modulize-org/email) - Copy and paste email templates built with React Email
 - [dramforever/scratchix](https://github.com/dramforever/scratchix) - Linux From Scratch, but it's Nix
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
 - [sheenobu/nix-lfs](https://github.com/sheenobu/nix-lfs) - A workthrough of LinuxFromScratch stable using nix.
-- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
-- [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [claytron/dotfiles](https://github.com/claytron/dotfiles) - My *nix confs
 - [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
@@ -2654,19 +2727,14 @@
 - [hrqmonteiro/i3](https://github.com/hrqmonteiro/i3) - i3, polybar, dunst dotfiles
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
-- [vEnhance/dotfiles](https://github.com/vEnhance/dotfiles) - Dot files for Evan Chen (Arch Linux on i3)
-- [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [dracula/i3](https://github.com/dracula/i3) - 🧛🏻‍♂️ Dark theme for i3
 - [endeavouros-team/endeavouros-i3wm-setup](https://github.com/endeavouros-team/endeavouros-i3wm-setup) - The beloved  EndeavourOS default i3 (has gaps) theme and setup dotfile repo
-- [dvragulin/dotfiles-public](https://github.com/dvragulin/dotfiles-public) - Personal Ansible roles for installing i3 on Arch Linux and applying my dotfiles.
 - [SometimesSquishy/i3installscript](https://github.com/SometimesSquishy/i3installscript) - Auto install script for my i3 config
 - [s3rius/i3wm-autoConfig](https://github.com/s3rius/i3wm-autoConfig) - Repository contains script to install i3wm with modded simple configuration
 - [erikdubois/Archi3](https://github.com/erikdubois/Archi3) - Automated script to install i3 and all its programs on Arch Linux
 - [heckelson/i3-and-kde-plasma](https://github.com/heckelson/i3-and-kde-plasma) - How to install the i3 window manager on KDE
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [jafarlihi/connmap](https://github.com/jafarlihi/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
-- [Manas140/dotfiles](https://github.com/Manas140/dotfiles) - Config files for my setup
-- [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [SkyyySi/dots-nordic](https://github.com/SkyyySi/dots-nordic) - My config files (using the Nordic theme)
@@ -2702,7 +2770,6 @@
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [L4GSP1KE/Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - 
 - [XxAcielxX/arch-plasma-install](https://github.com/XxAcielxX/arch-plasma-install) - Minimal Arch Installation with KDE Plasma Desktop from scratch.
-- [crispgm/arch-linux-dotfiles](https://github.com/crispgm/arch-linux-dotfiles) - dotfiles for Arch Linux
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 - [TheCaptain989/lidarr-flac2mp3](https://github.com/TheCaptain989/lidarr-flac2mp3) - A Docker Mod to Lidarr to automatically convert FLAC files to MP3s, or other format
 - [snoofox/MegaLinkChecker.py](https://github.com/snoofox/MegaLinkChecker.py) - Python based tool to check if mega.nz shared link is dead or not
