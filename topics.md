@@ -288,7 +288,6 @@
 
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
-- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 my Personalized Development Environment [PDE]
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [leomeinel/arch-install](https://github.com/leomeinel/arch-install) - My personal Arch Linux install script using LUKS2 encryption, LVM and btrfs with optional RAID1.
@@ -662,7 +661,7 @@
 ## config 
 
 - [fuku77/dotfiles](https://github.com/fuku77/dotfiles) - Collection of my custom configuration files.
-- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 my Personalized Development Environment [PDE]
 - [Difrex/sway](https://github.com/Difrex/sway) - My Sway configuration
 - [nickcorin/dotfiles](https://github.com/nickcorin/dotfiles) - Configuration files for my personal development environment
@@ -996,7 +995,7 @@
 - [fuku77/dotfiles](https://github.com/fuku77/dotfiles) - Collection of my custom configuration files.
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux dotfiles (Manjaro KDE)
 - [rmandvikar/dotfiles](https://github.com/rmandvikar/dotfiles) - dotfiles, git hooks system (global, local hooks), utility shell scripts, configuration for HOME dir.
-- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 my Personalized Development Environment [PDE]
 - [owpk/dotfiles-sway](https://github.com/owpk/dotfiles-sway) - MOVED TO https://github.com/owpk/dotfiles-swayfx
 - [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix for my personal computer and my server. Mirror.
@@ -1195,7 +1194,7 @@
 
 ## font 
 
-- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [gaplo917/Ligatured-Hack](https://github.com/gaplo917/Ligatured-Hack) - Automatically patch latest Hack Font with latest JetBrains Mono / FiraCode Ligatures
 
 ## framework 
@@ -1714,7 +1713,6 @@
 - [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux dotfiles (Manjaro KDE)
-- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 my Personalized Development Environment [PDE]
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
@@ -1847,6 +1845,7 @@
 ## macos 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [mscharley/dotfiles](https://github.com/mscharley/dotfiles) - This repository contains most of the dotfile settings I use regularly.
 - [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
@@ -1952,7 +1951,7 @@
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [handshou/init.lua](https://github.com/handshou/init.lua) - My Neovim config heavily inspired by @ThePrimeagen.
-- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 my Personalized Development Environment [PDE]
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
@@ -3959,7 +3958,7 @@
 ## vim 
 
 - [codingpaula/vim-tokyonight](https://github.com/codingpaula/vim-tokyonight) - WIP - colorscheme for vim - port of vs code theme tokyo night
-- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - My arch setup script and dotfiles
+- [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
 - [nickcorin/dotfiles](https://github.com/nickcorin/dotfiles) - Configuration files for my personal development environment
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
