@@ -1386,7 +1386,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [alejandronanez/turborepo-nextjs-starter](https://github.com/alejandronanez/turborepo-nextjs-starter) - Turborepo + Next.js + TailwindCSS + TypeScript + Prettier + ESLint template to hit the ground running.
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
@@ -2247,6 +2246,7 @@
 - [carvethedegen/djs-14-framework](https://github.com/carvethedegen/djs-14-framework) - A DiscordJS framework created to help developers create bots quickly and efficiently.
 - [nonchris/discord-bot](https://github.com/nonchris/discord-bot) - Generic bot to start with based on discord.py
 - [kzndotsh/stars](https://github.com/kzndotsh/stars) - 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [get-convex/turbo-expo-nextjs-clerk-convex-monorepo](https://github.com/get-convex/turbo-expo-nextjs-clerk-convex-monorepo) - Monorepo template with Turborepo, Next.js, Expo, Clerk, Convex
 - [t3dotgg/yerba](https://github.com/t3dotgg/yerba) - Electron Turborepo monorepo with Next.js, Typescript, Vite and more
 - [leoroese/turborepo-tutorial](https://github.com/leoroese/turborepo-tutorial) - Turborepo monorepo tutorial
@@ -2639,7 +2639,7 @@
 - [htmlfriendly/head](https://github.com/htmlfriendly/head) - Boilerplate &lt;head&gt; section for use on your own website, webpages, and articles.
 - [Luxe-Quality/restAPI_jest_axios_boilerplate](https://github.com/Luxe-Quality/restAPI_jest_axios_boilerplate) - This boilerplate can be used in any node app to automate test coverage related to functionality, integration and validation responses against openapi schema.
 - [danielsampar12/nestjs-prisma-graphql-boilerplate](https://github.com/danielsampar12/nestjs-prisma-graphql-boilerplate) - A NestJs integration between GrahpQL and Prisma, generating automatically GraphQL Schemas and CRUD resolvers based on Prisma Models
-- [Mohammadkhalil007/Mern-with-boilerplate](https://github.com/Mohammadkhalil007/Mern-with-boilerplate) - Basic MVC Architecture with one post and get api with one mongoose schema
+- [MuhammadKhalil531/Mern-with-boilerplate](https://github.com/MuhammadKhalil531/Mern-with-boilerplate) - Basic MVC Architecture with one post and get api with one mongoose schema
 - [meetzaveri/node-api-boilerplate](https://github.com/meetzaveri/node-api-boilerplate) - A Node API boilerplate including CRUD operations based on MongoDB schema. Used mLab for MongoDB deployment.
 - [GabenGar/nextjs-boilerplate](https://github.com/GabenGar/nextjs-boilerplate) - Boilerplate repo for NextJS with typescript, eslint, prettier, sass,  pre-commit hooks, postgresql and json schemas
 - [xue2sheng/boilerplateCodeDoc](https://github.com/xue2sheng/boilerplateCodeDoc) - Humble attempt to dissociate Backend generated data/schemas from friendly user Frontend formats
