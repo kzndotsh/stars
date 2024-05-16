@@ -527,7 +527,7 @@
 - [RileCraft/DiscordBot-Template](https://github.com/RileCraft/DiscordBot-Template) - A bot template with command , event , button , selectmenus , slashcommands handler and error handlers. Made in Discord.JS V14
 - [Luxe-Quality/restAPI_jest_axios_boilerplate](https://github.com/Luxe-Quality/restAPI_jest_axios_boilerplate) - This boilerplate can be used in any node app to automate test coverage related to functionality, integration and validation responses against openapi schema.
 - [Akhileshpm/NodeJS-BoilerPlate-CRUD-JWT-MONGOOSE](https://github.com/Akhileshpm/NodeJS-BoilerPlate-CRUD-JWT-MONGOOSE) - This a nodejs application boilerplate containing CRUD APIs , mongodb schema , and JWT authentication
-- [Mohammadkhalil007/Mern-with-boilerplate](https://github.com/Mohammadkhalil007/Mern-with-boilerplate) - Basic MVC Architecture with one post and get api with one mongoose schema
+- [MuhammadKhalil531/Mern-with-boilerplate](https://github.com/MuhammadKhalil531/Mern-with-boilerplate) - Basic MVC Architecture with one post and get api with one mongoose schema
 - [meetzaveri/node-api-boilerplate](https://github.com/meetzaveri/node-api-boilerplate) - A Node API boilerplate including CRUD operations based on MongoDB schema. Used mLab for MongoDB deployment.
 - [a-tonchev/rest-api-boilerplate](https://github.com/a-tonchev/rest-api-boilerplate) - Boilerplate for Rest API with authentication, based on KOA and mongodb driver with JSON Schema validation (which is native for mongo)
 - [shaantanu9/express-schema-generator](https://github.com/shaantanu9/express-schema-generator) - Package to Create the Express+Mongoose MVC Patterned BoilerPlate. Get ReadyMade Models Schema Controllers to create Scalable Servers. To Implement DRY Concept, I created this package that Create Expre
@@ -1825,7 +1825,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic discord framework 🧙‍♂️
 - [tim-smart/dfx](https://github.com/tim-smart/dfx) - A Discord library for effect-ts
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [plutomi/plutomi](https://github.com/plutomi/plutomi) - Applicant Management at Any Scale. Currently undergoing maintenance! :D
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
