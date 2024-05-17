@@ -1964,7 +1964,7 @@
 - [configu/configu](https://github.com/configu/configu) - Open-source ConfigOps infrastructure ⚙️
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
+- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [danielsampar12/nestjs-prisma-graphql-boilerplate](https://github.com/danielsampar12/nestjs-prisma-graphql-boilerplate) - A NestJs integration between GrahpQL and Prisma, generating automatically GraphQL Schemas and CRUD resolvers based on Prisma Models
 - [GabenGar/nextjs-boilerplate](https://github.com/GabenGar/nextjs-boilerplate) - Boilerplate repo for NextJS with typescript, eslint, prettier, sass,  pre-commit hooks, postgresql and json schemas
 - [tuanlc/express-prisma-postgresql-boilerplate](https://github.com/tuanlc/express-prisma-postgresql-boilerplate) - This boilerplate follows clean architecture with SOLID principles. This sample define a simple user schema and handle two endpoints that allows users to create new accounts and login by them. There is
