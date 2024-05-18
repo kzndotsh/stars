@@ -707,7 +707,7 @@
 
 ## Nix 
 
-- [Daru-san/Snowflake-dots](https://github.com/Daru-san/Snowflake-dots) - [Mirror] My beautiful, functional NixOS Hyprland and Sway configurations, written completely in Nix
+- [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS Hyprland configuration
 - [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix for my personal computer and my server. Mirror.
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
@@ -1646,7 +1646,7 @@
 - [deepbsd/Archtail](https://github.com/deepbsd/Archtail) - A simple Arch linux installer using whiptail.
 - [deepbsd/darchi](https://github.com/deepbsd/darchi) - Dave's Arch Installer
 - [deepbsd/Farchi](https://github.com/deepbsd/Farchi) - Fast Arch Installer
-- [santiagogonzalez-dev/managing-linux](https://github.com/santiagogonzalez-dev/managing-linux) - Shell scripts to install and configure Linux
+- [santi-webdev/managing-linux](https://github.com/santi-webdev/managing-linux) - Shell scripts to install and configure Linux
 - [johnynfulleffect/ArchMatic](https://github.com/johnynfulleffect/ArchMatic) - Arch Linux post-installation setup and config scripts
 - [classy-giraffe/easy-arch](https://github.com/classy-giraffe/easy-arch) - Script for boostrapping Arch Linux with BTRFS, snapshots and LUKS encryption (UEFI only).
 - [rickellis/ArchMatic](https://github.com/rickellis/ArchMatic) - Arch Linux post-installation setup and config scripts
