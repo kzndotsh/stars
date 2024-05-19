@@ -2208,7 +2208,7 @@
 - [UnlyEd/airtable-utils](https://github.com/UnlyEd/airtable-utils) - Airtable utilities for formulas, scripts, with proper examples
 - [Diverto/cryptsetup-pwguess](https://github.com/Diverto/cryptsetup-pwguess) - Modified cryptsetup to enable password guessing - https://diverto.github.io/2019/11/18/Cracking-LUKS-passphrases
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
-- [Undertone0809/3PG](https://github.com/Undertone0809/3PG) - 🚀Python Packages Project Generator-Your next Python package needs a bleeding-edge project structure.
+- [Undertone0809/P3G](https://github.com/Undertone0809/P3G) - 🚀Python Packages Project Generator-Your next Python package needs a bleeding-edge project structure.
 - [kornicameister/loguru-mypy](https://github.com/kornicameister/loguru-mypy) - mypy plugin for loguru
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - 
 - [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
