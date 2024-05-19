@@ -1035,7 +1035,7 @@
 - [0art-vandelay0/Airtable-Formulas](https://github.com/0art-vandelay0/Airtable-Formulas) - 
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
-- [Undertone0809/3PG](https://github.com/Undertone0809/3PG) - 🚀Python Packages Project Generator-Your next Python package needs a bleeding-edge project structure.
+- [Undertone0809/P3G](https://github.com/Undertone0809/P3G) - 🚀Python Packages Project Generator-Your next Python package needs a bleeding-edge project structure.
 - [kornicameister/loguru-mypy](https://github.com/kornicameister/loguru-mypy) - mypy plugin for loguru
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - 
