@@ -593,6 +593,7 @@
 
 ## cli 
 
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
@@ -3576,6 +3577,7 @@
 
 ## rust 
 
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [ycjcl868/monorepo](https://github.com/ycjcl868/monorepo) - Monorepo with pnpm and turborepo, deploying into Vercel.
