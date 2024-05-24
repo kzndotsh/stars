@@ -1684,7 +1684,6 @@
 - [BrettSheleski/plex-scripts](https://github.com/BrettSheleski/plex-scripts) - Various scripts for working with plex
 - [parker-hemphill/PlexScripts](https://github.com/parker-hemphill/PlexScripts) - Collection of scripts for automating media conversion and renaming for import into Plex Media Server
 - [carloscheddar/plex_scripts](https://github.com/carloscheddar/plex_scripts) - Scripts for installing, updating and restarting a Plex server in a non-root debian-based server.
-- [clusterbox/scripts](https://github.com/clusterbox/scripts) - Combine Organizr, Obmi, Plex, PlexPy, PlexDrive, Sonarr, Radarr, Nzbget, Transmission, Jackett, NZBHydra, Log.io, Netdata, Portainer, Duplicati, and OwnCloud
 - [brent-holden/plex-systemd](https://github.com/brent-holden/plex-systemd) - Scripts I used to setup Plex and associated services. Tested working on CentOS 7/8
 - [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
 - [alaq/plex-gdrive-script-collection](https://github.com/alaq/plex-gdrive-script-collection) - a collection of scripts to maintain a server running rtorrent, autodl-irssi, sonarr, radarr, rclone upload to Google Drive, plexdrive, Plex, plexpy and Ombi
