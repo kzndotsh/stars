@@ -81,7 +81,7 @@
 ## Batchfile 
 
 - [matthiasxc/PlexClassicCartoons](https://github.com/matthiasxc/PlexClassicCartoons) - Scripts for organizing collections of classic cartoons (Disney, Looney Tunes) properly into Plex
-- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Plex Meta Manager
+- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
 
 ## C 
 
