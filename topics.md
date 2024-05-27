@@ -3056,7 +3056,7 @@
 - [88lex/README-template.md](https://github.com/88lex/README-template.md) - A README template for anyone to copy and use.
 - [88lex/safire](https://github.com/88lex/safire) - 
 - [mza921/Plex-Auto-Collections](https://github.com/mza921/Plex-Auto-Collections) - Python 3 script to automatically update Plex collections based off a configuration file
-- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Plex Meta Manager
+- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
 - [maximuskowalski/smount](https://github.com/maximuskowalski/smount) - A sharedrive mounter.
 - [seanap/Auto-M4B-Tool](https://github.com/seanap/Auto-M4B-Tool) - Script to automate using m4b-tool to convert recently added mp3 audiobook folders to a single chapterized m4b.
 - [BinsonBuzz/unraid_rclone_mount](https://github.com/BinsonBuzz/unraid_rclone_mount) - scripts to create rclone mounts on gdrive
