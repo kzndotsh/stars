@@ -2543,7 +2543,7 @@
 - [kitsunebishi/Wallpapers](https://github.com/kitsunebishi/Wallpapers) - a collection of my best wallpapers
 - [FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers) - My personal Pick of wallpapers
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
-- [ohno9119/picom-conf-gtk](https://github.com/ohno9119/picom-conf-gtk) - A graphical configuration tool for Picom.
+- [jcontoso/picom-conf-gtk](https://github.com/jcontoso/picom-conf-gtk) - A graphical configuration tool for Picom.
 - [dlcastillop/final-countdown-js](https://github.com/dlcastillop/final-countdown-js) - A library of React hooks to manage counters, timers and stopwatches.
 - [ZvonimirKucis/conky](https://github.com/ZvonimirKucis/conky) - Simple Conky configuration for my desktop PC
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
