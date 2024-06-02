@@ -537,7 +537,7 @@
 - [skyra-project/skyra](https://github.com/skyra-project/skyra) - A multipurpose Discord Bot designed to carry out most of your server's needs with great performance and stability.
 - [codesupport/discord-bot](https://github.com/codesupport/discord-bot) - The CodeSupport Discord Bot
 - [DevSkyOne/Drops](https://github.com/DevSkyOne/Drops) - A bot to drop gifts to your community. Highly customizable and automatable. (soon)
-- [Sly0511/TroveBot](https://github.com/Sly0511/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
+- [AallynDev/TroveBot](https://github.com/AallynDev/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
 - [TeamAutoMod/AutoMod](https://github.com/TeamAutoMod/AutoMod) - Discord Moderation Bot
 - [onesoft-sudo/sudobot](https://github.com/onesoft-sudo/sudobot) - A Discord Bot for moderation purposes.
 - [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
@@ -851,7 +851,7 @@
 - [skyra-project/skyra](https://github.com/skyra-project/skyra) - A multipurpose Discord Bot designed to carry out most of your server's needs with great performance and stability.
 - [codesupport/discord-bot](https://github.com/codesupport/discord-bot) - The CodeSupport Discord Bot
 - [aronson/discord-irc](https://github.com/aronson/discord-irc) - Connects Discord and IRC channels by sending messages back and forth.
-- [Sly0511/TroveBot](https://github.com/Sly0511/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
+- [AallynDev/TroveBot](https://github.com/AallynDev/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
 - [Voxel-Fox-Ltd/Profile](https://github.com/Voxel-Fox-Ltd/Profile) - A Discord bot for storing profiles, characters, and other user information in an easy and modular way.
 - [Defxult/reactionmenu](https://github.com/Defxult/reactionmenu) - A library to create a discord.py 2.0+ paginator. Supports pagination with buttons, reactions, and category selection using selects.
 - [MelisaDev/melisa](https://github.com/MelisaDev/melisa) - MelisaPy is a cache-optimized Discord microframework for Python 3
