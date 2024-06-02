@@ -673,6 +673,7 @@
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [Vonr/align.nvim](https://github.com/Vonr/align.nvim) - A minimal plugin for NeoVim for aligning lines
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
+- [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [Yolo390/Tokyonight-fade.nvim](https://github.com/Yolo390/Tokyonight-fade.nvim) - WIP - Fade inactive buffers when you use Tokyonight storm theme with NeoVim
 - [aperum/dotfiles](https://github.com/aperum/dotfiles) - dotfiles i'm using
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
@@ -1101,7 +1102,7 @@
 - [engineer-man/felix](https://github.com/engineer-man/felix) - Felix Discord Bot
 - [schlopp/ppbot](https://github.com/schlopp/ppbot) - 
 - [DevSkyOne/Drops](https://github.com/DevSkyOne/Drops) - A bot to drop gifts to your community. Highly customizable and automatable. (soon)
-- [Sly0511/TroveBot](https://github.com/Sly0511/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
+- [AallynDev/TroveBot](https://github.com/AallynDev/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
 - [Voxel-Fox-Ltd/Profile](https://github.com/Voxel-Fox-Ltd/Profile) - A Discord bot for storing profiles, characters, and other user information in an easy and modular way.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [MikeyUsersREC/ERM](https://github.com/MikeyUsersREC/ERM) - A discord bot primarily focused on improving the Roblox staff experience.
@@ -1570,7 +1571,6 @@
 - [FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers) - My personal Pick of wallpapers
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [blue-build/legacy-template](https://github.com/blue-build/legacy-template) - Starting point for making your own OS image
-- [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [ray-pH/polybar-cava](https://github.com/ray-pH/polybar-cava) - CAVA module for polybar
