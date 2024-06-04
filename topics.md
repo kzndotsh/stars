@@ -1012,7 +1012,7 @@
 - [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
-- [r17x/nixpkgs](https://github.com/r17x/nixpkgs) - My "Home" 🏚 with Nix ❄️ ƛ
+- [r17x/universe](https://github.com/r17x/universe) - my development universe ❄️ ƛ
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [aaronjanse/dotfiles](https://github.com/aaronjanse/dotfiles) - My dotfiles as a Nix flake
 - [matu3ba/dotfiles_skeleton](https://github.com/matu3ba/dotfiles_skeleton) - robust and beginner friendly dotfile skeleton
@@ -1723,6 +1723,7 @@
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+- [r17x/universe](https://github.com/r17x/universe) - my development universe ❄️ ƛ
 - [leomeinel/arch-install](https://github.com/leomeinel/arch-install) - My personal Arch Linux install script using LUKS2 encryption, LVM and btrfs with optional RAID1.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
