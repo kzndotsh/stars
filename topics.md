@@ -906,6 +906,7 @@
 
 ## docker 
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
@@ -1658,6 +1659,7 @@
 
 ## kubernetes 
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -2750,7 +2752,7 @@
 - [deepbsd/Archtail](https://github.com/deepbsd/Archtail) - A simple Arch linux installer using whiptail.
 - [deepbsd/darchi](https://github.com/deepbsd/darchi) - Dave's Arch Installer
 - [deepbsd/Farchi](https://github.com/deepbsd/Farchi) - Fast Arch Installer
-- [santi-webdev/managing-linux](https://github.com/santi-webdev/managing-linux) - Shell scripts to install and configure Linux
+- [santiago-webdev/managing-linux](https://github.com/santiago-webdev/managing-linux) - Shell scripts to install and configure Linux
 - [johnynfulleffect/ArchMatic](https://github.com/johnynfulleffect/ArchMatic) - Arch Linux post-installation setup and config scripts
 - [rickellis/ArchMatic](https://github.com/rickellis/ArchMatic) - Arch Linux post-installation setup and config scripts
 - [performanize/boilerHTML](https://github.com/performanize/boilerHTML) - A very extensive HTML5 boilerplate
