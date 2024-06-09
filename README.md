@@ -1466,6 +1466,7 @@
 
 ## Shell 
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -1646,7 +1647,7 @@
 - [deepbsd/Archtail](https://github.com/deepbsd/Archtail) - A simple Arch linux installer using whiptail.
 - [deepbsd/darchi](https://github.com/deepbsd/darchi) - Dave's Arch Installer
 - [deepbsd/Farchi](https://github.com/deepbsd/Farchi) - Fast Arch Installer
-- [santi-webdev/managing-linux](https://github.com/santi-webdev/managing-linux) - Shell scripts to install and configure Linux
+- [santiago-webdev/managing-linux](https://github.com/santiago-webdev/managing-linux) - Shell scripts to install and configure Linux
 - [johnynfulleffect/ArchMatic](https://github.com/johnynfulleffect/ArchMatic) - Arch Linux post-installation setup and config scripts
 - [classy-giraffe/easy-arch](https://github.com/classy-giraffe/easy-arch) - Script for boostrapping Arch Linux with BTRFS, snapshots and LUKS encryption (UEFI only).
 - [rickellis/ArchMatic](https://github.com/rickellis/ArchMatic) - Arch Linux post-installation setup and config scripts
