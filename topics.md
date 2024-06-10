@@ -2195,6 +2195,7 @@
 
 ## others 
 
+- [CanastaWiki/Canasta-DockerCompose](https://github.com/CanastaWiki/Canasta-DockerCompose) - Docker Compose stack template for Canasta
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
@@ -2263,7 +2264,7 @@
 - [allthingslinux/code-of-conduct](https://github.com/allthingslinux/code-of-conduct) - Code of Conduct for All Things Linux
 - [lucioew28/extends](https://github.com/lucioew28/extends) - 
 - [ishaan1013/thr](https://github.com/ishaan1013/thr) - Web remake of Meta's Threads (built before the official web version released)
-- [Railly/shadcn-ui-customizer](https://github.com/Railly/shadcn-ui-customizer) - POC - shadcn/ui themes with color pickers
+- [Railly/shadcn-ui-customizer](https://github.com/Railly/shadcn-ui-customizer) - shadcn/ui themes with color pickers
 - [k8ieone/srht-docker](https://github.com/k8ieone/srht-docker) - Pre-built Sourcehut containers
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
