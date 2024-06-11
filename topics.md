@@ -993,7 +993,7 @@
 
 ## dotfiles 
 
-- [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS Hyprland configuration
+- [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [fuku77/dotfiles](https://github.com/fuku77/dotfiles) - Collection of my custom configuration files.
@@ -1710,7 +1710,7 @@
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS Hyprland configuration
+- [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [micro-hawk/awesomight](https://github.com/micro-hawk/awesomight) - Enhance your Linux desktop with my Awesome Window Manager config. Customize key bindings, themes, and widgets to manage multiple windows and workspaces efficiently. Check it out now!
 - [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
