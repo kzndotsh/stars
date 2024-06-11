@@ -708,7 +708,7 @@
 
 ## Nix 
 
-- [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS Hyprland configuration
+- [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form. Nix for my personal computer and my server. Mirror.
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
@@ -874,7 +874,6 @@
 - [josh-jacobson/bloomtech-acs-lecture-notes](https://github.com/josh-jacobson/bloomtech-acs-lecture-notes) - Lecture notes for Applied Computer Science
 - [ljmill/tokyo-night-icons](https://github.com/ljmill/tokyo-night-icons) - Beautiful icons themed in Tokyo Night
 - [zatchheems/tokyo-night-alacritty-theme](https://github.com/zatchheems/tokyo-night-alacritty-theme) - A slick dark theme for Alacritty based on the Tokyo Night VS Code theme and ported from the Vim theme of the same name.
-- [Fausto-Korpsvart/Tokyo-Night-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) - A GTK theme based on the Tokyo Night colour palette.
 - [mnestorov/wp-snippets](https://github.com/mnestorov/wp-snippets) - A compilation of WordPress / WooCommerce code snippets and functions for developers who wants to create their own themes.
 - [mnestorov/wp-acf-snippets](https://github.com/mnestorov/wp-acf-snippets) - A compilation of WordPress ACF plugin snippets and functions for developers who wants to create their own themes.
 - [HuyKira/HK-Wordpress-Snippets](https://github.com/HuyKira/HK-Wordpress-Snippets) - Wordpress snippets by Huy Kira
@@ -1455,6 +1454,7 @@
 
 - [logan-connolly/tokyonight-gtk](https://github.com/logan-connolly/tokyonight-gtk) - 🎨 Tokyonight theme for gtk (created with oomox)
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
+- [Fausto-Korpsvart/Tokyo-Night-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme) - A GTK theme based on the Tokyo Night colour palette.
 - [pannal/Kitana](https://github.com/pannal/Kitana) - A responsive Plex plugin web frontend
 - [stashapp/StashDB-Docs](https://github.com/stashapp/StashDB-Docs) - The documentation partially maintained by the community for the StashBoxAPI
 - [AdultSun/StashDB-Guidelines-Beta](https://github.com/AdultSun/StashDB-Guidelines-Beta) - Testing new guidelines docs using GH Pages
