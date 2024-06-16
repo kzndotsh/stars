@@ -226,7 +226,6 @@
 ## analytics 
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -335,6 +334,7 @@
 
 ## automation 
 
+- [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [mixelpixel/AirScripts](https://github.com/mixelpixel/AirScripts) - Airtable Scripts Written In Javascript
@@ -357,6 +357,10 @@
 
 ## awesome 
 
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [Correia-jpv/fucking-awesome-sysadmin](https://github.com/Correia-jpv/fucking-awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴
+- [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -394,6 +398,11 @@
 
 ## awesome-list 
 
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [Correia-jpv/fucking-awesome-sysadmin](https://github.com/Correia-jpv/fucking-awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴
+- [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
@@ -465,6 +474,17 @@
 
 ## bash 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+- [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+- [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+- [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -576,6 +596,7 @@
 
 ## chatgpt 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
@@ -597,6 +618,10 @@
 
 ## cli 
 
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [skx/sysbox](https://github.com/skx/sysbox) - sysadmin/scripting utilities, distributed as a single binary
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -666,6 +691,7 @@
 
 ## config 
 
+- [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [fuku77/dotfiles](https://github.com/fuku77/dotfiles) - Collection of my custom configuration files.
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 my Personalized Development Environment [PDE]
@@ -694,6 +720,8 @@
 
 ## css 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+- [trolologuy/useful-tools](https://github.com/trolologuy/useful-tools) - A list of useful tools and programs for developers, DevOps and SysAdmins
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [Dyzean/Tokyo-Night](https://github.com/Dyzean/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
@@ -791,6 +819,7 @@
 
 ## deployment 
 
+- [taw00/howto](https://github.com/taw00/howto) - Dumping ground for various HowTo documents that I produce
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
@@ -808,6 +837,11 @@
 
 ## devops 
 
+- [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
+- [exajobs/devops-collection](https://github.com/exajobs/devops-collection) - Welcome To The World of DevOps. An ongoing & curated collection of awesome software, libraries, learning tutorials, tools and resources and cool stuff about DevOps.
+- [trolologuy/useful-tools](https://github.com/trolologuy/useful-tools) - A list of useful tools and programs for developers, DevOps and SysAdmins
+- [ruudmens/LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
@@ -910,10 +944,10 @@
 
 ## docker 
 
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [mpepping/docker-cyberchef](https://github.com/mpepping/docker-cyberchef) - GCHQ CyberChef in a container
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
@@ -999,6 +1033,7 @@
 
 ## dotfiles 
 
+- [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
@@ -1208,6 +1243,7 @@
 
 ## framework 
 
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [sern-handler/handler](https://github.com/sern-handler/handler) - Create a discord bot now.
 - [KevinNovak/Discord-Bot-TypeScript-Template](https://github.com/KevinNovak/Discord-Bot-TypeScript-Template) - Discord bot - A discord.js bot template written with TypeScript.
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
@@ -1244,6 +1280,8 @@
 
 ## git 
 
+- [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
@@ -1291,6 +1329,7 @@
 
 ## go 
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
 - [shared-recruiting-co/shared-recruiting-co](https://github.com/shared-recruiting-co/shared-recruiting-co) - SRC (Shared Recruiting Co.) is an open-source, candidate-centric recruiting platform
@@ -1308,6 +1347,9 @@
 
 ## golang 
 
+- [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+- [skx/sysbox](https://github.com/skx/sysbox) - sysadmin/scripting utilities, distributed as a single binary
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [woojiahao/gmail-filter-organiser](https://github.com/woojiahao/gmail-filter-organiser) - CLI tool to organise your filters in Gmail
@@ -1383,6 +1425,7 @@
 
 ## hacktoberfest 
 
+- [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [Yureien/YABin](https://github.com/Yureien/YABin) - Yet another pastebin, simple but feature-rich, along with a CLI client
 - [EmreOvunc/Linux-System-Management-Scripts-Tricks](https://github.com/EmreOvunc/Linux-System-Management-Scripts-Tricks) - Linux Security & Linux Hardening & Linux Management & Linux Configuration
@@ -1519,6 +1562,7 @@
 
 ## homebrew 
 
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
 
@@ -1565,6 +1609,7 @@
 
 ## java 
 
+- [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
@@ -1572,6 +1617,7 @@
 
 ## javascript 
 
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
@@ -1670,6 +1716,7 @@
 
 ## kubernetes 
 
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
@@ -1694,6 +1741,8 @@
 
 ## learning 
 
+- [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1706,6 +1755,13 @@
 
 ## linux 
 
+- [tbal999/bb](https://github.com/tbal999/bb) - a pubnix bulletin board
+- [klaver/sysctl](https://github.com/klaver/sysctl) - Linux/BSD kernel tuning and network security hardening optimizations, improving the performance of server systems via optimized sysctl tweaks
+- [hawshemi/Linux-Optimizer](https://github.com/hawshemi/Linux-Optimizer) - Linux Optimizer
+- [taw00/howto](https://github.com/taw00/howto) - Dumping ground for various HowTo documents that I produce
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
+- [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -1860,6 +1916,8 @@
 
 ## macos 
 
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
@@ -1875,6 +1933,7 @@
 
 ## markdown 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
@@ -1893,7 +1952,6 @@
 
 ## mongodb 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1948,7 +2006,6 @@
 ## mysql 
 
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
@@ -2016,7 +2073,7 @@
 
 ## nextjs 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -2103,7 +2160,6 @@
 
 ## nodejs 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic discord framework 🧙‍♂️
@@ -2209,6 +2265,19 @@
 
 ## others 
 
+- [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) - A GUI Frontend for services provided by segfault
+- [cwmccabe/pubnixhist](https://github.com/cwmccabe/pubnixhist) - Public Access UNIX (and GNU/Linux) History Documentation Project
+- [mikeroyal/Perfect-Ubuntu-Guide](https://github.com/mikeroyal/Perfect-Ubuntu-Guide) - Ubuntu Guide. Learn about getting your Ubuntu Desktop/Server ready for development. Including Ubuntu Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
+- [jrothrock/server_notes](https://github.com/jrothrock/server_notes) - Building a Server on Digital Ocean With Ubuntu and Nginx
+- [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
+- [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
+- [EugeneKay/scripts](https://github.com/EugeneKay/scripts) - Collection of scripts, config files, and notes for sysadmin work
+- [AbeTavarez/Python_DevOps_Scripts](https://github.com/AbeTavarez/Python_DevOps_Scripts) - Python 👨🏻‍💻 Scripts for DevOps, SysAdmins, IT Specilist, Devs and more.
+- [inviqa/SysAdmin](https://github.com/inviqa/SysAdmin) - A collection of SysAdmin and DevOps tools for everyday use
+- [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
+- [eon01/DevOpsLinks-Is-Awesome](https://github.com/eon01/DevOpsLinks-Is-Awesome) - Curated & Must Read Content For DevOps, SysAdmins & Fullstack Developers.
+- [HikariNeee/Celestite](https://github.com/HikariNeee/Celestite) - Fedora's celestial sibling, Celestite!
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [deltachat/mailadm](https://github.com/deltachat/mailadm) - mail account administration tool for temporary and other account creation/modification
 - [upload-wtf/helist-src](https://github.com/upload-wtf/helist-src) - Image uploader for sharex like upload.systems or e-z.host in php
 - [Programmierus/ldap-mailcow](https://github.com/Programmierus/ldap-mailcow) - LDAP account synchronization and authentication for mailcow-dockerized
@@ -3197,7 +3266,7 @@
 
 ## php 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -3217,7 +3286,6 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
@@ -3236,6 +3304,7 @@
 
 ## powershell 
 
+- [ruudmens/LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -3281,6 +3350,10 @@
 
 ## python 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+- [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+- [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
+- [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
 - [8go/matrix-commander](https://github.com/8go/matrix-commander) - simple but convenient CLI-based Matrix client app for sending and receiving
 - [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
@@ -3534,7 +3607,7 @@
 
 ## reactjs 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [MahdiTa97/turborepo-boilerplate](https://github.com/MahdiTa97/turborepo-boilerplate) - A boilerplate base on TURBOREPO
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -3680,6 +3753,7 @@
 
 ## server 
 
+- [hawshemi/Linux-Optimizer](https://github.com/hawshemi/Linux-Optimizer) - Linux Optimizer
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [allenrkeen/server-bot](https://github.com/allenrkeen/server-bot) - Discord bot to remotely monitor and control a docker based server
@@ -3703,6 +3777,13 @@
 
 ## shell 
 
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -3805,7 +3886,6 @@
 
 ## svelte 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
 - [Notifiarr/toolbarr](https://github.com/Notifiarr/toolbarr) - Starr Toolbarr
@@ -3831,6 +3911,10 @@
 
 ## terminal 
 
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -3959,6 +4043,8 @@
 
 ## ubuntu 
 
+- [klaver/sysctl](https://github.com/klaver/sysctl) - Linux/BSD kernel tuning and network security hardening optimizations, improving the performance of server systems via optimized sysctl tweaks
+- [hawshemi/Linux-Optimizer](https://github.com/hawshemi/Linux-Optimizer) - Linux Optimizer
 - [YurinDoctrine/ultra-gaming-setup-wizard](https://github.com/YurinDoctrine/ultra-gaming-setup-wizard) - Gaming on Linux setup works on Arch Linux , Ubuntu or Debian and Fedora
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
@@ -3987,6 +4073,7 @@
 
 ## vim 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [codingpaula/vim-tokyonight](https://github.com/codingpaula/vim-tokyonight) - WIP - colorscheme for vim - port of vs code theme tokyo night
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
@@ -4034,7 +4121,6 @@
 
 ## vuejs 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## web 
@@ -4079,6 +4165,7 @@
 
 ## windows 
 
+- [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
@@ -4094,6 +4181,7 @@
 
 ## wordpress 
 
+- [taw00/howto](https://github.com/taw00/howto) - Dumping ground for various HowTo documents that I produce
 - [mcguffin/wp-dashboard-messages](https://github.com/mcguffin/wp-dashboard-messages) - Show Messages on the WP Admin Dashboard.
 - [lukecav/performance-improvements-for-woocommerce](https://github.com/lukecav/performance-improvements-for-woocommerce) - Performance tweaks for the front-end and back-end of a store.
 - [Automattic/vip-go-mu-plugins](https://github.com/Automattic/vip-go-mu-plugins) - The development repo for mu-plugins used on the WordPress VIP Platform.
