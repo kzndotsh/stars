@@ -442,7 +442,6 @@
 - [toreylittlefield/my-custom-tailwind-resume](https://github.com/toreylittlefield/my-custom-tailwind-resume) - My Custom Tailwind Resume
 - [crguezl/gh-submodule-add](https://github.com/crguezl/gh-submodule-add) - gh cli extension to create submodules inside a repo
 - [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor) - Theming demo for Firefox Quantum and beyond
-- [formio/react](https://github.com/formio/react) - JSON powered forms for React.js
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [sibbl/matrix-bot-media-fetcher](https://github.com/sibbl/matrix-bot-media-fetcher) - A Matrix bot which downloads all media from the rooms it's invited to.
 - [beeper/media-viewer](https://github.com/beeper/media-viewer) - A simple web app that can download, decrypt and display encrypted Matrix media.
@@ -1844,7 +1843,6 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [torrust/torrust-website](https://github.com/torrust/torrust-website) - Public Website for Torrust Organisation
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 
 ## Swift 
@@ -1966,9 +1964,11 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
+- [formio/react](https://github.com/formio/react) - JSON powered forms for React.js
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [mchestr/displex](https://github.com/mchestr/displex) - Discord & Plex & Tautulli & Overseerr Bot
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [brandongallagher1999/1337x-Bot](https://github.com/brandongallagher1999/1337x-Bot) - ☠️Unofficial 1337x.to Discord Bot
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
