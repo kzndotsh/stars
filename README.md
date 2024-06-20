@@ -1057,8 +1057,10 @@
 
 ## Python 
 
+- [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
+- [poketwo/poketwo](https://github.com/poketwo/poketwo) - A (not so) small Pokécord clone.
 - [xdFNLeaks/managebot](https://github.com/xdFNLeaks/managebot) - just a little project i'm working on that allows you to view and manage your docker containers from discord.
-- [EthanC/Loguru-Discord](https://github.com/EthanC/Loguru-Discord) - Lightweight, easy-to-use Discord sink for Loguru.
+- [EthanC/Loguru-Discord](https://github.com/EthanC/Loguru-Discord) - Lightweight sink for Loguru that sends logs to Discord via webhook.
 - [FlamptX/paginator.py](https://github.com/FlamptX/paginator.py) - Discord paginator for messages and embeds.
 - [logicguy1/Discord-Progressbar](https://github.com/logicguy1/Discord-Progressbar) - Genarate a progressbar to apply in an embed
 - [Sigmanificient/Embed-Templator](https://github.com/Sigmanificient/Embed-Templator) - A Python Template manager for your discord bot to keep your embeds simple consistent
