@@ -1056,6 +1056,8 @@
 
 ## Python 
 
+- [Gelbpunkt/IdleRPG](https://github.com/Gelbpunkt/IdleRPG) - A fantasy RPG bot for Discord.
+- [lowerednonce/dexportiti](https://github.com/lowerednonce/dexportiti) - A Discord bot written in python3 that aims to exports every available information about a given server
 - [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
 - [poketwo/poketwo](https://github.com/poketwo/poketwo) - A (not so) small Pokécord clone.
 - [xdFNLeaks/managebot](https://github.com/xdFNLeaks/managebot) - just a little project i'm working on that allows you to view and manage your docker containers from discord.
