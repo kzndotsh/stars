@@ -1049,6 +1049,7 @@
 
 - [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
+- [getantidote/zdotdir](https://github.com/getantidote/zdotdir) - A full-featured sample Zsh config driven by antidote
 - [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [fuku77/dotfiles](https://github.com/fuku77/dotfiles) - Collection of my custom configuration files.
@@ -2119,7 +2120,7 @@
 - [enjidev/enji.dev](https://github.com/enjidev/enji.dev) - a monorepo for my personal website and projects, built with Turborepo + pnpm 📚
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🏗️ Turborepo + TailwindCSS + Storybook + shadcn-ui
-- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter with user roles built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe and Server Actions.
+- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
@@ -2439,7 +2440,6 @@
 - [apivideo/Next.js_Starters-](https://github.com/apivideo/Next.js_Starters-) - Setup ESLint, Prettier, and Husky  with TypeScript
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
-- [getantidote/zdotdir](https://github.com/getantidote/zdotdir) - A full-featured sample Zsh config driven by antidote
 - [MikeyUsersREC/ERM](https://github.com/MikeyUsersREC/ERM) - A discord bot primarily focused on improving the Roblox staff experience.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [HTTP-Requests/block-markdown-automod-discord](https://github.com/HTTP-Requests/block-markdown-automod-discord) - Blocks markdown with regex, helpful for automod
@@ -3557,7 +3557,7 @@
 - [ycjcl868/monorepo](https://github.com/ycjcl868/monorepo) - Monorepo with pnpm and turborepo, deploying into Vercel.
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🏗️ Turborepo + TailwindCSS + Storybook + shadcn-ui
-- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - An open-source SaaS Starter with user roles built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe and Server Actions.
+- [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
