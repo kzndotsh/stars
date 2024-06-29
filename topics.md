@@ -2565,7 +2565,7 @@
 - [jmgilman/nix-cue](https://github.com/jmgilman/nix-cue) - Validate and generate configuration files using Nix and Cue
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ
-- [nerdypepper/statix](https://github.com/nerdypepper/statix) - lints and suggestions for the nix programming language
+- [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [kzndotsh/homepage](https://github.com/kzndotsh/homepage) - 
 - [raphajaner/ServerMonitoringDiscordBot](https://github.com/raphajaner/ServerMonitoringDiscordBot) - A discord bot that monitors a server, e.g., CPU load and temperature and disk utilization of /home.
 - [Datenlord1510/discord-predb](https://github.com/Datenlord1510/discord-predb) - Keep your Discord community up-to-date on the latest releases by using webhooks and xREL!
