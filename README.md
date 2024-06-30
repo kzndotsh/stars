@@ -761,7 +761,7 @@
 - [dramforever/scratchix](https://github.com/dramforever/scratchix) - Linux From Scratch, but it's Nix
 - [sheenobu/nix-lfs](https://github.com/sheenobu/nix-lfs) - A workthrough of LinuxFromScratch stable using nix.
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
-- [MatthiasBenaets/nixos-config](https://github.com/MatthiasBenaets/nixos-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
+- [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 
 ## Nunjucks 
