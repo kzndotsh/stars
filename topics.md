@@ -316,7 +316,7 @@
 - [arcbjorn/arc-robust-arch-linux-installation-guide](https://github.com/arcbjorn/arc-robust-arch-linux-installation-guide) - Arch linux installation guide (Xorg): btrfs, pipewire, i3-gaps, lightdm, rofi, dunst, kitty, polybar
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [fkortsagin/Simple-ArchLinux-Install-Guide](https://github.com/fkortsagin/Simple-ArchLinux-Install-Guide) - Archlinux manual and automated simple installation  UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
+- [fkortsagin/Simple-Arch-Linux-Setup](https://github.com/fkortsagin/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
 - [eromatiya/A-Personal-Arch-Installation-Guide](https://github.com/eromatiya/A-Personal-Arch-Installation-Guide) - A Personal Arch Installation Guide In Case of Amnesia
 - [ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
@@ -547,6 +547,7 @@
 
 ## bot 
 
+- [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts and plugins! It uses discord.js v14 & no database required!
 - [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
 - [poketwo/poketwo](https://github.com/poketwo/poketwo) - A (not so) small Pokécord clone.
@@ -873,6 +874,7 @@
 
 ## discord 
 
+- [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts and plugins! It uses discord.js v14 & no database required!
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
@@ -1884,7 +1886,7 @@
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [wick3dr0se/arch-linux-installation-guide](https://github.com/wick3dr0se/arch-linux-installation-guide) - An easy to follow Arch Linux installation guide. This guide will show you how to properly install Arch Linux on UEFI/BIOS systems, ext4/btrfs file systems; using systemd-bootloader/GRUB and systemd-ne
-- [fkortsagin/Simple-ArchLinux-Install-Guide](https://github.com/fkortsagin/Simple-ArchLinux-Install-Guide) - Archlinux manual and automated simple installation  UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
+- [fkortsagin/Simple-Arch-Linux-Setup](https://github.com/fkortsagin/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
 - [ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
 - [classy-giraffe/easy-arch](https://github.com/classy-giraffe/easy-arch) - Script for boostrapping Arch Linux with BTRFS, snapshots and LUKS encryption (UEFI only).
@@ -2317,6 +2319,15 @@
 
 ## others 
 
+- [jayisthelord/Z3R0](https://github.com/jayisthelord/Z3R0) - A multi-purpose open-source discord bot
+- [DuckBot-Discord/duck-hideout-manager-bot](https://github.com/DuckBot-Discord/duck-hideout-manager-bot) - 
+- [ClubNix/Josix](https://github.com/ClubNix/Josix) - A discord bot written in Python for general purpose, fun, stats and more
+- [PhazonicRidley/Terrygon](https://github.com/PhazonicRidley/Terrygon) - A modular discord bot written in Python
+- [solaluset/SmartBot](https://github.com/solaluset/SmartBot) - A Discord bot
+- [vcokltfre/Myaer](https://github.com/vcokltfre/Myaer) - Discord bot written with discord.py.
+- [1xa5/pretend](https://github.com/1xa5/pretend) - 
+- [ElvaronGames/IdleRPG](https://github.com/ElvaronGames/IdleRPG) - A fantasy RPG bot for Discord.
+- [MelonBot-Development/melonutils](https://github.com/MelonBot-Development/melonutils) - Redbot utilities.
 - [tlsaware/danebot](https://github.com/tlsaware/danebot) - Certbot wrapper for DANE TLSA-safe certificate Let's Encrypt certificate rollover.
 - [Gelbpunkt/IdleRPG](https://github.com/Gelbpunkt/IdleRPG) - A fantasy RPG bot for Discord.
 - [lowerednonce/dexportiti](https://github.com/lowerednonce/dexportiti) - A Discord bot written in python3 that aims to exports every available information about a given server
@@ -3406,6 +3417,7 @@
 
 ## python 
 
+- [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [asottile/add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
 - [xdFNLeaks/managebot](https://github.com/xdFNLeaks/managebot) - just a little project i'm working on that allows you to view and manage your docker containers from discord.
@@ -3519,6 +3531,7 @@
 
 ## python3 
 
+- [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [xdFNLeaks/managebot](https://github.com/xdFNLeaks/managebot) - just a little project i'm working on that allows you to view and manage your docker containers from discord.
 - [Sigmanificient/Embed-Templator](https://github.com/Sigmanificient/Embed-Templator) - A Python Template manager for your discord bot to keep your embeds simple consistent
