@@ -315,6 +315,8 @@
 
 ## HTML 
 
+- [lukin/keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
+- [santiblanko/tailwind-keycloak-theme](https://github.com/santiblanko/tailwind-keycloak-theme) - tailwindUI + keycloak = awesome theme
 - [fzorb/feline.email](https://github.com/fzorb/feline.email) - 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
@@ -913,7 +915,7 @@
 - [dracula/i3](https://github.com/dracula/i3) - 🧛🏻‍♂️ Dark theme for i3
 - [heckelson/i3-and-kde-plasma](https://github.com/heckelson/i3-and-kde-plasma) - How to install the i3 window manager on KDE
 - [wick3dr0se/arch-linux-installation-guide](https://github.com/wick3dr0se/arch-linux-installation-guide) - An easy to follow Arch Linux installation guide. This guide will show you how to properly install Arch Linux on UEFI/BIOS systems, ext4/btrfs file systems; using systemd-bootloader/GRUB and systemd-ne
-- [fkortsagin/Simple-Arch-Linux-Setup](https://github.com/fkortsagin/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
+- [silentgameplays/Simple-Arch-Linux-Setup](https://github.com/silentgameplays/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
 - [eromatiya/A-Personal-Arch-Installation-Guide](https://github.com/eromatiya/A-Personal-Arch-Installation-Guide) - A Personal Arch Installation Guide In Case of Amnesia
 - [ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
 - [bloominstituteoftechnology/orientation-web-git](https://github.com/bloominstituteoftechnology/orientation-web-git) - 
@@ -1882,6 +1884,7 @@
 
 ## TypeScript 
 
+- [dkrasnovdev/nextjs-app-router-keycloak-example](https://github.com/dkrasnovdev/nextjs-app-router-keycloak-example) - Next.js application that demonstrates how to integrate Keycloak for authentication using NextAuth with App router.
 - [sixem/ivfi-node](https://github.com/sixem/ivfi-node) - IVFi is a directory indexer written in Node that aims to make it easy to browse and explore web-accessible directories.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
