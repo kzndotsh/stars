@@ -316,7 +316,7 @@
 - [arcbjorn/arc-robust-arch-linux-installation-guide](https://github.com/arcbjorn/arc-robust-arch-linux-installation-guide) - Arch linux installation guide (Xorg): btrfs, pipewire, i3-gaps, lightdm, rofi, dunst, kitty, polybar
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [fkortsagin/Simple-Arch-Linux-Setup](https://github.com/fkortsagin/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
+- [silentgameplays/Simple-Arch-Linux-Setup](https://github.com/silentgameplays/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
 - [eromatiya/A-Personal-Arch-Installation-Guide](https://github.com/eromatiya/A-Personal-Arch-Installation-Guide) - A Personal Arch Installation Guide In Case of Amnesia
 - [ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
@@ -1886,7 +1886,7 @@
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [wick3dr0se/arch-linux-installation-guide](https://github.com/wick3dr0se/arch-linux-installation-guide) - An easy to follow Arch Linux installation guide. This guide will show you how to properly install Arch Linux on UEFI/BIOS systems, ext4/btrfs file systems; using systemd-bootloader/GRUB and systemd-ne
-- [fkortsagin/Simple-Arch-Linux-Setup](https://github.com/fkortsagin/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
+- [silentgameplays/Simple-Arch-Linux-Setup](https://github.com/silentgameplays/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
 - [ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
 - [classy-giraffe/easy-arch](https://github.com/classy-giraffe/easy-arch) - Script for boostrapping Arch Linux with BTRFS, snapshots and LUKS encryption (UEFI only).
@@ -2119,6 +2119,7 @@
 
 ## nextjs 
 
+- [dkrasnovdev/nextjs-app-router-keycloak-example](https://github.com/dkrasnovdev/nextjs-app-router-keycloak-example) - Next.js application that demonstrates how to integrate Keycloak for authentication using NextAuth with App router.
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
@@ -2319,6 +2320,8 @@
 
 ## others 
 
+- [lukin/keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
+- [santiblanko/tailwind-keycloak-theme](https://github.com/santiblanko/tailwind-keycloak-theme) - tailwindUI + keycloak = awesome theme
 - [jayisthelord/Z3R0](https://github.com/jayisthelord/Z3R0) - A multi-purpose open-source discord bot
 - [DuckBot-Discord/duck-hideout-manager-bot](https://github.com/DuckBot-Discord/duck-hideout-manager-bot) - 
 - [ClubNix/Josix](https://github.com/ClubNix/Josix) - A discord bot written in Python for general purpose, fun, stats and more
