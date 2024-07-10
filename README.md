@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
 - [nix-community/nix-unit](https://github.com/nix-community/nix-unit) - Unit testing for Nix code [maintainer=@adisbladis]
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -316,6 +317,7 @@
 
 ## HTML 
 
+- [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [lukin/keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
 - [santiblanko/tailwind-keycloak-theme](https://github.com/santiblanko/tailwind-keycloak-theme) - tailwindUI + keycloak = awesome theme
 - [fzorb/feline.email](https://github.com/fzorb/feline.email) - 
@@ -364,6 +366,7 @@
 
 ## Java 
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
@@ -371,6 +374,8 @@
 
 ## JavaScript 
 
+- [ssotax/ssotax](https://github.com/ssotax/ssotax) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
+- [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts and plugins! It uses discord.js v14 & no database required!
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
@@ -781,6 +786,7 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [cwmccabe/pubnixhist](https://github.com/cwmccabe/pubnixhist) - Public Access UNIX (and GNU/Linux) History Documentation Project
 - [klaver/sysctl](https://github.com/klaver/sysctl) - Linux/BSD kernel tuning and network security hardening optimizations, improving the performance of server systems via optimized sysctl tweaks
 - [jrothrock/server_notes](https://github.com/jrothrock/server_notes) - Building a Server on Digital Ocean With Ubuntu and Nginx
@@ -982,6 +988,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [Justintime50/easypost-tools-ui](https://github.com/Justintime50/easypost-tools-ui) - Create shipping labels, track, insure, and refund packages all from a simple UI.
 - [htmlfriendly/head](https://github.com/htmlfriendly/head) - Boilerplate &lt;head&gt; section for use on your own website, webpages, and articles.
@@ -1466,7 +1473,7 @@
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [axsuul/plex-media-server-exporter](https://github.com/axsuul/plex-media-server-exporter) - A better Prometheus exporter for Plex Media Server
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [johntajima/media_rename](https://github.com/johntajima/media_rename) - Updated version of media_renamer to handle renaming from Plex Db
+- [jkt3000/media_rename](https://github.com/jkt3000/media_rename) - Updated version of media_renamer to handle renaming from Plex Db
 - [vpsfreecz/vpsadmin](https://github.com/vpsfreecz/vpsadmin) - Control panel for managing virtual servers on top of vpsAdminOS
 - [scytherswings/Plex-Board](https://github.com/scytherswings/Plex-Board) - A dynamic dashboard for checking the status of multiple services related to Plex Media Server (Plex, Couchpotato, Sickrage, Deluge, Sabnzbd+, etc.).
 - [ninthwalker/NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
@@ -1474,6 +1481,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
@@ -1885,6 +1893,7 @@
 
 ## TypeScript 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [dkrasnovdev/nextjs-app-router-keycloak-example](https://github.com/dkrasnovdev/nextjs-app-router-keycloak-example) - Next.js application that demonstrates how to integrate Keycloak for authentication using NextAuth with App router.
 - [sixem/ivfi-node](https://github.com/sixem/ivfi-node) - IVFi is a directory indexer written in Node that aims to make it easy to browse and explore web-accessible directories.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
