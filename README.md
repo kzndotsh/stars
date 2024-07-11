@@ -866,7 +866,7 @@
 - [lokesh-krishna/Tokyo-Night-Obsidian-Theme](https://github.com/lokesh-krishna/Tokyo-Night-Obsidian-Theme) - 
 - [aerosol/tokyonight-kitty](https://github.com/aerosol/tokyonight-kitty) - Tokyo Night color scheme for kitty terminal
 - [davidmathers/tokyo-night-kitty-theme](https://github.com/davidmathers/tokyo-night-kitty-theme) - A clean, dark kitty color scheme that celebrates the lights of Downtown Tokyo at night.
-- [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
+- [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [SoraTenshi/FlowLauncher-TokyoNight](https://github.com/SoraTenshi/FlowLauncher-TokyoNight) - Tokyonight theme for FlowLauncher
 - [mabdh/tokyonight-spacemacs](https://github.com/mabdh/tokyonight-spacemacs) - 🌇 Tokyonight Color Scheme for Spacemacs
 - [kevin-nel/tokyo-night-tilix-black-box-theme](https://github.com/kevin-nel/tokyo-night-tilix-black-box-theme) - tokyo night theme for Tilix/Black Box
