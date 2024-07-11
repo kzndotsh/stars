@@ -2751,7 +2751,7 @@
 - [lokesh-krishna/Tokyo-Night-Obsidian-Theme](https://github.com/lokesh-krishna/Tokyo-Night-Obsidian-Theme) - 
 - [fabioluciano/tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) - 
 - [davidmathers/tokyo-night-kitty-theme](https://github.com/davidmathers/tokyo-night-kitty-theme) - A clean, dark kitty color scheme that celebrates the lights of Downtown Tokyo at night.
-- [enkia/tokyo-night-vscode-theme](https://github.com/enkia/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
+- [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [kevin-nel/tokyo-night-tilix-black-box-theme](https://github.com/kevin-nel/tokyo-night-tilix-black-box-theme) - tokyo night theme for Tilix/Black Box
 - [wojciech-zurek/mattermost-tokyo-night-theme](https://github.com/wojciech-zurek/mattermost-tokyo-night-theme) - Tokyo Night theme for Mattermost
 - [logan-connolly/tokyonight-gtk](https://github.com/logan-connolly/tokyonight-gtk) - 🎨 Tokyonight theme for gtk (created with oomox)
