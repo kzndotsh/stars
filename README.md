@@ -1067,6 +1067,7 @@
 
 ## Python 
 
+- [pseudify/LavenderIRC](https://github.com/pseudify/LavenderIRC) - a minimal IRC client written in python. Free and Open Source
 - [jayisthelord/Z3R0](https://github.com/jayisthelord/Z3R0) - A multi-purpose open-source discord bot
 - [DuckBot-Discord/duck-hideout-manager-bot](https://github.com/DuckBot-Discord/duck-hideout-manager-bot) - 
 - [ClubNix/Josix](https://github.com/ClubNix/Josix) - A discord bot written in Python for general purpose, fun, stats and more
@@ -1792,7 +1793,6 @@
 - [jayywolff/dotfiles](https://github.com/jayywolff/dotfiles) - Config files for Linux, i3-gaps, polybar, vim, tmux, zsh, alacritty, rofi & more
 - [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
 - [Haardispro/Arch_Rice](https://github.com/Haardispro/Arch_Rice) - Dotfiles for my Arch Linux config
-- [Nebarik/mediscripts-shared](https://github.com/Nebarik/mediscripts-shared) - 
 - [thatvirtualboy/plex](https://github.com/thatvirtualboy/plex) - Scripts for Plex Postprocessing
 - [TechPerplexed/Gooby](https://github.com/TechPerplexed/Gooby) - Gooby: The ultimate infinite Plex media server using a VPS and Cloud service
 - [t3chnocat/oscp-ctf](https://github.com/t3chnocat/oscp-ctf) - oscp-ctf is a small collection of basic Bash scripts that make life easier and save time whether you are in the OSCP labs, HackThebox or playing around with CTFs.
