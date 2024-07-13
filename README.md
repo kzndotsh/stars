@@ -159,7 +159,6 @@
 - [MichaelWagnr/tokyo-night.css](https://github.com/MichaelWagnr/tokyo-night.css) - CSS custom properties inspired by the Tokyo Night theme by enkia. Prototype and develop in the same color scheme.
 - [mathisto/tokyo-night-goodness](https://github.com/mathisto/tokyo-night-goodness) - Ports of Enki's amazing 'Tokyo Night' VSCode theme
 - [Gin-no-kami/TokyoNightThemes](https://github.com/Gin-no-kami/TokyoNightThemes) - A collection of TokyoNight based themed for various linux applications
-- [Dynamic155/TokyoNight-Roblox](https://github.com/Dynamic155/TokyoNight-Roblox) - For All Tokyo Night Themes
 - [actualdankcoder/TokyoNight-spicetify](https://github.com/actualdankcoder/TokyoNight-spicetify) - 🏯 TokyoNight is a spicetify version of the popular VSCode extension
 - [lfreyes97/Tokyo-Night-GTK](https://github.com/lfreyes97/Tokyo-Night-GTK) - Tokyo Night Dark GTK theme based on the WhiteSur theme
 - [tcmmichaelb139/obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
