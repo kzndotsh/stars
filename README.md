@@ -785,6 +785,7 @@
 
 ## Others 
 
+- [allthingslinux/mod-handbook](https://github.com/allthingslinux/mod-handbook) - 
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [cwmccabe/pubnixhist](https://github.com/cwmccabe/pubnixhist) - Public Access UNIX (and GNU/Linux) History Documentation Project
 - [klaver/sysctl](https://github.com/klaver/sysctl) - Linux/BSD kernel tuning and network security hardening optimizations, improving the performance of server systems via optimized sysctl tweaks
@@ -1501,7 +1502,7 @@
 - [Supergamer1337/media-cleaner](https://github.com/Supergamer1337/media-cleaner) - Media Cleaner is a simple CLI tool to clean up your media library based on your Overseerr requests and Tautulli history, written in Rust.
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
-- [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex recommendations
+- [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [desbma/pacman-hooks](https://github.com/desbma/pacman-hooks) - Arch Linux Pacman hooks
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
