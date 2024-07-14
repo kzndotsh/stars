@@ -2342,6 +2342,7 @@
 
 ## others 
 
+- [allthingslinux/mod-handbook](https://github.com/allthingslinux/mod-handbook) - 
 - [pseudify/LavenderIRC](https://github.com/pseudify/LavenderIRC) - a minimal IRC client written in python. Free and Open Source
 - [ssotax/ssotax](https://github.com/ssotax/ssotax) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
@@ -2625,7 +2626,7 @@
 - [Datenlord1510/discord-predb](https://github.com/Datenlord1510/discord-predb) - Keep your Discord community up-to-date on the latest releases by using webhooks and xREL!
 - [enzobes/WarezBot](https://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release
 - [flamerds/DiscordPiracyBot](https://github.com/flamerds/DiscordPiracyBot) - 
-- [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex recommendations
+- [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 - [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch) - MovieMatch for Plex
 - [mtrogman/regrabarr](https://github.com/mtrogman/regrabarr) - A discord bot to delete and search for media
 - [josdion/subbuzz](https://github.com/josdion/subbuzz) - Subtitles plugin for emby and jellyfin
