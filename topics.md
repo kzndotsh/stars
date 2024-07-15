@@ -3190,7 +3190,6 @@
 - [addy-dclxvi/tint2-theme-collections](https://github.com/addy-dclxvi/tint2-theme-collections) - My personal backup repository of Tint2 themes
 - [maximuskowalski/maxmisc](https://github.com/maximuskowalski/maxmisc) - Misc scripts and tools.
 - [eli-schwartz/dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
-- [NDDDDDDDDD/TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Just a really simple program that checks if normally private trackers are open to registration.  Feedback and tracker recommendations are very much appreciated!
 - [crnihr/dotfiles](https://github.com/crnihr/dotfiles) - dotfiles
 - [White-Oak/arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
 - [stashapp/StashDB-Docs](https://github.com/stashapp/StashDB-Docs) - The documentation partially maintained by the community for the StashBoxAPI
