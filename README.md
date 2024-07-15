@@ -1417,7 +1417,6 @@
 - [TMD20/crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [snakypy/dotctrl](https://github.com/snakypy/dotctrl) - :snake: :package: :page_facing_up: Dotctrl is a package to control your dotfiles (and more) on Linux or macOS.
-- [NDDDDDDDDD/TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Just a really simple program that checks if normally private trackers are open to registration.  Feedback and tracker recommendations are very much appreciated!
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [pronopython/fapel-system](https://github.com/pronopython/fapel-system) - The fapel-system is an adult-media organizer for Windows and Ubuntu Linux
 - [AnonymousHendi/nudeScraper](https://github.com/AnonymousHendi/nudeScraper) - Gather all pictures from different sites using a simple python code
