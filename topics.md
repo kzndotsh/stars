@@ -365,6 +365,7 @@
 
 ## awesome 
 
+- [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -407,6 +408,7 @@
 
 ## awesome-list 
 
+- [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -551,6 +553,7 @@
 
 ## bot 
 
+- [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts and plugins! It uses discord.js v14 & no database required!
 - [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
@@ -885,6 +888,9 @@
 
 ## discord 
 
+- [lithum-labs/discord-ext-help](https://github.com/lithum-labs/discord-ext-help) - A discord.py extension that automatically generates interaction help commands based on Dict.
+- [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
+- [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts and plugins! It uses discord.js v14 & no database required!
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
@@ -1270,6 +1276,7 @@
 
 ## flask 
 
+- [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
@@ -2342,6 +2349,12 @@
 
 ## others 
 
+- [Bluenix2/discord-typings](https://github.com/Bluenix2/discord-typings) - Python typings of all payloads that Discord sends as TypedDicts.
+- [Soheab/discord-ext-slash_parser](https://github.com/Soheab/discord-ext-slash_parser) - 
+- [Soheab/discord.py-listen-overloads](https://github.com/Soheab/discord.py-listen-overloads) - 
+- [Soheab/discord-ext-embeds](https://github.com/Soheab/discord-ext-embeds) - 
+- [Soheab/modal-paginator](https://github.com/Soheab/modal-paginator) - An extension for discord.py that allows you to paginate a Modal using buttons.
+- [Soheab/discord-py-paginators](https://github.com/Soheab/discord-py-paginators) - https://discord-py-paginators.readthedocs.io/en/latest/
 - [allthingslinux/mod-handbook](https://github.com/allthingslinux/mod-handbook) - 
 - [pseudify/LavenderIRC](https://github.com/pseudify/LavenderIRC) - a minimal IRC client written in python. Free and Open Source
 - [ssotax/ssotax](https://github.com/ssotax/ssotax) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
@@ -3447,6 +3460,8 @@
 
 ## python 
 
+- [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
+- [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [asottile/add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
