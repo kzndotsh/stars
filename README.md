@@ -785,6 +785,7 @@
 
 ## Others 
 
+- [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [allthingslinux/mod-handbook](https://github.com/allthingslinux/mod-handbook) - 
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [cwmccabe/pubnixhist](https://github.com/cwmccabe/pubnixhist) - Public Access UNIX (and GNU/Linux) History Documentation Project
@@ -1067,6 +1068,15 @@
 
 ## Python 
 
+- [lithum-labs/discord-ext-help](https://github.com/lithum-labs/discord-ext-help) - A discord.py extension that automatically generates interaction help commands based on Dict.
+- [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
+- [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
+- [Bluenix2/discord-typings](https://github.com/Bluenix2/discord-typings) - Python typings of all payloads that Discord sends as TypedDicts.
+- [Soheab/discord-ext-slash_parser](https://github.com/Soheab/discord-ext-slash_parser) - 
+- [Soheab/discord.py-listen-overloads](https://github.com/Soheab/discord.py-listen-overloads) - 
+- [Soheab/discord-ext-embeds](https://github.com/Soheab/discord-ext-embeds) - 
+- [Soheab/modal-paginator](https://github.com/Soheab/modal-paginator) - An extension for discord.py that allows you to paginate a Modal using buttons.
+- [Soheab/discord-py-paginators](https://github.com/Soheab/discord-py-paginators) - https://discord-py-paginators.readthedocs.io/en/latest/
 - [pseudify/LavenderIRC](https://github.com/pseudify/LavenderIRC) - a minimal IRC client written in python. Free and Open Source
 - [jayisthelord/Z3R0](https://github.com/jayisthelord/Z3R0) - A multi-purpose open-source discord bot
 - [DuckBot-Discord/duck-hideout-manager-bot](https://github.com/DuckBot-Discord/duck-hideout-manager-bot) - 
