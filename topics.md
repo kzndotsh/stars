@@ -77,6 +77,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
+- [games](#games)
 - [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
@@ -365,6 +366,7 @@
 
 ## awesome 
 
+- [kzndotsh/awesome-discordpy](https://github.com/kzndotsh/awesome-discordpy) - An Awesome list for all things Discord.py
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -408,6 +410,7 @@
 
 ## awesome-list 
 
+- [kzndotsh/awesome-discordpy](https://github.com/kzndotsh/awesome-discordpy) - An Awesome list for all things Discord.py
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
@@ -553,6 +556,12 @@
 
 ## bot 
 
+- [Naila/Naila.py](https://github.com/Naila/Naila.py) - Naila Bot written in discord.py
+- [Voxel-Fox-Ltd/VoxelBotUtils](https://github.com/Voxel-Fox-Ltd/VoxelBotUtils) - An extension of the Discord.py library to improve the bot development process.
+- [LiBa001/disputils](https://github.com/LiBa001/disputils) - Some neat utils for discord.py. Making your life as a Discord bot developer easier.  (not sure about the future of this libraray)
+- [SunnyCord/bot](https://github.com/SunnyCord/bot) - Discord.py bot for moderation, osu! and various other things.
+- [architus/architus](https://github.com/architus/architus) - Multi-purpose Discord bot implemented using the discord.py library
+- [tibue99/ezcord](https://github.com/tibue99/ezcord) - An easy-to-use extension for Discord.py and Pycord
 - [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts, plugins, claiming & more! All using discord.js v14 with json database!
@@ -888,6 +897,23 @@
 
 ## discord 
 
+- [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
+- [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
+- [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
+- [Naila/Naila.py](https://github.com/Naila/Naila.py) - Naila Bot written in discord.py
+- [mccoderpy/discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) - A "fork" of discord.py library made by Rapptz with implementation of the Discord Message-Components & many other features by mccoderpy
+- [robertwayne/dpymenus](https://github.com/robertwayne/dpymenus) - Simplified menus for discord.py developers.
+- [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
+- [khazhyk/dango.py](https://github.com/khazhyk/dango.py) - discord.py@rewrite version for spoo.py
+- [madeyoga/Nano-Bot](https://github.com/madeyoga/Nano-Bot) - Discord bot made in Python using discord.py
+- [Voxel-Fox-Ltd/VoxelBotUtils](https://github.com/Voxel-Fox-Ltd/VoxelBotUtils) - An extension of the Discord.py library to improve the bot development process.
+- [robertwayne/cogwatch](https://github.com/robertwayne/cogwatch) - Hot-reloading for discord.py-based command files.
+- [Voxel-Fox-Ltd/Novus](https://github.com/Voxel-Fox-Ltd/Novus) - An asyncio Python wrapper around the Discord API, forked off of Rapptz's Discord.py.
+- [LiBa001/disputils](https://github.com/LiBa001/disputils) - Some neat utils for discord.py. Making your life as a Discord bot developer easier.  (not sure about the future of this libraray)
+- [SunnyCord/bot](https://github.com/SunnyCord/bot) - Discord.py bot for moderation, osu! and various other things.
+- [architus/architus](https://github.com/architus/architus) - Multi-purpose Discord bot implemented using the discord.py library
+- [tibue99/ezcord](https://github.com/tibue99/ezcord) - An easy-to-use extension for Discord.py and Pycord
+- [kzndotsh/awesome-discordpy](https://github.com/kzndotsh/awesome-discordpy) - An Awesome list for all things Discord.py
 - [lithum-labs/discord-ext-help](https://github.com/lithum-labs/discord-ext-help) - A discord.py extension that automatically generates interaction help commands based on Dict.
 - [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
 - [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
@@ -1277,6 +1303,7 @@
 
 ## flask 
 
+- [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
 - [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -1321,6 +1348,10 @@
 ## game-development 
 
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
+
+## games 
+
+- [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
 
 ## gh-extension 
 
@@ -1483,6 +1514,10 @@
 
 ## hacktoberfest 
 
+- [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
+- [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
+- [Voxel-Fox-Ltd/VoxelBotUtils](https://github.com/Voxel-Fox-Ltd/VoxelBotUtils) - An extension of the Discord.py library to improve the bot development process.
+- [Voxel-Fox-Ltd/Novus](https://github.com/Voxel-Fox-Ltd/Novus) - An asyncio Python wrapper around the Discord API, forked off of Rapptz's Discord.py.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
@@ -2061,6 +2096,7 @@
 
 ## music 
 
+- [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
 - [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
 - [discordx-ts/templates](https://github.com/discordx-ts/templates) - templates of create-discordx
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
@@ -2146,6 +2182,7 @@
 
 ## nextjs 
 
+- [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [dkrasnovdev/nextjs-app-router-keycloak-example](https://github.com/dkrasnovdev/nextjs-app-router-keycloak-example) - Next.js application that demonstrates how to integrate Keycloak for authentication using NextAuth with App router.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -2351,6 +2388,13 @@
 
 ## others 
 
+- [mak0226/discord-ext-dashboard](https://github.com/mak0226/discord-ext-dashboard) - A webhook and request based discord.py extension for making a bot dashboard
+- [Discord-py-Projects/Discord.py-Moderation-Bot](https://github.com/Discord-py-Projects/Discord.py-Moderation-Bot) - A discord.py moderation bott
+- [discord/discord-interactions-python](https://github.com/discord/discord-interactions-python) - Useful tools for building interactions in Python
+- [Ext-Creators/discord-ext-alternatives](https://github.com/Ext-Creators/discord-ext-alternatives) - ↩️ A discord.py extension with additional and alternative features.
+- [clxmente/PineappleDiscord](https://github.com/clxmente/PineappleDiscord) - 🤖 Moderation bot built on the discord.py API
+- [CasuallyCalm/discord-pretty-help](https://github.com/CasuallyCalm/discord-pretty-help) - An embed version of the built in help command for discord.py
+- [CraftSpider/dpytest](https://github.com/CraftSpider/dpytest) - A package that assists in writing tests for discord.py
 - [Airtable/apps-base-schema](https://github.com/Airtable/apps-base-schema) - Visualize all your base’s tables, fields, and relationships.
 - [cape-io/airtable-schema](https://github.com/cape-io/airtable-schema) - Download Airtable schema to JSON file.
 - [peterkaminski/airtable-schema-to-base](https://github.com/peterkaminski/airtable-schema-to-base) - Read airtable-schema JSON and write it to pre-configured Airtable base.
@@ -3466,6 +3510,16 @@
 
 ## python 
 
+- [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
+- [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
+- [FallenDeity/discord.py-masterclass](https://github.com/FallenDeity/discord.py-masterclass) - A tutorial/guide explaining all features in discord.py and how to make a discord bot from scratch.
+- [MiroslavRosenov/better-ipc](https://github.com/MiroslavRosenov/better-ipc) - High-performance inter-process communication library designed to work with the latest version of discord.py
+- [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
+- [Voxel-Fox-Ltd/VoxelBotUtils](https://github.com/Voxel-Fox-Ltd/VoxelBotUtils) - An extension of the Discord.py library to improve the bot development process.
+- [architus/architus](https://github.com/architus/architus) - Multi-purpose Discord bot implemented using the discord.py library
+- [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops) - A sad discord bot made using discord.py
+- [tibue99/ezcord](https://github.com/tibue99/ezcord) - An easy-to-use extension for Discord.py and Pycord
+- [kzndotsh/awesome-discordpy](https://github.com/kzndotsh/awesome-discordpy) - An Awesome list for all things Discord.py
 - [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
 - [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
@@ -3582,6 +3636,10 @@
 
 ## python3 
 
+- [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
+- [mccoderpy/discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) - A "fork" of discord.py library made by Rapptz with implementation of the Discord Message-Components & many other features by mccoderpy
+- [MiroslavRosenov/better-ipc](https://github.com/MiroslavRosenov/better-ipc) - High-performance inter-process communication library designed to work with the latest version of discord.py
+- [khazhyk/dango.py](https://github.com/khazhyk/dango.py) - discord.py@rewrite version for spoo.py
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [xdFNLeaks/managebot](https://github.com/xdFNLeaks/managebot) - just a little project i'm working on that allows you to view and manage your docker containers from discord.
@@ -3631,6 +3689,7 @@
 
 ## react 
 
+- [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
