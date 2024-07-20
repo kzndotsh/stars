@@ -788,6 +788,8 @@
 
 ## Others 
 
+- [FallenDeity/discord.py-masterclass](https://github.com/FallenDeity/discord.py-masterclass) - A tutorial/guide explaining all features in discord.py and how to make a discord bot from scratch.
+- [kzndotsh/awesome-discordpy](https://github.com/kzndotsh/awesome-discordpy) - An Awesome list for all things Discord.py
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [allthingslinux/mod-handbook](https://github.com/allthingslinux/mod-handbook) - 
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -1071,6 +1073,30 @@
 
 ## Python 
 
+- [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
+- [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
+- [mak0226/discord-ext-dashboard](https://github.com/mak0226/discord-ext-dashboard) - A webhook and request based discord.py extension for making a bot dashboard
+- [Naila/Naila.py](https://github.com/Naila/Naila.py) - Naila Bot written in discord.py
+- [mccoderpy/discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) - A "fork" of discord.py library made by Rapptz with implementation of the Discord Message-Components & many other features by mccoderpy
+- [MiroslavRosenov/better-ipc](https://github.com/MiroslavRosenov/better-ipc) - High-performance inter-process communication library designed to work with the latest version of discord.py
+- [robertwayne/dpymenus](https://github.com/robertwayne/dpymenus) - Simplified menus for discord.py developers.
+- [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
+- [khazhyk/dango.py](https://github.com/khazhyk/dango.py) - discord.py@rewrite version for spoo.py
+- [madeyoga/Nano-Bot](https://github.com/madeyoga/Nano-Bot) - Discord bot made in Python using discord.py
+- [Voxel-Fox-Ltd/VoxelBotUtils](https://github.com/Voxel-Fox-Ltd/VoxelBotUtils) - An extension of the Discord.py library to improve the bot development process.
+- [robertwayne/cogwatch](https://github.com/robertwayne/cogwatch) - Hot-reloading for discord.py-based command files.
+- [Discord-py-Projects/Discord.py-Moderation-Bot](https://github.com/Discord-py-Projects/Discord.py-Moderation-Bot) - A discord.py moderation bott
+- [Voxel-Fox-Ltd/Novus](https://github.com/Voxel-Fox-Ltd/Novus) - An asyncio Python wrapper around the Discord API, forked off of Rapptz's Discord.py.
+- [LiBa001/disputils](https://github.com/LiBa001/disputils) - Some neat utils for discord.py. Making your life as a Discord bot developer easier.  (not sure about the future of this libraray)
+- [SunnyCord/bot](https://github.com/SunnyCord/bot) - Discord.py bot for moderation, osu! and various other things.
+- [discord/discord-interactions-python](https://github.com/discord/discord-interactions-python) - Useful tools for building interactions in Python
+- [Ext-Creators/discord-ext-alternatives](https://github.com/Ext-Creators/discord-ext-alternatives) - ↩️ A discord.py extension with additional and alternative features.
+- [architus/architus](https://github.com/architus/architus) - Multi-purpose Discord bot implemented using the discord.py library
+- [clxmente/PineappleDiscord](https://github.com/clxmente/PineappleDiscord) - 🤖 Moderation bot built on the discord.py API
+- [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops) - A sad discord bot made using discord.py
+- [tibue99/ezcord](https://github.com/tibue99/ezcord) - An easy-to-use extension for Discord.py and Pycord
+- [CasuallyCalm/discord-pretty-help](https://github.com/CasuallyCalm/discord-pretty-help) - An embed version of the built in help command for discord.py
+- [CraftSpider/dpytest](https://github.com/CraftSpider/dpytest) - A package that assists in writing tests for discord.py
 - [peterkaminski/airtable-schema-to-base](https://github.com/peterkaminski/airtable-schema-to-base) - Read airtable-schema JSON and write it to pre-configured Airtable base.
 - [lithum-labs/discord-ext-help](https://github.com/lithum-labs/discord-ext-help) - A discord.py extension that automatically generates interaction help commands based on Dict.
 - [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
@@ -1906,6 +1932,7 @@
 
 ## TypeScript 
 
+- [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [dkrasnovdev/nextjs-app-router-keycloak-example](https://github.com/dkrasnovdev/nextjs-app-router-keycloak-example) - Next.js application that demonstrates how to integrate Keycloak for authentication using NextAuth with App router.
