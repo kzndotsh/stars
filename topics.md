@@ -2816,7 +2816,7 @@
 - [fabioluciano/tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night) - 
 - [davidmathers/tokyo-night-kitty-theme](https://github.com/davidmathers/tokyo-night-kitty-theme) - A clean, dark kitty color scheme that celebrates the lights of Downtown Tokyo at night.
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
-- [kevin-nel/tokyo-night-tilix-black-box-theme](https://github.com/kevin-nel/tokyo-night-tilix-black-box-theme) - tokyo night theme for Tilix/Black Box
+- [kevontheweb/tokyo-night-tilix-black-box-theme](https://github.com/kevontheweb/tokyo-night-tilix-black-box-theme) - tokyo night theme for Tilix/Black Box
 - [wojciech-zurek/mattermost-tokyo-night-theme](https://github.com/wojciech-zurek/mattermost-tokyo-night-theme) - Tokyo Night theme for Mattermost
 - [logan-connolly/tokyonight-gtk](https://github.com/logan-connolly/tokyonight-gtk) - 🎨 Tokyonight theme for gtk (created with oomox)
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
@@ -2828,8 +2828,8 @@
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [wojciech-zurek/ncspot-tokyo-night-theme](https://github.com/wojciech-zurek/ncspot-tokyo-night-theme) - Tokyo Night ncspot Theme
 - [slashedzer0/homepage](https://github.com/slashedzer0/homepage) - Custom homepage for use locally in browser
-- [kevin-nel/tokyo-night-kicad-theme](https://github.com/kevin-nel/tokyo-night-kicad-theme) - A clean Kicad schematic editor (eeschema) theme that celebrates the lights of Downtown Tokyo at night.
-- [kevin-nel/tokyo-night-gtksourceview](https://github.com/kevin-nel/tokyo-night-gtksourceview) - tokyo night colorscheme for gtksourceview5 applications  (gnome text editor, gedit, builder)
+- [kevontheweb/tokyo-night-kicad-theme](https://github.com/kevontheweb/tokyo-night-kicad-theme) - A clean Kicad schematic editor (eeschema) theme that celebrates the lights of Downtown Tokyo at night.
+- [kevontheweb/tokyo-night-gtksourceview](https://github.com/kevontheweb/tokyo-night-gtksourceview) - tokyo night colorscheme for gtksourceview5 applications  (gnome text editor, gedit, builder)
 - [modulize-org/email](https://github.com/modulize-org/email) - Copy and paste email templates built with React Email
 - [dramforever/scratchix](https://github.com/dramforever/scratchix) - Linux From Scratch, but it's Nix
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
@@ -2910,7 +2910,6 @@
 - [IOKernel/MoveSonarrDB](https://github.com/IOKernel/MoveSonarrDB) - a script to move the Sonarr database from windows to Linux
 - [erikras/ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - A proposal for bundling reducers, action types and actions when using Redux
 - [soapsropes/fetlife](https://github.com/soapsropes/fetlife) - FetLife API client for node
-- [kjnsn/Fetlife-Automator](https://github.com/kjnsn/Fetlife-Automator) - 
 - [methos2016/FetlifeBot](https://github.com/methos2016/FetlifeBot) - 
 - [wpcodeguru/wp-admin-dashboard-widget](https://github.com/wpcodeguru/wp-admin-dashboard-widget) - A basic WordPress plugin which creates a custom admin dashboard widget
 - [BracketSpace/WP-Admin-Reference](https://github.com/BracketSpace/WP-Admin-Reference) - WordPress Admin Dashboard elements reference website
@@ -3510,6 +3509,7 @@
 
 ## python 
 
+- [seven7ty/typeshi](https://github.com/seven7ty/typeshi) - Dict to TypedDict generation and conversion utilities for Python 📖✨
 - [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 - [FallenDeity/discord.py-masterclass](https://github.com/FallenDeity/discord.py-masterclass) - A tutorial/guide explaining all features in discord.py and how to make a discord bot from scratch.
@@ -3636,6 +3636,7 @@
 
 ## python3 
 
+- [seven7ty/typeshi](https://github.com/seven7ty/typeshi) - Dict to TypedDict generation and conversion utilities for Python 📖✨
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 - [mccoderpy/discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) - A "fork" of discord.py library made by Rapptz with implementation of the Discord Message-Components & many other features by mccoderpy
 - [MiroslavRosenov/better-ipc](https://github.com/MiroslavRosenov/better-ipc) - High-performance inter-process communication library designed to work with the latest version of discord.py
