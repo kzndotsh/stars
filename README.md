@@ -875,15 +875,15 @@
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [SoraTenshi/FlowLauncher-TokyoNight](https://github.com/SoraTenshi/FlowLauncher-TokyoNight) - Tokyonight theme for FlowLauncher
 - [mabdh/tokyonight-spacemacs](https://github.com/mabdh/tokyonight-spacemacs) - 🌇 Tokyonight Color Scheme for Spacemacs
-- [kevin-nel/tokyo-night-tilix-black-box-theme](https://github.com/kevin-nel/tokyo-night-tilix-black-box-theme) - tokyo night theme for Tilix/Black Box
+- [kevontheweb/tokyo-night-tilix-black-box-theme](https://github.com/kevontheweb/tokyo-night-tilix-black-box-theme) - tokyo night theme for Tilix/Black Box
 - [wojciech-zurek/mattermost-tokyo-night-theme](https://github.com/wojciech-zurek/mattermost-tokyo-night-theme) - Tokyo Night theme for Mattermost
 - [w8ste/Tokyonight-rofi-theme](https://github.com/w8ste/Tokyonight-rofi-theme) - Simple and practical tokyonight theme for rofi
 - [nonetrix/tokyonight-kde](https://github.com/nonetrix/tokyonight-kde) - Tokyo Night color theme for KDE 🏙️
 - [jiyometrik/tokyonight-windows-terminal](https://github.com/jiyometrik/tokyonight-windows-terminal) - A port of @enkia's Tokyo Night colorscheme for Windows Terminal.
 - [NNBnh/ansi](https://github.com/NNBnh/ansi) - 🖼️ My personal ANSI art collections
 - [wojciech-zurek/ncspot-tokyo-night-theme](https://github.com/wojciech-zurek/ncspot-tokyo-night-theme) - Tokyo Night ncspot Theme
-- [kevin-nel/tokyo-night-kicad-theme](https://github.com/kevin-nel/tokyo-night-kicad-theme) - A clean Kicad schematic editor (eeschema) theme that celebrates the lights of Downtown Tokyo at night.
-- [kevin-nel/tokyo-night-gtksourceview](https://github.com/kevin-nel/tokyo-night-gtksourceview) - tokyo night colorscheme for gtksourceview5 applications  (gnome text editor, gedit, builder)
+- [kevontheweb/tokyo-night-kicad-theme](https://github.com/kevontheweb/tokyo-night-kicad-theme) - A clean Kicad schematic editor (eeschema) theme that celebrates the lights of Downtown Tokyo at night.
+- [kevontheweb/tokyo-night-gtksourceview](https://github.com/kevontheweb/tokyo-night-gtksourceview) - tokyo night colorscheme for gtksourceview5 applications  (gnome text editor, gedit, builder)
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -1073,6 +1073,7 @@
 
 ## Python 
 
+- [seven7ty/typeshi](https://github.com/seven7ty/typeshi) - Dict to TypedDict generation and conversion utilities for Python 📖✨
 - [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 - [mak0226/discord-ext-dashboard](https://github.com/mak0226/discord-ext-dashboard) - A webhook and request based discord.py extension for making a bot dashboard
@@ -1296,7 +1297,6 @@
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [IOKernel/Subtitle_renamer](https://github.com/IOKernel/Subtitle_renamer) - A small script to automatically rename subtitle files in a folder
 - [IOKernel/MoveSonarrDB](https://github.com/IOKernel/MoveSonarrDB) - a script to move the Sonarr database from windows to Linux
-- [kjnsn/Fetlife-Automator](https://github.com/kjnsn/Fetlife-Automator) - 
 - [methos2016/FetlifeBot](https://github.com/methos2016/FetlifeBot) - 
 - [juliejonak/Data-Structures-Notes](https://github.com/juliejonak/Data-Structures-Notes) - Notes on the Data Structures Sprint for Lambda School
 - [juliejonak/Algorithms-Notes](https://github.com/juliejonak/Algorithms-Notes) - Notes on the How To Write and Analyze Algorithms lecture of CS Lambda School
