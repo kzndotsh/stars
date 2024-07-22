@@ -51,6 +51,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Sass](#sass)
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -241,6 +242,7 @@
 
 ## Go 
 
+- [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [tbal999/bb](https://github.com/tbal999/bb) - a pubnix bulletin board
@@ -737,6 +739,7 @@
 ## Nix 
 
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
@@ -1073,6 +1076,7 @@
 
 ## Python 
 
+- [wlinator/luminara](https://github.com/wlinator/luminara) - Fork this Discord bot and customize it to your needs! All use and modifications are subject to the GPL-3.0 License.
 - [seven7ty/typeshi](https://github.com/seven7ty/typeshi) - Dict to TypedDict generation and conversion utilities for Python 📖✨
 - [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
@@ -1571,6 +1575,10 @@
 - [sst/sst.dev](https://github.com/sst/sst.dev) - Repo for sst.dev
 - [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
 
+## Sass 
+
+- [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) - A useful overview and reference to the IRC client protocol as it is implemented today.
+
 ## Scheme 
 
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
@@ -1621,7 +1629,6 @@
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
 - [tudurom/dotfiles](https://github.com/tudurom/dotfiles) - My computing environment, in code form.
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
-- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, Hyprland, kitty, kakoune, zsh and more
 - [bobsoppe/zsh-ssh-agent](https://github.com/bobsoppe/zsh-ssh-agent) - Ssh-agent management for zsh
 - [user18130814200115-2/swayscripts](https://github.com/user18130814200115-2/swayscripts) - A collection of Scripts useful for swaywm
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
