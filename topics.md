@@ -897,6 +897,7 @@
 
 ## discord 
 
+- [wlinator/luminara](https://github.com/wlinator/luminara) - Fork this Discord bot and customize it to your needs! All use and modifications are subject to the GPL-3.0 License.
 - [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 - [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
@@ -2388,6 +2389,8 @@
 
 ## others 
 
+- [ircdocs/modern-irc](https://github.com/ircdocs/modern-irc) - A useful overview and reference to the IRC client protocol as it is implemented today.
+- [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
 - [mak0226/discord-ext-dashboard](https://github.com/mak0226/discord-ext-dashboard) - A webhook and request based discord.py extension for making a bot dashboard
 - [Discord-py-Projects/Discord.py-Moderation-Bot](https://github.com/Discord-py-Projects/Discord.py-Moderation-Bot) - A discord.py moderation bott
 - [discord/discord-interactions-python](https://github.com/discord/discord-interactions-python) - Useful tools for building interactions in Python
