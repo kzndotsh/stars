@@ -1076,6 +1076,12 @@
 
 ## Python 
 
+- [Kile/Killua](https://github.com/Kile/Killua) - Source code for the discord bot Killua
+- [cop-discord/discord-ext-utility](https://github.com/cop-discord/discord-ext-utility) - 
+- [keizaiya/discord-ext-flow](https://github.com/keizaiya/discord-ext-flow) - state-based UI flow control extension for discord.py
+- [Apollo-Roboto/discord.py-ext-prometheus](https://github.com/Apollo-Roboto/discord.py-ext-prometheus) - Add Prometheus to your Discord bot with this handy extension
+- [No767/discord-ext-ipcx](https://github.com/No767/discord-ext-ipcx) - A maintained discord.py extension for inter-process communication
+- [jukey17/discord-ext-commands-coghelper](https://github.com/jukey17/discord-ext-commands-coghelper) - base class for using discord.ext.commands.cog in discord.py.
 - [wlinator/luminara](https://github.com/wlinator/luminara) - Fork this Discord bot and customize it to your needs! All use and modifications are subject to the GPL-3.0 License.
 - [seven7ty/typeshi](https://github.com/seven7ty/typeshi) - Dict to TypedDict generation and conversion utilities for Python 📖✨
 - [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
@@ -1939,6 +1945,8 @@
 
 ## TypeScript 
 
+- [bobheadxi/readable](https://github.com/bobheadxi/readable) - 👓 Opinionated Markdown formatter, featuring semantic line breaks
+- [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes) - The github action that creates index pages for your project, the changes still need to be submitted afterwards
 - [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
