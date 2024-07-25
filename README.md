@@ -1084,6 +1084,8 @@
 
 ## Python 
 
+- [InterStella0/stella_bot](https://github.com/InterStella0/stella_bot) - stella bot that I made for fun
+- [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord bot, designed to streamline the management of Discord tournaments and servers.
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [Kile/Killua](https://github.com/Kile/Killua) - Source code for the discord bot Killua
 - [cop-discord/discord-ext-utility](https://github.com/cop-discord/discord-ext-utility) - 
