@@ -343,6 +343,7 @@
 
 ## automation 
 
+- [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord bot, designed to streamline the management of Discord tournaments and servers.
 - [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -572,6 +573,7 @@
 
 ## bot 
 
+- [InterStella0/stella_bot](https://github.com/InterStella0/stella_bot) - stella bot that I made for fun
 - [Kile/Killua](https://github.com/Kile/Killua) - Source code for the discord bot Killua
 - [Apollo-Roboto/discord.py-ext-prometheus](https://github.com/Apollo-Roboto/discord.py-ext-prometheus) - Add Prometheus to your Discord bot with this handy extension
 - [Naila/Naila.py](https://github.com/Naila/Naila.py) - Naila Bot written in discord.py
@@ -916,6 +918,7 @@
 
 ## discord 
 
+- [InterStella0/stella_bot](https://github.com/InterStella0/stella_bot) - stella bot that I made for fun
 - [Kile/Killua](https://github.com/Kile/Killua) - Source code for the discord bot Killua
 - [Apollo-Roboto/discord.py-ext-prometheus](https://github.com/Apollo-Roboto/discord.py-ext-prometheus) - Add Prometheus to your Discord bot with this handy extension
 - [wlinator/luminara](https://github.com/wlinator/luminara) - Fork this Discord bot and customize it to your needs! All use and modifications are subject to the GPL-3.0 License.
@@ -3547,6 +3550,7 @@
 
 ## python 
 
+- [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord bot, designed to streamline the management of Discord tournaments and servers.
 - [Apollo-Roboto/discord.py-ext-prometheus](https://github.com/Apollo-Roboto/discord.py-ext-prometheus) - Add Prometheus to your Discord bot with this handy extension
 - [seven7ty/typeshi](https://github.com/seven7ty/typeshi) - Dict to TypedDict generation and conversion utilities for Python 📖✨
 - [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
