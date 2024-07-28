@@ -751,7 +751,7 @@
 - [Difrex/sway](https://github.com/Difrex/sway) - My Sway configuration
 - [nickcorin/dotfiles](https://github.com/nickcorin/dotfiles) - Configuration files for my personal development environment
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
-- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - My dotfiles.
+- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
 - [bokub/i3-config](https://github.com/bokub/i3-config) - 🐍 A backup of my i3 config
@@ -1175,7 +1175,7 @@
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
 - [kzndotsh/dotfiles](https://github.com/kzndotsh/dotfiles) - There's no place like ~
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
-- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - My dotfiles.
+- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
 - [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
@@ -1947,7 +1947,7 @@
 - [kzndotsh/dotfiles](https://github.com/kzndotsh/dotfiles) - There's no place like ~
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor icon packs, themes, wallpapers and assets with a few clicks or lines of code.
-- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - My dotfiles.
+- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
 - [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
