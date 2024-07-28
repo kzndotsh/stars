@@ -169,7 +169,7 @@
 - [samiunblack/tokyo-night-theme](https://github.com/samiunblack/tokyo-night-theme) - Tokyo Night Theme for windows
 - [Gspr-bit/Spotify-Tokyo-Night-Theme](https://github.com/Gspr-bit/Spotify-Tokyo-Night-Theme) - Spotify Tokyo Night Theme to use with Spicetify
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
-- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - My dotfiles.
+- [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [BraydenTW/react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) - 👨‍🎨 An open-source portfolio template built with React and Tailwind.
 - [paljs/gatsby-admin-template](https://github.com/paljs/gatsby-admin-template) - Free admin dashboard template based on Gatsby with @paljs/ui component package
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
