@@ -1083,6 +1083,13 @@
 
 ## Python 
 
+- [zaneriley/discord-cogs-for-small-servers](https://github.com/zaneriley/discord-cogs-for-small-servers) - Discord cogs for Red focused on small servers / groups of friends
+- [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
+- [ZechCodes/pokeonta-bot](https://github.com/ZechCodes/pokeonta-bot) - Discord bot for the Pokeonta Pokemon Go group in Oneonta NY
+- [MikaelRegetz10/Dynamic-SelectMenu-discord](https://github.com/MikaelRegetz10/Dynamic-SelectMenu-discord) - 
+- [Sizzyexe/select-menu](https://github.com/Sizzyexe/select-menu) - discord bot
+- [Sugari-Bot/Luna](https://github.com/Sugari-Bot/Luna) - An easy drop in user-provided Templating system.
+- [nonchris/discord-role-selection](https://github.com/nonchris/discord-role-selection) - A role-selection-bot for discord using drop-down menus and slash commands
 - [ProgrammingPhilippines/progphil-bot](https://github.com/ProgrammingPhilippines/progphil-bot) - Programming Philippines Discord Bot
 - [InterStella0/stella_bot](https://github.com/InterStella0/stella_bot) - stella bot that I made for fun
 - [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord bot, designed to streamline the management of Discord tournaments and servers.
