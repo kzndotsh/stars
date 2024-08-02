@@ -242,6 +242,8 @@
 
 ## Go 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
@@ -1144,7 +1146,7 @@
 - [solaluset/SmartBot](https://github.com/solaluset/SmartBot) - A Discord bot
 - [vcokltfre/Myaer](https://github.com/vcokltfre/Myaer) - Discord bot written with discord.py.
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
-- [sheslitforme/pretend](https://github.com/sheslitforme/pretend) - 
+- [x32u/pretend](https://github.com/x32u/pretend) - 
 - [ElvaronGames/IdleRPG](https://github.com/ElvaronGames/IdleRPG) - A fantasy RPG bot for Discord.
 - [MelonBot-Development/melonutils](https://github.com/MelonBot-Development/melonutils) - Redbot utilities.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -1257,7 +1259,7 @@
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [gatheesha/dotfiles](https://github.com/gatheesha/dotfiles) - my tokyonight arch linux dots
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -1796,7 +1798,7 @@
 - [SkyyySi/dots-nordic](https://github.com/SkyyySi/dots-nordic) - My config files (using the Nordic theme)
 - [arcolinuxd/arco-i3](https://github.com/arcolinuxd/arco-i3) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
 - [xdrudis/video-scripts](https://github.com/xdrudis/video-scripts) - A script to compile FFmpeg and libraries from scratch, cross-platform (MacOs/Ubuntu/CentOS/Alpine, x86-64/arm), and not needing root access
-- [AP-Atul/FFmpeg-Scripts](https://github.com/AP-Atul/FFmpeg-Scripts) - A set of scripts using FFmpeg library to process videos and audios
+- [ap-atul/FFmpeg-Scripts](https://github.com/ap-atul/FFmpeg-Scripts) - A set of scripts using FFmpeg library to process videos and audios
 - [RandomNinjaAtk/Scripts](https://github.com/RandomNinjaAtk/Scripts) - 
 - [egara/arch-btrfs-installation](https://github.com/egara/arch-btrfs-installation) - This is a cheatsheet with all the instructions to perform an installation of Arch Linux using BTRFS filesystem in /
 - [JrCs/NZBGet](https://github.com/JrCs/NZBGet) - Utils for NZBGet
@@ -1964,6 +1966,8 @@
 
 ## TypeScript 
 
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you.
 - [bobheadxi/readable](https://github.com/bobheadxi/readable) - 👓 Opinionated Markdown formatter, featuring semantic line breaks
