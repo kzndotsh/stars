@@ -126,7 +126,7 @@
 ## C++ 
 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [nix-community/nix-unit](https://github.com/nix-community/nix-unit) - Unit testing for Nix code [maintainer=@adisbladis]
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [xue2sheng/boilerplateCodeDoc](https://github.com/xue2sheng/boilerplateCodeDoc) - Humble attempt to dissociate Backend generated data/schemas from friendly user Frontend formats
@@ -1085,6 +1085,7 @@
 
 ## Python 
 
+- [GnomedDev/enhanced-discord.py](https://github.com/GnomedDev/enhanced-discord.py) - An enhanced discord.py, based off of the now-archived discord.py project
 - [zaneriley/discord-cogs-for-small-servers](https://github.com/zaneriley/discord-cogs-for-small-servers) - Discord cogs for Red focused on small servers / groups of friends
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
 - [ZechCodes/pokeonta-bot](https://github.com/ZechCodes/pokeonta-bot) - Discord bot for the Pokeonta Pokemon Go group in Oneonta NY
@@ -1259,7 +1260,7 @@
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - OG CLI codegen project. Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [gatheesha/dotfiles](https://github.com/gatheesha/dotfiles) - my tokyonight arch linux dots
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -1995,7 +1996,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic discord framework 🧙‍♂️
