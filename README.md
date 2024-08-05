@@ -167,7 +167,7 @@
 - [Tezra-Desu/TokyoNights-Darker](https://github.com/Tezra-Desu/TokyoNights-Darker) - TokyoNights GTK Theme
 - [Dyzean/Tokyo-Night](https://github.com/Dyzean/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 - [samiunblack/tokyo-night-theme](https://github.com/samiunblack/tokyo-night-theme) - Tokyo Night Theme for windows
-- [Gspr-bit/Spotify-Tokyo-Night-Theme](https://github.com/Gspr-bit/Spotify-Tokyo-Night-Theme) - Spotify Tokyo Night Theme to use with Spicetify
+- [eveningg400/Spotify-Tokyo-Night-Theme](https://github.com/eveningg400/Spotify-Tokyo-Night-Theme) - Spotify Tokyo Night Theme to use with Spicetify
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [BraydenTW/react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) - 👨‍🎨 An open-source portfolio template built with React and Tailwind.
@@ -1086,6 +1086,9 @@
 
 ## Python 
 
+- [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
+- [cheran-senthil/TLE](https://github.com/cheran-senthil/TLE) - 🤖 Discord Bot for Competitive Programming
+- [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [GnomedDev/enhanced-discord.py](https://github.com/GnomedDev/enhanced-discord.py) - An enhanced discord.py, based off of the now-archived discord.py project
 - [zaneriley/discord-cogs-for-small-servers](https://github.com/zaneriley/discord-cogs-for-small-servers) - Discord cogs for Red focused on small servers / groups of friends
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
