@@ -573,6 +573,7 @@
 
 ## bot 
 
+- [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
 - [InterStella0/stella_bot](https://github.com/InterStella0/stella_bot) - stella bot that I made for fun
 - [Kile/Killua](https://github.com/Kile/Killua) - Source code for the discord bot Killua
@@ -921,6 +922,8 @@
 
 ## discord 
 
+- [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
+- [cheran-senthil/TLE](https://github.com/cheran-senthil/TLE) - 🤖 Discord Bot for Competitive Programming
 - [zaneriley/discord-cogs-for-small-servers](https://github.com/zaneriley/discord-cogs-for-small-servers) - Discord cogs for Red focused on small servers / groups of friends
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
 - [nonchris/discord-role-selection](https://github.com/nonchris/discord-role-selection) - A role-selection-bot for discord using drop-down menus and slash commands
@@ -2144,6 +2147,7 @@
 
 ## music 
 
+- [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
 - [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
 - [discordx-ts/templates](https://github.com/discordx-ts/templates) - templates of create-discordx
@@ -2873,7 +2877,7 @@
 - [kappq/dotfiles](https://github.com/kappq/dotfiles) - My dotfiles based on the Tokyo Night theme.
 - [samiunblack/tokyo-night-theme](https://github.com/samiunblack/tokyo-night-theme) - Tokyo Night Theme for windows
 - [TokyoNightTheme/TokyoNightTheme](https://github.com/TokyoNightTheme/TokyoNightTheme) - A collection of TokyoNight themes for various applications. Inspired by Enkia
-- [Gspr-bit/Spotify-Tokyo-Night-Theme](https://github.com/Gspr-bit/Spotify-Tokyo-Night-Theme) - Spotify Tokyo Night Theme to use with Spicetify
+- [eveningg400/Spotify-Tokyo-Night-Theme](https://github.com/eveningg400/Spotify-Tokyo-Night-Theme) - Spotify Tokyo Night Theme to use with Spicetify
 - [nathanroark/tokyo-night-gnome-terminal](https://github.com/nathanroark/tokyo-night-gnome-terminal) - A clean, Gnome Terminal theme that celebrates the lights of Downtown Tokyo at night.
 - [hoshiya4522/tokyo-night-tmux](https://github.com/hoshiya4522/tokyo-night-tmux) - A minimalist Tokyo Night theme for tmux.
 - [tokyo-night/wallpapers](https://github.com/tokyo-night/wallpapers) - Matching wallpapers for your Tokyo Night setup.
@@ -3576,6 +3580,8 @@
 
 ## python 
 
+- [cheran-senthil/TLE](https://github.com/cheran-senthil/TLE) - 🤖 Discord Bot for Competitive Programming
+- [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
 - [nonchris/discord-role-selection](https://github.com/nonchris/discord-role-selection) - A role-selection-bot for discord using drop-down menus and slash commands
 - [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord bot, designed to streamline the management of Discord tournaments and servers.
@@ -4146,6 +4152,7 @@
 
 ## stable-diffusion 
 
+- [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 
 ## statistics 
