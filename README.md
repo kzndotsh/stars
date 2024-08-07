@@ -242,7 +242,7 @@
 
 ## Go 
 
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
@@ -1065,7 +1065,6 @@
 - [andrewning/sortphotos](https://github.com/andrewning/sortphotos) - SortPhotos is a Python script that organizes photos and videos into folders using date/time information
 - [droidzone/scripts](https://github.com/droidzone/scripts) - scripts that I have made and you may find useful
 - [JakeSorensen/Plex-Reporter](https://github.com/JakeSorensen/Plex-Reporter) - A simple client usage reporting script for Plex Media Server
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 - [InteliSecureLabs/Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) - Linux Exploit Suggester; based on operating system release number
 
 ## PowerShell 
@@ -1615,6 +1614,7 @@
 ## Scheme 
 
 - [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
 
 ## Shell 
 
