@@ -1556,7 +1556,7 @@
 
 ## hacktoberfest 
 
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
 - [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
 - [Voxel-Fox-Ltd/VoxelBotUtils](https://github.com/Voxel-Fox-Ltd/VoxelBotUtils) - An extension of the Discord.py library to improve the bot development process.
@@ -3986,7 +3986,7 @@
 
 ## security 
 
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [pyupio/safety](https://github.com/pyupio/safety) - Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
