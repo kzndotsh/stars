@@ -3242,7 +3242,7 @@
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
 - [allergicduck/jackett-sync-ts](https://github.com/allergicduck/jackett-sync-ts) - Sync all Jackett indexers to Sonarr, Radarr, Lidarr and Readarr
 - [lutris/docs](https://github.com/lutris/docs) - 
-- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.
+- [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) - A simple guide (and example of configuration) about to install i3 & its and essentials packages, then make them look eye candy
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
 - [nwithan8/Arca](https://github.com/nwithan8/Arca) - Arca, a Discord bot for BigBox. Cogs for discord.py bots
