@@ -573,6 +573,7 @@
 
 ## bot 
 
+- [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 - [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
 - [InterStella0/stella_bot](https://github.com/InterStella0/stella_bot) - stella bot that I made for fun
@@ -923,6 +924,7 @@
 
 ## discord 
 
+- [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 - [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
 - [cheran-senthil/TLE](https://github.com/cheran-senthil/TLE) - 🤖 Discord Bot for Competitive Programming
 - [zaneriley/discord-cogs-for-small-servers](https://github.com/zaneriley/discord-cogs-for-small-servers) - Discord cogs for Red focused on small servers / groups of friends
@@ -2449,6 +2451,7 @@
 
 ## others 
 
+- [somechazzy/ohana-bot](https://github.com/somechazzy/ohana-bot) - Source code for Discord bot Ohana. http://invite.ohanabot.xyz/
 - [cop-discord/disdick](https://github.com/cop-discord/disdick) - 
 - [sjinnovation/CollaborativeAI](https://github.com/sjinnovation/CollaborativeAI) - Dive into the future of AI with CollaborativeAi.Software, your solution for using OpenAI's API to power ChatGPT on your server. Our platform simplifies running your ChatGPT, managing access for unlimi
 - [GnomedDev/enhanced-discord.py](https://github.com/GnomedDev/enhanced-discord.py) - An enhanced discord.py, based off of the now-archived discord.py project
@@ -3584,6 +3587,7 @@
 
 ## python 
 
+- [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 - [cheran-senthil/TLE](https://github.com/cheran-senthil/TLE) - 🤖 Discord Bot for Competitive Programming
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
