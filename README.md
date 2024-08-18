@@ -796,6 +796,8 @@
 
 ## Others 
 
+- [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
+- [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -1085,6 +1087,7 @@
 
 ## Python 
 
+- [python-poetry/install.python-poetry.org](https://github.com/python-poetry/install.python-poetry.org) - The official Poetry installation script
 - [somechazzy/ohana-bot](https://github.com/somechazzy/ohana-bot) - Source code for Discord bot Ohana. http://invite.ohanabot.xyz/
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 - [cop-discord/disdick](https://github.com/cop-discord/disdick) - 
@@ -1974,6 +1977,7 @@
 
 ## TypeScript 
 
+- [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
