@@ -167,7 +167,7 @@
 - [Tezra-Desu/TokyoNights-Darker](https://github.com/Tezra-Desu/TokyoNights-Darker) - TokyoNights GTK Theme
 - [Dyzean/Tokyo-Night](https://github.com/Dyzean/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 - [samiunblack/tokyo-night-theme](https://github.com/samiunblack/tokyo-night-theme) - Tokyo Night Theme for windows
-- [eveningg400/Spotify-Tokyo-Night-Theme](https://github.com/eveningg400/Spotify-Tokyo-Night-Theme) - Spotify Tokyo Night Theme to use with Spicetify
+- [evening-hs/Spotify-Tokyo-Night-Theme](https://github.com/evening-hs/Spotify-Tokyo-Night-Theme) - Spotify Tokyo Night Theme to use with Spicetify
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [BraydenTW/react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) - 👨‍🎨 An open-source portfolio template built with React and Tailwind.
@@ -451,7 +451,6 @@
 - [react-csv/react-csv](https://github.com/react-csv/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data
 - [apivideo/Next.js_Starters-](https://github.com/apivideo/Next.js_Starters-) - Setup ESLint, Prettier, and Husky  with TypeScript
 - [wei/github-project-notifier](https://github.com/wei/github-project-notifier) - A Discord 🤖 that notifies on GitHub Project Card updates
-- [web-mech/badwords](https://github.com/web-mech/badwords) - A javascript filter for badwords
 - [fisker/git-hooks-list](https://github.com/fisker/git-hooks-list) - List of Git hooks
 - [abalabahaha/eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
@@ -2078,6 +2077,7 @@
 - [ejazahm3d/fullstack-turborepo-starter](https://github.com/ejazahm3d/fullstack-turborepo-starter) - Fullstack Turborepo starter. Typescript, Nestjs, Nextjs, Tailwind, Prisma, Github Actions, Docker, And Reverse proxy configured
 - [aronson/discord-irc](https://github.com/aronson/discord-irc) - Connects Discord and IRC channels by sending messages back and forth.
 - [ZeppelinBot/Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Zeppelin is a moderation bot for Discord, designed with large servers and reliability in mind.
+- [web-mech/badwords](https://github.com/web-mech/badwords) - A javascript filter for badwords
 - [onesoft-sudo/sudobot](https://github.com/onesoft-sudo/sudobot) - A Discord Bot for moderation purposes.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
