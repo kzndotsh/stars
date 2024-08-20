@@ -654,7 +654,6 @@
 - [Secretmapper/combustion](https://github.com/Secretmapper/combustion) - Combustion is a sleek, modern web interface for Transmission
 - [bboxapi/bbox-serverinstall](https://github.com/bboxapi/bbox-serverinstall) - bbox-serverinstall
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [QuickBox/QB](https://github.com/QuickBox/QB) - QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability
 - [johnduro/seedbox42](https://github.com/johnduro/seedbox42) - Teurpi Torrent allows you to turn a dedicated server into a seedbox easily.
 - [KevinWang15/seedbox-bot](https://github.com/KevinWang15/seedbox-bot) - Seedbox automation bot, featuring rss and auto deletion. Compatible with multiple WebUIs. Supports multiple user.
@@ -795,6 +794,7 @@
 
 ## Others 
 
+- [Dogino/Discord-Phishing-URLs](https://github.com/Dogino/Discord-Phishing-URLs) - Daily updated list.txt and Pi-Hole adlist of phishing domains used on Discord & Steam
 - [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -1086,6 +1086,13 @@
 
 ## Python 
 
+- [pikaninja/discord-ext-menus-views](https://github.com/pikaninja/discord-ext-menus-views) - A simple layer over discord.ext.menus using the new discord.ui components in discord.py v2.0.
+- [avizum/alpine](https://github.com/avizum/alpine) - Discord bot written in Python with discord.py
+- [clari7744/DPyUtils](https://github.com/clari7744/DPyUtils) - Some extra discord.py utilities
+- [XuaTheGrate/slash_util](https://github.com/XuaTheGrate/slash_util) - A simple script to add application command support to discord.py v2.0
+- [DuckBot-Discord/DuckBot](https://github.com/DuckBot-Discord/DuckBot) - Repo for the source code of DuckBot!
+- [wasi-master/dpylint](https://github.com/wasi-master/dpylint) - An extension for linting discord.py with pylint
+- [AbstractUmbra/Mipha](https://github.com/AbstractUmbra/Mipha) - A personal use discord bot.
 - [python-poetry/install.python-poetry.org](https://github.com/python-poetry/install.python-poetry.org) - The official Poetry installation script
 - [somechazzy/ohana-bot](https://github.com/somechazzy/ohana-bot) - Source code for Discord bot Ohana. http://invite.ohanabot.xyz/
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
