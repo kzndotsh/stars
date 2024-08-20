@@ -581,6 +581,7 @@
 
 ## bot 
 
+- [Dogino/Discord-Phishing-URLs](https://github.com/Dogino/Discord-Phishing-URLs) - Daily updated list.txt and Pi-Hole adlist of phishing domains used on Discord & Steam
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 - [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
@@ -671,13 +672,11 @@
 - [M4hbod/Better-New-Tab](https://github.com/M4hbod/Better-New-Tab) - New tab with Tokyo Night theme and Search Bar
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## chrome-extension 
 
 - [woodruffw/ff2mpv](https://github.com/woodruffw/ff2mpv) - A Firefox/Chrome add-on for playing URLs in mpv.
 - [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## cli 
 
@@ -932,6 +931,9 @@
 
 ## discord 
 
+- [avizum/alpine](https://github.com/avizum/alpine) - Discord bot written in Python with discord.py
+- [Dogino/Discord-Phishing-URLs](https://github.com/Dogino/Discord-Phishing-URLs) - Daily updated list.txt and Pi-Hole adlist of phishing domains used on Discord & Steam
+- [DuckBot-Discord/DuckBot](https://github.com/DuckBot-Discord/DuckBot) - Repo for the source code of DuckBot!
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 - [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
 - [cheran-senthil/TLE](https://github.com/cheran-senthil/TLE) - 🤖 Discord Bot for Competitive Programming
@@ -1348,7 +1350,6 @@
 - [M4hbod/Better-New-Tab](https://github.com/M4hbod/Better-New-Tab) - New tab with Tokyo Night theme and Search Bar
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## flask 
 
@@ -2472,6 +2473,10 @@
 
 ## others 
 
+- [pikaninja/discord-ext-menus-views](https://github.com/pikaninja/discord-ext-menus-views) - A simple layer over discord.ext.menus using the new discord.ui components in discord.py v2.0.
+- [clari7744/DPyUtils](https://github.com/clari7744/DPyUtils) - Some extra discord.py utilities
+- [XuaTheGrate/slash_util](https://github.com/XuaTheGrate/slash_util) - A simple script to add application command support to discord.py v2.0
+- [AbstractUmbra/Mipha](https://github.com/AbstractUmbra/Mipha) - A personal use discord bot.
 - [somechazzy/ohana-bot](https://github.com/somechazzy/ohana-bot) - Source code for Discord bot Ohana. http://invite.ohanabot.xyz/
 - [cop-discord/disdick](https://github.com/cop-discord/disdick) - 
 - [sjinnovation/CollaborativeAI](https://github.com/sjinnovation/CollaborativeAI) - Dive into the future of AI with CollaborativeAi.Software, your solution for using OpenAI's API to power ChatGPT on your server. Our platform simplifies running your ChatGPT, managing access for unlimi
@@ -3606,6 +3611,8 @@
 
 ## python 
 
+- [DuckBot-Discord/DuckBot](https://github.com/DuckBot-Discord/DuckBot) - Repo for the source code of DuckBot!
+- [wasi-master/dpylint](https://github.com/wasi-master/dpylint) - An extension for linting discord.py with pylint
 - [python-poetry/install.python-poetry.org](https://github.com/python-poetry/install.python-poetry.org) - The official Poetry installation script
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 - [cheran-senthil/TLE](https://github.com/cheran-senthil/TLE) - 🤖 Discord Bot for Competitive Programming
