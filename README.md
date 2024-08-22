@@ -386,7 +386,7 @@
 - [cape-io/airtable-schema](https://github.com/cape-io/airtable-schema) - Download Airtable schema to JSON file.
 - [ssotax/ssotax](https://github.com/ssotax/ssotax) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts, plugins, claiming & more! All using discord.js v14 with json database!
+- [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts, plugins, questions, claiming, pinning & more! Using discord.js v14 & JSON database!
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
@@ -527,7 +527,7 @@
 - [imadatyatalah/nextjs-chakra-ui-portfolio-template](https://github.com/imadatyatalah/nextjs-chakra-ui-portfolio-template) - Next.js & Chakra-UI portfolio template.
 - [vercel/nextjs-portfolio-starter](https://github.com/vercel/nextjs-portfolio-starter) - Easily create a portfolio with Next.js and Markdown.
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [kausko/Portfolio](https://github.com/kausko/Portfolio) - My portfolio (+ template) built using Next.js
 - [kausko/Discord-Google-Drive-Bot](https://github.com/kausko/Discord-Google-Drive-Bot) - A Discord bot that pulls media from your Google Drive
