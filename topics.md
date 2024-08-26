@@ -760,6 +760,7 @@
 
 ## config 
 
+- [Izder456/dotfiles](https://github.com/Izder456/dotfiles) - My OpenBSD Dotfiles
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [fuku77/dotfiles](https://github.com/fuku77/dotfiles) - Collection of my custom configuration files.
 - [joelazar/dotfiles](https://github.com/joelazar/dotfiles) - Dotfiles for my macos setup
@@ -1153,6 +1154,7 @@
 
 ## dotfiles 
 
+- [Izder456/dotfiles](https://github.com/Izder456/dotfiles) - My OpenBSD Dotfiles
 - [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [getantidote/zdotdir](https://github.com/getantidote/zdotdir) - A full-featured sample Zsh config driven by antidote
@@ -3524,6 +3526,7 @@
 
 ## perl 
 
+- [Izder456/dotfiles](https://github.com/Izder456/dotfiles) - My OpenBSD Dotfiles
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
