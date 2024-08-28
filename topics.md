@@ -3624,6 +3624,7 @@
 
 ## python 
 
+- [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [DuckBot-Discord/DuckBot](https://github.com/DuckBot-Discord/DuckBot) - Repo for the source code of DuckBot!
 - [wasi-master/dpylint](https://github.com/wasi-master/dpylint) - An extension for linting discord.py with pylint
 - [python-poetry/install.python-poetry.org](https://github.com/python-poetry/install.python-poetry.org) - The official Poetry installation script
