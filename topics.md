@@ -29,6 +29,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -52,6 +53,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
+- [dependency-management](#dependency-management)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -663,6 +665,10 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 
+## chatbot 
+
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
+
 ## chatgpt 
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -892,6 +898,10 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 
+## dependency-management 
+
+- [pyupio/safety](https://github.com/pyupio/safety) - Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
+
 ## deployment 
 
 - [taw00/howto](https://github.com/taw00/howto) - Dumping ground for various HowTo documents that I produce
@@ -1008,7 +1018,7 @@
 - [aronson/discord-irc](https://github.com/aronson/discord-irc) - Connects Discord and IRC channels by sending messages back and forth.
 - [AallynReed/TroveBot](https://github.com/AallynReed/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
 - [Voxel-Fox-Ltd/Profile](https://github.com/Voxel-Fox-Ltd/Profile) - A Discord bot for storing profiles, characters, and other user information in an easy and modular way.
-- [Defxult/reactionmenu](https://github.com/Defxult/reactionmenu) - A library to create a discord.py 2.0+ paginator. Supports pagination with buttons, reactions, and category selection using selects.
+- [Defxult/reactionmenu](https://github.com/Defxult/reactionmenu) - A library to create a discord.py 2.0+ paginator (reaction menu/buttons menu). Supports pagination with buttons, reactions, and category selection using selects.
 - [MelisaDev/melisa](https://github.com/MelisaDev/melisa) - MelisaPy is a cache-optimized Discord microframework for Python 3
 - [TeamAutoMod/AutoMod](https://github.com/TeamAutoMod/AutoMod) - Discord Moderation Bot
 - [onesoft-sudo/sudobot](https://github.com/onesoft-sudo/sudobot) - A Discord Bot for moderation purposes.
@@ -1596,7 +1606,6 @@
 - [EmreOvunc/Linux-System-Management-Scripts-Tricks](https://github.com/EmreOvunc/Linux-System-Management-Scripts-Tricks) - Linux Security & Linux Hardening & Linux Management & Linux Configuration
 - [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
@@ -2130,7 +2139,7 @@
 
 ## material-design 
 
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [dunky11/react-saas-template](https://github.com/dunky11/react-saas-template) - 🌊   Template for building an SaaS / admin website using React + Material-UI
 
 ## mobile 
@@ -3693,7 +3702,7 @@
 - [engineer-man/felix](https://github.com/engineer-man/felix) - Felix Discord Bot
 - [DevSkyOne/Drops](https://github.com/DevSkyOne/Drops) - A bot to drop gifts to your community. Highly customizable and automatable. (soon)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [Defxult/reactionmenu](https://github.com/Defxult/reactionmenu) - A library to create a discord.py 2.0+ paginator. Supports pagination with buttons, reactions, and category selection using selects.
+- [Defxult/reactionmenu](https://github.com/Defxult/reactionmenu) - A library to create a discord.py 2.0+ paginator (reaction menu/buttons menu). Supports pagination with buttons, reactions, and category selection using selects.
 - [MelisaDev/melisa](https://github.com/MelisaDev/melisa) - MelisaPy is a cache-optimized Discord microframework for Python 3
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
@@ -3825,7 +3834,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
