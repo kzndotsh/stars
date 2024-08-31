@@ -328,6 +328,7 @@
 - [santiblanko/tailwind-keycloak-theme](https://github.com/santiblanko/tailwind-keycloak-theme) - tailwindUI + keycloak = awesome theme
 - [fzorb/feline.email](https://github.com/fzorb/feline.email) - 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
+- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
 - [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [Ruixi-rebirth/sway-dotfiles](https://github.com/Ruixi-rebirth/sway-dotfiles) - ⚡️Make it simple⚡️
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
@@ -686,7 +687,6 @@
 
 ## Lua 
 
-- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [handshou/init.lua](https://github.com/handshou/init.lua) - My Neovim config heavily inspired by @ThePrimeagen.
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux Dotfiles (Manjaro + KDE Plasma 6)
@@ -1088,6 +1088,7 @@
 
 ## Python 
 
+- [repology/repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) - OpenTelemetry instrumentation for Python modules
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [osfameron/explane](https://github.com/osfameron/explane) - Explain commands (with output like a CLI version of explainshell)
