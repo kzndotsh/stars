@@ -165,7 +165,7 @@
 - [tcmmichaelb139/obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
 - [zhensheng1124/logseq-tokyo-night-theme](https://github.com/zhensheng1124/logseq-tokyo-night-theme) - 
 - [Tezra-Desu/TokyoNights-Darker](https://github.com/Tezra-Desu/TokyoNights-Darker) - TokyoNights GTK Theme
-- [Dyzean/Tokyo-Night](https://github.com/Dyzean/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
+- [ashtrath/Tokyo-Night](https://github.com/ashtrath/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 - [samiunblack/tokyo-night-theme](https://github.com/samiunblack/tokyo-night-theme) - Tokyo Night Theme for windows
 - [evening-hs/Spotify-Tokyo-Night-Theme](https://github.com/evening-hs/Spotify-Tokyo-Night-Theme) - Spotify Tokyo Night Theme to use with Spicetify
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
