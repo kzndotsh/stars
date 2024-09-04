@@ -740,6 +740,7 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 
 ## Nix 
@@ -924,7 +925,6 @@
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Jiratech/boilerplates-openapi-schema](https://github.com/Jiratech/boilerplates-openapi-schema) - 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 - [WordPress/Advanced-administration-handbook](https://github.com/WordPress/Advanced-administration-handbook) - WordPress Advanced Administration Handbook. This handbook will have the most technical, general, documentation about WordPress.
@@ -1216,6 +1216,7 @@
 - [pyupio/safety](https://github.com/pyupio/safety) - Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
 - [Titaniumtown/pyfetch](https://github.com/Titaniumtown/pyfetch) - Port of Neofetch to python
 - [finlaysawyer/discord-uptime](https://github.com/finlaysawyer/discord-uptime) - Discord bot to monitor uptime of services using ping and http requests
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [Axobot-org/Axobot](https://github.com/Axobot-org/Axobot) - A cool multipurpose Discord bot made in Python
 - [RobertCraigie/prismo](https://github.com/RobertCraigie/prismo) - The bot for the Prisma Python discord server
 - [anand2312/crajybot](https://github.com/anand2312/crajybot) - A small Discord bot
@@ -2025,7 +2026,6 @@
 - [gabrielalmeida/airtable-formula-builder](https://github.com/gabrielalmeida/airtable-formula-builder) - Airtable Formula Builder 𝒇
 - [Qualifyze/airtable-formulator](https://github.com/Qualifyze/airtable-formulator) - Airtable Formula Manipulator
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -2181,7 +2181,7 @@
 - [tuanlc/express-prisma-postgresql-boilerplate](https://github.com/tuanlc/express-prisma-postgresql-boilerplate) - This boilerplate follows clean architecture with SOLID principles. This sample define a simple user schema and handle two endpoints that allows users to create new accounts and login by them. There is
 - [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
