@@ -3038,7 +3038,7 @@
 - [Jiratech/boilerplates-openapi-schema](https://github.com/Jiratech/boilerplates-openapi-schema) - 
 - [Azure/draft](https://github.com/Azure/draft) - A day 0 tool for getting your app on k8s fast
 - [hasura/data-hub](https://github.com/hasura/data-hub) - Explore data sources from a native GraphQL API, database schemas to custom code contributed by the community.
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
