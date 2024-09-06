@@ -178,7 +178,6 @@
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - SaaStr is a React SaaS boilerplate to kickstart your new SaaS adventure as fast as possible. Built on top of Adonis JS for the BackEnd and React Starter Kit for the Front-End
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [scriptex/itcss](https://github.com/scriptex/itcss) - Starter CSS boilerplate utilizing the ITCSS pattern
 - [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
@@ -244,7 +243,7 @@
 
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database hyper-optimized for building real-time applications with SQL-based real-time reactivity baked in.
 - [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
@@ -579,6 +578,7 @@
 - [dunky11/react-saas-template](https://github.com/dunky11/react-saas-template) - 🌊   Template for building an SaaS / admin website using React + Material-UI
 - [aws-samples/aws-saas-factory-bootcamp](https://github.com/aws-samples/aws-saas-factory-bootcamp) - SaaS on AWS Bootcamp - Building SaaS Solutions on AWS
 - [fireactjs/saas](https://github.com/fireactjs/saas) - A fully functional React web application for SaaS projects. It's built with React, Firebase and Stripe.
+- [aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) - We recommend using this amazing boilerplate (our team now use Makerkit instead of SaaStr): https://makerkit.dev/ -- React SaaS boilerplate to kickstart your new SaaS adventure as fast as possible. Bui
 - [cedrickchee/saas-starter](https://github.com/cedrickchee/saas-starter) - Everything you need to get your next Unicorn-For-X startup off the ground.
 - [erikras/ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - A proposal for bundling reducers, action types and actions when using Redux
 - [soapsropes/fetlife](https://github.com/soapsropes/fetlife) - FetLife API client for node
@@ -1077,7 +1077,7 @@
 - [chall32/Plex-Parse](https://github.com/chall32/Plex-Parse) - Export Plex Libraries to .csv
 - [spotpuff/rename_subtitles](https://github.com/spotpuff/rename_subtitles) - Scripts to rename subtitles for Plex
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for every system!
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for every system!
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
 - [fscorrupt/docker-tautulli2discord](https://github.com/fscorrupt/docker-tautulli2discord) - Send Tautulli Stats via Webhook to Discord Channel
 - [fscorrupt/docker-plexstatus2discord](https://github.com/fscorrupt/docker-plexstatus2discord) - Send the Status from status.plex.tv to Discord
@@ -1286,7 +1286,7 @@
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [gatheesha/dotfiles](https://github.com/gatheesha/dotfiles) - my tokyonight arch linux dots
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -1567,6 +1567,7 @@
 
 ## Ruby 
 
+- [mrcnski/compnav](https://github.com/mrcnski/compnav) - Complete shell navigation: better up, z, and h
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [axsuul/plex-media-server-exporter](https://github.com/axsuul/plex-media-server-exporter) - A better Prometheus exporter for Plex Media Server
@@ -2003,7 +2004,7 @@
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you.
+- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [bobheadxi/readable](https://github.com/bobheadxi/readable) - 👓 Opinionated Markdown formatter, featuring semantic line breaks
 - [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes) - The github action that creates index pages for your project, the changes still need to be submitted afterwards
 - [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
