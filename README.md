@@ -354,6 +354,7 @@
 - [RXWatcher/plex-portal](https://github.com/RXWatcher/plex-portal) - This is just a mock-up web application that uses the idea of selling access to your Plex server. Built with Meteor.js
 - [Mause/media](https://github.com/Mause/media) - A merging of various media source APIs, Plex, and Transmission
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [bstascavage/plexReport](https://github.com/bstascavage/plexReport) - Scripts to generate a weekly email of new additions to Plex
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [hak5/omg-payloads](https://github.com/hak5/omg-payloads) - Official payload library for the O.MG line of products from Mischief Gadgets
@@ -637,7 +638,6 @@
 - [Transmogrify-for-Plex/Transmogrify-for-Plex-chrome](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) - A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
 - [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [Jorengarenar/RedditOld_MarkedJS.user.js](https://github.com/Jorengarenar/RedditOld_MarkedJS.user.js) - Replace Markdown renderer on Old Reddit with MarkedJS
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
@@ -1091,6 +1091,12 @@
 
 ## Python 
 
+- [surgedevs/thread-creator](https://github.com/surgedevs/thread-creator) - A Discord bot made in pycord that creates threads using a button on an embed.
+- [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
+- [cbrxyz/pi-bot](https://github.com/cbrxyz/pi-bot) - 🤖 Scioly.org's resident bot
+- [rtk-rnjn/Parrot](https://github.com/rtk-rnjn/Parrot) - Parrot Bot is your all-in-one Discord utility, offering features like starboards, reminders, giveaways, moderation, coding tools, and games
+- [discord-math/bot](https://github.com/discord-math/bot) - 
+- [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
 - [repology/repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
 - [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) - OpenTelemetry instrumentation for Python modules
