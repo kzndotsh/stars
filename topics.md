@@ -585,6 +585,9 @@
 
 ## bot 
 
+- [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
+- [rtk-rnjn/Parrot](https://github.com/rtk-rnjn/Parrot) - Parrot Bot is your all-in-one Discord utility, offering features like starboards, reminders, giveaways, moderation, coding tools, and games
+- [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
 - [Dogino/Discord-Phishing-URLs](https://github.com/Dogino/Discord-Phishing-URLs) - Daily updated list.txt and Pi-Hole adlist of phishing domains used on Discord & Steam
 - [Nirlep5252/EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
 - [Kilvoctu/aiyabot](https://github.com/Kilvoctu/aiyabot) - A neat Discord bot for AUTOMATIC1111's Web UI
@@ -955,6 +958,9 @@
 
 ## discord 
 
+- [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
+- [rtk-rnjn/Parrot](https://github.com/rtk-rnjn/Parrot) - Parrot Bot is your all-in-one Discord utility, offering features like starboards, reminders, giveaways, moderation, coding tools, and games
+- [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
 - [avizum/alpine](https://github.com/avizum/alpine) - Discord bot written in Python with discord.py
 - [Dogino/Discord-Phishing-URLs](https://github.com/Dogino/Discord-Phishing-URLs) - Daily updated list.txt and Pi-Hole adlist of phishing domains used on Discord & Steam
 - [DuckBot-Discord/DuckBot](https://github.com/DuckBot-Discord/DuckBot) - Repo for the source code of DuckBot!
@@ -2505,6 +2511,9 @@
 
 ## others 
 
+- [surgedevs/thread-creator](https://github.com/surgedevs/thread-creator) - A Discord bot made in pycord that creates threads using a button on an embed.
+- [cbrxyz/pi-bot](https://github.com/cbrxyz/pi-bot) - 🤖 Scioly.org's resident bot
+- [discord-math/bot](https://github.com/discord-math/bot) - 
 - [jjj333-p/anti-spam-community-efforts](https://github.com/jjj333-p/anti-spam-community-efforts) - Using patterns identified from belligerent spamming campaigns message contents, a strategic defensive deployment for automated combatant operations in real-time communication interoperable ecosystems.
 - [bkil/anti-spam-community-efforts](https://github.com/bkil/anti-spam-community-efforts) - Fork for PR. Maybe be complementary to https://github.com/bkil/banhaxmer
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
@@ -3651,6 +3660,8 @@
 
 ## python 
 
+- [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
+- [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [DuckBot-Discord/DuckBot](https://github.com/DuckBot-Discord/DuckBot) - Repo for the source code of DuckBot!
@@ -3789,6 +3800,8 @@
 
 ## python3 
 
+- [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
+- [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [seven7ty/typeshi](https://github.com/seven7ty/typeshi) - Dict to TypedDict generation and conversion utilities for Python 📖✨
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
