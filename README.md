@@ -671,6 +671,7 @@
 
 ## Jupyter Notebook 
 
+- [aditya20-b/FishyPhishy](https://github.com/aditya20-b/FishyPhishy) - SiH PS 1454 solution
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [88lex/safire](https://github.com/88lex/safire) - 
 
@@ -799,6 +800,7 @@
 
 ## Others 
 
+- [popstar7/nvim-guide](https://github.com/popstar7/nvim-guide) - 
 - [jjj333-p/anti-spam-community-efforts](https://github.com/jjj333-p/anti-spam-community-efforts) - Using patterns identified from belligerent spamming campaigns message contents, a strategic defensive deployment for automated combatant operations in real-time communication interoperable ecosystems.
 - [bkil/anti-spam-community-efforts](https://github.com/bkil/anti-spam-community-efforts) - Fork for PR. Maybe be complementary to https://github.com/bkil/banhaxmer
 - [Dogino/Discord-Phishing-URLs](https://github.com/Dogino/Discord-Phishing-URLs) - Daily updated list.txt and Pi-Hole adlist of phishing domains used on Discord & Steam
@@ -878,7 +880,6 @@
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [mikejonesey/hp-envy-15-ah150sa](https://github.com/mikejonesey/hp-envy-15-ah150sa) - DSDT for hp-envy-15-ah150sa
-- [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [kitsunebishi/Wallpapers](https://github.com/kitsunebishi/Wallpapers) - a collection of my best wallpapers
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [ZvonimirKucis/conky](https://github.com/ZvonimirKucis/conky) - Simple Conky configuration for my desktop PC
@@ -1092,6 +1093,12 @@
 
 ## Python 
 
+- [Kraots/ukiyo](https://github.com/Kraots/ukiyo) - 
+- [NQN-Discord/MessageHandler](https://github.com/NQN-Discord/MessageHandler) - The message filter NQN uses to filter out messages it doesn't need to process
+- [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
+- [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 400k+ users ✨🚀
+- [jvllmr/poetry-types](https://github.com/jvllmr/poetry-types) - A poetry plugin that adds/removes type stubs as dependencies like the mypy --install-types command.
+- [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
 - [surgedevs/thread-creator](https://github.com/surgedevs/thread-creator) - A Discord bot made in pycord that creates threads using a button on an embed.
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
 - [cbrxyz/pi-bot](https://github.com/cbrxyz/pi-bot) - 🤖 Scioly.org's resident bot
@@ -1769,6 +1776,7 @@
 - [graysky2/hosts-update](https://github.com/graysky2/hosts-update) - Updates /etc/hosts with the mvps blocklist to prevent thousands of parasites, hijackers and unwanted adware/spyware/privacy websites from working.
 - [graysky2/bin](https://github.com/graysky2/bin) - Collection of scripts perhaps of utility to others.
 - [graysky2/anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
+- [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [b1337xyz/config](https://github.com/b1337xyz/config) - 
 - [ArchItalia/clean](https://github.com/ArchItalia/clean) - Clean easy command for arch linux
 - [FrenzyExists/wallpapers](https://github.com/FrenzyExists/wallpapers) - My personal Pick of wallpapers
