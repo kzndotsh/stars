@@ -2014,6 +2014,12 @@
 
 ## TypeScript 
 
+- [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui) - 100% FREE Collection of Premium Web Templates -- Open Source 🌟
+- [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
+- [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind
+- [horizon-ui/shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate
+- [JadRizk/turborepo-launchpad](https://github.com/JadRizk/turborepo-launchpad) - 🚀 Turbo-charge your web projects with this sleek Turborepo template, featuring Next.js, Supabase,  TailwindCSS, and shadcn for a streamlined development experience!
+- [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
