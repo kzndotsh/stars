@@ -1002,7 +1002,7 @@
 - [Val/dedibox_fully_encrypted_debian_install](https://github.com/Val/dedibox_fully_encrypted_debian_install) - Dedibox Fully Encrypted Debian Install
 - [manitra/server-config](https://github.com/manitra/server-config) - Few scripts for configuring my personal servers
 - [portainer/portainer-compose](https://github.com/portainer/portainer-compose) - Compose setup for Portainer
-- [tvollscw/portainer-nextcloud](https://github.com/tvollscw/portainer-nextcloud) - NextCloud Compose Stack for Portainer
+- [tv0ll/portainer-nextcloud](https://github.com/tv0ll/portainer-nextcloud) - NextCloud Compose Stack for Portainer
 - [technorabilia/portainer-templates](https://github.com/technorabilia/portainer-templates) - Various Portainer App Templates
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -1080,7 +1080,7 @@
 - [chall32/Plex-Parse](https://github.com/chall32/Plex-Parse) - Export Plex Libraries to .csv
 - [spotpuff/rename_subtitles](https://github.com/spotpuff/rename_subtitles) - Scripts to rename subtitles for Plex
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell sample scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
 - [fscorrupt/docker-tautulli2discord](https://github.com/fscorrupt/docker-tautulli2discord) - Send Tautulli Stats via Webhook to Discord Channel
 - [fscorrupt/docker-plexstatus2discord](https://github.com/fscorrupt/docker-plexstatus2discord) - Send the Status from status.plex.tv to Discord
