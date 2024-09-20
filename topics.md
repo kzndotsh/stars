@@ -290,7 +290,7 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
 - [OultimoCoder/cloudflare-planetscale-hono-boilerplate](https://github.com/OultimoCoder/cloudflare-planetscale-hono-boilerplate) - A boilerplate for building production-ready RESTful APIs using Cloudflare, Hono, and Planetscale
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [Justintime50/easypost-tools-ui](https://github.com/Justintime50/easypost-tools-ui) - Create shipping labels, track, insure, and refund packages all from a simple UI.
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -370,7 +370,7 @@
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
 - [caronc/nzbget-tidyit](https://github.com/caronc/nzbget-tidyit) - Will clean up your video media library by eliminating directories that no longer contain the video file they once hosted
 - [JohnDoee/autotorrent](https://github.com/JohnDoee/autotorrent) - Matches torrents with files and gets them seeded
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [RandomNinjaAtk/docker-radarr-extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [RandomNinjaAtk/docker-sonarr-extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -2192,6 +2192,7 @@
 
 ## mongodb 
 
+- [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 400k+ users ✨🚀
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -2210,6 +2211,7 @@
 
 ## mongoose 
 
+- [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [kyooowe/PineUI](https://github.com/kyooowe/PineUI) - 🚀 Boilerplate using TurboRepo, Vite, React, and Express. Provides a fast and efficient setup for building modern web apps.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
@@ -2420,6 +2422,7 @@
 
 ## nodejs 
 
+- [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -2556,6 +2559,8 @@
 
 ## others 
 
+- [varun21vaidya/apparel-api-nodejs](https://github.com/varun21vaidya/apparel-api-nodejs) - REST API for managing apparel inventory and orders for a vendor. The API is implemented using Node.js in TypeScript.
+- [Gittss/apparel-business](https://github.com/Gittss/apparel-business) - REST APIs for vendor & user
 - [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui) - 100% FREE Collection of Premium Web Templates -- Open Source 🌟
 - [Kraots/ukiyo](https://github.com/Kraots/ukiyo) - 
 - [aditya20-b/FishyPhishy](https://github.com/aditya20-b/FishyPhishy) - SiH PS 1454 solution
@@ -3650,6 +3655,7 @@
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [python-discord/metricity](https://github.com/python-discord/metricity) - Advanced metric collection for the Python Discord server
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -3667,7 +3673,7 @@
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
@@ -4093,6 +4099,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [OultimoCoder/cloudflare-planetscale-hono-boilerplate](https://github.com/OultimoCoder/cloudflare-planetscale-hono-boilerplate) - A boilerplate for building production-ready RESTful APIs using Cloudflare, Hono, and Planetscale
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [tkdrob/aiopyarr](https://github.com/tkdrob/aiopyarr) - Python API client for Lidarr/Radarr/Readarr/Sonarr.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -4622,7 +4629,7 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 - [ycjcl868/monorepo](https://github.com/ycjcl868/monorepo) - Monorepo with pnpm and turborepo, deploying into Vercel.
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
