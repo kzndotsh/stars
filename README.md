@@ -949,7 +949,7 @@
 - [dracula/i3](https://github.com/dracula/i3) - 🧛🏻‍♂️ Dark theme for i3
 - [heckelson/i3-and-kde-plasma](https://github.com/heckelson/i3-and-kde-plasma) - How to install the i3 window manager on KDE
 - [wick3dr0se/arch-linux-installation-guide](https://github.com/wick3dr0se/arch-linux-installation-guide) - An easy to follow Arch Linux installation guide. This guide will show you how to properly install Arch Linux on UEFI/BIOS systems, ext4/btrfs file systems; using systemd-bootloader/GRUB and systemd-ne
-- [silentgameplays/Simple-Arch-Linux-Setup](https://github.com/silentgameplays/Simple-Arch-Linux-Setup) - Arch Linux manual  installation UEFI with GRUB,GUI,NVIDIA,AMD,User Space with all popular Desktop Environments.
+- [silentgameplays/Simple-Arch-Linux-Setup](https://github.com/silentgameplays/Simple-Arch-Linux-Setup) - Complete tutorial on how to manually install Arch Linux UEFI with GRUB, NVIDIA, AMD and popular Desktop Environments GNOME,XFCE,Plasma
 - [eromatiya/A-Personal-Arch-Installation-Guide](https://github.com/eromatiya/A-Personal-Arch-Installation-Guide) - A Personal Arch Installation Guide In Case of Amnesia
 - [ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
 - [bloominstituteoftechnology/orientation-web-git](https://github.com/bloominstituteoftechnology/orientation-web-git) - 
@@ -989,7 +989,6 @@
 - [samuelsycamore/contract-killer](https://github.com/samuelsycamore/contract-killer) - This is my US English rewrite of the Stuff & Nonsense killer contract for freelancers.
 - [tborychowski/self-hosted-cookbook](https://github.com/tborychowski/self-hosted-cookbook) - A cookbook, for docker-compose based recipes, for self-hosted applications and services.
 - [binhex/documentation](https://github.com/binhex/documentation) - Documentation for software located in the binhex repositories.
-- [ElizarovEugene/TorrentMonitor](https://github.com/ElizarovEugene/TorrentMonitor) - TorrentMonitor php engine
 - [88lex/sa-guide](https://github.com/88lex/sa-guide) - Guide to creating multiple service accounts and using them with rclone sync or copy
 - [chros73/rtorrent-wiki](https://github.com/chros73/rtorrent-wiki) - Oficcial rTorrent WIKI repository
 - [seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate](https://github.com/seedboxer/1-Gigabit-File-Server-Seedbox-Optimisation-Boilerplate) - rtorrent.rc & sysctl.config For 1 Gigabit File Server/Seedbox Boilerplate
@@ -1056,6 +1055,7 @@
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
 - [marekrei/encode-explorer](https://github.com/marekrei/encode-explorer) - 
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
+- [ElizarovEugene/TorrentMonitor](https://github.com/ElizarovEugene/TorrentMonitor) - TorrentMonitor php engine
 - [Sunilv1605/Snapchat-API](https://github.com/Sunilv1605/Snapchat-API) - Snapchat API:
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 
@@ -1093,6 +1093,7 @@
 
 ## Python 
 
+- [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A wrapper around SonarScanner CLI, available on PyPI.
 - [Kraots/ukiyo](https://github.com/Kraots/ukiyo) - 
 - [NQN-Discord/MessageHandler](https://github.com/NQN-Discord/MessageHandler) - The message filter NQN uses to filter out messages it doesn't need to process
 - [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
@@ -1482,7 +1483,7 @@
 - [hugonun/discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Discord bot that stores messages to Google Sheet.
 - [diamondzxd/plex-discord-bot](https://github.com/diamondzxd/plex-discord-bot) - Discord bot to send plex invites to users, list the users, and slots using Discord Python and Plex API
 - [Slyestcat/Plex-Discord-Remote](https://github.com/Slyestcat/Plex-Discord-Remote) - Remote control for plex using Discord.
-- [bramnijssen/PlexDiscordBot](https://github.com/bramnijssen/PlexDiscordBot) - Discord bot which notifies server members about Plex events.
+- [bramnijssen/plex-discord-bot](https://github.com/bramnijssen/plex-discord-bot) - Discord bot which notifies server members about Plex events.
 - [zluckytraveler/Discord-Plex-Trial](https://github.com/zluckytraveler/Discord-Plex-Trial) - A Discord bot for sending automated Plex trial invites and remove users from the server after the trial period.
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
 - [totaldebug/pyarr](https://github.com/totaldebug/pyarr) - Python client for Servarr API's (Sonarr, Radarr, Readarr, Lidarr)
