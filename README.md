@@ -243,7 +243,7 @@
 
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement fo
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
 - [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
@@ -618,7 +618,6 @@
 - [LatentFreedom/discord-gatherwallets-airtable](https://github.com/LatentFreedom/discord-gatherwallets-airtable) - This repository holds all the needed files to run the discord gather wallets airtable bot
 - [dabblelab/airtable-discord](https://github.com/dabblelab/airtable-discord) - Creating a Discord Bot that connects to Airtable Base to GET, POST, UPDATE and DELETE Data
 - [acode/FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
 - [The24thDS/form2role-bot](https://github.com/The24thDS/form2role-bot) - Discord bot that automatically assigns roles to users found in a Google Sheet
@@ -2234,6 +2233,7 @@
 - [KitArmstrong/plexAutomation](https://github.com/KitArmstrong/plexAutomation) - Scripts and API for Plex Webhooks
 - [Guillaume-Lebegue/AitTableBot](https://github.com/Guillaume-Lebegue/AitTableBot) - Discord bot for airtable. Ping when a meeting is close. Set the status of a meeting. Create recurent meeting
 - [Developer-DAO/devie-bot](https://github.com/Developer-DAO/devie-bot) - This bot will allow users to use /commands in discord to add resources to our knowledge base on airtable.
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress/seeking contributors].
 - [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [allergicduck/jackett-sync-ts](https://github.com/allergicduck/jackett-sync-ts) - Sync all Jackett indexers to Sonarr, Radarr, Lidarr and Readarr
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
