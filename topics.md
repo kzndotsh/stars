@@ -2180,7 +2180,7 @@
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [Jorengarenar/RedditOld_MarkedJS.user.js](https://github.com/Jorengarenar/RedditOld_MarkedJS.user.js) - Replace Markdown renderer on Old Reddit with MarkedJS
+- [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js) - Replace Markdown renderer on Old Reddit with MarkedJS
 
 ## material-design 
 
@@ -3027,7 +3027,7 @@
 - [kevontheweb/tokyo-night-tilix-black-box-theme](https://github.com/kevontheweb/tokyo-night-tilix-black-box-theme) - tokyo night theme for Tilix/Black Box
 - [wojciech-zurek/mattermost-tokyo-night-theme](https://github.com/wojciech-zurek/mattermost-tokyo-night-theme) - Tokyo Night theme for Mattermost
 - [logan-connolly/tokyonight-gtk](https://github.com/logan-connolly/tokyonight-gtk) - 🎨 Tokyonight theme for gtk (created with oomox)
-- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
+- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [pokedotdev/tokyo-night-insomnia](https://github.com/pokedotdev/tokyo-night-insomnia) - Tokyo Night theme for Insomnia
 - [laggy-tux/tokyo-night-openbox](https://github.com/laggy-tux/tokyo-night-openbox) - personal tokyo night theming
 - [alexadhy/tokyonight-jetbrains](https://github.com/alexadhy/tokyonight-jetbrains) - Tokyo Night theme ported from enkia's VSCode Tokyo Night theme
