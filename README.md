@@ -385,7 +385,7 @@
 
 - [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [joseadrian/airtable-firefox-extension](https://github.com/joseadrian/airtable-firefox-extension) - Firefox extension that allows someone to set a webhook url for common actions: update cell, add or delete row
-- [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI) - Dive into the future of AI with CollaborativeAi.Software, your solution for using OpenAI's API to power ChatGPT on your server. Our platform simplifies running your ChatGPT, managing access for unlimi
+- [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI) - CollabAI is an open-source & self-hosted AI operation platform for small and medium-sized businesses. It’s a customizable & team-centric platform where you can have access to custom AI agents tailored
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [Airtable/apps-base-schema](https://github.com/Airtable/apps-base-schema) - Visualize all your base’s tables, fields, and relationships.
 - [cape-io/airtable-schema](https://github.com/cape-io/airtable-schema) - Download Airtable schema to JSON file.
@@ -1092,6 +1092,7 @@
 
 ## Python 
 
+- [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A wrapper around SonarScanner CLI, available on PyPI.
 - [Kraots/ukiyo](https://github.com/Kraots/ukiyo) - 
 - [NQN-Discord/MessageHandler](https://github.com/NQN-Discord/MessageHandler) - The message filter NQN uses to filter out messages it doesn't need to process
@@ -1992,7 +1993,7 @@
 ## Svelte 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-- [torrust/torrust-website](https://github.com/torrust/torrust-website) - Public Website for Torrust Organisation
+- [torrust/torrust-website-v1](https://github.com/torrust/torrust-website-v1) - Public Website for Torrust Organisation
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 
 ## Swift 
@@ -2014,6 +2015,7 @@
 
 ## TypeScript 
 
+- [imnotashrimp/copyThat-airtable-figma](https://github.com/imnotashrimp/copyThat-airtable-figma) - A Figma plugin that syncs copy from Airtable!
 - [varun21vaidya/apparel-api-nodejs](https://github.com/varun21vaidya/apparel-api-nodejs) - REST API for managing apparel inventory and orders for a vendor. The API is implemented using Node.js in TypeScript.
 - [Gittss/apparel-business](https://github.com/Gittss/apparel-business) - REST APIs for vendor & user
 - [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui) - 100% FREE Collection of Premium Web Templates -- Open Source 🌟
