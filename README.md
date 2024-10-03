@@ -241,6 +241,8 @@
 
 ## Go 
 
+- [jessfraz/gitable](https://github.com/jessfraz/gitable) - Bot to automatically sync and update an airtable sheet with GitHub pull request and issue data.
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Notion, Airtable, GSheets, emails, etc.) with SQL
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
@@ -383,6 +385,13 @@
 
 ## JavaScript 
 
+- [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
+- [eslintinit/use-airtable](https://github.com/eslintinit/use-airtable) - Airtable CRUD hooks for React
+- [aivantg/airtable-schema-generator](https://github.com/aivantg/airtable-schema-generator) - An npm package to scrape an Airtable Base's Schema and generate useful helper functions and constants
+- [picsoung/airtable-shipping-block](https://github.com/picsoung/airtable-shipping-block) - 
+- [rosszurowski/micro-airtable-api](https://github.com/rosszurowski/micro-airtable-api) - Quickly make an API from Airtable
+- [saas-developer/airtable-api-connection](https://github.com/saas-developer/airtable-api-connection) - 
+- [UnlyEd/airtable-backups-boilerplate](https://github.com/UnlyEd/airtable-backups-boilerplate) - Configurable automated backups for Airtable meant to be self-hosted, powered by AWS Lambda/S3 with the Serverless framework
 - [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [joseadrian/airtable-firefox-extension](https://github.com/joseadrian/airtable-firefox-extension) - Firefox extension that allows someone to set a webhook url for common actions: update cell, add or delete row
 - [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI) - CollabAI is an open-source & self-hosted AI operation platform for small and medium-sized businesses. It’s a customizable & team-centric platform where you can have access to custom AI agents tailored
@@ -1092,6 +1101,7 @@
 
 ## Python 
 
+- [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A wrapper around SonarScanner CLI, available on PyPI.
 - [Kraots/ukiyo](https://github.com/Kraots/ukiyo) - 
@@ -2015,6 +2025,8 @@
 
 ## TypeScript 
 
+- [jkcorrea/airtable-typegen](https://github.com/jkcorrea/airtable-typegen) - Generate TypeScript & Zod types from your Airtable bases
+- [SiliconValleyInsight/airtable-json-block](https://github.com/SiliconValleyInsight/airtable-json-block) - Written in TypeScript. Import data from JSON files, and query with JSONPath
 - [imnotashrimp/copyThat-airtable-figma](https://github.com/imnotashrimp/copyThat-airtable-figma) - A Figma plugin that syncs copy from Airtable!
 - [varun21vaidya/apparel-api-nodejs](https://github.com/varun21vaidya/apparel-api-nodejs) - REST API for managing apparel inventory and orders for a vendor. The API is implemented using Node.js in TypeScript.
 - [Gittss/apparel-business](https://github.com/Gittss/apparel-business) - REST APIs for vendor & user
