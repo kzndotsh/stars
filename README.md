@@ -228,7 +228,6 @@
 
 ## Emacs Lisp 
 
-- [fedeizzo/nix-dotfiles](https://github.com/fedeizzo/nix-dotfiles) - 
 - [koic/dotfiles](https://github.com/koic/dotfiles) - :open_file_folder: koic's dotfiles
 - [rawleyfowler/tokyo-theme.el](https://github.com/rawleyfowler/tokyo-theme.el) - Tokyo Night theme for GNU Emacs
 - [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
@@ -757,6 +756,7 @@
 
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [fedeizzo/nix-dotfiles](https://github.com/fedeizzo/nix-dotfiles) - 
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
