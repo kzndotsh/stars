@@ -244,7 +244,7 @@
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Airtable, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.
 - [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
@@ -2247,7 +2247,7 @@
 - [KitArmstrong/plexAutomation](https://github.com/KitArmstrong/plexAutomation) - Scripts and API for Plex Webhooks
 - [Guillaume-Lebegue/AitTableBot](https://github.com/Guillaume-Lebegue/AitTableBot) - Discord bot for airtable. Ping when a meeting is close. Set the status of a meeting. Create recurent meeting
 - [Developer-DAO/devie-bot](https://github.com/Developer-DAO/devie-bot) - This bot will allow users to use /commands in discord to add resources to our knowledge base on airtable.
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress/seeking contributors].
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [allergicduck/jackett-sync-ts](https://github.com/allergicduck/jackett-sync-ts) - Sync all Jackett indexers to Sonarr, Radarr, Lidarr and Readarr
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server
