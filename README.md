@@ -674,6 +674,7 @@
 ## Jinja 
 
 - [saltyorg/Sandbox](https://github.com/saltyorg/Sandbox) - Saltbox Sandbox
+- [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [hassio-addons/addon-portainer](https://github.com/hassio-addons/addon-portainer) - Portainer - Home Assistant Community Add-ons
 
 ## Jupyter Notebook 
@@ -1572,7 +1573,6 @@
 - [chazlarson/sb_gd](https://github.com/chazlarson/sb_gd) - Script to set up Google Drive stuff for saltbox/cloudbox
 - [rtorrent-community/rtorrent-docs](https://github.com/rtorrent-community/rtorrent-docs) - “rTorrent Handbook” community project
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [saltyorg/Saltbox](https://github.com/saltyorg/Saltbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [hmaverickadams/Violent-Python-Companion-Files](https://github.com/hmaverickadams/Violent-Python-Companion-Files) - Violent Python scripts used in book and few other required files
 - [Mechazawa/REDBetter-crawler](https://github.com/Mechazawa/REDBetter-crawler) - A fork of whatbetter that can run autonomously
 - [blu-jeans/seedbox](https://github.com/blu-jeans/seedbox) - some useful scripts or softwares for better seedbox experience
