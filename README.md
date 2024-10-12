@@ -283,7 +283,7 @@
 - [Tensai75/nzbsearcher](https://github.com/Tensai75/nzbsearcher) - "Proof of Concept" for an NZB search engine that searches for a header directly on the Usenet server and then generates the NZB files
 - [asig/torrenttools](https://github.com/asig/torrenttools) - A bunch of tools that help you manage torrent data: syncing a torrent content directory with the files listed in the ".torrent" file, listing files in a torrent, dumping all the data in a torrent in h
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
-- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr
+- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
 - [NiNiyas/tailon](https://github.com/NiNiyas/tailon) - Webapp for looking at and searching through files and streams. Fork of https://github.com/gvalkov/tailon
 - [othalla/plex_exporter](https://github.com/othalla/plex_exporter) - Prometheus exporter for Plex Media Server
 - [arnarg/plex_exporter](https://github.com/arnarg/plex_exporter) - A Prometheus exporter for a few metrics from Plex Media Server
@@ -384,6 +384,7 @@
 
 ## JavaScript 
 
+- [SandroMiguel/eslint-config-cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for my projects
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
 - [eslintinit/use-airtable](https://github.com/eslintinit/use-airtable) - Airtable CRUD hooks for React
 - [aivantg/airtable-schema-generator](https://github.com/aivantg/airtable-schema-generator) - An npm package to scrape an Airtable Base's Schema and generate useful helper functions and constants
@@ -809,6 +810,7 @@
 
 ## Others 
 
+- [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [popstar7/nvim-guide](https://github.com/popstar7/nvim-guide) - 
 - [jjj333-p/anti-spam-community-efforts](https://github.com/jjj333-p/anti-spam-community-efforts) - Using patterns identified from belligerent spamming campaigns message contents, a strategic defensive deployment for automated combatant operations in real-time communication interoperable ecosystems.
 - [bkil/anti-spam-community-efforts](https://github.com/bkil/anti-spam-community-efforts) - Fork for PR. Maybe be complementary to https://github.com/bkil/banhaxmer
@@ -2026,6 +2028,7 @@
 
 ## TypeScript 
 
+- [josh-stillman/lintier](https://github.com/josh-stillman/lintier) - CLI to setup Eslint & Prettier in Typescript projects.
 - [jkcorrea/airtable-typegen](https://github.com/jkcorrea/airtable-typegen) - Generate TypeScript & Zod types from your Airtable bases
 - [SiliconValleyInsight/airtable-json-block](https://github.com/SiliconValleyInsight/airtable-json-block) - Written in TypeScript. Import data from JSON files, and query with JSONPath
 - [imnotashrimp/copyThat-airtable-figma](https://github.com/imnotashrimp/copyThat-airtable-figma) - A Figma plugin that syncs copy from Airtable!
