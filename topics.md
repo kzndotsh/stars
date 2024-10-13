@@ -282,6 +282,8 @@
 
 ## api 
 
+- [joeythelantern/Typescript-Quickstart-Projects](https://github.com/joeythelantern/Typescript-Quickstart-Projects) - This repository houses some typescript based node js API quickstart projects.
+- [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [rosszurowski/micro-airtable-api](https://github.com/rosszurowski/micro-airtable-api) - Quickly make an API from Airtable
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Airtable, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
@@ -899,6 +901,7 @@
 
 ## database 
 
+- [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Airtable, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
@@ -1107,6 +1110,8 @@
 
 ## docker 
 
+- [edwinhern/express-typescript-2024](https://github.com/edwinhern/express-typescript-2024) - Express + TypeScript + Boilerplate for Web / API App
+- [GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript) - Express + TypeScript + Boilerplate for Web / API App
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
@@ -1187,6 +1192,7 @@
 
 ## documentation 
 
+- [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -1373,6 +1379,8 @@
 
 ## express 
 
+- [edwinhern/express-typescript-2024](https://github.com/edwinhern/express-typescript-2024) - Express + TypeScript + Boilerplate for Web / API App
+- [GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript) - Express + TypeScript + Boilerplate for Web / API App
 - [sixem/ivfi-node](https://github.com/sixem/ivfi-node) - IVFi is a directory indexer written in Node that aims to make it easy to browse and explore web-accessible directories.
 - [kyooowe/PineUI](https://github.com/kyooowe/PineUI) - 🚀 Boilerplate using TurboRepo, Vite, React, and Express. Provides a fast and efficient setup for building modern web apps.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
@@ -1603,6 +1611,7 @@
 
 ## graphql 
 
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -1849,6 +1858,7 @@
 
 ## javascript 
 
+- [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [SandroMiguel/eslint-config-cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for my projects
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
@@ -2215,6 +2225,7 @@
 
 ## mongodb 
 
+- [waldemarnt/node-typescript-api](https://github.com/waldemarnt/node-typescript-api) - 🚀Complete Node.js API built using 👉Typescript | Jest | MongoDB | Express
 - [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 400k+ users ✨🚀
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -2244,6 +2255,7 @@
 
 ## monitoring 
 
+- [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [Apollo-Roboto/discord.py-ext-prometheus](https://github.com/Apollo-Roboto/discord.py-ext-prometheus) - Add Prometheus to your Discord bot with this handy extension
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -2447,6 +2459,9 @@
 
 ## nodejs 
 
+- [joeythelantern/Typescript-Quickstart-Projects](https://github.com/joeythelantern/Typescript-Quickstart-Projects) - This repository houses some typescript based node js API quickstart projects.
+- [waldemarnt/node-typescript-api](https://github.com/waldemarnt/node-typescript-api) - 🚀Complete Node.js API built using 👉Typescript | Jest | MongoDB | Express
+- [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [rosszurowski/micro-airtable-api](https://github.com/rosszurowski/micro-airtable-api) - Quickly make an API from Airtable
 - [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
@@ -3959,6 +3974,7 @@
 
 ## react 
 
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [SandroMiguel/eslint-config-cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for my projects
 - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind
 - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
@@ -4081,6 +4097,7 @@
 
 ## reactjs 
 
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -4255,6 +4272,7 @@
 
 ## serverless 
 
+- [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [dddominikk/airtable-script-extender](https://github.com/dddominikk/airtable-script-extender) - JavaScript is amazing. Managing project dependencies less so. This repo utilizes the Airtable Scripting app to deliver more robust prototyping capabilities despite the block's sanitized, DOM- and HTML
@@ -4504,6 +4522,13 @@
 
 ## typescript 
 
+- [domdomegg/airtable-ts](https://github.com/domdomegg/airtable-ts) - 🗄️🧱 A type-safe Airtable SDK
+- [joeythelantern/Typescript-Quickstart-Projects](https://github.com/joeythelantern/Typescript-Quickstart-Projects) - This repository houses some typescript based node js API quickstart projects.
+- [edwinhern/express-typescript-2024](https://github.com/edwinhern/express-typescript-2024) - Express + TypeScript + Boilerplate for Web / API App
+- [waldemarnt/node-typescript-api](https://github.com/waldemarnt/node-typescript-api) - 🚀Complete Node.js API built using 👉Typescript | Jest | MongoDB | Express
+- [GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript) - Express + TypeScript + Boilerplate for Web / API App
+- [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
+- [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [josh-stillman/lintier](https://github.com/josh-stillman/lintier) - CLI to setup Eslint & Prettier in Typescript projects.
 - [jkcorrea/airtable-typegen](https://github.com/jkcorrea/airtable-typegen) - Generate TypeScript & Zod types from your Airtable bases
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
