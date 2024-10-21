@@ -1615,7 +1615,7 @@
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [plutomi/plutomi](https://github.com/plutomi/plutomi) - Applicant Management at Any Scale. Currently undergoing maintenance! :D
+- [plutomi/plutomi](https://github.com/plutomi/plutomi) - Applicant Management at Any Scale. Currently WIP! :D
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [its-Lyn/lymerge](https://github.com/its-Lyn/lymerge) - Simple emerge wrapper.
@@ -2030,6 +2030,7 @@
 
 ## TypeScript 
 
+- [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages
 - [domdomegg/airtable-ts](https://github.com/domdomegg/airtable-ts) - 🗄️🧱 A type-safe Airtable SDK
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [joeythelantern/Typescript-Quickstart-Projects](https://github.com/joeythelantern/Typescript-Quickstart-Projects) - This repository houses some typescript based node js API quickstart projects.
