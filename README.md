@@ -1203,7 +1203,6 @@
 - [solaluset/SmartBot](https://github.com/solaluset/SmartBot) - A Discord bot
 - [vcokltfre/Myaer](https://github.com/vcokltfre/Myaer) - Discord bot written with discord.py.
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
-- [x32u/pretend](https://github.com/x32u/pretend) - 
 - [ElvaronGames/IdleRPG](https://github.com/ElvaronGames/IdleRPG) - A fantasy RPG bot for Discord.
 - [MelonBot-Development/melonutils](https://github.com/MelonBot-Development/melonutils) - Redbot utilities.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -1315,7 +1314,7 @@
 - [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
