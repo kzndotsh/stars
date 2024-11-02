@@ -1112,7 +1112,7 @@
 - [Kraots/ukiyo](https://github.com/Kraots/ukiyo) - 
 - [NQN-Discord/MessageHandler](https://github.com/NQN-Discord/MessageHandler) - The message filter NQN uses to filter out messages it doesn't need to process
 - [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
-- [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 400k+ users ✨🚀
+- [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 500k+ users ✨🚀
 - [jvllmr/poetry-types](https://github.com/jvllmr/poetry-types) - A poetry plugin that adds/removes type stubs as dependencies like the mypy --install-types command.
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
 - [surgedevs/thread-creator](https://github.com/surgedevs/thread-creator) - A Discord bot made in pycord that creates threads using a button on an embed.
@@ -2124,7 +2124,7 @@
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+- [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
