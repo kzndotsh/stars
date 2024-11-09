@@ -244,7 +244,7 @@
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, Salesforce, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
@@ -1100,7 +1100,7 @@
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [MysticRyuujin/PlexMissingEpisodes](https://github.com/MysticRyuujin/PlexMissingEpisodes) - Scan Plex Library for Missing Episodes using TheTVDB
 - [woodruffw/ff2mpv](https://github.com/woodruffw/ff2mpv) - A Firefox/Chrome add-on for playing URLs in mpv.
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 - [MantisTree/TorrentFileRenamer](https://github.com/MantisTree/TorrentFileRenamer) - Rename .TORRENT files to the torrent name contained in the torrent file itself
 
 ## Python 
@@ -1247,7 +1247,7 @@
 - [pyupio/safety](https://github.com/pyupio/safety) - Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
 - [Titaniumtown/pyfetch](https://github.com/Titaniumtown/pyfetch) - Port of Neofetch to python
 - [finlaysawyer/discord-uptime](https://github.com/finlaysawyer/discord-uptime) - Discord bot to monitor uptime of services using ping and http requests
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [Axobot-org/Axobot](https://github.com/Axobot-org/Axobot) - A cool multipurpose Discord bot made in Python
 - [RobertCraigie/prismo](https://github.com/RobertCraigie/prismo) - The bot for the Prisma Python discord server
 - [anand2312/crajybot](https://github.com/anand2312/crajybot) - A small Discord bot
@@ -1293,7 +1293,7 @@
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [nonchris/discord-bot](https://github.com/nonchris/discord-bot) - Generic bot to start with based on discord.py
 - [mpsparrow/applesauce](https://github.com/mpsparrow/applesauce) - Applesauce is a lightweight Discord bot that provides a plugin management framework to enable powerful modular configurations
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [palera1n/bot-rewrite](https://github.com/palera1n/bot-rewrite) - palera1n bot rewrite
 - [engineer-man/felix](https://github.com/engineer-man/felix) - Felix Discord Bot
