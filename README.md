@@ -384,6 +384,11 @@
 
 ## JavaScript 
 
+- [NatoBoram/gigachad.ts](https://github.com/NatoBoram/gigachad.ts) - The most gigachad project template for TypeScript
+- [neostandard/neostandard](https://github.com/neostandard/neostandard) - A spiritual successor to the standardjs javascript style guide
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
+- [plugjs/eslint-plugin](https://github.com/plugjs/eslint-plugin) - Shared configurations and extras for ESLint
+- [lazycuh/eslint-config-base](https://github.com/lazycuh/eslint-config-base) - Base ESLint rules that work well for any Typescript projects
 - [waldemarnt/node-typescript-api](https://github.com/waldemarnt/node-typescript-api) - 🚀Complete Node.js API built using 👉Typescript | Jest | MongoDB | Express
 - [SandroMiguel/eslint-config-cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for my projects
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
@@ -1651,7 +1656,6 @@
 
 ## SCSS 
 
-- [logan-connolly/tokyonight-gtk](https://github.com/logan-connolly/tokyonight-gtk) - 🎨 Tokyonight theme for gtk (created with oomox)
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
 - [Fausto-Korpsvart/Tokyonight-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme) - A GTK theme based on the Tokyo Night colour palette.
 - [pannal/Kitana](https://github.com/pannal/Kitana) - A responsive Plex plugin web frontend
@@ -2029,6 +2033,7 @@
 
 ## TypeScript 
 
+- [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
 - [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages
 - [domdomegg/airtable-ts](https://github.com/domdomegg/airtable-ts) - 🗄️🧱 A type-safe Airtable SDK
