@@ -1110,7 +1110,7 @@
 
 ## Python 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, ollama, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A wrapper around SonarScanner CLI, available on PyPI.
