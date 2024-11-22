@@ -283,6 +283,7 @@
 
 ## api 
 
+- [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
 - [joeythelantern/Typescript-Quickstart-Projects](https://github.com/joeythelantern/Typescript-Quickstart-Projects) - This repository houses some typescript based node js API quickstart projects.
 - [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [rosszurowski/micro-airtable-api](https://github.com/rosszurowski/micro-airtable-api) - Quickly make an API from Airtable
@@ -363,7 +364,7 @@
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord bot, designed to streamline the management of Discord tournaments and servers.
+- [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord app, designed to streamline the management of Discord tournaments and servers.
 - [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -598,7 +599,9 @@
 
 ## bot 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, ollama, LM Studio and more)
+- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A Python Discord bot with reporting features and detailed audit logs.
+- [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 500k+ users ✨🚀
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
@@ -687,13 +690,14 @@
 
 ## chatbot 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, ollama, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 
 ## chatgpt 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, ollama, LM Studio and more)
+- [mayman007/ShinobiBot](https://github.com/mayman007/ShinobiBot) - 【Multipurpose Discord Bot】Tickets｜Logging｜Anti-Spam｜Giveaways｜Suggestions｜Moderation｜Games｜AI｜100+ commands
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
@@ -903,6 +907,7 @@
 
 ## database 
 
+- [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, Salesforce, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
@@ -931,6 +936,7 @@
 ## deno 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 
 ## dependency-management 
@@ -982,7 +988,11 @@
 
 ## discord 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, ollama, LM Studio and more)
+- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A Python Discord bot with reporting features and detailed audit logs.
+- [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
+- [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
+- [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 500k+ users ✨🚀
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
@@ -1473,6 +1483,7 @@
 
 ## games 
 
+- [mayman007/ShinobiBot](https://github.com/mayman007/ShinobiBot) - 【Multipurpose Discord Bot】Tickets｜Logging｜Anti-Spam｜Giveaways｜Suggestions｜Moderation｜Games｜AI｜100+ commands
 - [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
 
 ## gh-extension 
@@ -1486,6 +1497,8 @@
 
 ## git 
 
+- [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
+- [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [mk-fg/fgtk](https://github.com/mk-fg/fgtk) - A set of a misc tools to work with files and processes
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1566,6 +1579,7 @@
 
 ## golang 
 
+- [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
@@ -1809,6 +1823,7 @@
 
 ## html 
 
+- [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
@@ -1859,6 +1874,7 @@
 
 ## javascript 
 
+- [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [SandroMiguel/eslint-config-cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for my projects
@@ -1913,7 +1929,7 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + 
 - [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io) - Personal portfolio website hosted using GitHub Pages - Version 2
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [Trendyol/baklava](https://github.com/Trendyol/baklava) - Baklava is a design system provided by Trendyol to create a consistent UI/UX for app users.
@@ -2009,6 +2025,7 @@
 
 ## library 
 
+- [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
 - [InterStella0/starlight-dpy](https://github.com/InterStella0/starlight-dpy) - A utility library that she uses for discord.py
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
@@ -2136,7 +2153,7 @@
 
 ## llm 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, ollama, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
@@ -2228,6 +2245,7 @@
 
 ## mongodb 
 
+- [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [waldemarnt/node-typescript-api](https://github.com/waldemarnt/node-typescript-api) - 🚀Complete Node.js API built using 👉Typescript | Jest | MongoDB | Express
 - [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 500k+ users ✨🚀
@@ -2365,6 +2383,7 @@
 
 ## nextjs 
 
+- [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
@@ -2381,7 +2400,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
-- [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
+- [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [maybemaby/fastify-next-starter](https://github.com/maybemaby/fastify-next-starter) - Monorepo for fastify and nextjs. Uses Supabase for auth, OpenAPI for generating typesafe clients, and prisma as the ORM.
 - [alejandronanez/turborepo-nextjs-starter](https://github.com/alejandronanez/turborepo-nextjs-starter) - Turborepo + Next.js + TailwindCSS + TypeScript + Prettier + ESLint template to hit the ground running.
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -2428,7 +2447,7 @@
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + 
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [imperadorxs/nextjs-13-boilerplate](https://github.com/imperadorxs/nextjs-13-boilerplate) - Nextjs 13 Boilerplate with a new folder structure app
@@ -2555,7 +2574,7 @@
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
+- [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [jhonyrdesouza/awesome-shadcn-ui](https://github.com/jhonyrdesouza/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [brucemacgary/Mito](https://github.com/brucemacgary/Mito) - Mito bot is a multipurpose discord bot serving 200k+ users!
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -2572,7 +2591,7 @@
 
 ## openai 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, ollama, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI) - CollabAI is an open-source & self-hosted AI operation platform for small and medium-sized businesses. It’s a customizable & team-centric platform where you can have access to custom AI agents tailored
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
@@ -2606,6 +2625,13 @@
 
 ## others 
 
+- [allthingslinux/is-it-harmful](https://github.com/allthingslinux/is-it-harmful) - A library dedicated to detecting if a shell command is "harmful"
+- [dazziedez/discordpy-avatar-logger](https://github.com/dazziedez/discordpy-avatar-logger) - A discord.py bot that logs avatar changes. Features a web ui to view avatar history
+- [Auttaja-OpenSource/Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
+- [LeDeathAmongst/StarUtils](https://github.com/LeDeathAmongst/StarUtils) - 
+- [aaru111/Nira-bot](https://github.com/aaru111/Nira-bot) - nira bot repo still in testing phase
+- [JDsProjects/JDBot](https://github.com/JDsProjects/JDBot) - the official JDBot rewrite :D
+- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [neostandard/neostandard](https://github.com/neostandard/neostandard) - A spiritual successor to the standardjs javascript style guide
 - [plugjs/eslint-plugin](https://github.com/plugjs/eslint-plugin) - Shared configurations and extras for ESLint
 - [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages
@@ -2621,7 +2647,7 @@
 - [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A wrapper around SonarScanner CLI, available on PyPI.
 - [varun21vaidya/apparel-api-nodejs](https://github.com/varun21vaidya/apparel-api-nodejs) - REST API for managing apparel inventory and orders for a vendor. The API is implemented using Node.js in TypeScript.
 - [Gittss/apparel-business](https://github.com/Gittss/apparel-business) - REST APIs for vendor & user
-- [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui) - 100% FREE Collection of Premium Web Templates -- Open Source 🌟
+- [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui) - 100% FREE Collection of Premium Web Templates and Components -- Open Source 🌟
 - [Kraots/ukiyo](https://github.com/Kraots/ukiyo) - 
 - [aditya20-b/FishyPhishy](https://github.com/aditya20-b/FishyPhishy) - SiH PS 1454 solution
 - [NQN-Discord/MessageHandler](https://github.com/NQN-Discord/MessageHandler) - The message filter NQN uses to filter out messages it doesn't need to process
@@ -2633,7 +2659,7 @@
 - [jjj333-p/anti-spam-community-efforts](https://github.com/jjj333-p/anti-spam-community-efforts) - Using patterns identified from belligerent spamming campaigns message contents, a strategic defensive deployment for automated combatant operations in real-time communication interoperable ecosystems.
 - [bkil/anti-spam-community-efforts](https://github.com/bkil/anti-spam-community-efforts) - Fork for PR. Maybe be complementary to https://github.com/bkil/banhaxmer
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-- [repology/repology-webapp](https://github.com/repology/repology-webapp) - Repology web application
+- [repology/repology-webapp](https://github.com/repology/repology-webapp) - Legacy python Repology web application. Deprecated by rust rewrite.
 - [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) - OpenTelemetry instrumentation for Python modules
 - [osfameron/explane](https://github.com/osfameron/explane) - Explain commands (with output like a CLI version of explainshell)
 - [joseadrian/airtable-firefox-extension](https://github.com/joseadrian/airtable-firefox-extension) - Firefox extension that allows someone to set a webhook url for common actions: update cell, add or delete row
@@ -2742,7 +2768,6 @@
 - [Uzay-G/prisma.py](https://github.com/Uzay-G/prisma.py) - 
 - [crubier/prisma-client-py](https://github.com/crubier/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
 - [brianjp93/amirightladies](https://github.com/brianjp93/amirightladies) - dumb bot that just responds with "am i right ladies" to all your discord messages
-- [shahriyardx/cnc-availability](https://github.com/shahriyardx/cnc-availability) - Availability management discord bot for CNC Leagues
 - [arckoor/journey-bot](https://github.com/arckoor/journey-bot) - A bot for the Journey Discord.
 - [LunarsDev/cordcutter](https://github.com/LunarsDev/cordcutter) - The circuit breaker design pattern for discord.py application commands
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
@@ -3694,13 +3719,14 @@
 - [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
 - [scriptzteam/SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS) - Yo! Warez scene scriptz!
 - [MattsShack/Plex-Movie-Poster-Display](https://github.com/MattsShack/Plex-Movie-Poster-Display) - Scraps the Plex sessions page to display the current playing movie or TV show poster on a screen.
-- [Magicalex/rtorrent-cleaner](https://github.com/Magicalex/rtorrent-cleaner) - 🧹 rtorrent-cleaner is a tool to clean up unnecessary files in rtorrent
+- [al3xLvs/rtorrent-cleaner](https://github.com/al3xLvs/rtorrent-cleaner) - 🧹 rtorrent-cleaner is a tool to clean up unnecessary files in rtorrent
 - [Chewbaka69/PlexShare](https://github.com/Chewbaka69/PlexShare) - Web Application standalone that provide management of local users, many PlexServer and it's libraries.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 
 ## postgresql 
 
+- [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -3777,6 +3803,9 @@
 
 ## python 
 
+- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A Python Discord bot with reporting features and detailed audit logs.
+- [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
@@ -3795,7 +3824,7 @@
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [HuyaneMatsu/hata](https://github.com/HuyaneMatsu/hata) - Async Discord API wrapper.
 - [nonchris/discord-role-selection](https://github.com/nonchris/discord-role-selection) - A role-selection-bot for discord using drop-down menus and slash commands
-- [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord bot, designed to streamline the management of Discord tournaments and servers.
+- [Hunter87ff/Spruce](https://github.com/Hunter87ff/Spruce) - Spruce is a multi-functional open source Discord app, designed to streamline the management of Discord tournaments and servers.
 - [Apollo-Roboto/discord.py-ext-prometheus](https://github.com/Apollo-Roboto/discord.py-ext-prometheus) - Add Prometheus to your Discord bot with this handy extension
 - [seven7ty/typeshi](https://github.com/seven7ty/typeshi) - Dict to TypedDict generation and conversion utilities for Python 📖✨
 - [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
@@ -4059,7 +4088,7 @@
 - [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [react-next-boilerplate/react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + 
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [kausko/Portfolio](https://github.com/kausko/Portfolio) - My portfolio (+ template) built using Next.js
 - [Tasin5541/portfolio](https://github.com/Tasin5541/portfolio) - Portfolio made with reactJs for github pages. Supports light and dark theme.
@@ -4125,7 +4154,7 @@
 - [cruip/open-react-template](https://github.com/cruip/open-react-template) - A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + 
 - [Tasin5541/portfolio](https://github.com/Tasin5541/portfolio) - Portfolio made with reactJs for github pages. Supports light and dark theme.
 - [joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 - [SafdarJamal/vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Vite + React starter template.
@@ -4370,6 +4399,7 @@
 
 ## sqlite 
 
+- [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, Salesforce, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -4420,12 +4450,13 @@
 
 ## tailwindcss 
 
+- [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind
 - [JadRizk/turborepo-launchpad](https://github.com/JadRizk/turborepo-launchpad) - 🚀 Turbo-charge your web projects with this sleek Turborepo template, featuring Next.js, Supabase,  TailwindCSS, and shadcn for a streamlined development experience!
 - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
 - [lukin/keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
-- [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
+- [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [alejandronanez/turborepo-nextjs-starter](https://github.com/alejandronanez/turborepo-nextjs-starter) - Turborepo + Next.js + TailwindCSS + TypeScript + Prettier + ESLint template to hit the ground running.
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [MahdiTa97/turborepo-boilerplate](https://github.com/MahdiTa97/turborepo-boilerplate) - A boilerplate base on TURBOREPO
@@ -4452,7 +4483,7 @@
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + 
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [manuarora700/simple-developer-portfolio-website](https://github.com/manuarora700/simple-developer-portfolio-website) - ✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.
 - [joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
@@ -4532,6 +4563,7 @@
 
 ## typescript 
 
+- [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [NatoBoram/gigachad.ts](https://github.com/NatoBoram/gigachad.ts) - The most gigachad project template for TypeScript
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [domdomegg/airtable-ts](https://github.com/domdomegg/airtable-ts) - 🗄️🧱 A type-safe Airtable SDK
@@ -4565,7 +4597,7 @@
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [plutomi/plutomi](https://github.com/plutomi/plutomi) - Applicant Management at Any Scale. Currently WIP! :D
-- [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
+- [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [OultimoCoder/cloudflare-planetscale-hono-boilerplate](https://github.com/OultimoCoder/cloudflare-planetscale-hono-boilerplate) - A boilerplate for building production-ready RESTful APIs using Cloudflare, Hono, and Planetscale
 - [alejandronanez/turborepo-nextjs-starter](https://github.com/alejandronanez/turborepo-nextjs-starter) - Turborepo + Next.js + TailwindCSS + TypeScript + Prettier + ESLint template to hit the ground running.
 - [kyooowe/PineUI](https://github.com/kyooowe/PineUI) - 🚀 Boilerplate using TurboRepo, Vite, React, and Express. Provides a fast and efficient setup for building modern web apps.
@@ -4613,7 +4645,7 @@
 - [pankod/next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://p
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + 
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [imperadorxs/nextjs-13-boilerplate](https://github.com/imperadorxs/nextjs-13-boilerplate) - Nextjs 13 Boilerplate with a new folder structure app
 - [joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
