@@ -239,6 +239,8 @@
 
 ## Go 
 
+- [zaboal/tilde](https://github.com/zaboal/tilde) - registrar for a shared linux
+- [ProjectSegfault/publapi](https://github.com/ProjectSegfault/publapi) - API for pubnix.
 - [Auttaja-OpenSource/Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
 - [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
 - [jessfraz/gitable](https://github.com/jessfraz/gitable) - Bot to automatically sync and update an airtable sheet with GitHub pull request and issue data.
@@ -386,6 +388,8 @@
 
 ## JavaScript 
 
+- [voaii/thelounge-plugin-quote](https://github.com/voaii/thelounge-plugin-quote) - 
+- [Yanik39/IRCNet](https://github.com/Yanik39/IRCNet) - Full featured IRCServer with UnrealIRCd, Atheme-Services and theLounge.
 - [NatoBoram/gigachad.ts](https://github.com/NatoBoram/gigachad.ts) - The most gigachad project template for TypeScript
 - [neostandard/neostandard](https://github.com/neostandard/neostandard) - A spiritual successor to the standardjs javascript style guide
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -818,6 +822,7 @@
 
 ## Others 
 
+- [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [allthingslinux/is-it-harmful](https://github.com/allthingslinux/is-it-harmful) - A library dedicated to detecting if a shell command is "harmful"
 - [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
@@ -1113,6 +1118,7 @@
 
 ## Python 
 
+- [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
 - [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A Python Discord bot with reporting features and detailed audit logs.
 - [mayman007/ShinobiBot](https://github.com/mayman007/ShinobiBot) - 【Multipurpose Discord Bot】Tickets｜Logging｜Anti-Spam｜Giveaways｜Suggestions｜Moderation｜Games｜AI｜100+ commands
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
@@ -1378,7 +1384,7 @@
 - [brutasse/dotfiles](https://github.com/brutasse/dotfiles) - My dotfiles, now under version control
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
-- [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
+- [shobrook/rebound](https://github.com/shobrook/rebound) - Instantly load StackOverflow results in your terminal when an exception is thrown
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [ASK-ME-ABOUT-LOOM/purgeomatic](https://github.com/ASK-ME-ABOUT-LOOM/purgeomatic) - Delete movie/tv data based on watch statistics
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
@@ -1688,6 +1694,7 @@
 
 ## Shell 
 
+- [ProjectSegfault/pubnix-configs](https://github.com/ProjectSegfault/pubnix-configs) - Configs for pubnix
 - [Izder456/dotfiles](https://github.com/Izder456/dotfiles) - My OpenBSD Dotfiles
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [tlsaware/danebot](https://github.com/tlsaware/danebot) - Certbot wrapper for DANE TLSA-safe certificate Let's Encrypt certificate rollover.
@@ -2045,6 +2052,7 @@
 
 ## TypeScript 
 
+- [supernets/hardlounge](https://github.com/supernets/hardlounge) - IRCv5 Compliant Web-based IRC Client
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
