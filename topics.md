@@ -273,7 +273,7 @@
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [Madic-/Sway-DE](https://github.com/Madic-/Sway-DE) - 🏠 Sway desktop environment dotfile installation for Arch Linux
+- [madic-creates/Sway-DE](https://github.com/madic-creates/Sway-DE) - 🏠 Sway desktop environment dotfile installation for Arch Linux
 - [christian-heusel/dotfiles](https://github.com/christian-heusel/dotfiles) - My dotfiles and i3 install (configured by ansible)
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
 - [Addvilz/dots](https://github.com/Addvilz/dots) - Completely automated desktop setup, configuration and maintenance using Ansible
