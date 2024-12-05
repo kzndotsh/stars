@@ -218,7 +218,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
@@ -325,7 +325,7 @@
 - [saber-nyan/kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [saloniamatteo/dotfiles](https://github.com/saloniamatteo/dotfiles) - Salonia Matteo's dotfiles (GNU/Linux configuration)
 - [kzndotsh/dotfiles](https://github.com/kzndotsh/dotfiles) - There's no place like ~
-- [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [0xvagab0nD/dotfiles](https://github.com/0xvagab0nD/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
 - [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
@@ -389,6 +389,7 @@
 
 ## awesome 
 
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 120+ open-source web apps with one Docker command
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms
@@ -444,6 +445,7 @@
 
 ## awesome-list 
 
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 120+ open-source web apps with one Docker command
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms
@@ -508,7 +510,7 @@
 - [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [Saas-Starter-Kit/SAAS-Starter-Kit-Pro](https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro) - A boilerplate for building Software-as-Service (SAAS) apps with Reactjs, and Nodejs
-- [amizzo87/plexverse](https://github.com/amizzo87/plexverse) - Automatic, hands-off Plex ecosystem installation for multiple cloud providers
+- [izzoa/plexverse](https://github.com/izzoa/plexverse) - Automatic, hands-off Plex ecosystem installation for multiple cloud providers
 - [sst/guide](https://github.com/sst/guide) - Repo for guide.sst.dev
 
 ## azure 
@@ -633,7 +635,7 @@
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [ddinan/tsuyo](https://github.com/ddinan/tsuyo) - 🤖 A light-weight and easy-to-use modular Discord bot built with DiscordJS.
 - [kabirjaipal/discordjs-base-handler](https://github.com/kabirjaipal/discordjs-base-handler) - Improve Discord.js bot with organized Slash Commands, events, and error handling. Use discord.js, Node.js.
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - A professional and completely free distube based music bot for your Discord server, compatible with the highly modernized discord.js v14.16 version.
 - [ikrishagarwal/discord-http-bot](https://github.com/ikrishagarwal/discord-http-bot) - A template for making discord HTTP bots with typescript.
 - [brucemacgary/Mito](https://github.com/brucemacgary/Mito) - Mito bot is a multipurpose discord bot serving 200k+ users!
 - [brunos3d/discord-bot-typescript-boilerplate](https://github.com/brunos3d/discord-bot-typescript-boilerplate) - 🤖 NODE.TS - Start your next discord bot project in seconds.
@@ -701,7 +703,7 @@
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -1053,7 +1055,7 @@
 - [kabirjaipal/discordjs-base-handler](https://github.com/kabirjaipal/discordjs-base-handler) - Improve Discord.js bot with organized Slash Commands, events, and error handling. Use discord.js, Node.js.
 - [mpsparrow/applesauce](https://github.com/mpsparrow/applesauce) - Applesauce is a lightweight Discord bot that provides a plugin management framework to enable powerful modular configurations
 - [BestGamersH/Multipurpose-Discord-Bot](https://github.com/BestGamersH/Multipurpose-Discord-Bot) - The bot that has everything! - Leveling • Music • Memes • Moderation • nsfw • Logging • Tickets • Reaction Roles • Fun • Anime • Applications • Much More
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - A professional and completely free distube based music bot for your Discord server, compatible with the highly modernized discord.js v14.16 version.
 - [EggsLeggs/discordjs-v14-template](https://github.com/EggsLeggs/discordjs-v14-template) - A Typescript template for Discord.js v14 that includes sharding, handlers, slash commands, Prisma, i18n and more.
 - [MericcaN41/discordjs-v14-template-ts](https://github.com/MericcaN41/discordjs-v14-template-ts) - A typescript template for Discord.js v14 that includes handlers, slash commands, mongodb, permissions and more.
 - [dan5py/discordjs-template-ts](https://github.com/dan5py/discordjs-template-ts) - A simple bot template for discordjs (with Typescript)
@@ -1124,6 +1126,10 @@
 
 ## docker 
 
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 120+ open-source web apps with one Docker command
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [SaraSmiseth/prosody](https://github.com/SaraSmiseth/prosody) - Prosody XMPP server docker image
 - [Yanik39/IRCNet](https://github.com/Yanik39/IRCNet) - Full featured IRCServer with UnrealIRCd, Atheme-Services and theLounge.
 - [edwinhern/express-typescript-2024](https://github.com/edwinhern/express-typescript-2024) - Express + TypeScript + Boilerplate for Web / API App
 - [GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript) - Express + TypeScript + Boilerplate for Web / API App
@@ -1275,7 +1281,7 @@
 - [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [0xvagab0nD/dotfiles](https://github.com/0xvagab0nD/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
@@ -1558,6 +1564,8 @@
 
 ## go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, Salesforce, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
@@ -1581,6 +1589,8 @@
 
 ## golang 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
@@ -1632,7 +1642,7 @@
 
 ## google-cloud 
 
-- [amizzo87/plexverse](https://github.com/amizzo87/plexverse) - Automatic, hands-off Plex ecosystem installation for multiple cloud providers
+- [izzoa/plexverse](https://github.com/izzoa/plexverse) - Automatic, hands-off Plex ecosystem installation for multiple cloud providers
 
 ## graphql 
 
@@ -1670,6 +1680,7 @@
 
 ## hacktoberfest 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
@@ -1992,6 +2003,7 @@
 
 ## kubernetes 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -2095,7 +2107,7 @@
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor icon packs, themes, wallpapers and assets with a few clicks or lines of code.
 - [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [0xvagab0nD/dotfiles](https://github.com/0xvagab0nD/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -2296,7 +2308,7 @@
 
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - A professional and completely free distube based music bot for your Discord server, compatible with the highly modernized discord.js v14.16 version.
 - [discordx-ts/templates](https://github.com/discordx-ts/templates) - templates of create-discordx
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
@@ -2359,7 +2371,7 @@
 - [Yolo390/Tokyonight-fade.nvim](https://github.com/Yolo390/Tokyonight-fade.nvim) - WIP - Fade inactive buffers when you use Tokyonight storm theme with NeoVim
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
 - [shrikecode/kyotonight.vim](https://github.com/shrikecode/kyotonight.vim) - Vim / NeoVim theme that is a marriage of Tokyo Night and Nord Theme. And they went on honeymoon to Kyoto I guess. Dark, elegant, and easy on the eyes.
-- [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [0xvagab0nD/dotfiles](https://github.com/0xvagab0nD/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -2384,6 +2396,7 @@
 
 ## nextjs 
 
+- [ccbikai/nextflare](https://github.com/ccbikai/nextflare) - Next.js App running with Lemon Squeezy on Cloudflare.
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
@@ -2400,7 +2413,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [maybemaby/fastify-next-starter](https://github.com/maybemaby/fastify-next-starter) - Monorepo for fastify and nextjs. Uses Supabase for auth, OpenAPI for generating typesafe clients, and prisma as the ORM.
 - [alejandronanez/turborepo-nextjs-starter](https://github.com/alejandronanez/turborepo-nextjs-starter) - Turborepo + Next.js + TailwindCSS + TypeScript + Prettier + ESLint template to hit the ground running.
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -2505,7 +2518,7 @@
 - [ycjcl868/monorepo](https://github.com/ycjcl868/monorepo) - Monorepo with pnpm and turborepo, deploying into Vercel.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - A professional and completely free distube based music bot for your Discord server, compatible with the highly modernized discord.js v14.16 version.
 - [ikrishagarwal/discord-http-bot](https://github.com/ikrishagarwal/discord-http-bot) - A template for making discord HTTP bots with typescript.
 - [sern-handler/handler](https://github.com/sern-handler/handler) - Create your dream Discord bot!
 - [necordjs/necord](https://github.com/necordjs/necord) - 🤖 A module for creating Discord bots using NestJS, based on Discord.js
@@ -2596,7 +2609,7 @@
 
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
 - [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI) - CollabAI is an open-source & self-hosted AI operation platform for small and medium-sized businesses. It’s a customizable & team-centric platform where you can have access to custom AI agents tailored
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
@@ -2628,6 +2641,15 @@
 
 ## others 
 
+- [javimosch/landing-proxyflare](https://github.com/javimosch/landing-proxyflare) - Create landing pages and deploy them fast using Proxiflare API
+- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+- [javimosch/proxyflare](https://github.com/javimosch/proxyflare) - Manage your reverse proxies with the power of Nginx Proxy Manager and Cloudflare.
+- [kmanwar89/nginx_proxy_manager_automation](https://github.com/kmanwar89/nginx_proxy_manager_automation) - Automation for NPM reverse proxy manager
+- [shuhanghang/nginx-proxy-ldap-manager](https://github.com/shuhanghang/nginx-proxy-ldap-manager) - Fork nginx-proxy-manager and  add LDAP module
+- [LazyGatto/npm-cert-export](https://github.com/LazyGatto/npm-cert-export) - Nginx Proxy Manager Certificate Export to Mailcow
+- [Erreur32/nginx-proxy-manager-Bash-API](https://github.com/Erreur32/nginx-proxy-manager-Bash-API) - This BASH script enables the management of Nginx Proxy Manager through its API.
+- [abcdw/notes](https://github.com/abcdw/notes) - org-roam notes
+- [JabberSPAM/jabber-spam-fighting-manifesto](https://github.com/JabberSPAM/jabber-spam-fighting-manifesto) - Manifesto for Public Jabber server operators fighting against spam
 - [ProjectSegfault/pubnix-configs](https://github.com/ProjectSegfault/pubnix-configs) - Configs for pubnix
 - [ProjectSegfault/publapi](https://github.com/ProjectSegfault/publapi) - API for pubnix.
 - [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
@@ -4251,6 +4273,7 @@
 
 ## security 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -4556,13 +4579,14 @@
 
 ## terraform 
 
+- [awpala/terraform-for-hetzner-ubuntu-vm](https://github.com/awpala/terraform-for-hetzner-ubuntu-vm) - Provisioning Ubuntu OS on Hetzner via Terraform
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [plutomi/plutomi](https://github.com/plutomi/plutomi) - Applicant Management at Any Scale. Currently WIP! :D
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [radzionc/radzionkit](https://github.com/radzionc/radzionkit) - RadzionKit: A versatile full-stack development toolkit designed to streamline and enhance your coding projects with a suite of integrated, easy-to-use packages.
 - [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
-- [amizzo87/plexverse](https://github.com/amizzo87/plexverse) - Automatic, hands-off Plex ecosystem installation for multiple cloud providers
+- [izzoa/plexverse](https://github.com/izzoa/plexverse) - Automatic, hands-off Plex ecosystem installation for multiple cloud providers
 
 ## testing 
 
@@ -4730,7 +4754,7 @@
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
 - [saloniamatteo/dotfiles](https://github.com/saloniamatteo/dotfiles) - Salonia Matteo's dotfiles (GNU/Linux configuration)
 - [shrikecode/kyotonight.vim](https://github.com/shrikecode/kyotonight.vim) - Vim / NeoVim theme that is a marriage of Tokyo Night and Nord Theme. And they went on honeymoon to Kyoto I guess. Dark, elegant, and easy on the eyes.
-- [ronald0x00/dotfiles](https://github.com/ronald0x00/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [0xvagab0nD/dotfiles](https://github.com/0xvagab0nD/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
