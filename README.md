@@ -323,7 +323,7 @@
 
 ## HCL 
 
-- [awpala/terraform-for-hetzner-ubuntu-vm](https://github.com/awpala/terraform-for-hetzner-ubuntu-vm) - Provisioning Ubuntu OS on Hetzner via Terraform
+- [awpala/terraform-for-hetzner-ubuntu-vm](https://github.com/awpala/terraform-for-hetzner-ubuntu-vm) - Provisioning Ubuntu Server OS on Hetzner via Terraform
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
 - [izzoa/plexverse](https://github.com/izzoa/plexverse) - Automatic, hands-off Plex ecosystem installation for multiple cloud providers
 
@@ -830,6 +830,7 @@
 
 ## Others 
 
+- [brokenscripts/authentik_traefik](https://github.com/brokenscripts/authentik_traefik) - Authentik behind Traefik
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 - [shuhanghang/nginx-proxy-ldap-manager](https://github.com/shuhanghang/nginx-proxy-ldap-manager) - Fork nginx-proxy-manager and  add LDAP module
 - [JabberSPAM/jabber-spam-fighting-manifesto](https://github.com/JabberSPAM/jabber-spam-fighting-manifesto) - Manifesto for Public Jabber server operators fighting against spam
@@ -1139,7 +1140,7 @@
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [JDsProjects/JDBot](https://github.com/JDsProjects/JDBot) - the official JDBot rewrite :D
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, xAI, Mistral, Groq, OpenRouter, Ollama, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (xAI, Mistral, Groq, OpenRouter, Ollama, vLLM, LM Studio and more)
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A wrapper around SonarScanner CLI, available on PyPI.
@@ -2070,6 +2071,19 @@
 
 ## TypeScript 
 
+- [Yanyutin753/lobe-chat](https://github.com/Yanyutin753/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
+- [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
+- [Kuzma02/NextJS14-NextAuth-Login-And-Register](https://github.com/Kuzma02/NextJS14-NextAuth-Login-And-Register) - NextAuth Boilerplate is a versatile and customizable authentication solution tailored for Next.js 14, offering a seamless integration. This feature-rich boilerplate not only provides a secure and effi
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
+- [mit-27/god-tier-saas](https://github.com/mit-27/god-tier-saas) - A SaaS kit providing end-to-end type safety with ts-rest between Next.js and Nest.js, plus integrated services like AuthJS, PostHog, and Drizzle ORM with PostgreSQL.
+- [hafizn07/next-auth-v5-advanced-guide-2024](https://github.com/hafizn07/next-auth-v5-advanced-guide-2024) - Next-auth v5 project with Next.js 14, offering robust authentication features including social logins, password recovery, email verification, two-factor authentication, user roles (admin & user), logi
+- [Dannyisadog/nextjs-authentication-template](https://github.com/Dannyisadog/nextjs-authentication-template) - The nextjs-authjs-template is a robust starter template for building modern web applications with Next.js and Auth.js (formerly NextAuth.js).
+- [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page) - Example Auth.js v5 Custom Signin Page
+- [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
+- [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
+- [zenWai/nextjs14-next-authv5-app-router](https://github.com/zenWai/nextjs14-next-authv5-app-router) - Nextjs 14 w/ Next-Auth v5, Prisma, zod, react-hook-form | Forgot password | email verification | 2FA | User Roles | Rate Limiting
+- [reliverse/cli](https://github.com/reliverse/cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [mickasmt/next-auth-roles-template](https://github.com/mickasmt/next-auth-roles-template) - Open-source Nextjs 14 Template Starter with Auth.js v5, User Roles & Admin Panel. Remove blog or docs parts with one cli.
 - [ccbikai/nextflare](https://github.com/ccbikai/nextflare) - Next.js App running with Lemon Squeezy on Cloudflare.
 - [supernets/hardlounge](https://github.com/supernets/hardlounge) - IRCv5 Compliant Web-based IRC Client
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
