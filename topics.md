@@ -362,6 +362,7 @@
 
 ## automation 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -461,7 +462,6 @@
 - [kzndotsh/awesome-discordpy](https://github.com/kzndotsh/awesome-discordpy) - An Awesome list for all things Discord.py
 - [jthegedus/awesome-list-template](https://github.com/jthegedus/awesome-list-template) - 🕶 Awesome list template with CI and required conventions out of the box!
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [Correia-jpv/fucking-awesome-sysadmin](https://github.com/Correia-jpv/fucking-awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴
@@ -527,6 +527,7 @@
 
 ## backend 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -605,7 +606,7 @@
 - [zaboal/tilde](https://github.com/zaboal/tilde) - registrar for a shared linux
 - [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A Python Discord bot with reporting features and detailed audit logs.
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (xAI, Mistral, Groq, OpenRouter, Ollama, vLLM, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 500k+ users ✨🚀
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
@@ -694,14 +695,14 @@
 
 ## chatbot 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (xAI, Mistral, Groq, OpenRouter, Ollama, vLLM, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 
 ## chatgpt 
 
 - [mayman007/ShinobiBot](https://github.com/mayman007/ShinobiBot) - 【Multipurpose Discord Bot】Tickets｜Logging｜Anti-Spam｜Giveaways｜Suggestions｜Moderation｜Games｜AI｜100+ commands
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (xAI, Mistral, Groq, OpenRouter, Ollama, vLLM, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
@@ -950,6 +951,7 @@
 
 ## deployment 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [taw00/howto](https://github.com/taw00/howto) - Dumping ground for various HowTo documents that I produce
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
@@ -969,6 +971,7 @@
 
 ## devops 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
 - [exajobs/devops-collection](https://github.com/exajobs/devops-collection) - Welcome To The World of DevOps. An ongoing & curated collection of awesome software, libraries, learning tutorials, tools and resources and cool stuff about DevOps.
 - [trolologuy/useful-tools](https://github.com/trolologuy/useful-tools) - A list of useful tools and programs for developers, DevOps and SysAdmins
@@ -997,7 +1000,7 @@
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (xAI, Mistral, Groq, OpenRouter, Ollama, vLLM, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 500k+ users ✨🚀
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
@@ -1128,6 +1131,7 @@
 
 ## docker 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mit-27/god-tier-saas](https://github.com/mit-27/god-tier-saas) - A SaaS kit providing end-to-end type safety with ts-rest between Next.js and Nest.js, plus integrated services like AuthJS, PostHog, and Drizzle ORM with PostgreSQL.
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 120+ open-source web apps with one Docker command
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1407,6 +1411,7 @@
 
 ## express 
 
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [edwinhern/express-typescript-2024](https://github.com/edwinhern/express-typescript-2024) - Express + TypeScript + Boilerplate for Web / API App
 - [GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript) - Express + TypeScript + Boilerplate for Web / API App
 - [sixem/ivfi-node](https://github.com/sixem/ivfi-node) - IVFi is a directory indexer written in Node that aims to make it easy to browse and explore web-accessible directories.
@@ -1461,8 +1466,8 @@
 
 ## framework 
 
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [sern-handler/handler](https://github.com/sern-handler/handler) - Create your dream Discord bot!
 - [KevinNovak/Discord-Bot-TypeScript-Template](https://github.com/KevinNovak/Discord-Bot-TypeScript-Template) - Discord bot - A discord.js bot template written with TypeScript.
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
@@ -1474,6 +1479,7 @@
 
 ## frontend 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -1889,6 +1895,8 @@
 
 ## javascript 
 
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
@@ -1901,7 +1909,6 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
@@ -2169,12 +2176,13 @@
 
 ## llm 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (xAI, Mistral, Groq, OpenRouter, Ollama, vLLM, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
 ## login 
 
+- [PedroJorge148/auth-next](https://github.com/PedroJorge148/auth-next) - A simple authentication nextjs project developed with CodeWithAntonio.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 
 ## low-code 
@@ -2239,6 +2247,7 @@
 
 ## markdown 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [bobheadxi/readable](https://github.com/bobheadxi/readable) - 👓 Opinionated Markdown formatter, featuring semantic line breaks
 - [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes) - The github action that creates index pages for your project, the changes still need to be submitted afterwards
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
@@ -2261,6 +2270,7 @@
 
 ## mongodb 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [waldemarnt/node-typescript-api](https://github.com/waldemarnt/node-typescript-api) - 🚀Complete Node.js API built using 👉Typescript | Jest | MongoDB | Express
 - [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
@@ -2326,6 +2336,7 @@
 
 ## mysql 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, Salesforce, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -2400,6 +2411,14 @@
 
 ## nextjs 
 
+- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
+- [PedroJorge148/auth-next](https://github.com/PedroJorge148/auth-next) - A simple authentication nextjs project developed with CodeWithAntonio.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [mit-27/god-tier-saas](https://github.com/mit-27/god-tier-saas) - A SaaS kit providing end-to-end type safety with ts-rest between Next.js and Nest.js, plus integrated services like AuthJS, PostHog, and Drizzle ORM with PostgreSQL.
 - [Dannyisadog/nextjs-authentication-template](https://github.com/Dannyisadog/nextjs-authentication-template) - The nextjs-authjs-template is a robust starter template for building modern web applications with Next.js and Auth.js (formerly NextAuth.js).
@@ -2419,7 +2438,6 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [dkrasnovdev/nextjs-app-router-keycloak-example](https://github.com/dkrasnovdev/nextjs-app-router-keycloak-example) - Next.js application that demonstrates how to integrate Keycloak for authentication using NextAuth with App router.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -2488,6 +2506,7 @@
 
 ## node 
 
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [Yanik39/IRCNet](https://github.com/Yanik39/IRCNet) - Full featured IRCServer with UnrealIRCd, Atheme-Services and theLounge.
 - [SandroMiguel/eslint-config-cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for my projects
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -2506,6 +2525,7 @@
 
 ## nodejs 
 
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [Yanik39/IRCNet](https://github.com/Yanik39/IRCNet) - Full featured IRCServer with UnrealIRCd, Atheme-Services and theLounge.
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -2618,7 +2638,7 @@
 
 ## openai 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (xAI, Mistral, Groq, OpenRouter, Ollama, vLLM, LM Studio and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - A Discord LLM chat bot that supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI) - CollabAI is an open-source & self-hosted AI operation platform for small and medium-sized businesses. It’s a customizable & team-centric platform where you can have access to custom AI agents tailored
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
@@ -2652,6 +2672,9 @@
 
 ## others 
 
+- [BoronenkoTimurs/next-auth-tutorial](https://github.com/BoronenkoTimurs/next-auth-tutorial) - Here I learn via "CodeWithAntonio" Next Auth v5
+- [ShubhamkumarAnand/next-auth](https://github.com/ShubhamkumarAnand/next-auth) - An implementation of nextAuth5 and features
+- [codeskul/auth-tutorial-nextjs14-authjs5](https://github.com/codeskul/auth-tutorial-nextjs14-authjs5) - Video Link https://youtu.be/1MTyCvS05V4?si=cOmuVS3_pjZv_MVc
 - [Yanyutin753/lobe-chat](https://github.com/Yanyutin753/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
 - [Kuzma02/NextJS14-NextAuth-Login-And-Register](https://github.com/Kuzma02/NextJS14-NextAuth-Login-And-Register) - NextAuth Boilerplate is a versatile and customizable authentication solution tailored for Next.js 14, offering a seamless integration. This feature-rich boilerplate not only provides a secure and effi
 - [hafizn07/next-auth-v5-advanced-guide-2024](https://github.com/hafizn07/next-auth-v5-advanced-guide-2024) - Next-auth v5 project with Next.js 14, offering robust authentication features including social logins, password recovery, email verification, two-factor authentication, user roles (admin & user), logi
@@ -3772,6 +3795,7 @@
 
 ## postgresql 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mit-27/god-tier-saas](https://github.com/mit-27/god-tier-saas) - A SaaS kit providing end-to-end type safety with ts-rest between Next.js and Nest.js, plus integrated services like AuthJS, PostHog, and Drizzle ORM with PostgreSQL.
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -4058,6 +4082,10 @@
 
 ## react 
 
+- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
 - [reliverse/cli](https://github.com/reliverse/cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
@@ -4187,11 +4215,11 @@
 
 ## reactjs 
 
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [MahdiTa97/turborepo-boilerplate](https://github.com/MahdiTa97/turborepo-boilerplate) - A boilerplate base on TURBOREPO
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -4321,6 +4349,7 @@
 
 ## self-hosted 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
@@ -4364,6 +4393,7 @@
 
 ## serverless 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -4504,6 +4534,8 @@
 
 ## tailwindcss 
 
+- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page) - Example Auth.js v5 Custom Signin Page
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
 - [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
@@ -4623,6 +4655,7 @@
 
 ## typescript 
 
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
 - [mit-27/god-tier-saas](https://github.com/mit-27/god-tier-saas) - A SaaS kit providing end-to-end type safety with ts-rest between Next.js and Nest.js, plus integrated services like AuthJS, PostHog, and Drizzle ORM with PostgreSQL.
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
