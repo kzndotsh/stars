@@ -91,7 +91,6 @@
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [Diverto/cryptsetup-pwguess](https://github.com/Diverto/cryptsetup-pwguess) - Modified cryptsetup to enable password guessing - https://diverto.github.io/2019/11/18/Cracking-LUKS-passphrases
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [ifreund/dumb_runtime_dir](https://github.com/ifreund/dumb_runtime_dir) - Creates an XDG_RUNTIME_DIR on login and never removes it.
 - [jcontoso/picom-conf-gtk](https://github.com/jcontoso/picom-conf-gtk) - A graphical configuration tool for Picom.
@@ -188,7 +187,7 @@
 - [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
 - [erikdubois/Archi3](https://github.com/erikdubois/Archi3) - Automated script to install i3 and all its programs on Arch Linux
 - [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox) - A sleek, modern and elegant Firefox CSS theme
-- [deepwather/plexDash](https://github.com/deepwather/plexDash) - A system performance dashboard for plex-servers -- linux only!
+- [tuxmi/plexDash](https://github.com/tuxmi/plexDash) - A system performance dashboard for plex-servers -- linux only!
 - [JoKneeMo/Plexidex](https://github.com/JoKneeMo/Plexidex) - Export Plex Movie library to HTML/PHP
 - [jo-nike/clipplex](https://github.com/jo-nike/clipplex) - 
 - [HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) - Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇
@@ -279,6 +278,7 @@
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
@@ -396,6 +396,7 @@
 
 ## JavaScript 
 
+- [MiguelCarino/findmeadistro](https://github.com/MiguelCarino/findmeadistro) - a website that finds random OS
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
 - [phoenixcoded/saasable-ui](https://github.com/phoenixcoded/saasable-ui) - Compete solution for UI pages as well Admin Dashboard
 - [ThinAirThings/blueprint-website.v.1](https://github.com/ThinAirThings/blueprint-website.v.1) - 
@@ -440,6 +441,7 @@
 - [mmaatttee/Airtable](https://github.com/mmaatttee/Airtable) - Various Airtable formulas / codes / scripts!
 - [UnlyEd/airtable-utils](https://github.com/UnlyEd/airtable-utils) - Airtable utilities for formulas, scripts, with proper examples
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [TFAGaming/DiscordJS-V14-Bot-Template](https://github.com/TFAGaming/DiscordJS-V14-Bot-Template) - A Discord bot with commands, components and events handler based on the latest discord.js v14 and fully written in JavaScript.
@@ -1361,7 +1363,7 @@
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [gatheesha/dotfiles](https://github.com/gatheesha/dotfiles) - my tokyonight arch linux dots
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -1785,7 +1787,6 @@
 - [dockette/kumatron](https://github.com/dockette/kumatron) - 🐳  Uptime Kuma with extra juicy configuration and streaming SQLite.
 - [sigugo/tmux-tokyo-night](https://github.com/sigugo/tmux-tokyo-night) - 
 - [onedr0p/qbittorrent-prune](https://github.com/onedr0p/qbittorrent-prune) - Remove torrents from qBittorrent that are reported unregistered by a tracker
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [nickcorin/dotfiles](https://github.com/nickcorin/dotfiles) - Configuration files for my personal development environment
