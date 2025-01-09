@@ -604,7 +604,6 @@
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template) - A boilerplate / template for discord.js v14 bots with 100% coverage of Discord API, command handler, error handler based on https://discordjs.guide/
-- [RileCraft/DiscordBot-Template](https://github.com/RileCraft/DiscordBot-Template) - A bot template with command , event , button , selectmenus , slashcommands handler and error handlers. Made in Discord.JS V14
 - [Luxe-Quality/restAPI_jest_axios_boilerplate](https://github.com/Luxe-Quality/restAPI_jest_axios_boilerplate) - This boilerplate can be used in any node app to automate test coverage related to functionality, integration and validation responses against openapi schema.
 - [Akhileshpm/NodeJS-BoilerPlate-CRUD-JWT-MONGOOSE](https://github.com/Akhileshpm/NodeJS-BoilerPlate-CRUD-JWT-MONGOOSE) - This a nodejs application boilerplate containing CRUD APIs , mongodb schema , and JWT authentication
 - [MuhammadKhalil531/Mern-with-boilerplate](https://github.com/MuhammadKhalil531/Mern-with-boilerplate) - Basic MVC Architecture with one post and get api with one mongoose schema
@@ -843,6 +842,7 @@
 
 ## Others 
 
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
 - [tanaikech/taking-advantage-of-google-apps-script](https://github.com/tanaikech/taking-advantage-of-google-apps-script) - Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my blog, Gists and GitHub are summarized.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
@@ -2089,6 +2089,7 @@
 
 ## TypeScript 
 
+- [QuocAnh189/Discord_Clone](https://github.com/QuocAnh189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
 - [sysblok/focalboard](https://github.com/sysblok/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 14 + TypeScript + Shadcn ui
 - [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
@@ -2176,7 +2177,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [dkrasnovdev/nextjs-app-router-keycloak-example](https://github.com/dkrasnovdev/nextjs-app-router-keycloak-example) - Next.js application that demonstrates how to integrate Keycloak for authentication using NextAuth with App router.
 - [sixem/ivfi-node](https://github.com/sixem/ivfi-node) - IVFi is a directory indexer written in Node that aims to make it easy to browse and explore web-accessible directories.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Yureien/YABin](https://github.com/Yureien/YABin) - Yet another pastebin, simple but feature-rich, along with a CLI client
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
