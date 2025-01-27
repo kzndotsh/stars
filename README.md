@@ -1376,7 +1376,6 @@
 - [frap129/layman](https://github.com/frap129/layman) - a layout management framework for sway/i3
 - [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
 - [Sunderland93/sway-input-config](https://github.com/Sunderland93/sway-input-config) - Input device configurator for Sway
-- [OctopusET/sway-contrib](https://github.com/OctopusET/sway-contrib) - A collection of user-contributed scripts for sway
 - [nwg-piotr/swayinfo](https://github.com/nwg-piotr/swayinfo) - Some goodies for use in Sway and i3 wm
 - [Difrex/sway](https://github.com/Difrex/sway) - My Sway configuration
 - [lbonn/i3-quickterm](https://github.com/lbonn/i3-quickterm) - A small drop-down terminal for i3 and sway
@@ -1455,6 +1454,7 @@
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
+- [jelly/Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
 - [vEnhance/dotfiles](https://github.com/vEnhance/dotfiles) - Dot files for Evan Chen (Arch Linux on i3)
 - [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
 - [s3rius/i3wm-autoConfig](https://github.com/s3rius/i3wm-autoConfig) - Repository contains script to install i3wm with modded simple configuration
@@ -1778,6 +1778,7 @@
 - [bobsoppe/zsh-ssh-agent](https://github.com/bobsoppe/zsh-ssh-agent) - Ssh-agent management for zsh
 - [user18130814200115-2/swayscripts](https://github.com/user18130814200115-2/swayscripts) - A collection of Scripts useful for swaywm
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
+- [OctopusET/sway-contrib](https://github.com/OctopusET/sway-contrib) - A collection of user-contributed scripts for sway
 - [nboughton/dotfiles](https://github.com/nboughton/dotfiles) - My sway desktop config
 - [mcandre/dotfiles](https://github.com/mcandre/dotfiles) - Configuration files
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
@@ -2412,7 +2413,6 @@
 - [saloniamatteo/dotfiles](https://github.com/saloniamatteo/dotfiles) - Salonia Matteo's dotfiles (GNU/Linux configuration)
 - [shrikecode/kyotonight.vim](https://github.com/shrikecode/kyotonight.vim) - Vim / NeoVim theme that is a marriage of Tokyo Night and Nord Theme. And they went on honeymoon to Kyoto I guess. Dark, elegant, and easy on the eyes.
 - [claytron/dotfiles](https://github.com/claytron/dotfiles) - My *nix confs
-- [jelly/Dotfiles](https://github.com/jelly/Dotfiles) - My Dotfiles
 - [dvragulin/dotfiles-public](https://github.com/dvragulin/dotfiles-public) - Personal Ansible roles for installing i3 on Arch Linux and applying my dotfiles.
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
