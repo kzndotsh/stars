@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -347,7 +348,6 @@
 - [kappq/dotfiles](https://github.com/kappq/dotfiles) - My dotfiles based on the Tokyo Night theme.
 - [M4hbod/Better-New-Tab](https://github.com/M4hbod/Better-New-Tab) - New tab with Tokyo Night theme and Search Bar
 - [kzndotsh/dotfiles](https://github.com/kzndotsh/dotfiles) - There's no place like ~
-- [slashedzer0/homepage](https://github.com/slashedzer0/homepage) - Custom homepage for use locally in browser
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
@@ -2092,6 +2092,7 @@
 
 ## TypeScript 
 
+- [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
@@ -2110,7 +2111,7 @@
 - [bysxx/next15-ts-template-fullstack](https://github.com/bysxx/next15-ts-template-fullstack) - ⚡ Fullstack Next.js 15 + TypeScript + MongoDB Template (with SEO)
 - [jared-goering/next-homeplace-dashboard](https://github.com/jared-goering/next-homeplace-dashboard) - 
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
-- [alan345/TER](https://github.com/alan345/TER) - Fullstack Boilerplate with tRPC, Express and React.
+- [alan345/Fullstack-SaaS-Boilerplate](https://github.com/alan345/Fullstack-SaaS-Boilerplate) - Fullstack SaaS Boilerplate built with tRPC, Fastify and React
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [allthingslinux/allthingslinux](https://github.com/allthingslinux/allthingslinux) - 
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
@@ -2223,7 +2224,7 @@
 - [t3dotgg/yerba](https://github.com/t3dotgg/yerba) - Electron Turborepo monorepo with Next.js, Typescript, Vite and more
 - [MahdiTa97/turborepo-boilerplate](https://github.com/MahdiTa97/turborepo-boilerplate) - A boilerplate base on TURBOREPO
 - [enjidev/enji.dev](https://github.com/enjidev/enji.dev) - a monorepo for my personal website and projects, built with Turborepo + pnpm 📚
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured. (DEPRECATED)
+- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [lucioew28/extends](https://github.com/lucioew28/extends) - 
 - [ishaan1013/thr](https://github.com/ishaan1013/thr) - Web remake of Meta's Threads (built before the official web version released)
