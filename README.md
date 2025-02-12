@@ -241,12 +241,13 @@
 
 ## Go 
 
+- [rramiachraf/dumb](https://github.com/rramiachraf/dumb) - Private alternative front-end for Genius.
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [zaboal/lab](https://github.com/zaboal/lab) - Shared Linux server — aka "tilde" — IaC and registrar in Telegram.
+- [zaboal/lab](https://github.com/zaboal/lab) - Backend of a tilde instance
 - [ProjectSegfault/publapi](https://github.com/ProjectSegfault/publapi) - API for pubnix.
 - [Auttaja-OpenSource/Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
 - [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
@@ -489,7 +490,7 @@
 - [mingiryu/insights](https://github.com/mingiryu/insights) - Airtable Insights Block
 - [sumanthreddym/AirDesk](https://github.com/sumanthreddym/AirDesk) - Prioritise support tickets based on urgency of the issue by performing sentiment analysis on the ticket description.
 - [francizjamez/Airtable-charts](https://github.com/francizjamez/Airtable-charts) - 
-- [kingcodemodo/dataexplorer](https://github.com/kingcodemodo/dataexplorer) - 
+- [mxcode1/dataexplorer](https://github.com/mxcode1/dataexplorer) - 
 - [kevee/airtable-extension-select-option-manager](https://github.com/kevee/airtable-extension-select-option-manager) - Lets you bulk copy and update select and multi-select fields in Airtable.
 - [AJBJerryBarnes/payment](https://github.com/AJBJerryBarnes/payment) - Social supermarket payment, could be hamper, timeslot or prepayment
 - [JesusDDT/airtable-scripts](https://github.com/JesusDDT/airtable-scripts) - 
@@ -2314,7 +2315,7 @@
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [radzionc/radzionkit](https://github.com/radzionc/radzionkit) - RadzionKit: A versatile full-stack development toolkit designed to streamline and enhance your coding projects with a suite of integrated, easy-to-use packages.
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 14 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
