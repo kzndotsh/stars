@@ -637,7 +637,6 @@
 - [kiewic/spotify-charts](https://github.com/kiewic/spotify-charts) - Script to automatically download all the data available at https://spotifycharts.com/regional
 - [Sebs66/topCharts](https://github.com/Sebs66/topCharts) - REST API to get historic data of Spotify's top 50 charts.
 - [avivace/dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
-- [izissise/nginx-explorer](https://github.com/izissise/nginx-explorer) - File explorer in javascript, file come from nginx autoindex
 - [la55u/predb-frontend](https://github.com/la55u/predb-frontend) - PRE & NFO database and notification service for warez scene releases. This repository contains the frontend code written in Next.js and Chakra-UI.
 - [thcolin/oleoo](https://github.com/thcolin/oleoo) - 🎟💸☠️ Parse scene / p2p release name, return object with title, tags and flags
 - [allenrkeen/server-bot](https://github.com/allenrkeen/server-bot) - Discord bot to remotely monitor and control a docker based server
@@ -848,6 +847,7 @@
 
 ## Others 
 
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance
 - [oshliaer/google-apps-script-awesome-list](https://github.com/oshliaer/google-apps-script-awesome-list) - The usual list of links to interesting resources for Google Apps Script
@@ -897,7 +897,7 @@
 - [joeynotjoe/airtable-formulas](https://github.com/joeynotjoe/airtable-formulas) - A collection of Airtable formulas that I find useful.
 - [penberg/linux-networking](https://github.com/penberg/linux-networking) - Notes on Linux network internals
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
@@ -1946,6 +1946,7 @@
 - [rickellis/ArchMatic](https://github.com/rickellis/ArchMatic) - Arch Linux post-installation setup and config scripts
 - [sudorook/archlinux](https://github.com/sudorook/archlinux) - Installation and post-installation scripts for Arch Linux.
 - [mikeroyal/Arch-Linux-Guide](https://github.com/mikeroyal/Arch-Linux-Guide) - Arch Linux Guide
+- [izissise/nginx-explorer](https://github.com/izissise/nginx-explorer) - File explorer in javascript, file come from nginx autoindex
 - [tc-mccarthy/ffmpeg-recipes](https://github.com/tc-mccarthy/ffmpeg-recipes) - Scripts for different video transcode scenarios
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
@@ -2202,7 +2203,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -2315,7 +2316,7 @@
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [radzionc/radzionkit](https://github.com/radzionc/radzionkit) - RadzionKit: A versatile full-stack development toolkit designed to streamline and enhance your coding projects with a suite of integrated, easy-to-use packages.
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 14 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netli
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
