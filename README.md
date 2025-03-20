@@ -36,7 +36,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mustache](#mustache)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
@@ -97,7 +96,7 @@
 - [jcontoso/picom-conf-gtk](https://github.com/jcontoso/picom-conf-gtk) - A graphical configuration tool for Picom.
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
+- [hikmat2337/connmap](https://github.com/hikmat2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [pythonmaster41/Go-For-OSCP](https://github.com/pythonmaster41/Go-For-OSCP) - 
@@ -165,6 +164,7 @@
 - [lfreyes97/Tokyo-Night-GTK](https://github.com/lfreyes97/Tokyo-Night-GTK) - Tokyo Night Dark GTK theme based on the WhiteSur theme
 - [tcmmichaelb139/obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
 - [zhensheng1124/logseq-tokyo-night-theme](https://github.com/zhensheng1124/logseq-tokyo-night-theme) - 
+- [kitsunebishi/Wallpapers](https://github.com/kitsunebishi/Wallpapers) - a collection of my best wallpapers
 - [Tezra-Desu/TokyoNights-Darker](https://github.com/Tezra-Desu/TokyoNights-Darker) - TokyoNights GTK Theme
 - [ashtrath/Tokyo-Night](https://github.com/ashtrath/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 - [samiunblack/tokyo-night-theme](https://github.com/samiunblack/tokyo-night-theme) - Tokyo Night Theme for windows
@@ -252,7 +252,7 @@
 - [Auttaja-OpenSource/Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
 - [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
 - [jessfraz/gitable](https://github.com/jessfraz/gitable) - Bot to automatically sync and update an airtable sheet with GitHub pull request and issue data.
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
@@ -269,6 +269,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [shared-recruiting-co/shared-recruiting-co](https://github.com/shared-recruiting-co/shared-recruiting-co) - SRC (Shared Recruiting Co.) is an open-source, candidate-centric recruiting platform
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -336,7 +337,6 @@
 
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [VinceCDev/BrightPrint](https://github.com/VinceCDev/BrightPrint) - 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [lukin/keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
@@ -425,6 +425,7 @@
 - [saas-developer/airtable-api-connection](https://github.com/saas-developer/airtable-api-connection) - 
 - [UnlyEd/airtable-backups-boilerplate](https://github.com/UnlyEd/airtable-backups-boilerplate) - Configurable automated backups for Airtable meant to be self-hosted, powered by AWS Lambda/S3 with the Serverless framework
 - [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [joseadrian/airtable-firefox-extension](https://github.com/joseadrian/airtable-firefox-extension) - Firefox extension that allows someone to set a webhook url for common actions: update cell, add or delete row
 - [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI) - CollabAI is an open-source & self-hosted AI operation platform for small and medium-sized businesses. It’s a customizable & team-centric platform where you can have access to custom AI agents tailored
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -432,7 +433,7 @@
 - [cape-io/airtable-schema](https://github.com/cape-io/airtable-schema) - Download Airtable schema to JSON file.
 - [ssotax/ssotax](https://github.com/ssotax/ssotax) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced open-source discord ticket bot with HTML transcripts, plugins, questions, claiming, pinning & more! Using discord.js v14 & JSON database!
+- [DJj123dj/open-ticket](https://github.com/DJj123dj/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, pterodactyl support & more! Easy setup & powered by discord.js v14!
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
@@ -691,7 +692,7 @@
 - [ridhwaans/homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [laggingreflex/multi-video-player](https://github.com/laggingreflex/multi-video-player) - 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [stashapp/CommunityScripts](https://github.com/stashapp/CommunityScripts) - This is a public repository containing plugin and utility scripts created by the Stash Community.
 - [TheUltimateC0der/alternatrr](https://github.com/TheUltimateC0der/alternatrr) - alternatrr lets you add alternative titles to your sonarr instance with a simple WebUI
 - [fcsonline/react-transmission](https://github.com/fcsonline/react-transmission) - React Transmission is an ongoing reimplementation of Transmission web interface.
@@ -787,10 +788,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 
-## Mustache 
-
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
-
 ## Nix 
 
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
@@ -819,6 +816,7 @@
 - [aaronjanse/dotfiles](https://github.com/aaronjanse/dotfiles) - My dotfiles as a Nix flake
 - [Panadestein/nixos-config](https://github.com/Panadestein/nixos-config) - A minimalist NixOS config
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
+- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
 - [schuelermine/xhmm](https://github.com/schuelermine/xhmm) - Extra home manager modules
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
@@ -941,7 +939,6 @@
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [mikejonesey/hp-envy-15-ah150sa](https://github.com/mikejonesey/hp-envy-15-ah150sa) - DSDT for hp-envy-15-ah150sa
-- [kitsunebishi/Wallpapers](https://github.com/kitsunebishi/Wallpapers) - a collection of my best wallpapers
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [ZvonimirKucis/conky](https://github.com/ZvonimirKucis/conky) - Simple Conky configuration for my desktop PC
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1034,7 +1031,7 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [archcraft-os/archcraft-wayfire](https://github.com/archcraft-os/archcraft-wayfire) - // Configuration : Wayfire
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [pablocorbalann/arch-minimal-wallpapers](https://github.com/pablocorbalann/arch-minimal-wallpapers) - Collection of super minimal Arch Linux wallpapers based on famous color schemes.
+- [TopologicalHooligan/arch-minimal-wallpapers](https://github.com/TopologicalHooligan/arch-minimal-wallpapers) - Collection of super minimal Arch Linux wallpapers based on famous color schemes.
 - [White-Oak/arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
 - [ALonelyJuicebox/Stash_QuickStart_Guide](https://github.com/ALonelyJuicebox/Stash_QuickStart_Guide) - 
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -1156,7 +1153,7 @@
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
 - [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-- [tlambert03/mkdocs-api-autonav](https://github.com/tlambert03/mkdocs-api-autonav) - 
+- [tlambert03/mkdocs-api-autonav](https://github.com/tlambert03/mkdocs-api-autonav) - MkDocs plugin for autogenerating API docs with navigation
 - [Column01/Discord-Moderation-Bot](https://github.com/Column01/Discord-Moderation-Bot) - Modular Moderation bot for Discord
 - [Monarch-Linux/aurelia](https://github.com/Monarch-Linux/aurelia) - A simple, discord.py bot using the uv python package and project manager.
 - [gavindsouza/toolbox](https://github.com/gavindsouza/toolbox) - Automated Optimization & Maintenance for your Frappe sites
@@ -1425,7 +1422,7 @@
 - [brutasse/dotfiles](https://github.com/brutasse/dotfiles) - My dotfiles, now under version control
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
-- [shobrook/rebound](https://github.com/shobrook/rebound) - Get Stack Overflow results in your terminal whenever an error is thrown
+- [shobrook/rebound](https://github.com/shobrook/rebound) - Get instant Stack Overflow results whenever an exception is thrown
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [ASK-ME-ABOUT-LOOM/purgeomatic](https://github.com/ASK-ME-ABOUT-LOOM/purgeomatic) - Delete movie/tv data based on watch statistics
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
@@ -1766,7 +1763,6 @@
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [z-shell/zsh-eza](https://github.com/z-shell/zsh-eza) - ⚙️ Zsh plugin to replace command gnu/ls with eza-community/eza
 - [renovate-bot/z-shell-_-zsh-eza](https://github.com/renovate-bot/z-shell-_-zsh-eza) - ⚙️ Zsh plugin to replace command gnu/ls with ogham/exa
@@ -1801,8 +1797,8 @@
 - [bastienwirtz/dotfiles](https://github.com/bastienwirtz/dotfiles) - Linux environment configuration files.
 - [cometkim/asdf-bun](https://github.com/cometkim/asdf-bun) - asdf-vm plugin for installing Bun
 - [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) - asdf plugin for pnpm
-- [asdf-community/asdf-python](https://github.com/asdf-community/asdf-python) - Python plugin for the asdf version manager
-- [asdf-community/asdf-poetry](https://github.com/asdf-community/asdf-poetry) - Poetry plugin for the asdf version manager
+- [asdf-community/asdf-python](https://github.com/asdf-community/asdf-python) - Python plugin for the asdf version manager [maintainer=@danhper]
+- [asdf-community/asdf-poetry](https://github.com/asdf-community/asdf-poetry) - Poetry plugin for the asdf version manager [maintainer=@crflynn]
 - [dockette/kumatron](https://github.com/dockette/kumatron) - 🐳  Uptime Kuma with extra juicy configuration and streaming SQLite.
 - [sigugo/tmux-tokyo-night](https://github.com/sigugo/tmux-tokyo-night) - 
 - [onedr0p/qbittorrent-prune](https://github.com/onedr0p/qbittorrent-prune) - Remove torrents from qBittorrent that are reported unregistered by a tracker
@@ -1858,7 +1854,7 @@
 - [stevenliebregt/rofi-scripts](https://github.com/stevenliebregt/rofi-scripts) - A couple of useful rofi scripts.
 - [quiescer/cht](https://github.com/quiescer/cht) - Keep cheatsheets just a hotkey away
 - [graysky2/auto-reencode](https://github.com/graysky2/auto-reencode) - Mass convert wmv and flv files to mp4 contained x264 files using ffmpeg.
-- [graysky2/hosts-update](https://github.com/graysky2/hosts-update) - Updates /etc/hosts with the mvps blocklist to prevent thousands of parasites, hijackers and unwanted adware/spyware/privacy websites from working.
+- [graysky2/hosts-update](https://github.com/graysky2/hosts-update) - ⛔️ DEPRECATED Updates /etc/hosts with the mvps blocklist to prevent thousands of parasites, hijackers and unwanted adware/spyware/privacy websites from working.
 - [graysky2/bin](https://github.com/graysky2/bin) - Collection of scripts perhaps of utility to others.
 - [graysky2/anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
@@ -2104,6 +2100,7 @@
 
 ## TypeScript 
 
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components.
 - [skttl/tailwindcss-quantity-queries](https://github.com/skttl/tailwindcss-quantity-queries) - Variants for using quantity queries with Tailwind CSS
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
@@ -2412,7 +2409,7 @@
 
 ## Vala 
 
-- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
+- [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 
 ## Vim Script 
 
