@@ -371,6 +371,7 @@
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [bstascavage/plexReport](https://github.com/bstascavage/plexReport) - Scripts to generate a weekly email of new additions to Plex
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [hak5/omg-payloads](https://github.com/hak5/omg-payloads) - Official payload library for the O.MG line of products from Mischief Gadgets
 - [saltyorg/docs](https://github.com/saltyorg/docs) - 
@@ -1028,7 +1029,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [archcraft-os/archcraft-wayfire](https://github.com/archcraft-os/archcraft-wayfire) - // Configuration : Wayfire
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [TopologicalHooligan/arch-minimal-wallpapers](https://github.com/TopologicalHooligan/arch-minimal-wallpapers) - Collection of super minimal Arch Linux wallpapers based on famous color schemes.
@@ -1543,7 +1543,7 @@
 - [zmike808/BookOfBlackMagic](https://github.com/zmike808/BookOfBlackMagic) - A compilation of misc. scripts I use for my Plex setup.
 - [SKELLETON/tv-show-folder-rename-sonarr](https://github.com/SKELLETON/tv-show-folder-rename-sonarr) - tv show folder rename sonarr
 - [tanimislam/howdy](https://github.com/tanimislam/howdy) - This is a collection of tools, and APIs, to access media within my Plex server.
-- [pkkid/python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API.
+- [pushingkarmaorg/python-plexapi](https://github.com/pushingkarmaorg/python-plexapi) - Python bindings for the Plex API.
 - [dcampillo/arr-unmonitor](https://github.com/dcampillo/arr-unmonitor) - Sonarr/Radarr unmonitor custom scripts
 - [nwithan8/QueueBot](https://github.com/nwithan8/QueueBot) - A bot for tracking a queue in Discord
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
