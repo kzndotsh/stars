@@ -148,7 +148,7 @@
 
 - [ShiroKazane/Tokyo-Night](https://github.com/ShiroKazane/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 - [upload-wtf/helist-src](https://github.com/upload-wtf/helist-src) - Image uploader for sharex like upload.systems or e-z.host in php
-- [tvlpirb/desktop-env](https://github.com/tvlpirb/desktop-env) - Wayland configs and scripts
+- [tvlpirb/desktop-env](https://github.com/tvlpirb/desktop-env) - My personal wayland configurations for my linux setup
 - [micro-hawk/awesomight](https://github.com/micro-hawk/awesomight) - Enhance your Linux desktop with my Awesome Window Manager config. Customize key bindings, themes, and widgets to manage multiple windows and workspaces efficiently. Check it out now!
 - [matttelliott/tokyonight.scss](https://github.com/matttelliott/tokyonight.scss) - Bootstrap theme based on tokyonight.nvim
 - [ninryu/Startpage-Tokyonight](https://github.com/ninryu/Startpage-Tokyonight) - A tokyonight themed clean startpage
@@ -1703,6 +1703,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Supergamer1337/media-cleaner](https://github.com/Supergamer1337/media-cleaner) - Media Cleaner is a simple CLI tool to clean up your media library based on your Overseerr requests and Tautulli history, written in Rust.
+- [mchestr/displex](https://github.com/mchestr/displex) - Discord & Plex & Tautulli & Overseerr Bot
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [lostb1t/replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
@@ -2194,7 +2195,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
@@ -2202,7 +2203,7 @@
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [bobheadxi/readable](https://github.com/bobheadxi/readable) - 👓 Opinionated Markdown formatter, featuring semantic line breaks
 - [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes) - The github action that creates index pages for your project, the changes still need to be submitted afterwards
@@ -2314,7 +2315,6 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [formio/react](https://github.com/formio/react) - JSON powered forms for React.js
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-- [mchestr/displex](https://github.com/mchestr/displex) - Discord & Plex & Tautulli & Overseerr Bot
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [brandongallagher1999/1337x-Bot](https://github.com/brandongallagher1999/1337x-Bot) - ☠️Unofficial 1337x.to Discord Bot
