@@ -48,6 +48,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -76,7 +77,6 @@
 ## Astro 
 
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 
 ## AutoIt 
 
@@ -248,7 +248,6 @@
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [zaboal/lab](https://github.com/zaboal/lab) - Backend for a public Linux instance
 - [ProjectSegfault/publapi](https://github.com/ProjectSegfault/publapi) - API for pubnix.
 - [Auttaja-OpenSource/Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
 - [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
@@ -332,6 +331,7 @@
 ## HCL 
 
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
+- [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [izzoa/plexverse](https://github.com/izzoa/plexverse) - Automatic, hands-off Plex ecosystem installation for multiple cloud providers
 
 ## HTML 
@@ -435,7 +435,6 @@
 - [cape-ookb/airtable-schema](https://github.com/cape-ookb/airtable-schema) - Download Airtable schema to JSON file.
 - [ssotax/ssotax](https://github.com/ssotax/ssotax) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) - A GUI Frontend for services provided by https://thc.org/segfault
@@ -604,7 +603,6 @@
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [csscomb/csscomb.js](https://github.com/csscomb/csscomb.js) - CSS coding style formatter
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -776,6 +774,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -1151,6 +1150,7 @@
 
 ## Python 
 
+- [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [Zuehlke/ConfZ](https://github.com/Zuehlke/ConfZ) - ConfZ is a configuration management library for Python based on pydantic.
 - [prostomarkeloff/betterconf](https://github.com/prostomarkeloff/betterconf) - Minimalistic Python library for your configs.
@@ -1357,7 +1357,6 @@
 - [just-max/owo](https://github.com/just-max/owo) - something something owo
 - [iarspider/arachnobot](https://github.com/iarspider/arachnobot) - 
 - [DeJayDev/speedboat](https://github.com/DeJayDev/speedboat) - A Discord bot for managing large communities
-- [actionbrk/abeille](https://github.com/actionbrk/abeille) - Discord bot providing statistics and insights for guilds.
 - [squirrelo/MovieNightBot](https://github.com/squirrelo/MovieNightBot) - Simple discord bot for taking suggestions, running votes, and tracking watched movies for a movie night
 - [polympics/vote-bot](https://github.com/polympics/vote-bot) - An interaction-based Discord bot for artwork voting in the Polympics.
 - [vtran0314/discord-bot-learning](https://github.com/vtran0314/discord-bot-learning) - learning to develop discord bot
@@ -1441,7 +1440,6 @@
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor icon packs, themes, wallpapers and assets with a few clicks or lines of code.
-- [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [bunnykek/MultiUpload](https://github.com/bunnykek/MultiUpload) - Telegram bot to upload your GDrive/DDL/Telegram files to 10+ free hosting services
@@ -1668,6 +1666,10 @@
 
 - [siddrs/tokyo-night-sddm](https://github.com/siddrs/tokyo-night-sddm) - Tokyo Night theme for SDDM
 
+## Rich Text Format 
+
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
+
 ## Ruby 
 
 - [mrcnski/compnav](https://github.com/mrcnski/compnav) - Complete shell navigation: better up, z, and h
@@ -1730,6 +1732,7 @@
 - [HikariNee/Celestite](https://github.com/HikariNee/Celestite) - Fedora's celestial sibling, Celestite!
 - [ffoodd/a11y.css](https://github.com/ffoodd/a11y.css) - This CSS file intends to warn developers about possible risks and mistakes that exist in HTML code. It can also be used to roughly evaluate a site's quality by simply including it as an external style
 - [Fausto-Korpsvart/Tokyonight-GTK-Theme](https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme) - A GTK theme based on the Tokyo Night colour palette.
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [pannal/Kitana](https://github.com/pannal/Kitana) - A responsive Plex plugin web frontend
 - [stashapp/StashDB-Docs](https://github.com/stashapp/StashDB-Docs) - The documentation partially maintained by the community for the StashBoxAPI
 - [AdultSun/StashDB-Guidelines-Beta](https://github.com/AdultSun/StashDB-Guidelines-Beta) - Testing new guidelines docs using GH Pages
@@ -1815,7 +1818,7 @@
 - [dockette/kumatron](https://github.com/dockette/kumatron) - 🐳  Uptime Kuma with extra juicy configuration and streaming SQLite.
 - [sigugo/tmux-tokyo-night](https://github.com/sigugo/tmux-tokyo-night) - 
 - [onedr0p/qbittorrent-prune](https://github.com/onedr0p/qbittorrent-prune) - Remove torrents from qBittorrent that are reported unregistered by a tracker
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [nickcorin/dotfiles](https://github.com/nickcorin/dotfiles) - Configuration files for my personal development environment
 - [matu3ba/dotfiles_skeleton](https://github.com/matu3ba/dotfiles_skeleton) - robust and beginner friendly dotfile skeleton
@@ -1888,7 +1891,7 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [r3dr0n/dotfiles](https://github.com/r3dr0n/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [jrona1do/dotfiles](https://github.com/jrona1do/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
@@ -2228,6 +2231,7 @@
 - [gabrielalmeida/airtable-formula-builder](https://github.com/gabrielalmeida/airtable-formula-builder) - Airtable Formula Builder 𝒇
 - [Qualifyze/airtable-formulator](https://github.com/Qualifyze/airtable-formulator) - Airtable Formula Manipulator
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [actionbrk/abeille](https://github.com/actionbrk/abeille) - Discord bot providing statistics and insights for guilds.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
