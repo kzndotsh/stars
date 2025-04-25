@@ -97,7 +97,7 @@
 - [jcontoso/picom-conf-gtk](https://github.com/jcontoso/picom-conf-gtk) - A graphical configuration tool for Picom.
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [buffet/kiwmi](https://github.com/buffet/kiwmi) - A fully programmable Wayland Compositor
-- [hikmat2337/connmap](https://github.com/hikmat2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
+- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [pythonmaster41/Go-For-OSCP](https://github.com/pythonmaster41/Go-For-OSCP) - 
@@ -235,6 +235,7 @@
 - [rawleyfowler/tokyo-theme.el](https://github.com/rawleyfowler/tokyo-theme.el) - Tokyo Night theme for GNU Emacs
 - [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 
 ## GLSL 
 
@@ -242,10 +243,11 @@
 
 ## Go 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rramiachraf/dumb](https://github.com/rramiachraf/dumb) - Private alternative front-end for Genius.
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ProjectSegfault/publapi](https://github.com/ProjectSegfault/publapi) - API for pubnix.
@@ -363,6 +365,7 @@
 - [u1ui/norm.css](https://github.com/u1ui/norm.css) - CSS normalization for crossbrowser compatibility
 - [u1ui/base.css](https://github.com/u1ui/base.css) - ⏚ Usefull css defaults
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
+- [xdrudis/video-scripts](https://github.com/xdrudis/video-scripts) - A script to compile FFmpeg and libraries from scratch, cross-platform (MacOs/Ubuntu/CentOS/Alpine, x86-64/arm), and not needing root access
 - [performanize/boilerHTML](https://github.com/performanize/boilerHTML) - A very extensive HTML5 boilerplate
 - [ITRav4/PlexRedirect](https://github.com/ITRav4/PlexRedirect) - a Plex landing page that redirects you to various sites.
 - [StegSchreck/RatS](https://github.com/StegSchreck/RatS) - Movie Ratings Synchronization with Python
@@ -400,6 +403,7 @@
 
 ## JavaScript 
 
+- [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [sainsburys-tech/next-logger](https://github.com/sainsburys-tech/next-logger) - JSON logging patcher for Next.js
 - [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings
@@ -639,7 +643,7 @@
 - [Sebs66/topCharts](https://github.com/Sebs66/topCharts) - REST API to get historic data of Spotify's top 50 charts.
 - [avivace/dotfiles](https://github.com/avivace/dotfiles) - i3 + Plasma: using the i3 window manager on the top of KDE Plasma and other dotfiles, configurations, scripts, workarounds and practises from my Debian Sid machines.
 - [la55u/predb-frontend](https://github.com/la55u/predb-frontend) - PRE & NFO database and notification service for warez scene releases. This repository contains the frontend code written in Next.js and Chakra-UI.
-- [thcolin/oleoo](https://github.com/thcolin/oleoo) - 🎟💸☠️ Parse scene / p2p release name, return object with title, tags and flags
+- [thcolin/oleoo](https://github.com/thcolin/oleoo) - 🏴‍☠️✨🎟 Oleoo - Scene/P2P/Warez release name parser
 - [allenrkeen/server-bot](https://github.com/allenrkeen/server-bot) - Discord bot to remotely monitor and control a docker based server
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -715,6 +719,7 @@
 ## Jupyter Notebook 
 
 - [aditya20-b/FishyPhishy](https://github.com/aditya20-b/FishyPhishy) - SiH PS 1454 solution
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [88lex/safire](https://github.com/88lex/safire) - 
 
@@ -737,7 +742,7 @@
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [handshou/init.lua](https://github.com/handshou/init.lua) - My Neovim config heavily inspired by @ThePrimeagen.
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux Dotfiles (Manjaro + KDE Plasma 6)
-- [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 an Arch enabled Personalized Development Environment [PDE]
+- [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
 - [Ultra-Code/awesome-neovim](https://github.com/Ultra-Code/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
@@ -848,6 +853,11 @@
 
 ## Others 
 
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+- [clef/handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion
+- [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
+- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
@@ -1032,7 +1042,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [archcraft-os/archcraft-wayfire](https://github.com/archcraft-os/archcraft-wayfire) - // Configuration : Wayfire
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [TopologicalHooligan/arch-minimal-wallpapers](https://github.com/TopologicalHooligan/arch-minimal-wallpapers) - Collection of super minimal Arch Linux wallpapers based on famous color schemes.
+- [HomeomorphicHooligan/arch-minimal-wallpapers](https://github.com/HomeomorphicHooligan/arch-minimal-wallpapers) - Collection of super minimal Arch Linux wallpapers based on famous color schemes.
 - [White-Oak/arch-setup-for-dummies](https://github.com/White-Oak/arch-setup-for-dummies) - For exceptional dummies like me
 - [ALonelyJuicebox/Stash_QuickStart_Guide](https://github.com/ALonelyJuicebox/Stash_QuickStart_Guide) - 
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -1150,6 +1160,13 @@
 
 ## Python 
 
+- [accurs/sources](https://github.com/accurs/sources) - Bot sources either leaked by me or sent to me to leak.
+- [EvictServices/evict-rewrite-old](https://github.com/EvictServices/evict-rewrite-old) - 
+- [mihaigalos/mkdocs-issues-plugin](https://github.com/mihaigalos/mkdocs-issues-plugin) - A plugin for showing the state and labels of issues, PRs and discussions (GitHub or GitLab) in mkdocs generated docs.
+- [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
+- [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
+- [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal) - monospace theme for MkDocs
+- [ktsstudio/ktx](https://github.com/ktsstudio/ktx) - Shared context library for Python
 - [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [Zuehlke/ConfZ](https://github.com/Zuehlke/ConfZ) - ConfZ is a configuration management library for Python based on pydantic.
@@ -1198,7 +1215,6 @@
 - [rtk-rnjn/Parrot](https://github.com/rtk-rnjn/Parrot) - Parrot Bot is your all-in-one Discord utility, offering features like starboards, reminders, giveaways, moderation, coding tools, and games
 - [discord-math/bot](https://github.com/discord-math/bot) - 
 - [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [repology/repology-webapp](https://github.com/repology/repology-webapp) - Legacy python Repology web application. Deprecated by rust rewrite.
 - [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) - OpenTelemetry instrumentation for Python modules
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -1750,6 +1766,7 @@
 
 ## Shell 
 
+- [reviewdog/action-stylelint](https://github.com/reviewdog/action-stylelint) - Run stylelint with reviewdog
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [LazyGatto/npm-cert-export](https://github.com/LazyGatto/npm-cert-export) - Nginx Proxy Manager Certificate Export to Mailcow
 - [Erreur32/nginx-proxy-manager-Bash-API](https://github.com/Erreur32/nginx-proxy-manager-Bash-API) - This BASH script enables the management of Nginx Proxy Manager through its API.
@@ -1891,7 +1908,7 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [jrona1do/dotfiles](https://github.com/jrona1do/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [d1sc1pulus/dotfiles](https://github.com/d1sc1pulus/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
@@ -1933,14 +1950,12 @@
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [ibrahimbutt/direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
-- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [i3-gaps + i3blocks + Zsh + Spacemacs + Rofi + Alacritty + Neofetch]
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [SkyyySi/dots-nordic](https://github.com/SkyyySi/dots-nordic) - My config files (using the Nordic theme)
 - [arcolinuxd/arco-i3](https://github.com/arcolinuxd/arco-i3) - All scripts necessary to have an awesome deskop experience on ArcoLinux or vanilla Arch Linux installation
-- [xdrudis/video-scripts](https://github.com/xdrudis/video-scripts) - A script to compile FFmpeg and libraries from scratch, cross-platform (MacOs/Ubuntu/CentOS/Alpine, x86-64/arm), and not needing root access
 - [ap-atul/FFmpeg-Scripts](https://github.com/ap-atul/FFmpeg-Scripts) - A set of scripts using FFmpeg library to process videos and audios
 - [RandomNinjaAtk/Scripts](https://github.com/RandomNinjaAtk/Scripts) - 
 - [egara/arch-btrfs-installation](https://github.com/egara/arch-btrfs-installation) - This is a cheatsheet with all the instructions to perform an installation of Arch Linux using BTRFS filesystem in /
@@ -2114,6 +2129,10 @@
 
 ## TypeScript 
 
+- [BemiHQ/bemi-prisma](https://github.com/BemiHQ/bemi-prisma) - Automatic data change tracking for Prisma
+- [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
+- [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - [CAUTION] This repository is not actively maintained. / Enable Docker layer caching in your GitHub Actions workflow.
+- [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components.
 - [skttl/tailwindcss-quantity-queries](https://github.com/skttl/tailwindcss-quantity-queries) - Variants for using quantity queries with Tailwind CSS
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
@@ -2184,7 +2203,7 @@
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [josh-stillman/lintier](https://github.com/josh-stillman/lintier) - CLI to setup Eslint & Prettier in Typescript projects.
-- [jkcorrea/airtable-typegen](https://github.com/jkcorrea/airtable-typegen) - Generate TypeScript & Zod types from your Airtable bases
+- [jaykaycodes/airtable-typegen](https://github.com/jaykaycodes/airtable-typegen) - Generate TypeScript & Zod types from your Airtable bases
 - [SiliconValleyInsight/airtable-json-block](https://github.com/SiliconValleyInsight/airtable-json-block) - Written in TypeScript. Import data from JSON files, and query with JSONPath
 - [imnotashrimp/copyThat-airtable-figma](https://github.com/imnotashrimp/copyThat-airtable-figma) - A Figma plugin that syncs copy from Airtable!
 - [varun21vaidya/apparel-api-nodejs](https://github.com/varun21vaidya/apparel-api-nodejs) - REST API for managing apparel inventory and orders for a vendor. The API is implemented using Node.js in TypeScript.
@@ -2200,6 +2219,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -2219,7 +2239,6 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Yureien/YABin](https://github.com/Yureien/YABin) - Yet another pastebin, simple but feature-rich, along with a CLI client
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
@@ -2244,7 +2263,6 @@
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [maybemaby/fastify-next-starter](https://github.com/maybemaby/fastify-next-starter) - Monorepo for fastify and nextjs. Uses Supabase for auth, OpenAPI for generating typesafe clients, and prisma as the ORM.
 - [OultimoCoder/cloudflare-planetscale-hono-boilerplate](https://github.com/OultimoCoder/cloudflare-planetscale-hono-boilerplate) - A boilerplate for building production-ready RESTful APIs using Cloudflare, Hono, and Planetscale
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [alejandronanez/turborepo-nextjs-starter](https://github.com/alejandronanez/turborepo-nextjs-starter) - Turborepo + Next.js + TailwindCSS + TypeScript + Prettier + ESLint template to hit the ground running.
 - [kyooowe/PineUI](https://github.com/kyooowe/PineUI) - 🚀 Boilerplate using TurboRepo, Vite, React, and Express. Provides a fast and efficient setup for building modern web apps.
 - [heyverse/hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -2451,6 +2469,7 @@
 ## Vue 
 
 - [dnknth/ldap-ui](https://github.com/dnknth/ldap-ui) - Minimalistic web frontend for OpenLDAP
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file.
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
