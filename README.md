@@ -1469,7 +1469,7 @@
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor icon packs, themes, wallpapers and assets with a few clicks or lines of code.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [bunnykek/MultiUpload](https://github.com/bunnykek/MultiUpload) - Telegram bot to upload your GDrive/DDL/Telegram files to 10+ free hosting services
 - [fsspec/gdrivefs](https://github.com/fsspec/gdrivefs) - Google drive implementation of fsspec
 - [Basement-Science/StableDiffusion_AMD_SimpleFrontend](https://github.com/Basement-Science/StableDiffusion_AMD_SimpleFrontend) - A script-based "Frontend" for Stable Diffusion on AMD GPUs
@@ -2199,7 +2199,7 @@
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
 - [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
 - [zenWai/nextjs14-next-authv5-app-router](https://github.com/zenWai/nextjs14-next-authv5-app-router) - Nextjs 14 w/ Next-Auth v5, Prisma, zod, react-hook-form | Forgot password | email verification | 2FA | User Roles | Rate Limiting
-- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [mickasmt/next-auth-roles-template](https://github.com/mickasmt/next-auth-roles-template) - Open-source Nextjs 14 Template Starter with Auth.js v5, User Roles & Admin Panel. Remove blog or docs parts with one cli.
 - [ccbikai/nextflare](https://github.com/ccbikai/nextflare) - Next.js App running with Lemon Squeezy on Cloudflare.
 - [supernets/hardlounge](https://github.com/supernets/hardlounge) - IRCv5 Compliant Web-based IRC Client
