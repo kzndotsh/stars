@@ -3598,7 +3598,7 @@
 - [ellite/plex-scripts](https://github.com/ellite/plex-scripts) - Collection of Plex Scripts
 - [josephrkramer/gcloud-plex-server](https://github.com/josephrkramer/gcloud-plex-server) - Scripts to automate creation of a Plex Server on Google Compute Engine
 - [Eeeeelias/plex_media_move](https://github.com/Eeeeelias/plex_media_move) - Scripts to make naming, organising and moving video files to plex easier
-- [Arial-Z/Romaji-Renamer](https://github.com/Arial-Z/Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex with PMM metadata file
+- [Arial-Z/Romaji-Renamer](https://github.com/Arial-Z/Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex witha kometa metadata file
 - [sayem314/pirates-mediaserver](https://github.com/sayem314/pirates-mediaserver) - private media server installation script
 - [raydouglass/media_management_scripts](https://github.com/raydouglass/media_management_scripts) - Set of tools for managing media libraries
 - [nwithan8/Plex2Jellyfin](https://github.com/nwithan8/Plex2Jellyfin) - Scripts to assist migrating from a Plex Media Server to a Jellyfin Media Server
