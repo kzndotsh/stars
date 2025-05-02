@@ -507,7 +507,6 @@
 - [appcoders/mailcowtools](https://github.com/appcoders/mailcowtools) - Simple tools that use the mailcow API
 - [react-csv/react-csv](https://github.com/react-csv/react-csv) - React components to build CSV files on the fly basing on Array/literal object of data
 - [apivideo/Next.js_Starters-](https://github.com/apivideo/Next.js_Starters-) - Setup ESLint, Prettier, and Husky  with TypeScript
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [wei/github-project-notifier](https://github.com/wei/github-project-notifier) - A Discord 🤖 that notifies on GitHub Project Card updates
 - [fisker/git-hooks-list](https://github.com/fisker/git-hooks-list) - List of Git hooks
 - [abalabahaha/eris](https://github.com/abalabahaha/eris) - A NodeJS Discord library
@@ -1999,7 +1998,7 @@
 - [danwanderson/PlexScripts](https://github.com/danwanderson/PlexScripts) - Scripts for managing Plex
 - [nicjay/server-cookbook](https://github.com/nicjay/server-cookbook) - Self-hosted containerized services and scripts for my stay-at-home NAS.
 - [josephrkramer/gcloud-plex-server](https://github.com/josephrkramer/gcloud-plex-server) - Scripts to automate creation of a Plex Server on Google Compute Engine
-- [Arial-Z/Romaji-Renamer](https://github.com/Arial-Z/Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex with PMM metadata file
+- [Arial-Z/Romaji-Renamer](https://github.com/Arial-Z/Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex witha kometa metadata file
 - [sayem314/pirates-mediaserver](https://github.com/sayem314/pirates-mediaserver) - private media server installation script
 - [cacheflowe/media-utility-scripts](https://github.com/cacheflowe/media-utility-scripts) - Scripts for common media file conversion tasks
 - [brianspilner01/media-server-scripts](https://github.com/brianspilner01/media-server-scripts) - 
@@ -2116,6 +2115,7 @@
 ## Svelte 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [torrust/torrust-website-v1](https://github.com/torrust/torrust-website-v1) - Public Website for Torrust Organisation
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 
