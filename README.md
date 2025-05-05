@@ -747,7 +747,7 @@
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux Dotfiles (Manjaro + KDE Plasma 6)
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
-- [Ultra-Code/awesome-neovim](https://github.com/Ultra-Code/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
+- [bernardassan/awesome-neovim](https://github.com/bernardassan/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A treesitter supported autopairing plugin with extensions, and much more
@@ -1596,7 +1596,7 @@
 - [diamondzxd/plex-discord-bot](https://github.com/diamondzxd/plex-discord-bot) - Discord bot to send plex invites to users, list the users, and slots using Discord Python and Plex API
 - [Slyestcat/Plex-Discord-Remote](https://github.com/Slyestcat/Plex-Discord-Remote) - Remote control for plex using Discord.
 - [bramnijssen/plex-discord-bot](https://github.com/bramnijssen/plex-discord-bot) - Discord bot which notifies server members about Plex events.
-- [zluckytraveler/Discord-Plex-Trial](https://github.com/zluckytraveler/Discord-Plex-Trial) - A Discord bot for sending automated Plex trial invites and remove users from the server after the trial period.
+- [zluckytraveler/Discord-Plex-Trial](https://github.com/zluckytraveler/Discord-Plex-Trial) - A Discord bot for automating Plex trial invites.
 - [Flemmarr/Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps
 - [totaldebug/pyarr](https://github.com/totaldebug/pyarr) - Python client for Servarr API's (Sonarr, Radarr, Readarr, Lidarr)
 - [nwithan8/Arca](https://github.com/nwithan8/Arca) - Arca, a Discord bot for BigBox. Cogs for discord.py bots
@@ -1920,7 +1920,7 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [d1sc1pulus/dotfiles](https://github.com/d1sc1pulus/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [r0hk0/dotfiles](https://github.com/r0hk0/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
@@ -2160,7 +2160,7 @@
 - [AgoraIO-Extensions/agora-rtc-react](https://github.com/AgoraIO-Extensions/agora-rtc-react) - Agora RTC React SDK
 - [QuocAnh189/Discord_Clone](https://github.com/QuocAnh189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
 - [sysblok/focalboard](https://github.com/sysblok/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 14 + TypeScript + Shadcn ui
+- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 15 + TypeScript + Shadcn ui
 - [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
@@ -2199,7 +2199,7 @@
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
 - [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
 - [zenWai/nextjs14-next-authv5-app-router](https://github.com/zenWai/nextjs14-next-authv5-app-router) - Nextjs 14 w/ Next-Auth v5, Prisma, zod, react-hook-form | Forgot password | email verification | 2FA | User Roles | Rate Limiting
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [mickasmt/next-auth-roles-template](https://github.com/mickasmt/next-auth-roles-template) - Open-source Nextjs 14 Template Starter with Auth.js v5, User Roles & Admin Panel. Remove blog or docs parts with one cli.
 - [ccbikai/nextflare](https://github.com/ccbikai/nextflare) - Next.js App running with Lemon Squeezy on Cloudflare.
 - [supernets/hardlounge](https://github.com/supernets/hardlounge) - IRCv5 Compliant Web-based IRC Client
