@@ -344,7 +344,7 @@
 - [saber-nyan/kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [saloniamatteo/dotfiles](https://github.com/saloniamatteo/dotfiles) - Salonia Matteo's dotfiles (GNU/Linux configuration)
 - [kzndotsh/dotfiles](https://github.com/kzndotsh/dotfiles) - There's no place like ~
-- [d1sc1pulus/dotfiles](https://github.com/d1sc1pulus/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [r0hk0/dotfiles](https://github.com/r0hk0/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
 - [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
@@ -761,7 +761,7 @@
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [josh-stillman/lintier](https://github.com/josh-stillman/lintier) - CLI to setup Eslint & Prettier in Typescript projects.
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [mrcnski/compnav](https://github.com/mrcnski/compnav) - Complete shell navigation: better up, z, and h
@@ -1356,7 +1356,7 @@
 - [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [d1sc1pulus/dotfiles](https://github.com/d1sc1pulus/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [r0hk0/dotfiles](https://github.com/r0hk0/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
@@ -2227,7 +2227,7 @@
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor icon packs, themes, wallpapers and assets with a few clicks or lines of code.
 - [uosyph/dotfiles](https://github.com/uosyph/dotfiles) - .files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [d1sc1pulus/dotfiles](https://github.com/d1sc1pulus/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [r0hk0/dotfiles](https://github.com/r0hk0/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -2314,7 +2314,7 @@
 
 - [jonniek/unseen-playlistmaker](https://github.com/jonniek/unseen-playlistmaker) - Playlistcreation tool for mpv.
 - [handshou/init.lua](https://github.com/handshou/init.lua) - My Neovim config heavily inspired by @ThePrimeagen.
-- [Ultra-Code/awesome-neovim](https://github.com/Ultra-Code/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
+- [bernardassan/awesome-neovim](https://github.com/bernardassan/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A treesitter supported autopairing plugin with extensions, and much more
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
@@ -2488,7 +2488,7 @@
 - [AmitGolden/dotfiles](https://github.com/AmitGolden/dotfiles) - AmitGold's catppuccin dotfiles!
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
-- [Ultra-Code/awesome-neovim](https://github.com/Ultra-Code/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
+- [bernardassan/awesome-neovim](https://github.com/bernardassan/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) - A treesitter supported autopairing plugin with extensions, and much more
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
@@ -2509,7 +2509,7 @@
 - [Yolo390/Tokyonight-fade.nvim](https://github.com/Yolo390/Tokyonight-fade.nvim) - WIP - Fade inactive buffers when you use Tokyonight storm theme with NeoVim
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
 - [shrikecode/kyotonight.vim](https://github.com/shrikecode/kyotonight.vim) - Vim / NeoVim theme that is a marriage of Tokyo Night and Nord Theme. And they went on honeymoon to Kyoto I guess. Dark, elegant, and easy on the eyes.
-- [d1sc1pulus/dotfiles](https://github.com/d1sc1pulus/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [r0hk0/dotfiles](https://github.com/r0hk0/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -2542,7 +2542,7 @@
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
 - [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
 - [QuocAnh189/Discord_Clone](https://github.com/QuocAnh189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
-- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 14 + TypeScript + Shadcn ui
+- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 15 + TypeScript + Shadcn ui
 - [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
@@ -2564,7 +2564,7 @@
 - [Dannyisadog/nextjs-authentication-template](https://github.com/Dannyisadog/nextjs-authentication-template) - The nextjs-authjs-template is a robust starter template for building modern web applications with Next.js and Auth.js (formerly NextAuth.js).
 - [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page) - Example Auth.js v5 Custom Signin Page
 - [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [ccbikai/nextflare](https://github.com/ccbikai/nextflare) - Next.js App running with Lemon Squeezy on Cloudflare.
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
@@ -3711,7 +3711,7 @@
 - [fscorrupt/docker-tautulli2discord](https://github.com/fscorrupt/docker-tautulli2discord) - Send Tautulli Stats via Webhook to Discord Channel
 - [fscorrupt/docker-plexstatus2discord](https://github.com/fscorrupt/docker-plexstatus2discord) - Send the Status from status.plex.tv to Discord
 - [rizowski/plex-2-discord](https://github.com/rizowski/plex-2-discord) - Plex events to Discord webhook
-- [zluckytraveler/Discord-Plex-Trial](https://github.com/zluckytraveler/Discord-Plex-Trial) - A Discord bot for sending automated Plex trial invites and remove users from the server after the trial period.
+- [zluckytraveler/Discord-Plex-Trial](https://github.com/zluckytraveler/Discord-Plex-Trial) - A Discord bot for automating Plex trial invites.
 - [CyaOnDaNet/plex_discord_role_management](https://github.com/CyaOnDaNet/plex_discord_role_management) - A discord bot that synchronizes with Tautulli and Sonarr to deliver tailored notifications.
 - [jlim0930/plex](https://github.com/jlim0930/plex) - Plex Media Center - linux automation
 - [mfdorst/cfg](https://github.com/mfdorst/cfg) - My old dotfiles repo
@@ -4316,7 +4316,7 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [mickasmt/next-auth-roles-template](https://github.com/mickasmt/next-auth-roles-template) - Open-source Nextjs 14 Template Starter with Auth.js v5, User Roles & Admin Panel. Remove blog or docs parts with one cli.
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
@@ -4793,7 +4793,7 @@
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
 - [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
 - [QuocAnh189/Discord_Clone](https://github.com/QuocAnh189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
-- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 14 + TypeScript + Shadcn ui
+- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 15 + TypeScript + Shadcn ui
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
 - [AnwarHossainSR/nextjs-15-template](https://github.com/AnwarHossainSR/nextjs-15-template) - This is next js 15 boilerplate. You can start your next 15 project without any hassle of setup.
 - [bysxx/next15-ts-template-fullstack](https://github.com/bysxx/next15-ts-template-fullstack) - ⚡ Fullstack Next.js 15 + TypeScript + MongoDB Template (with SEO)
@@ -4802,7 +4802,7 @@
 - [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page) - Example Auth.js v5 Custom Signin Page
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
 - [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
-- [reliverse/rse-reliverse-cli](https://github.com/reliverse/rse-reliverse-cli) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind
@@ -4935,7 +4935,7 @@
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
 - [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 14 + TypeScript + Shadcn ui
+- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Admin Dashboard built with Next.js 15 + TypeScript + Shadcn ui
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [Mugenhub-io/NextJS15-Shadcn-Dashboard](https://github.com/Mugenhub-io/NextJS15-Shadcn-Dashboard) - Soon to be a full dashboard with either a landing page or blog page
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 15. using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
@@ -5105,7 +5105,7 @@
 - [ghifarit53/tokyonight-vim](https://github.com/ghifarit53/tokyonight-vim) - A clean, dark vim colorscheme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia with the same name [Archived because I'm no longer using this]
 - [saloniamatteo/dotfiles](https://github.com/saloniamatteo/dotfiles) - Salonia Matteo's dotfiles (GNU/Linux configuration)
 - [shrikecode/kyotonight.vim](https://github.com/shrikecode/kyotonight.vim) - Vim / NeoVim theme that is a marriage of Tokyo Night and Nord Theme. And they went on honeymoon to Kyoto I guess. Dark, elegant, and easy on the eyes.
-- [d1sc1pulus/dotfiles](https://github.com/d1sc1pulus/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [r0hk0/dotfiles](https://github.com/r0hk0/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
