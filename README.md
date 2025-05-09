@@ -741,7 +741,7 @@
 ## Lua 
 
 - [jonniek/unseen-playlistmaker](https://github.com/jonniek/unseen-playlistmaker) - Playlistcreation tool for mpv.
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
+- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [handshou/init.lua](https://github.com/handshou/init.lua) - My Neovim config heavily inspired by @ThePrimeagen.
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux Dotfiles (Manjaro + KDE Plasma 6)
@@ -2199,7 +2199,7 @@
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
 - [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
 - [zenWai/nextjs14-next-authv5-app-router](https://github.com/zenWai/nextjs14-next-authv5-app-router) - Nextjs 14 w/ Next-Auth v5, Prisma, zod, react-hook-form | Forgot password | email verification | 2FA | User Roles | Rate Limiting
-- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a JS/TS, e.g. next.js, app creator inside your terminal. You can just use a template or start from scratch. You can set everything up automatically or configure everyth
+- [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everyth
 - [mickasmt/next-auth-roles-template](https://github.com/mickasmt/next-auth-roles-template) - Open-source Nextjs 14 Template Starter with Auth.js v5, User Roles & Admin Panel. Remove blog or docs parts with one cli.
 - [ccbikai/nextflare](https://github.com/ccbikai/nextflare) - Next.js App running with Lemon Squeezy on Cloudflare.
 - [supernets/hardlounge](https://github.com/supernets/hardlounge) - IRCv5 Compliant Web-based IRC Client
