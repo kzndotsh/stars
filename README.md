@@ -454,7 +454,7 @@
 - [GatlenCulp/airtable-utils](https://github.com/GatlenCulp/airtable-utils) - A collection of scripts, formulas, etc. that are helpful to use in Airtable.
 - [mmaatttee/Airtable](https://github.com/mmaatttee/Airtable) - Various Airtable formulas / codes / scripts!
 - [UnlyEd/airtable-utils](https://github.com/UnlyEd/airtable-utils) - Airtable utilities for formulas, scripts, with proper examples
-- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
