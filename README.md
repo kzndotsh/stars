@@ -1165,6 +1165,9 @@
 
 ## Python 
 
+- [LeetCyberSecurity/monday-client](https://github.com/LeetCyberSecurity/monday-client) - Python library that provides an asynchronous client to interact with the monday.com API.
+- [mondaycom/monday-api-python-sdk](https://github.com/mondaycom/monday-api-python-sdk) - 
+- [Jorman/Scripts](https://github.com/Jorman/Scripts) - Some script, forked and not to make me crazy!
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [siznax/wptools](https://github.com/siznax/wptools) - Wikipedia tools (for Humans): easily extract data from Wikipedia, Wikidata, and other MediaWikis
@@ -2407,7 +2410,7 @@
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
 - [AccessLint/accesslint.js](https://github.com/AccessLint/accesslint.js) - Keep accessibility errors in check.
 - [configu/configu](https://github.com/configu/configu) - Open-source ConfigOps infrastructure ⚙️
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [danielsampar12/nestjs-prisma-graphql-boilerplate](https://github.com/danielsampar12/nestjs-prisma-graphql-boilerplate) - A NestJs integration between GrahpQL and Prisma, generating automatically GraphQL Schemas and CRUD resolvers based on Prisma Models
