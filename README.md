@@ -919,7 +919,7 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [kzndotsh/stars](https://github.com/kzndotsh/stars) - 
 - [allthingslinux/code-of-conduct](https://github.com/allthingslinux/code-of-conduct) - Code of Conduct for All Things Linux
-- [jhonyrdesouza/awesome-shadcn-ui](https://github.com/jhonyrdesouza/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
+- [jhonyrdesouza/cmazxcncn00000dl773xq978n](https://github.com/jhonyrdesouza/cmazxcncn00000dl773xq978n) - WIP.
 - [kzndotsh/kzndotsh](https://github.com/kzndotsh/kzndotsh) - Welcome to my GitHub profile
 - [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
 - [HTTP-Requests/block-markdown-automod-discord](https://github.com/HTTP-Requests/block-markdown-automod-discord) - Blocks markdown with regex, helpful for automod
@@ -1852,7 +1852,7 @@
 - [dockette/kumatron](https://github.com/dockette/kumatron) - 🐳  Uptime Kuma with extra juicy configuration and streaming SQLite.
 - [sigugo/tmux-tokyo-night](https://github.com/sigugo/tmux-tokyo-night) - 
 - [onedr0p/qbittorrent-prune](https://github.com/onedr0p/qbittorrent-prune) - Remove torrents from qBittorrent that are reported unregistered by a tracker
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime]
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [nickcorin/dotfiles](https://github.com/nickcorin/dotfiles) - Configuration files for my personal development environment
 - [matu3ba/dotfiles_skeleton](https://github.com/matu3ba/dotfiles_skeleton) - robust and beginner friendly dotfile skeleton
@@ -1925,7 +1925,7 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [jronaldo0/dotfiles](https://github.com/jronaldo0/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [dohko0/dotfiles](https://github.com/dohko0/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
@@ -2147,7 +2147,7 @@
 
 ## TypeScript 
 
-- [skellgreco/cially](https://github.com/skellgreco/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
+- [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [BemiHQ/bemi-prisma](https://github.com/BemiHQ/bemi-prisma) - Automatic data change tracking for Prisma
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - [CAUTION] This repository is not actively maintained. / Enable Docker layer caching in your GitHub Actions workflow.
