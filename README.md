@@ -689,6 +689,7 @@
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js) - Replace Markdown renderer on Old Reddit with MarkedJS
+- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [aidenvalentine/clipnuke-chrome-extension](https://github.com/aidenvalentine/clipnuke-chrome-extension) - Chrome Extension for Clips4Sale, ManyVids, OnlyFans, Xvideos, and Pornhub models and producers. Autofill the "new video" forms for these sites right from the browser. Takes the pain away from being an
 - [nielsen-oss/yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping
@@ -1044,7 +1045,6 @@
 - [inakiabt/docker-media-center](https://github.com/inakiabt/docker-media-center) - Docker compose to start my local media center
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-- [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [archcraft-os/archcraft-wayfire](https://github.com/archcraft-os/archcraft-wayfire) - // Configuration : Wayfire
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [HomeomorphicHooligan/arch-minimal-wallpapers](https://github.com/HomeomorphicHooligan/arch-minimal-wallpapers) - Collection of super minimal Arch Linux wallpapers based on famous color schemes.
@@ -1167,6 +1167,7 @@
 
 ## Python 
 
+- [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
 - [denyskarmazen/monday-async](https://github.com/denyskarmazen/monday-async) - An asynchronous Python client library for monday.com
 - [LeetCyberSecurity/monday-client](https://github.com/LeetCyberSecurity/monday-client) - Python library that provides an asynchronous client to interact with the monday.com API.
@@ -1196,7 +1197,6 @@
 - [jshwi/docsig](https://github.com/jshwi/docsig) - Check signature params for proper documentation
 - [xfenix/envcast](https://github.com/xfenix/envcast) - Package for environment variables parsing with type casting
 - [rabbit72/single-source](https://github.com/rabbit72/single-source) - Access to the project version in Python code for PEP 621-style projects
-- [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
 - [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs) - A variety of utility cogs and fun cogs including Hockey information from the NHL, badge creation from discord user information, starboard for use on Redbot, twitch follow notifications and more.
 - [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
@@ -1410,7 +1410,7 @@
 - [AallynReed/TroveBot](https://github.com/AallynReed/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
 - [Voxel-Fox-Ltd/Profile](https://github.com/Voxel-Fox-Ltd/Profile) - A Discord bot for storing profiles, characters, and other user information in an easy and modular way.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [MikeyUsersREC/ERM](https://github.com/MikeyUsersREC/ERM) - A discord bot primarily focused on improving the Roblox staff experience.
+- [mikeyerm/ERM](https://github.com/mikeyerm/ERM) - A discord bot primarily focused on improving the Roblox staff experience.
 - [Defxult/reactionmenu](https://github.com/Defxult/reactionmenu) - A library to create a discord.py 2.0+ paginator (reaction menu/buttons menu). Supports pagination with buttons, reactions, and category selection using selects.
 - [MelisaDev/melisa](https://github.com/MelisaDev/melisa) - MelisaPy is a cache-optimized Discord microframework for Python 3
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -1925,7 +1925,7 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [dohko0/dotfiles](https://github.com/dohko0/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [ronalddos/dotfiles](https://github.com/ronalddos/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
@@ -1993,7 +1993,7 @@
 - [mikeroyal/Arch-Linux-Guide](https://github.com/mikeroyal/Arch-Linux-Guide) - Arch Linux Guide
 - [izissise/nginx-explorer](https://github.com/izissise/nginx-explorer) - File explorer in javascript, file come from nginx autoindex
 - [tc-mccarthy/ffmpeg-recipes](https://github.com/tc-mccarthy/ffmpeg-recipes) - Scripts for different video transcode scenarios
-- [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
+- [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
 - [TheCaptain989/lidarr-flac2mp3](https://github.com/TheCaptain989/lidarr-flac2mp3) - A Docker Mod to Lidarr to automatically convert FLAC files to MP3s, or other format
 - [arcadellama/plex-nowplaying](https://github.com/arcadellama/plex-nowplaying) - A CLI script to show the "Now Playing" status of your Plex Server.
@@ -2270,10 +2270,10 @@
 - [Qualifyze/airtable-formulator](https://github.com/Qualifyze/airtable-formulator) - Airtable Formula Manipulator
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [actionbrk/abeille](https://github.com/actionbrk/abeille) - Discord bot providing statistics and insights for guilds.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [tim-smart/dfx](https://github.com/tim-smart/dfx) - A Discord library for effect-ts
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
