@@ -90,6 +90,7 @@
 
 ## C 
 
+- [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [Diverto/cryptsetup-pwguess](https://github.com/Diverto/cryptsetup-pwguess) - Modified cryptsetup to enable password guessing - https://diverto.github.io/2019/11/18/Cracking-LUKS-passphrases
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -245,6 +246,7 @@
 
 ## Go 
 
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rramiachraf/dumb](https://github.com/rramiachraf/dumb) - Private alternative front-end for Genius.
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
@@ -265,7 +267,7 @@
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [tbal999/bb](https://github.com/tbal999/bb) - a pubnix bulletin board
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [skx/sysbox](https://github.com/skx/sysbox) - sysadmin/scripting utilities, distributed as a single binary
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -421,7 +423,6 @@
 - [javimosch/proxyflare](https://github.com/javimosch/proxyflare) - Manage your reverse proxies with the power of Nginx Proxy Manager and Cloudflare.
 - [voaii/thelounge-plugin-quote](https://github.com/voaii/thelounge-plugin-quote) - 
 - [Yanik39/IRCNet](https://github.com/Yanik39/IRCNet) - Full featured IRCServer with UnrealIRCd, Atheme-Services and theLounge.
-- [NatoBoram/gigachad.ts](https://github.com/NatoBoram/gigachad.ts) - The most gigachad project template for TypeScript
 - [neostandard/neostandard](https://github.com/neostandard/neostandard) - A spiritual successor to the standardjs javascript style guide
 - [plugjs/eslint-plugin](https://github.com/plugjs/eslint-plugin) - Shared configurations and extras for ESLint
 - [lazycuh/eslint-config-base](https://github.com/lazycuh/eslint-config-base) - Base ESLint rules that work well for any Typescript projects
@@ -778,7 +779,6 @@
 
 ## MDX 
 
-- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
@@ -856,6 +856,7 @@
 
 ## Others 
 
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [benallfree/awesome-mdc](https://github.com/benallfree/awesome-mdc) - A curated list of awesome MDC files for your next vibe project.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
@@ -1165,6 +1166,13 @@
 
 ## Python 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [earwig/mwparserfromhell](https://github.com/earwig/mwparserfromhell) - A Python parser for MediaWiki wikicode
 - [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
@@ -1385,7 +1393,6 @@
 - [rjhoppe/python-supabase-table-data-gen-tool](https://github.com/rjhoppe/python-supabase-table-data-gen-tool) - A couple of scripts I wrote to help me dynamically generate data and load it into Supabase for a proof of concept I was working on.
 - [jod35/supabase_py_playground](https://github.com/jod35/supabase_py_playground) - Source code I used while exploring the Supabase Python SDK
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [just-max/owo](https://github.com/just-max/owo) - something something owo
 - [iarspider/arachnobot](https://github.com/iarspider/arachnobot) - 
 - [DeJayDev/speedboat](https://github.com/DeJayDev/speedboat) - A Discord bot for managing large communities
 - [squirrelo/MovieNightBot](https://github.com/squirrelo/MovieNightBot) - Simple discord bot for taking suggestions, running votes, and tracking watched movies for a movie night
@@ -1714,6 +1721,7 @@
 
 ## Rust 
 
+- [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
 - [breynard0/lscoltui](https://github.com/breynard0/lscoltui) - A TUI tool for changing the colours of ls
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -1924,7 +1932,7 @@
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [w8ste/dotfiles](https://github.com/w8ste/dotfiles) - My arch-linux config files
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
-- [ronalddos/dotfiles](https://github.com/ronalddos/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [r0naldoom/dotfiles](https://github.com/r0naldoom/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [comi91262/lfs-in-nixos](https://github.com/comi91262/lfs-in-nixos) - Build an LFS system in NixOS
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ptr1337/makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - Some useful additons for makepkg for archlinux
@@ -2146,6 +2154,10 @@
 
 ## TypeScript 
 
+- [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
+- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [BemiHQ/bemi-prisma](https://github.com/BemiHQ/bemi-prisma) - Automatic data change tracking for Prisma
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
@@ -2184,6 +2196,7 @@
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [sachidumaleesha/shadcn-dashboard](https://github.com/sachidumaleesha/shadcn-dashboard) - A Simple Shadcn Dashboard
+- [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -2210,6 +2223,7 @@
 - [ccbikai/nextflare](https://github.com/ccbikai/nextflare) - Next.js App running with Lemon Squeezy on Cloudflare.
 - [supernets/hardlounge](https://github.com/supernets/hardlounge) - IRCv5 Compliant Web-based IRC Client
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
+- [NatoBoram/gigachad.ts](https://github.com/NatoBoram/gigachad.ts) - The most gigachad project template for TypeScript
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
