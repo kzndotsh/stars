@@ -1576,7 +1576,6 @@
 - [clinton-hall/GetScripts](https://github.com/clinton-hall/GetScripts) - A Collection of NZBGet Post-Process Scripts
 - [syncarr/syncarr](https://github.com/syncarr/syncarr) - one/two way sync of Radarr, Sonarr, or Lidarr instances
 - [maykar/plex_assistant](https://github.com/maykar/plex_assistant) - ❱ Plex Assistant is a Home Assistant integration for casting Plex media to Google devices, Sonos devices, and Plex clients with Google Assistant, HA's conversation integration, and more.
-- [BC44/AutoXSeeder](https://github.com/BC44/AutoXSeeder) - Parses torrent files and creates symlinks for matching local data
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [AJBotVerse/MegaUploaderbot](https://github.com/AJBotVerse/MegaUploaderbot) - This is MegaUploaderBot Created by AJTimePyro. And it support Direct Downloading Link, Telegram File and Youtube URL.
 - [Itz-fork/Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Simple Telegram Bot to Download and Upload Files From Mega.nz
