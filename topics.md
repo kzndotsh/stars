@@ -107,6 +107,7 @@
 - [html5](#html5)
 - [http](#http)
 - [https](#https)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
@@ -234,6 +235,7 @@
 
 ## ai 
 
+- [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
@@ -297,6 +299,12 @@
 
 ## ansible 
 
+- [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
+- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
+- [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
+- [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
@@ -311,6 +319,7 @@
 
 ## api 
 
+- [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
 - [joeythelantern/Typescript-Quickstart-Projects](https://github.com/joeythelantern/Typescript-Quickstart-Projects) - This repository houses some typescript based node js API quickstart projects.
@@ -422,6 +431,8 @@
 
 ## awesome 
 
+- [mikeroyal/Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide) - Terraform Guide
+- [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [benallfree/awesome-mdc](https://github.com/benallfree/awesome-mdc) - A curated list of awesome MDC files for your next vibe project.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -483,6 +494,8 @@
 
 ## awesome-list 
 
+- [mikeroyal/Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide) - Terraform Guide
+- [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [benallfree/awesome-mdc](https://github.com/benallfree/awesome-mdc) - A curated list of awesome MDC files for your next vibe project.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -582,6 +595,7 @@
 
 ## bash 
 
+- [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -648,6 +662,7 @@
 
 ## bot 
 
+- [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
 - [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A Python Discord bot with reporting features and detailed audit logs.
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 500k+ users ✨🚀
@@ -737,7 +752,7 @@
 
 ## chatbot 
 
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 
@@ -771,6 +786,7 @@
 
 ## cli 
 
+- [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
@@ -1047,6 +1063,9 @@
 
 ## devops 
 
+- [mikeroyal/Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide) - Terraform Guide
+- [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
+- [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1074,6 +1093,8 @@
 
 ## discord 
 
+- [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Message and manage through your Discord bot, self-hosted.
+- [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
 - [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs) - A variety of utility cogs and fun cogs including Hockey information from the NHL, badge creation from discord user information, starboard for use on Redbot, twitch follow notifications and more.
@@ -1083,7 +1104,7 @@
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 500k+ users ✨🚀
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
@@ -1201,6 +1222,7 @@
 
 ## django 
 
+- [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
@@ -1211,6 +1233,9 @@
 
 ## docker 
 
+- [devopshobbies/terraform-templates](https://github.com/devopshobbies/terraform-templates) - The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
+- [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
+- [olivomarco/my-ansible-linux-setup](https://github.com/olivomarco/my-ansible-linux-setup) - Simple, perfect setup of a Linux machine via Ansible
 - [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
 - [ubc/mediawiki-docker](https://github.com/ubc/mediawiki-docker) - To generate a production use MediaWiki docker image
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
@@ -1305,6 +1330,7 @@
 
 ## documentation 
 
+- [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
@@ -1576,6 +1602,7 @@
 
 ## frontend 
 
+- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -1702,6 +1729,7 @@
 
 ## golang 
 
+- [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1795,6 +1823,8 @@
 
 ## hacktoberfest 
 
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs) - A variety of utility cogs and fun cogs including Hockey information from the NHL, badge creation from discord user information, starboard for use on Redbot, twitch follow notifications and more.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
@@ -1947,6 +1977,7 @@
 
 ## homebrew 
 
+- [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
@@ -1985,6 +2016,10 @@
 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
+## information-gathering 
+
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+
 ## instagram 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -2009,6 +2044,7 @@
 
 ## javascript 
 
+- [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Message and manage through your Discord bot, self-hosted.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -2138,6 +2174,7 @@
 
 ## kubernetes 
 
+- [devopshobbies/terraform-templates](https://github.com/devopshobbies/terraform-templates) - The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -2185,6 +2222,8 @@
 
 ## linux 
 
+- [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
@@ -2309,13 +2348,14 @@
 
 ## llm 
 
+- [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -2830,7 +2870,7 @@
 
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 - [sjinnovation/CollabAI](https://github.com/sjinnovation/CollabAI) - CollabAI is an open-source & self-hosted AI operation platform for small and medium-sized businesses. It’s a customizable & team-centric platform where you can have access to custom AI agents tailored
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -2863,6 +2903,12 @@
 
 ## others 
 
+- [Alliedium/awesome-terraform](https://github.com/Alliedium/awesome-terraform) - Discover the endless possibilities of infrastructure automation with our Git repository featuring a diverse range of practical and informative Terraform examples.
+- [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
+- [leg100/pug](https://github.com/leg100/pug) - Drive terraform at terminal velocity.
+- [lorin/ansiblebook](https://github.com/lorin/ansiblebook) - Code samples from the book "Ansible: Up and Running"
+- [iam-veeramalla/ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero) - Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
+- [kksat/SOLID-Ansible](https://github.com/kksat/SOLID-Ansible) - Enhancing Ansible Development with SOLID Principles
 - [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich) - pytest + rich integration (proof of concept)
 - [NixOS/org](https://github.com/NixOS/org) - Organisational documentation
 - [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
@@ -2885,7 +2931,7 @@
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [reviewdog/action-stylelint](https://github.com/reviewdog/action-stylelint) - Run stylelint with reviewdog
-- [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [hakancelikdev/unimport](https://github.com/hakancelikdev/unimport) - :rocket: The ultimate linter and formatter for removing unused import statements in your code.
 - [rabbit72/single-source](https://github.com/rabbit72/single-source) - Access to the project version in Python code for PEP 621-style projects
@@ -3983,6 +4029,7 @@
 
 ## package-manager 
 
+- [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 
@@ -4124,6 +4171,7 @@
 
 ## python 
 
+- [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -4602,6 +4650,7 @@
 
 ## security 
 
+- [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
@@ -4981,6 +5030,12 @@
 
 ## terraform 
 
+- [mikeroyal/Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide) - Terraform Guide
+- [devopshobbies/terraform-templates](https://github.com/devopshobbies/terraform-templates) - The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
+- [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
+- [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
+- [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
+- [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [awpala/terraform-for-hetzner-ubuntu-vm](https://github.com/awpala/terraform-for-hetzner-ubuntu-vm) - Provisioning Ubuntu Server OS on Hetzner via Terraform
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [plutomi/plutomi](https://github.com/plutomi/plutomi) - Applicant Management at Any Scale. Currently WIP! :D
@@ -5132,6 +5187,7 @@
 
 ## ubuntu 
 
+- [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [xdFNLeaks/managebot](https://github.com/xdFNLeaks/managebot) - just a little project i'm working on that allows you to view and manage your docker containers from discord.
 - [klaver/sysctl](https://github.com/klaver/sysctl) - Linux/BSD kernel tuning and network security hardening optimizations, improving the performance of server systems via optimized sysctl tweaks
 - [hawshemi/linux-optimizer](https://github.com/hawshemi/linux-optimizer) - Linux Optimizer
@@ -5179,6 +5235,8 @@
 
 ## vagrant 
 
+- [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
+- [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [nix-community/nixbox](https://github.com/nix-community/nixbox) - NixOS Vagrant boxes [maintainer=@ifurther]
 
@@ -5246,6 +5304,7 @@
 
 ## web 
 
+- [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Message and manage through your Discord bot, self-hosted.
 - [InBrowserApp/tldr.inbrowser.app](https://github.com/InBrowserApp/tldr.inbrowser.app) - 📝 tldr InBrowser.App is a offline-capable PWA for tldr-pages. Fully runs in your browser. Zero API latency.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
