@@ -417,6 +417,8 @@
 
 ## JavaScript 
 
+- [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
+- [taggartbg/bivvy](https://github.com/taggartbg/bivvy) - A Zero-Dependency Stateful PRD Framework for AI-Driven Development
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Message and manage through your Discord bot, self-hosted.
 - [Eccenux/Wikiploy](https://github.com/Eccenux/Wikiploy) - User scripts and gadgets deployment (JS/CSS) for MediaWiki (Wikipedia).
@@ -759,6 +761,7 @@
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux Dotfiles (Manjaro + KDE Plasma 6)
 - [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
+- [nickcorin/dotfiles](https://github.com/nickcorin/dotfiles) - Configuration files for my personal development environment
 - [bernardassan/awesome-neovim](https://github.com/bernardassan/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) - Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
@@ -868,6 +871,7 @@
 
 ## Others 
 
+- [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [benallfree/awesome-mdc](https://github.com/benallfree/awesome-mdc) - A curated list of awesome MDC files for your next vibe project.
@@ -1177,6 +1181,8 @@
 
 ## Python 
 
+- [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
+- [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [lorin/ansiblebook](https://github.com/lorin/ansiblebook) - Code samples from the book "Ansible: Up and Running"
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [kksat/SOLID-Ansible](https://github.com/kksat/SOLID-Ansible) - Enhancing Ansible Development with SOLID Principles
@@ -1240,7 +1246,7 @@
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [JDsProjects/JDBot](https://github.com/JDsProjects/JDBot) - the official JDBot rewrite :D
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
-- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, LM Studio, xAI, OpenRouter and more)
+- [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, xAI, Gemini, OpenRouter and more)
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A wrapper around SonarScanner CLI, available on PyPI.
@@ -1389,7 +1395,7 @@
 - [Uzay-G/prisma.py](https://github.com/Uzay-G/prisma.py) - 
 - [crubier/prisma-client-py](https://github.com/crubier/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
 - [brianjp93/amirightladies](https://github.com/brianjp93/amirightladies) - dumb bot that just responds with "am i right ladies" to all your discord messages
-- [arckoor/journey-bot](https://github.com/arckoor/journey-bot) - A bot for the Journey Discord.
+- [arckoor/journey-bot](https://github.com/arckoor/journey-bot) - A bot for the Journey Discord
 - [InterStella0/starlight-dpy](https://github.com/InterStella0/starlight-dpy) - A utility library that she uses for discord.py
 - [LunarsDev/cordcutter](https://github.com/LunarsDev/cordcutter) - The circuit breaker design pattern for discord.py application commands
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
@@ -1882,7 +1888,6 @@
 - [onedr0p/qbittorrent-prune](https://github.com/onedr0p/qbittorrent-prune) - Remove torrents from qBittorrent that are reported unregistered by a tracker
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
-- [nickcorin/dotfiles](https://github.com/nickcorin/dotfiles) - Configuration files for my personal development environment
 - [matu3ba/dotfiles_skeleton](https://github.com/matu3ba/dotfiles_skeleton) - robust and beginner friendly dotfile skeleton
 - [AlexAegis/pont](https://github.com/AlexAegis/pont) - pont, the dotmodule manager
 - [Ventto/pug](https://github.com/Ventto/pug) - Automatically Gist-synchronises Pacman & AUR installed package lists.
@@ -2176,6 +2181,7 @@
 
 ## TypeScript 
 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -2312,7 +2318,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [tim-smart/dfx](https://github.com/tim-smart/dfx) - A Discord library for effect-ts
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
