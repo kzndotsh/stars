@@ -19,6 +19,7 @@
 - [EJS](#ejs)
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
+- [F#](#f#)
 - [GLSL](#glsl)
 - [Go](#go)
 - [Gosu](#gosu)
@@ -240,6 +241,10 @@
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 
+## F# # 
+
+- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
+
 ## GLSL 
 
 - [sk0x1234/swaydotfiles](https://github.com/sk0x1234/swaydotfiles) - sway dotfiles
@@ -417,6 +422,7 @@
 
 ## JavaScript 
 
+- [angular/dev-infra](https://github.com/angular/dev-infra) - Angular Development Infrastructure
 - [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [taggartbg/bivvy](https://github.com/taggartbg/bivvy) - A Zero-Dependency Stateful PRD Framework for AI-Driven Development
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
@@ -728,6 +734,8 @@
 
 ## Jinja 
 
+- [usegalaxy-eu/infrastructure-playbook](https://github.com/usegalaxy-eu/infrastructure-playbook) - Ansible playbook for managing UseGalaxy.eu infrastructure.
+- [nodejs/build](https://github.com/nodejs/build) - Better build and test infra for Node.
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [luckylinux/mkdocstrings-linkcode](https://github.com/luckylinux/mkdocstrings-linkcode) - Extension for mkdocstrings to Link Source Code to GitHub
@@ -810,12 +818,14 @@
 
 ## Markdown 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 
 ## Nix 
 
+- [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@zowoq]
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [fedeizzo/nix-dotfiles](https://github.com/fedeizzo/nix-dotfiles) - 
@@ -871,6 +881,7 @@
 
 ## Others 
 
+- [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -1181,6 +1192,9 @@
 
 ## Python 
 
+- [bregman-arie/infraform](https://github.com/bregman-arie/infraform) - Creating infrastructure and running applications using different platforms
+- [opsmill/infrahub](https://github.com/opsmill/infrahub) - Infrahub offers a central hub to manage the data, templates and playbooks that powers your infrastructure by combining the version control and branch management capabilities of Git with the flexible d
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [lorin/ansiblebook](https://github.com/lorin/ansiblebook) - Code samples from the book "Ansible: Up and Running"
@@ -1812,6 +1826,9 @@
 
 ## Shell 
 
+- [csmart/virt-infra-ansible](https://github.com/csmart/virt-infra-ansible) - An example Ansible playbook for my virt-infra Ansible role.
+- [ernesen/infra-ansible](https://github.com/ernesen/infra-ansible) - End-to-end automated environment with Vagrant, Ansible, Docker, Jenkins, and GitLab.
+- [ipfs/infra](https://github.com/ipfs/infra) - Tools and systems for the IPFS community
 - [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
 - [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [NixOS/org](https://github.com/NixOS/org) - Organisational documentation
@@ -2181,6 +2198,8 @@
 
 ## TypeScript 
 
+- [pulumiverse/infra](https://github.com/pulumiverse/infra) - IaC for all infrastructure required by Pulumiverse
+- [xerocodee/InfraBoard](https://github.com/xerocodee/InfraBoard) - Cloud infrastructures should be designed and managed collaboratively and visually. Get your IaC standardised.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction) - Framework for Monorepo to build high level Terraform Workflows by GitHub Actions
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
