@@ -235,6 +235,11 @@
 
 ## ai 
 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
+- [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) - This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding p
+- [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests.
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
@@ -299,6 +304,8 @@
 
 ## ansible 
 
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
+- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [xerocodee/InfraBoard](https://github.com/xerocodee/InfraBoard) - Cloud infrastructures should be designed and managed collaboratively and visually. Get your IaC standardised.
 - [usegalaxy-eu/infrastructure-playbook](https://github.com/usegalaxy-eu/infrastructure-playbook) - Ansible playbook for managing UseGalaxy.eu infrastructure.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
@@ -405,6 +412,8 @@
 
 ## automation 
 
+- [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) - GitHub Action that will run TFlint on Terraform files.
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
@@ -434,6 +443,8 @@
 
 ## awesome 
 
+- [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
+- [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [mikeroyal/Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide) - Terraform Guide
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
@@ -498,6 +509,8 @@
 
 ## awesome-list 
 
+- [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
+- [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [mikeroyal/Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide) - Terraform Guide
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
@@ -565,6 +578,7 @@
 
 ## aws 
 
+- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [xerocodee/InfraBoard](https://github.com/xerocodee/InfraBoard) - Cloud infrastructures should be designed and managed collaboratively and visually. Get your IaC standardised.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -579,6 +593,7 @@
 
 ## azure 
 
+- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
@@ -601,6 +616,7 @@
 
 ## bash 
 
+- [allthingslinux/xmpp.atl.chat](https://github.com/allthingslinux/xmpp.atl.chat) - xmpp.atl.chat
 - [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -794,6 +810,8 @@
 
 ## cli 
 
+- [allthingslinux/xmpp.atl.chat](https://github.com/allthingslinux/xmpp.atl.chat) - xmpp.atl.chat
+- [rafaelherik/tfsumpy](https://github.com/rafaelherik/tfsumpy) - A Python tool that analyzes Terraform plan files to provide clear, color-coded summaries of infrastructure changes. Makes complex Terraform changes easy to understand and review.
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -1072,6 +1090,8 @@
 
 ## devops 
 
+- [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) - GitHub Action that will run TFlint on Terraform files.
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [bregman-arie/infraform](https://github.com/bregman-arie/infraform) - Creating infrastructure and running applications using different platforms
 - [opsmill/infrahub](https://github.com/opsmill/infrahub) - Infrahub offers a central hub to manage the data, templates and playbooks that powers your infrastructure by combining the version control and branch management capabilities of Git with the flexible d
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
@@ -1247,6 +1267,9 @@
 
 ## docker 
 
+- [allthingslinux/xmpp.atl.chat](https://github.com/allthingslinux/xmpp.atl.chat) - xmpp.atl.chat
+- [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) - GitHub Action that will run TFlint on Terraform files.
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [bregman-arie/infraform](https://github.com/bregman-arie/infraform) - Creating infrastructure and running applications using different platforms
 - [devopshobbies/terraform-templates](https://github.com/devopshobbies/terraform-templates) - The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
 - [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
@@ -1406,7 +1429,7 @@
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
-- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles
+- [battlesquid/dotfiles](https://github.com/battlesquid/dotfiles) - My personal dotfiles
 - [w8ste/Tokyonight-rofi-theme](https://github.com/w8ste/Tokyonight-rofi-theme) - Simple and practical tokyonight theme for rofi
 - [FedericoAntoniazzi/dotfiles](https://github.com/FedericoAntoniazzi/dotfiles) - Personal dotfiles I use for Sway on my ArchLinux laptop and MacOS
 - [saloniamatteo/dotfiles](https://github.com/saloniamatteo/dotfiles) - Salonia Matteo's dotfiles (GNU/Linux configuration)
@@ -1656,6 +1679,7 @@
 
 ## git 
 
+- [opensource-nepal/commitlint](https://github.com/opensource-nepal/commitlint) - Lint Conventional Commit message on GitHub Actions and pre-commit.
 - [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -2182,6 +2206,7 @@
 
 ## json 
 
+- [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
@@ -2198,6 +2223,7 @@
 
 ## kubernetes 
 
+- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [devopshobbies/terraform-templates](https://github.com/devopshobbies/terraform-templates) - The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -2247,6 +2273,7 @@
 
 ## linux 
 
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
@@ -2306,7 +2333,7 @@
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [ray-pH/polybar-cava](https://github.com/ray-pH/polybar-cava) - CAVA module for polybar
-- [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles
+- [battlesquid/dotfiles](https://github.com/battlesquid/dotfiles) - My personal dotfiles
 - [saloniamatteo/dotfiles](https://github.com/saloniamatteo/dotfiles) - Salonia Matteo's dotfiles (GNU/Linux configuration)
 - [nonetrix/tokyonight-kde](https://github.com/nonetrix/tokyonight-kde) - Tokyo Night color theme for KDE 🏙️
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
@@ -2407,6 +2434,7 @@
 
 ## lua 
 
+- [allthingslinux/xmpp.atl.chat](https://github.com/allthingslinux/xmpp.atl.chat) - xmpp.atl.chat
 - [jonniek/unseen-playlistmaker](https://github.com/jonniek/unseen-playlistmaker) - Playlistcreation tool for mpv.
 - [handshou/init.lua](https://github.com/handshou/init.lua) - My Neovim config heavily inspired by @ThePrimeagen.
 - [bernardassan/awesome-neovim](https://github.com/bernardassan/awesome-neovim) - Awesome Configurations for C/C++, Zig, Rust, Python, Shell, Web and Lua development in NeoVim
@@ -2632,6 +2660,7 @@
 
 ## nextjs 
 
+- [blefnk/awllm-awesome-cursor-rules](https://github.com/blefnk/awllm-awesome-cursor-rules) - ❇️ neatly composed rules for ai ides like cursor, windsurf, vscode microsoft github copilot, reliverse ai, etc. optimized for modern frontend development with next.js 15, react 19, typescript 5, tailw
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
@@ -2793,6 +2822,7 @@
 - [sixem/ivfi-node](https://github.com/sixem/ivfi-node) - IVFi is a directory indexer written in Node that aims to make it easy to browse and explore web-accessible directories.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [ddinan/tsuyo](https://github.com/ddinan/tsuyo) - 🤖 A light-weight and easy-to-use modular Discord bot built with DiscordJS.
@@ -2867,6 +2897,8 @@
 
 ## open-source 
 
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [opsmill/infrahub](https://github.com/opsmill/infrahub) - Infrahub offers a central hub to manage the data, templates and playbooks that powers your infrastructure by combining the version control and branch management capabilities of Git with the flexible d
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -2932,6 +2964,29 @@
 
 ## others 
 
+- [Airizom/context-craft](https://github.com/Airizom/context-craft) - 
+- [xsf/xeps](https://github.com/xsf/xeps) - Hosts the markup for all XMPP Protocol Extensions.
+- [modernxmpp/modernxmpp](https://github.com/modernxmpp/modernxmpp) - Modern XMPP usage guide for client and library developers
+- [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) - Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor custom rules, Roo Code rules, Cline rules, Windsurf rules across AI assistants via a universal, manag
+- [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) - If using CLINE/RooCode/Cursor/Windsurf Setup these rules. Usable for newbies riding AI wave and experienced folks both . Combines: (1) Memory,(2) Reasoning into subtasks (3) Prompts for best practices
+- [fluxcd/source-controller](https://github.com/fluxcd/source-controller) - The GitOps Toolkit source management component
+- [brains93/terraweave](https://github.com/brains93/terraweave) - A Python Wrapper for working with terraform
+- [DeepPythonist/PyHetznerServer](https://github.com/DeepPythonist/PyHetznerServer) - 
+- [Sherin-SEF-AI/gitignore-gen](https://github.com/Sherin-SEF-AI/gitignore-gen) - 
+- [amplify-education/terrawrap](https://github.com/amplify-education/terrawrap) - 
+- [giang6283623/cursor-tip](https://github.com/giang6283623/cursor-tip) - Do You Want to Build a Snowman ☃️ ?
+- [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
+- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [maccman/ai-monorepo-scaffold](https://github.com/maccman/ai-monorepo-scaffold) - A scaffold demonstrating how to use a turbo, mono repo, trpc, better auth, react, postgres and cursor ai rules.
+- [johnlindquist/get-rules](https://github.com/johnlindquist/get-rules) - Downloads .mdc rule files for Cursor from johnlindquist/rules-for-tools repository.
+- [sparesparrow/cursor-rules](https://github.com/sparesparrow/cursor-rules) - A library of rules for the Cursor IDE, providing organized instructions for the Agent Composer LLM backend.
+- [brookslybrand/react-router-cursor-rules](https://github.com/brookslybrand/react-router-cursor-rules) - Cursor rules for using React Router framework mode
+- [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - My go-to rules for using Cursor and LLMs in software development.
+- [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - Curated AI Prompts for Cursor Rules, Cline, Windsurf and Github Copilot
+- [Mawla/cursor_rules](https://github.com/Mawla/cursor_rules) - Behaviour for cursor
+- [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+- [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
+- [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
 - [pulumiverse/infra](https://github.com/pulumiverse/infra) - IaC for all infrastructure required by Pulumiverse
 - [csmart/virt-infra-ansible](https://github.com/csmart/virt-infra-ansible) - An example Ansible playbook for my virt-infra Ansible role.
 - [angular/dev-infra](https://github.com/angular/dev-infra) - Angular Development Infrastructure
@@ -3029,7 +3084,7 @@
 - [neostandard/neostandard](https://github.com/neostandard/neostandard) - A spiritual successor to the standardjs javascript style guide
 - [plugjs/eslint-plugin](https://github.com/plugjs/eslint-plugin) - Shared configurations and extras for ESLint
 - [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages
-- [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
+- [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Astro and Airtable.
 - [eslintinit/use-airtable](https://github.com/eslintinit/use-airtable) - Airtable CRUD hooks for React
 - [aivantg/airtable-schema-generator](https://github.com/aivantg/airtable-schema-generator) - An npm package to scrape an Airtable Base's Schema and generate useful helper functions and constants
 - [picsoung/airtable-shipping-block](https://github.com/picsoung/airtable-shipping-block) - 
@@ -4189,6 +4244,7 @@
 
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 
 ## publishing 
 
@@ -4207,6 +4263,12 @@
 
 ## python 
 
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
+- [beelit94/python-terraform](https://github.com/beelit94/python-terraform) - 
+- [claranet/tfwrapper](https://github.com/claranet/tfwrapper) - Claranet France Terraform & OpenTofu Wrapper
+- [rafaelherik/tfsumpy](https://github.com/rafaelherik/tfsumpy) - A Python tool that analyzes Terraform plan files to provide clear, color-coded summaries of infrastructure changes. Makes complex Terraform changes easy to understand and review.
+- [opensource-nepal/commitlint](https://github.com/opensource-nepal/commitlint) - Lint Conventional Commit message on GitHub Actions and pre-commit.
+- [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [bregman-arie/infraform](https://github.com/bregman-arie/infraform) - Creating infrastructure and running applications using different platforms
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
@@ -4617,7 +4679,6 @@
 ## redux 
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [kaxi1993/mern-template](https://github.com/kaxi1993/mern-template) - MERN boilerplate generator. Mongo, Express, React, Node web app.
 - [htdangkhoa/react-ssr-starter](https://github.com/htdangkhoa/react-ssr-starter) - 🔥 ⚛️ A React boilerplate for a universal web app with a highly scalable, offline-first foundation and our focus on performance and best practices.
@@ -4689,6 +4750,7 @@
 
 ## security 
 
+- [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) - This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding p
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -4740,6 +4802,7 @@
 - [open-discord-bots/open-ticket](https://github.com/open-discord-bots/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, pterodactyl support & more! Easy setup & powered by discord.js v14!
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -5071,6 +5134,14 @@
 
 ## terraform 
 
+- [AleksaC/tflint-py](https://github.com/AleksaC/tflint-py) - pip installable tflint binary with wrapper for pre-commit
+- [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) - GitHub Action that will run TFlint on Terraform files.
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
+- [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
+- [beelit94/python-terraform](https://github.com/beelit94/python-terraform) - 
+- [claranet/tfwrapper](https://github.com/claranet/tfwrapper) - Claranet France Terraform & OpenTofu Wrapper
+- [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
+- [rafaelherik/tfsumpy](https://github.com/rafaelherik/tfsumpy) - A Python tool that analyzes Terraform plan files to provide clear, color-coded summaries of infrastructure changes. Makes complex Terraform changes easy to understand and review.
 - [bregman-arie/infraform](https://github.com/bregman-arie/infraform) - Creating infrastructure and running applications using different platforms
 - [xerocodee/InfraBoard](https://github.com/xerocodee/InfraBoard) - Cloud infrastructures should be designed and managed collaboratively and visually. Get your IaC standardised.
 - [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@zowoq]
@@ -5092,6 +5163,7 @@
 
 ## testing 
 
+- [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -5280,6 +5352,7 @@
 
 ## vagrant 
 
+- [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
 - [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
