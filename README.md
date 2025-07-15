@@ -1861,6 +1861,7 @@
 
 ## Shell 
 
+- [allthingslinux/xmpp.atl.chat](https://github.com/allthingslinux/xmpp.atl.chat) - xmpp.atl.chat
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [csmart/virt-infra-ansible](https://github.com/csmart/virt-infra-ansible) - An example Ansible playbook for my virt-infra Ansible role.
 - [ernesen/infra-ansible](https://github.com/ernesen/infra-ansible) - End-to-end automated environment with Vagrant, Ansible, Docker, Jenkins, and GitLab.
