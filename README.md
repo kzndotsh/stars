@@ -895,7 +895,7 @@
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [giang6283623/cursor-tip](https://github.com/giang6283623/cursor-tip) - Do You Want to Build a Snowman ☃️ ?
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [blefnk/awllm-awesome-cursor-rules](https://github.com/blefnk/awllm-awesome-cursor-rules) - ❇️ neatly composed rules for ai ides like cursor, windsurf, vscode microsoft github copilot, reliverse ai, etc. optimized for modern frontend development with next.js 15, react 19, typescript 5, tailw
@@ -1213,6 +1213,7 @@
 
 ## Python 
 
+- [evolvewithevan/gitcord](https://github.com/evolvewithevan/gitcord) - Manage your discord's channel and role structure and roles via Git - GitOps
 - [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) - Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor custom rules, Roo Code rules, Cline rules, Windsurf rules across AI assistants via a universal, manag
 - [AleksaC/tflint-py](https://github.com/AleksaC/tflint-py) - pip installable tflint binary with wrapper for pre-commit
 - [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
@@ -1782,6 +1783,7 @@
 
 ## Ruby 
 
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [mrcnski/compnav](https://github.com/mrcnski/compnav) - Complete shell navigation: better up, z, and h
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
@@ -1861,6 +1863,9 @@
 
 ## Shell 
 
+- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+- [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
+- [IsRengel/InstallCursorEditorLinux](https://github.com/IsRengel/InstallCursorEditorLinux) - 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
 - [allthingslinux/xmpp.atl.chat](https://github.com/allthingslinux/xmpp.atl.chat) - xmpp.atl.chat
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [csmart/virt-infra-ansible](https://github.com/csmart/virt-infra-ansible) - An example Ansible playbook for my virt-infra Ansible role.
