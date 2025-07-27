@@ -425,6 +425,7 @@
 
 ## JavaScript 
 
+- [ursisterbtw/ccprompts](https://github.com/ursisterbtw/ccprompts) - practical claude code commands, prompts and sub-agents
 - [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
@@ -836,6 +837,7 @@
 
 ## Nix 
 
+- [barnett-yuxiang/prompt-mgmt](https://github.com/barnett-yuxiang/prompt-mgmt) - A comprehensive collection of prompts, strategies, and best practices for effectively utilizing large language models (LLMs).
 - [nix-community/infra](https://github.com/nix-community/infra) - nix-community infrastructure [maintainer=@zowoq]
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
@@ -892,6 +894,11 @@
 
 ## Others 
 
+- [Fr-e-d/ai-dev-assistant-framework](https://github.com/Fr-e-d/ai-dev-assistant-framework) - A pragmatic governance framework for AI-assisted software development. It provides structured protocols to transform any AI coding assistant into a reliable, context-aware engineering partner.
+- [Yuan-ManX/context-engineering](https://github.com/Yuan-ManX/context-engineering) - Context Engineering - The art of providing all the context for the task to be plausibly solvable by the LLM.
+- [sathariels/context-engineering-intro-GeminiCLI](https://github.com/sathariels/context-engineering-intro-GeminiCLI) - Context engineering is the new vibe coding – it’s how to actually make AI coding assistants work. Gemini CLI is the best for this, and this repo is based on the coleam00 template made for Claude Code!
+- [Weid336/Context-Engineering-Lab](https://github.com/Weid336/Context-Engineering-Lab) - A structured exploration of Context Engineering: designing, evaluating, and reasoning about modular prompts, semantic inputs, and retrieval-aligned architectures for LLM systems.
+- [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
 - [HeySkidee/discord-mcp-server](https://github.com/HeySkidee/discord-mcp-server) - 
 - [modernxmpp/modernxmpp](https://github.com/modernxmpp/modernxmpp) - Modern XMPP usage guide for client and library developers
 - [Bhartendu-Kumar/rules_template](https://github.com/Bhartendu-Kumar/rules_template) - If using CLINE/RooCode/Cursor/Windsurf Setup these rules. Usable for newbies riding AI wave and experienced folks both . Combines: (1) Memory,(2) Reasoning into subtasks (3) Prompts for best practices
@@ -1870,6 +1877,7 @@
 
 ## Shell 
 
+- [PreistlyPython/10x-agentic-coding](https://github.com/PreistlyPython/10x-agentic-coding) - 10X Agentic Coding System - Context Engineering & Intelligent Command Orchestration Platform for global intelligence-powered development
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [IsRengel/InstallCursorEditorLinux](https://github.com/IsRengel/InstallCursorEditorLinux) - 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
@@ -2247,6 +2255,7 @@
 
 ## TypeScript 
 
+- [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [Airizom/context-craft](https://github.com/Airizom/context-craft) - 
