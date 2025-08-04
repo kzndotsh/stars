@@ -51,6 +51,7 @@
 - [cybersecurity](#cybersecurity)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -60,6 +61,7 @@
 - [dependency-management](#dependency-management)
 - [deployment](#deployment)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
@@ -235,9 +237,12 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## ai 
 
+- [Fr-e-d/ai-dev-assistant-framework](https://github.com/Fr-e-d/ai-dev-assistant-framework) - A pragmatic governance framework for AI-assisted software development. It provides structured protocols to transform any AI coding assistant into a reliable, context-aware engineering partner.
+- [ursisterbtw/ccprompts](https://github.com/ursisterbtw/ccprompts) - practical claude code commands, prompts and sub-agents
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [IsRengel/InstallCursorEditorLinux](https://github.com/IsRengel/InstallCursorEditorLinux) - 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
@@ -407,6 +412,7 @@
 
 ## artificial-intelligence 
 
+- [sathariels/context-engineering-intro-GeminiCLI](https://github.com/sathariels/context-engineering-intro-GeminiCLI) - Context engineering is the new vibe coding – it’s how to actually make AI coding assistants work. Gemini CLI is the best for this, and this repo is based on the coleam00 template made for Claude Code!
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -418,6 +424,7 @@
 
 ## automation 
 
+- [PreistlyPython/10x-agentic-coding](https://github.com/PreistlyPython/10x-agentic-coding) - 10X Agentic Coding System - Context Engineering & Intelligent Command Orchestration Platform for global intelligence-powered development
 - [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) - GitHub Action that will run TFlint on Terraform files.
 - [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
@@ -516,6 +523,7 @@
 
 ## awesome-list 
 
+- [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -1011,6 +1019,12 @@
 - [katiehuangx/Portfolio-Guide](https://github.com/katiehuangx/Portfolio-Guide) - A guide and summary to my projects and case studies.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
+## data-engineering 
+
+- [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+
 ## data-science 
 
 - [siznax/wptools](https://github.com/siznax/wptools) - Wikipedia tools (for Humans): easily extract data from Wikipedia, Wikidata, and other MediaWikis
@@ -1029,7 +1043,7 @@
 - [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
 
 ## data-visualization 
 
@@ -1100,6 +1114,21 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [benbrignell/principles.design](https://github.com/benbrignell/principles.design) - An open source collection of design principles and methods.
+
+## developer-tools 
+
+- [Fr-e-d/ai-dev-assistant-framework](https://github.com/Fr-e-d/ai-dev-assistant-framework) - A pragmatic governance framework for AI-assisted software development. It provides structured protocols to transform any AI coding assistant into a reliable, context-aware engineering partner.
+- [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [tanaikech/taking-advantage-of-google-apps-script](https://github.com/tanaikech/taking-advantage-of-google-apps-script) - Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my blog, Gists and GitHub are summarized.
+- [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [robertwayne/cogwatch](https://github.com/robertwayne/cogwatch) - Hot-reloading for discord.py-based command files.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## development 
 
@@ -1904,7 +1933,6 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
-- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
@@ -2111,7 +2139,7 @@
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
 
 ## javascript 
 
@@ -2427,6 +2455,9 @@
 
 ## llm 
 
+- [Yuan-ManX/context-engineering](https://github.com/Yuan-ManX/context-engineering) - Context Engineering - The art of providing all the context for the task to be plausibly solvable by the LLM.
+- [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
+- [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -2448,7 +2479,6 @@
 
 ## low-code 
 
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
@@ -2693,7 +2723,7 @@
 
 ## nextjs 
 
-- [blefnk/awllm-awesome-cursor-rules](https://github.com/blefnk/awllm-awesome-cursor-rules) - ❇️ neatly composed rules for ai ides like cursor, windsurf, vscode microsoft github copilot, reliverse ai, etc. optimized for modern frontend development with next.js 15, react 19, typescript 5, tailw
+- [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ neatly composed rules for ai ides like cursor, windsurf, vscode microsoft github copilot, reliverse ai, etc. optimized for modern frontend development with next.js 15, react 19, typescript 5, tailw
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
@@ -3000,7 +3030,9 @@
 
 ## others 
 
-- [prlmrcdzxoxo2/context_engineering](https://github.com/prlmrcdzxoxo2/context_engineering) - Context Engineering
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [Weid336/Context-Engineering-Lab](https://github.com/Weid336/Context-Engineering-Lab) - A structured exploration of Context Engineering: designing, evaluating, and reasoning about modular prompts, semantic inputs, and retrieval-aligned architectures for LLM systems.
+- [barnett-yuxiang/prompt-mgmt](https://github.com/barnett-yuxiang/prompt-mgmt) - A comprehensive collection of prompts, strategies, and best practices for effectively utilizing large language models (LLMs).
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [GloriousEggroll/flatpost](https://github.com/GloriousEggroll/flatpost) - Desktop Environment agnostic flatpak-only shop gui.
@@ -3077,7 +3109,6 @@
 - [sainsburys-tech/next-logger](https://github.com/sainsburys-tech/next-logger) - JSON logging patcher for Next.js
 - [Monarch-Linux/aurelia](https://github.com/Monarch-Linux/aurelia) - A simple, discord.py bot using the uv python package and project manager.
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance
-- [tanaikech/taking-advantage-of-google-apps-script](https://github.com/tanaikech/taking-advantage-of-google-apps-script) - Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my blog, Gists and GitHub are summarized.
 - [sysblok/focalboard](https://github.com/sysblok/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings
 - [ShiroKazane/Tokyo-Night](https://github.com/ShiroKazane/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
@@ -3393,7 +3424,6 @@
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [lubieowoce/tangle](https://github.com/lubieowoce/tangle) - A very messy React Server Components implementation.
 - [Gust4Oliveira/Last.fm-Discord-Rich-Presence](https://github.com/Gust4Oliveira/Last.fm-Discord-Rich-Presence) - Script that catch your listening status from Last.fm and shares as your discord game activity (Discord Rich Presence)
-- [bobsoppe/zsh-ssh-agent](https://github.com/bobsoppe/zsh-ssh-agent) - Ssh-agent management for zsh
 - [Mulan-Szechuan-Sauce/bw-agent](https://github.com/Mulan-Szechuan-Sauce/bw-agent) - An SSH Agent client which pulls ssh keys from Bitwarden secure notes.
 - [joaojacome/bitwarden-ssh-agent](https://github.com/joaojacome/bitwarden-ssh-agent) - Small python script to load bitwarden-store ssh keys into ssh-agent
 - [fedeizzo/nix-dotfiles](https://github.com/fedeizzo/nix-dotfiles) - 
@@ -3532,7 +3562,6 @@
 - [rsantosdev/dotfiles](https://github.com/rsantosdev/dotfiles) - My dotfiles / OSX setup.
 - [Falkor/dotfiles](https://github.com/Falkor/dotfiles) - Personal configuration files for bash, zsh, git, vim, screen  etc.
 - [rylandg/myos](https://github.com/rylandg/myos) - Develop and share terminal environments
-- [zsh-delorean/DeLorean](https://github.com/zsh-delorean/DeLorean) - Send your terminal back to the future!
 - [mollifier/config](https://github.com/mollifier/config) - config files
 - [koic/dotfiles](https://github.com/koic/dotfiles) - :open_file_folder: koic's dotfiles
 - [ckc-org/dotfiles](https://github.com/ckc-org/dotfiles) - 
@@ -3543,11 +3572,6 @@
 - [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 - [bkerley/zshkit](https://github.com/bkerley/zshkit) - My way-overdone zsh config scripts
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
-- [belak/zsh-utils](https://github.com/belak/zsh-utils) - A minimal, opinionated set of ZSH plugins designed to be small, simple, and focused.
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
-- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
-- [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
 - [gustavohellwig/gh-zsh](https://github.com/gustavohellwig/gh-zsh) - 
 - [dotphiles/dotzsh](https://github.com/dotphiles/dotzsh) - A community driven framework for zsh
 - [miohtama/ztanesh](https://github.com/miohtama/ztanesh) - Improve your UNIX command line experience and productivity with ztanesh project: the tools will make your shell more powerful and easier to use.
@@ -3559,7 +3583,6 @@
 - [chrissicool/zsh-256color](https://github.com/chrissicool/zsh-256color) - ZSH plugin to enhance the terminal environment with 256 colors
 - [aspiers/shell-env](https://github.com/aspiers/shell-env) - Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities
 - [iliran11/myzsh](https://github.com/iliran11/myzsh) - 
-- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) - Theme applications with your favourite base16 colorschemes in Nix
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
@@ -3673,7 +3696,7 @@
 - [Jiratech/boilerplates-openapi-schema](https://github.com/Jiratech/boilerplates-openapi-schema) - 
 - [Azure/draft](https://github.com/Azure/draft) - A day 0 tool for getting your app on k8s fast
 - [hasura/data-hub](https://github.com/hasura/data-hub) - Explore data sources from a native GraphQL API, database schemas to custom code contributed by the community.
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
@@ -4064,7 +4087,7 @@
 - [JohnKuruvila/qbittorrent-peers-location-grafana](https://github.com/JohnKuruvila/qbittorrent-peers-location-grafana) - A python script and steps to display locations of peers connected to qbittorrent
 - [ckcr4lyf/qbit-race](https://github.com/ckcr4lyf/qbit-race) - Qbittorrent utilities for racing
 - [MantisTree/TorrentFileRenamer](https://github.com/MantisTree/TorrentFileRenamer) - Rename .TORRENT files to the torrent name contained in the torrent file itself
-- [vladimircicovic/wifi_pass](https://github.com/vladimircicovic/wifi_pass) - Collection of passwords from torrents/dumps/others - uniq, sorted, removed length bellow 8 for wifi cracking
+- [vladimir-cicovic/wifi_pass](https://github.com/vladimir-cicovic/wifi_pass) - Collection of passwords from torrents/dumps/others - uniq, sorted, removed length bellow 8 for wifi cracking
 - [kieron/CloudCommand](https://github.com/kieron/CloudCommand) - A simple script to quickly launch common scripts/commands, relating to a Cloudbox environment.
 - [Dec64/scripts](https://github.com/Dec64/scripts) - Misc scripts
 - [fionera/TeamDriveManager](https://github.com/fionera/TeamDriveManager) - Rewrite of the PHP version. Harder, Better, Faster, Stronger
@@ -4161,6 +4184,7 @@
 ## package-manager 
 
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
+- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 
@@ -4266,6 +4290,7 @@
 
 ## productivity 
 
+- [PreistlyPython/10x-agentic-coding](https://github.com/PreistlyPython/10x-agentic-coding) - 10X Agentic Coding System - Context Engineering & Intelligent Command Orchestration Platform for global intelligence-powered development
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -4305,7 +4330,7 @@
 ## python 
 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
-- [evolvewithevan/gitcord](https://github.com/evolvewithevan/gitcord) - A Discord bot for Managing your discord's channel and role structure and roles via Git - GitOps
+- [allthingslinux/gitcord](https://github.com/allthingslinux/gitcord) - A Discord bot for Managing your discord's channel and role structure and roles via Git - GitOps
 - [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [beelit94/python-terraform](https://github.com/beelit94/python-terraform) - 
 - [claranet/tfwrapper](https://github.com/claranet/tfwrapper) - Claranet France Terraform & OpenTofu Wrapper
@@ -5449,6 +5474,7 @@
 
 ## vue 
 
+- [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
 - [InBrowserApp/tldr.inbrowser.app](https://github.com/InBrowserApp/tldr.inbrowser.app) - 📝 tldr InBrowser.App is a offline-capable PWA for tldr-pages. Fully runs in your browser. Zero API latency.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -5563,6 +5589,62 @@
 ## zig 
 
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+
+## zsh 
+
+- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [getantidote/zdotdir](https://github.com/getantidote/zdotdir) - Some examples of how you might use antidote in your Zsh config
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
+- [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [bobsoppe/zsh-ssh-agent](https://github.com/bobsoppe/zsh-ssh-agent) - Ssh-agent management for zsh
+- [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
+- [bastienwirtz/dotfiles](https://github.com/bastienwirtz/dotfiles) - Linux environment configuration files.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
+- [zsh-delorean/DeLorean](https://github.com/zsh-delorean/DeLorean) - Send your terminal back to the future!
+- [mscharley/dotfiles](https://github.com/mscharley/dotfiles) - This repository contains most of the dotfile settings I use regularly.
+- [alexbarton/ax-zsh](https://github.com/alexbarton/ax-zsh) - Modular configuration system for the Z shell (ZSH)
+- [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
+- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
+- [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
+- [belak/zsh-utils](https://github.com/belak/zsh-utils) - A minimal, opinionated set of ZSH plugins designed to be small, simple, and focused.
+- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
+- [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
+- [adamnorwood/adamnorwood-zsh](https://github.com/adamnorwood/adamnorwood-zsh) - Adam Norwood's Z shell (zsh) configuration with custom Oh My Posh theme.
+- [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
+- [zulu-zsh/zulu](https://github.com/zulu-zsh/zulu) - Total environment manager for ZSH
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+- [unixorn/jpb.zshplugin](https://github.com/unixorn/jpb.zshplugin) - ZSH plugin to load some of my tools.
+- [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
+- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [battlesquid/dotfiles](https://github.com/battlesquid/dotfiles) - My personal dotfiles
+- [FedericoAntoniazzi/dotfiles](https://github.com/FedericoAntoniazzi/dotfiles) - Personal dotfiles I use for Sway on my ArchLinux laptop and MacOS
+- [kzndotsh/dotfiles](https://github.com/kzndotsh/dotfiles) - There's no place like ~
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [r0naldoom/dotfiles](https://github.com/r0naldoom/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [dvragulin/dotfiles-public](https://github.com/dvragulin/dotfiles-public) - Personal Ansible roles for installing i3 on Arch Linux and applying my dotfiles.
+- [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
+- [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles for unix, managed by GNU stow.
+- [CSaratakij/i3-rice-rin-shelter](https://github.com/CSaratakij/i3-rice-rin-shelter) - My i3wm rice with theme "Rin : shelter"
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [rsnk96/Ubuntu-Setup-Scripts](https://github.com/rsnk96/Ubuntu-Setup-Scripts) - Scripts to help you set up your Ubuntu quickly, especially if you're in any subfield of Data Science or AI!
 
 
 ## License
