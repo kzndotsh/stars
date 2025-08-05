@@ -1798,7 +1798,7 @@
 
 ## Ruby 
 
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [mrcnski/compnav](https://github.com/mrcnski/compnav) - Complete shell navigation: better up, z, and h
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
