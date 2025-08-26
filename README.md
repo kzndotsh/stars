@@ -92,6 +92,7 @@
 
 ## C 
 
+- [supernets/unrealircd](https://github.com/supernets/unrealircd) - supernets unrealircd source & configuration
 - [atheme/atheme](https://github.com/atheme/atheme) - Atheme IRC Services
 - [unrealircd/unrealircd-contrib](https://github.com/unrealircd/unrealircd-contrib) - Third party modules for UnrealIRCd. Note that you should normally use the module manager to install these modules.
 - [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
@@ -255,6 +256,9 @@
 
 ## Go 
 
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
+- [terminaldweller/milla](https://github.com/terminaldweller/milla) - terminaldweller's IRC bot
 - [hedyhli/spsrv](https://github.com/hedyhli/spsrv) - full-featured spartan server capable of serving static files, ~user directories, CGI, and more
 - [donuts-are-good/postshortly](https://github.com/donuts-are-good/postshortly) - signupless ed25519 status service
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -437,6 +441,7 @@
 
 ## JavaScript 
 
+- [MishaKav/pytest-coverage-comment](https://github.com/MishaKav/pytest-coverage-comment) - Comments a pull request with the pytest code coverage badge and full report
 - [yurt-page/xmpp_admin_web](https://github.com/yurt-page/xmpp_admin_web) - Prosody web admin panel extracted as a standalone website
 - [gtlsgamr/ul.dl](https://github.com/gtlsgamr/ul.dl) - This is a no-bullshit file hosting service, inspired by 0x0.st.
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
@@ -602,7 +607,7 @@
 - [andrewrabert/emby-unlocked](https://github.com/andrewrabert/emby-unlocked) - Emby with the premium Emby Premiere features unlocked.
 - [kzndotsh/bloom](https://github.com/kzndotsh/bloom) - Personal Bloom Tech projects and course work.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 - [pokedotdev/tokyo-night-insomnia](https://github.com/pokedotdev/tokyo-night-insomnia) - Tokyo Night theme for Insomnia
 - [estevanmaito/windmill-dashboard-react](https://github.com/estevanmaito/windmill-dashboard-react) - ❄ A multi theme, completely accessible, ready for production dashboard.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -788,6 +793,7 @@
 
 ## Lua 
 
+- [allthingslinux/xmpp.atl.chat](https://github.com/allthingslinux/xmpp.atl.chat) - xmpp.atl.chat
 - [jonniek/unseen-playlistmaker](https://github.com/jonniek/unseen-playlistmaker) - Playlistcreation tool for mpv.
 - [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
@@ -909,6 +915,7 @@
 
 ## Others 
 
+- [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon
 - [HaoooWang/llm-knowledge-cutoff-dates](https://github.com/HaoooWang/llm-knowledge-cutoff-dates) - This repository contains a summary of knowledge cut-off dates for various large language models (LLMs), such as GPT, Claude, Gemini, Llama, and more.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [Fr-e-d/AI-Governor-Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - The Keystone Framework for AI-Driven Code ! Turn any AI coding assistant into a disciplined, project-aware engineering partner that respects your architecture and coding standards
@@ -921,7 +928,7 @@
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [giang6283623/cursor-tip](https://github.com/giang6283623/cursor-tip) - Do You Want to Build a Snowman ☃️ ?
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [blefnk/awesome-cursor-rules](https://github.com/blefnk/awesome-cursor-rules) - ❇️ neatly composed rules for ai ides like cursor, windsurf, vscode microsoft github copilot, reliverse ai, etc. optimized for modern frontend development with next.js 15, react 19, typescript 5, tailw
@@ -1158,6 +1165,7 @@
 
 ## PHP 
 
+- [unrealircd/unrealircd-webpanel](https://github.com/unrealircd/unrealircd-webpanel) - An administration webpanel for UnrealIRCd
 - [ubc/mediawiki-docker](https://github.com/ubc/mediawiki-docker) - To generate a production use MediaWiki docker image
 - [pastakhov/compose-mediawiki-ubuntu](https://github.com/pastakhov/compose-mediawiki-ubuntu) - Containerized Mediawiki install based on Ubuntu
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1239,6 +1247,18 @@
 
 ## Python 
 
+- [kmbhm1/supabase-pydantic](https://github.com/kmbhm1/supabase-pydantic) - Generate Pydantic models other types from Supabase/Postgres schemas automatically. Ideal for FastAPI, Supabase, and rapid prototyping.
+- [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
+- [softwareone-platform/pytest-capsqlalchemy](https://github.com/softwareone-platform/pytest-capsqlalchemy) - Pytest plugin to allow capturing SQLAlchemy queries.
+- [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+- [wey-gu/py-pglite](https://github.com/wey-gu/py-pglite) - PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite.
+- [jacebrowning/datafiles](https://github.com/jacebrowning/datafiles) - A file-based ORM for Python dataclasses.
+- [cary997/fastcow-devops](https://github.com/cary997/fastcow-devops) - Ansible-based task scheduling platform
+- [tyvekzhang/fast-web](https://github.com/tyvekzhang/fast-web) - One of the best scaffolding in the PyWeb field.
+- [dbfixtures/pytest-postgresql](https://github.com/dbfixtures/pytest-postgresql) - This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
+- [igortg/pytest-async-sqlalchemy](https://github.com/igortg/pytest-async-sqlalchemy) - Database testing fixtures using the SQLAlchemy asyncio API
+- [klen/pytest-aio](https://github.com/klen/pytest-aio) - Is a simple pytest plugin for testing async python code
+- [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) - A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)
 - [Pogchamp-company/alembic-postgresql-enum](https://github.com/Pogchamp-company/alembic-postgresql-enum) - Alembic autogenerate support for creation, alteration and deletion of enums
 - [Gatsby-Lee/exp-monorepo-python-uv](https://github.com/Gatsby-Lee/exp-monorepo-python-uv) - 
 - [tweag/python-monorepo-example](https://github.com/tweag/python-monorepo-example) - Example of a python monorepo using pip, the poetry backend, and Pants
@@ -1314,7 +1334,6 @@
 - [rabbit72/single-source](https://github.com/rabbit72/single-source) - Access to the project version in Python code for PEP 621-style projects
 - [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs) - A variety of utility cogs and fun cogs including Hockey information from the NHL, badge creation from discord user information, starboard for use on Redbot, twitch follow notifications and more.
 - [sinwindie/OSINT](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
-- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [tlambert03/mkdocs-api-autonav](https://github.com/tlambert03/mkdocs-api-autonav) - MkDocs plugin for autogenerating API docs with navigation
@@ -1511,7 +1530,7 @@
 - [MildDisaster/discord_bot_peewee](https://github.com/MildDisaster/discord_bot_peewee) - Discord Bot as an excuse to get familiar with python & peewee (orm)
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [nonchris/discord-bot](https://github.com/nonchris/discord-bot) - Generic bot to start with based on discord.py
 - [mpsparrow/applesauce](https://github.com/mpsparrow/applesauce) - Applesauce is a lightweight Discord bot that provides a plugin management framework to enable powerful modular configurations
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
@@ -1818,6 +1837,7 @@
 
 ## Ruby 
 
+- [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [mrcnski/compnav](https://github.com/mrcnski/compnav) - Complete shell navigation: better up, z, and h
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -1900,6 +1920,9 @@
 
 ## Shell 
 
+- [reviewdog/action-setup](https://github.com/reviewdog/action-setup) - :dog: Setup reviewdog action
+- [decent-im/decent.im](https://github.com/decent-im/decent.im) - XMPP public service with gateways to other IM networks
+- [ivangrynenko/cursorrules](https://github.com/ivangrynenko/cursorrules) - A set of cursor rules for Cursor AI IDE that support PHP, Python, JavaScript and Drupal-specific rules
 - [uwla/shelf](https://github.com/uwla/shelf) - Framework for sharing configuration across POSIX shells (bash, sh, zsh)
 - [jamestomasino/cosmic](https://github.com/jamestomasino/cosmic) - Cosmic Voyage scripts
 - [jamestomasino/pb](https://github.com/jamestomasino/pb) - 0x0 pastebin utility
@@ -1907,7 +1930,6 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [IsRengel/InstallCursorEditorLinux](https://github.com/IsRengel/InstallCursorEditorLinux) - 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
-- [allthingslinux/xmpp.atl.chat](https://github.com/allthingslinux/xmpp.atl.chat) - xmpp.atl.chat
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [csmart/virt-infra-ansible](https://github.com/csmart/virt-infra-ansible) - An example Ansible playbook for my virt-infra Ansible role.
 - [ernesen/infra-ansible](https://github.com/ernesen/infra-ansible) - End-to-end automated environment with Vagrant, Ansible, Docker, Jenkins, and GitLab.
@@ -2280,6 +2302,8 @@
 
 ## TypeScript 
 
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find and build open-source alternatives
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
 - [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
@@ -2309,6 +2333,7 @@
 - [skttl/tailwindcss-quantity-queries](https://github.com/skttl/tailwindcss-quantity-queries) - Variants for using quantity queries with Tailwind CSS
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [kzndotsh/coinswiper](https://github.com/kzndotsh/coinswiper) - coinswiper is a modern web application built with Next.js for voting on your Solana tokens. It provides real-time data and insights using the DexScreener API integration.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -2339,7 +2364,7 @@
 - [sachidumaleesha/shadcn-dashboard](https://github.com/sachidumaleesha/shadcn-dashboard) - A Simple Shadcn Dashboard
 - [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
