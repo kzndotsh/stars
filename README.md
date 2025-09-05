@@ -709,7 +709,7 @@
 - [shrihari/moviemonkey](https://github.com/shrihari/moviemonkey) - Simple movie manager
 - [squarefrog/plex-refresh](https://github.com/squarefrog/plex-refresh) - A small Node application to act as a web hook for starting Plex Media Scanner.
 - [hutstep/magnet2list](https://github.com/hutstep/magnet2list) - Converts magnet links to tracker lists.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [jrudio/plex-portal](https://github.com/jrudio/plex-portal) - This is just a mock-up web application that uses the idea of selling access to your Plex server. Built with Meteor.js
@@ -1537,7 +1537,6 @@
 - [kaxiluo/fastapi-skeleton](https://github.com/kaxiluo/fastapi-skeleton) - fastapi skeleton. framework integration orm jwt-auth loguru dotenv APScheduler...
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [theinfosecguy/python-supabase-crud-api](https://github.com/theinfosecguy/python-supabase-crud-api) - FastAPI & Supabase CRUD Application
-- [rjhoppe/python-supabase-table-data-gen-tool](https://github.com/rjhoppe/python-supabase-table-data-gen-tool) - A couple of scripts I wrote to help me dynamically generate data and load it into Supabase for a proof of concept I was working on.
 - [jod35/supabase_py_playground](https://github.com/jod35/supabase_py_playground) - Source code I used while exploring the Supabase Python SDK
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [iarspider/arachnobot](https://github.com/iarspider/arachnobot) - 
