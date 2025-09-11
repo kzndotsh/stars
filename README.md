@@ -1597,7 +1597,7 @@
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [s0up4200/scripts-for-the-arrs-and-brrs](https://github.com/s0up4200/scripts-for-the-arrs-and-brrs) - Various scripts for the arrs and brrs
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
-- [TheLovinator1/discord-embed](https://github.com/TheLovinator1/discord-embed) - Discord will only create embeds for videos and images if they are smaller than 10MiB. We can "abuse" this by using the twitter:image HTML meta tag.
+- [TheLovinator1/discord-embed](https://github.com/TheLovinator1/discord-embed) - Image/video uploader with workaround to force Discord to create embeds via twitter:image metadata
 - [nickheyer/DiscoFlix](https://github.com/nickheyer/DiscoFlix) - A simple media-requesting, Radarr/Sonarr-interfacing, movie and tv show-listing Chat Bot web-app for your media server.
 - [TonyCrane/mkdocs-changelog-plugin](https://github.com/TonyCrane/mkdocs-changelog-plugin) - A MkDocs plugin that create changelog in a page
 - [JakeLunn/prunerr](https://github.com/JakeLunn/prunerr) - A command line application for cleaning up old media from Plex and optionally notifying Sonarr, Radarr and Overseerr
