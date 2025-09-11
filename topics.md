@@ -23,6 +23,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -123,6 +124,7 @@
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -264,6 +266,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -702,6 +705,12 @@
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [jasonheecs/ubuntu-server-setup](https://github.com/jasonheecs/ubuntu-server-setup) - A setup script for Ubuntu servers
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+
+## beginner-project 
+
+- [knaxus/problem-solving-javascript](https://github.com/knaxus/problem-solving-javascript) - :fire: Crack you JS interviews ⚡ Collection of most common JS Interview questions with Unit Tests 🚀
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## blockchain 
 
@@ -1311,7 +1320,7 @@
 - [discord-tickets/bot](https://github.com/discord-tickets/bot) - The most popular open-source and self-hosted ticket management bot for Discord - a free alternative to the premium and white-label plans of other popular ticketing bots.
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
 - [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
-- [TheLovinator1/discord-embed](https://github.com/TheLovinator1/discord-embed) - Discord will only create embeds for videos and images if they are smaller than 10MiB. We can "abuse" this by using the twitter:image HTML meta tag.
+- [TheLovinator1/discord-embed](https://github.com/TheLovinator1/discord-embed) - Image/video uploader with workaround to force Discord to create embeds via twitter:image metadata
 - [nickheyer/DiscoFlix](https://github.com/nickheyer/DiscoFlix) - A simple media-requesting, Radarr/Sonarr-interfacing, movie and tv show-listing Chat Bot web-app for your media server.
 - [mchestr/displex](https://github.com/mchestr/displex) - Discord & Plex & Tautulli & Overseerr Bot
 - [zeroquinc/ServerBot](https://github.com/zeroquinc/ServerBot) - Discord Bot mainly for learning Python, can be used as Arrs and Plex notification agent
@@ -2048,7 +2057,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
-- [TheLovinator1/discord-embed](https://github.com/TheLovinator1/discord-embed) - Discord will only create embeds for videos and images if they are smaller than 10MiB. We can "abuse" this by using the twitter:image HTML meta tag.
+- [TheLovinator1/discord-embed](https://github.com/TheLovinator1/discord-embed) - Image/video uploader with workaround to force Discord to create embeds via twitter:image metadata
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -2361,6 +2370,10 @@
 ## jupyter-notebook 
 
 - [tomMoulard/make-my-server](https://github.com/tomMoulard/make-my-server) - Docker Compose with Traefik and lots of services
+
+## kali-linux 
+
+- [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
 
 ## kotlin 
 
