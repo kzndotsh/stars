@@ -4337,7 +4337,7 @@
 - [nemchik/after-install](https://github.com/nemchik/after-install) - Scripts to automate common tasks after a fresh OS install
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
 - [l3uddz/rtorrent_orphan_cleanup](https://github.com/l3uddz/rtorrent_orphan_cleanup) - Find files in a local download folder that are no longer associated with a torrent in your ruTorrent client
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [TRaSH-/reverse-proxy-confs](https://github.com/TRaSH-/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
 - [TRaSH-/DockSTARTer](https://github.com/TRaSH-/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
 - [TRaSH-/docker-compose-override](https://github.com/TRaSH-/docker-compose-override) - Collection of override files for DockSTARTer
