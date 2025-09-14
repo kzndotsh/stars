@@ -256,6 +256,7 @@
 
 ## Go 
 
+- [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -448,6 +449,7 @@
 
 ## JavaScript 
 
+- [docker-compose-linter/dclint-github-action](https://github.com/docker-compose-linter/dclint-github-action) - GitHub Action for DCLint. Supports GitHub Annotations and integration with Reviewdog.
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [docker/scout-action](https://github.com/docker/scout-action) - Docker Scout GitHub Action
@@ -930,7 +932,6 @@
 - [devton/awesome-postgresql](https://github.com/devton/awesome-postgresql) - A curated list of awesome PostgreSQL tools, scripts, slides, and short examples. inspired by the other awesome lists
 - [pg-tr/awesome-postgres](https://github.com/pg-tr/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, forked from dhamaniasad/awesome-postgres
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon
 - [HaoooWang/llm-knowledge-cutoff-dates](https://github.com/HaoooWang/llm-knowledge-cutoff-dates) - This repository contains a summary of knowledge cut-off dates for various large language models (LLMs), such as GPT, Claude, Gemini, Llama, and more.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [Fr-e-d/AI-Governor-Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - The Keystone Framework for AI-Driven Code ! Turn any AI coding assistant into a disciplined, project-aware engineering partner that respects your architecture and coding standards
@@ -1017,7 +1018,6 @@
 - [kzndotsh/stars](https://github.com/kzndotsh/stars) - My endless obsession for finding new shit.
 - [allthingslinux/code-of-conduct](https://github.com/allthingslinux/code-of-conduct) - Code of Conduct for All Things Linux
 - [jhonyrdesouza/cmazxcncn00000dl773xq978n](https://github.com/jhonyrdesouza/cmazxcncn00000dl773xq978n) - WIP.
-- [kzndotsh/kzndotsh](https://github.com/kzndotsh/kzndotsh) - Welcome to my GitHub profile
 - [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide) - The basic new coder friendly "idiot's guide", Created by Hindsight#2020 and maintained by the community.
 - [HTTP-Requests/block-markdown-automod-discord](https://github.com/HTTP-Requests/block-markdown-automod-discord) - Blocks markdown with regex, helpful for automod
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -2001,6 +2001,7 @@
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
+- [kzndotsh/kzndotsh](https://github.com/kzndotsh/kzndotsh) - Welcome to my GitHub profile
 - [z-shell/zsh-eza](https://github.com/z-shell/zsh-eza) - ⚙️ Zsh plugin to replace command gnu/ls with eza-community/eza
 - [renovate-bot/z-shell-_-zsh-eza](https://github.com/renovate-bot/z-shell-_-zsh-eza) - ⚙️ Zsh plugin to replace command gnu/ls with ogham/exa
 - [getantidote/zdotdir](https://github.com/getantidote/zdotdir) - Some examples of how you might use antidote in your Zsh config
@@ -2331,6 +2332,7 @@
 
 ## TypeScript 
 
+- [zavoloklom/docker-compose-linter](https://github.com/zavoloklom/docker-compose-linter) - A command-line tool for validating and enforcing best practices in Docker Compose files.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [satackey/action-docker-layer-caching](https://github.com/satackey/action-docker-layer-caching) - [CAUTION] This repository is not actively maintained. / Enable Docker layer caching in your GitHub Actions workflow.
@@ -2338,6 +2340,7 @@
 - [the0807/UV-Toolkit](https://github.com/the0807/UV-Toolkit) - 🔧 UV Toolkit is a Visual Studio Code extension that enhances your experience when working with uv, a Python package manager.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
+- [jasonkneen/kiro](https://github.com/jasonkneen/kiro) - Complete System Prompts for Kiro IDE by Amazon
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find and build open-source alternatives
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
 - [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
