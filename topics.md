@@ -1182,6 +1182,7 @@
 
 ## devops 
 
+- [zavoloklom/docker-compose-linter](https://github.com/zavoloklom/docker-compose-linter) - A command-line tool for validating and enforcing best practices in Docker Compose files.
 - [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) - GitHub Action that will run TFlint on Terraform files.
 - [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
@@ -1362,6 +1363,7 @@
 
 ## docker 
 
+- [zavoloklom/docker-compose-linter](https://github.com/zavoloklom/docker-compose-linter) - A command-line tool for validating and enforcing best practices in Docker Compose files.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -3155,6 +3157,8 @@
 
 ## others 
 
+- [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
+- [docker-compose-linter/dclint-github-action](https://github.com/docker-compose-linter/dclint-github-action) - GitHub Action for DCLint. Supports GitHub Annotations and integration with Reviewdog.
 - [reviewdog/action-suggester](https://github.com/reviewdog/action-suggester) - :dog: Suggests any code changes based on diff through GitHub Multi-line code suggestions by using reviewdog
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository's commit history.
