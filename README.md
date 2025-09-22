@@ -157,6 +157,7 @@
 
 ## CSS 
 
+- [asiffer/mkdocs-shadcn](https://github.com/asiffer/mkdocs-shadcn) - Documentation that also shines
 - [heroku/12factor](https://github.com/heroku/12factor) - 
 - [ShiroKazane/Tokyo-Night](https://github.com/ShiroKazane/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 - [upload-wtf/helist-src](https://github.com/upload-wtf/helist-src) - Image uploader for sharex like upload.systems or e-z.host in php
@@ -1711,7 +1712,7 @@
 - [zachstultz/anime-lang-track-corrector](https://github.com/zachstultz/anime-lang-track-corrector) - Corrects undetermined and not applicable subtitle flags within mkv files for anime.
 - [ravalosv/Plex-Meta-Manager-Scripts](https://github.com/ravalosv/Plex-Meta-Manager-Scripts) - 
 - [silasboon/plex-rename](https://github.com/silasboon/plex-rename) - This script will automatically rename downloaded files as the correct {Name SXXEXX} format
-- [MilkyIQ/plex-file-organizer](https://github.com/MilkyIQ/plex-file-organizer) - A simple script to pretty up plex servers
+- [tbedal/plex-file-organizer](https://github.com/tbedal/plex-file-organizer) - A simple script to pretty up plex servers
 - [danwanderson/imdb](https://github.com/danwanderson/imdb) - scripts to query IMDB's database and return information on ratings, etc.
 - [groggu/audiobook-filer](https://github.com/groggu/audiobook-filer) - This script takes a CSV formatted output from OpenAudible and uses that data to create a proper directory structure for your audiobooks.
 - [mlsmithjr/plex-export-to-elasticsearch](https://github.com/mlsmithjr/plex-export-to-elasticsearch) - Script/container to load media information from Plex database into Elasticsearch
