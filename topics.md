@@ -37,6 +37,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -246,6 +247,7 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -255,7 +257,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [IsRengel/InstallCursorEditorLinux](https://github.com/IsRengel/InstallCursorEditorLinux) - 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
 - [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) - This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding p
@@ -799,7 +801,7 @@
 - [greys-bots/form-fox](https://github.com/greys-bots/form-fox) - A form and application bot for Discord
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers
-- [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
+- [julianYaman/discord-bot-dashboard](https://github.com/julianYaman/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [The24thDS/form2role-bot](https://github.com/The24thDS/form2role-bot) - Discord bot that automatically assigns roles to users found in a Google Sheet
 - [Zwivee/AttendanceBot](https://github.com/Zwivee/AttendanceBot) - Discord bot that will track reactions on messages and update Google Sheets spreadsheet with corresponding information.
 
@@ -865,6 +867,7 @@
 
 ## cli 
 
+- [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
@@ -896,7 +899,7 @@
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -924,6 +927,17 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+
+## cloud 
+
+- [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
+- [mikeroyal/Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide) - Terraform Guide
+- [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms
+- [dddominikk/airtable-script-extender](https://github.com/dddominikk/airtable-script-extender) - JavaScript is amazing. Managing project dependencies less so. This repo utilizes the Airtable Scripting app to deliver more robust prototyping capabilities despite the block's sanitized, DOM- and HTML
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
+- [madslundt/cloud-media-scripts](https://github.com/madslundt/cloud-media-scripts) - Upload and stream media from the cloud with or without encryption. Cache all new and recently streamed media locally to access quickly and reduce API calls
 
 ## cms 
 
@@ -1073,6 +1087,7 @@
 
 ## data-structures 
 
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [Gapur/js-algorithms](https://github.com/Gapur/js-algorithms) - 🤓 Algorithms and data structures in JavaScript
 - [karan1205/javascript-things](https://github.com/karan1205/javascript-things) - JavaScript Data Structures and Algorithms, built-in objects, design-patterns and more
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
@@ -1344,7 +1359,7 @@
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [Notavone/discord-panel](https://github.com/Notavone/discord-panel) - 📊 User friendly dashboard/tool for discord bot developers to manage servers
-- [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
+- [julianYaman/discord-bot-dashboard](https://github.com/julianYaman/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
 - [The24thDS/form2role-bot](https://github.com/The24thDS/form2role-bot) - Discord bot that automatically assigns roles to users found in a Google Sheet
 - [DionGR/Discord-Role-Manager](https://github.com/DionGR/Discord-Role-Manager) - A Discord BOT that uses Google Sheets for storing the roles and permissions of a discord server.
@@ -1556,7 +1571,7 @@
 - [syndrizzle/hotfiles](https://github.com/syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
 - [stronk-dev/Tokyo-Night-Linux](https://github.com/stronk-dev/Tokyo-Night-Linux) - Dark theme for i3+polybar, sway+waybar, rofi, GTK, spotify and Discord based on the Tokyo Night vscode theme
@@ -1624,6 +1639,7 @@
 
 ## emacs 
 
+- [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
 - [mabdh/tokyonight-spacemacs](https://github.com/mabdh/tokyonight-spacemacs) - 🌇 Tokyonight Color Scheme for Spacemacs
 - [rawleyfowler/tokyo-theme.el](https://github.com/rawleyfowler/tokyo-theme.el) - Tokyo Night theme for GNU Emacs
@@ -1795,10 +1811,12 @@
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [crguezl/gh-submodule-add](https://github.com/crguezl/gh-submodule-add) - gh cli extension to create submodules inside a repo
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## git 
 
+- [chaaz/versio](https://github.com/chaaz/versio) - A version number manager
+- [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [opensource-nepal/commitlint](https://github.com/opensource-nepal/commitlint) - Lint Conventional Commit message on GitHub Actions and pre-commit.
 - [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
@@ -1847,7 +1865,7 @@
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kzndotsh/stars](https://github.com/kzndotsh/stars) - My endless obsession for finding new shit.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - A neovim plugin template for github repos
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
@@ -1887,7 +1905,7 @@
 - [shared-recruiting-co/shared-recruiting-co](https://github.com/shared-recruiting-co/shared-recruiting-co) - SRC (Shared Recruiting Co.) is an open-source, candidate-centric recruiting platform
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [woojiahao/gmail-filter-organiser](https://github.com/woojiahao/gmail-filter-organiser) - CLI tool to organise your filters in Gmail
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1922,7 +1940,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [woojiahao/gmail-filter-organiser](https://github.com/woojiahao/gmail-filter-organiser) - CLI tool to organise your filters in Gmail
 - [chelnak/gh-changelog](https://github.com/chelnak/gh-changelog) - A gh cli extension that will make your changelogs ✨
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [peltho/tufw](https://github.com/peltho/tufw) - Terminal UI for ufw
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -2007,6 +2025,7 @@
 
 ## hacktoberfest 
 
+- [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 - [solanum-ircd/solanum](https://github.com/solanum-ircd/solanum) - An IRCd for unified networks
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -2034,6 +2053,7 @@
 - [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
 - [Voxel-Fox-Ltd/VoxelBotUtils](https://github.com/Voxel-Fox-Ltd/VoxelBotUtils) - An extension of the Discord.py library to improve the bot development process.
 - [Voxel-Fox-Ltd/Novus](https://github.com/Voxel-Fox-Ltd/Novus) - An asyncio Python wrapper around the Discord API, forked off of Rapptz's Discord.py.
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
@@ -2099,7 +2119,6 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [configu/configu](https://github.com/configu/configu) - Open-source ConfigOps infrastructure ⚙️
 - [lostdesign/webgems](https://github.com/lostdesign/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [4sh/datamaintain](https://github.com/4sh/datamaintain) - One tool to maintain all your database schemas!
@@ -2122,7 +2141,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
-- [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
+- [julianYaman/discord-bot-dashboard](https://github.com/julianYaman/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [hugonun/discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Discord bot that stores messages to Google Sheet.
 - [Haardispro/Arch_Rice](https://github.com/Haardispro/Arch_Rice) - Dotfiles for my Arch Linux config
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -2175,6 +2194,7 @@
 
 ## html 
 
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
@@ -2243,6 +2263,7 @@
 
 ## javascript 
 
+- [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -2520,7 +2541,7 @@
 - [Ghost1nTh3SSH/dotfiles](https://github.com/Ghost1nTh3SSH/dotfiles) - bspwm + polybar rices for Debian based systems with a theme selector to change on the fly.
 - [r0naldoom/dotfiles](https://github.com/r0naldoom/dotfiles) - XFCE - Everything Tokyo Night 🖥
 - [syndrizzle/hotfiles](https://github.com/syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -2575,6 +2596,7 @@
 
 ## llm 
 
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [Yuan-ManX/context-engineering](https://github.com/Yuan-ManX/context-engineering) - Context Engineering - The art of providing all the context for the task to be plausibly solvable by the LLM.
 - [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
 - [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
@@ -2832,7 +2854,7 @@
 - [someoneinjd/dotfiles](https://github.com/someoneinjd/dotfiles) - My Arch dotfiles
 - [shrikecode/kyotonight.vim](https://github.com/shrikecode/kyotonight.vim) - Vim / NeoVim theme that is a marriage of Tokyo Night and Nord Theme. And they went on honeymoon to Kyoto I guess. Dark, elegant, and easy on the eyes.
 - [r0naldoom/dotfiles](https://github.com/r0naldoom/dotfiles) - XFCE - Everything Tokyo Night 🖥
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
@@ -3074,7 +3096,7 @@
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [phillipj/node-plex-api](https://github.com/phillipj/node-plex-api) - Node.js package used to query the Plex Media Server HTTP API
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [shitcorp/discord-bot-dashboard](https://github.com/shitcorp/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
+- [julianYaman/discord-bot-dashboard](https://github.com/julianYaman/discord-bot-dashboard) - The npm package for using the Discord Bot Dashboard inside your own source code
 - [AnIdiotsGuide/guidebot](https://github.com/AnIdiotsGuide/guidebot) - A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community
 - [The24thDS/form2role-bot](https://github.com/The24thDS/form2role-bot) - Discord bot that automatically assigns roles to users found in a Google Sheet
 - [Plex-2-X/Plex2Discord](https://github.com/Plex-2-X/Plex2Discord) - A simple script that allows you to send Plex's webhooks events to your Discord server via a bot (I.E. New Content, Started Watching, Finished watching.)
@@ -3086,6 +3108,7 @@
 
 ## npm 
 
+- [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
 - [Yanik39/IRCNet](https://github.com/Yanik39/IRCNet) - Full featured IRCServer with UnrealIRCd, Atheme-Services and theLounge.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
@@ -3110,7 +3133,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [opsmill/infrahub](https://github.com/opsmill/infrahub) - Infrahub offers a central hub to manage the data, templates and playbooks that powers your infrastructure by combining the version control and branch management capabilities of Git with the flexible d
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -3176,6 +3199,9 @@
 
 ## others 
 
+- [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
+- [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) - [READ-ONLY] Tools for building and splitting monolithic repository from existing packages (with their history unchanged). This package is used for splitting our monorepo and we share it with our commu
+- [SG-Moderation/SmartGuard3](https://github.com/SG-Moderation/SmartGuard3) - An IRC bot that aids moderation by reading messages and narrowing them down into suspicious messages that may contain potential swears or chat abuse.
 - [asiffer/mkdocs-shadcn](https://github.com/asiffer/mkdocs-shadcn) - Documentation that also shines
 - [pytest-dev/pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - a pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures
 - [getsentry/pytest-sentry](https://github.com/getsentry/pytest-sentry) - Track flaky tests in Sentry
@@ -3234,7 +3260,6 @@
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [GloriousEggroll/flatpost](https://github.com/GloriousEggroll/flatpost) - Desktop Environment agnostic flatpak-only shop gui.
-- [HeySkidee/discord-mcp-server](https://github.com/HeySkidee/discord-mcp-server) - 
 - [Airizom/context-craft](https://github.com/Airizom/context-craft) - 
 - [xsf/xeps](https://github.com/xsf/xeps) - Hosts the markup for all XMPP Protocol Extensions.
 - [modernxmpp/modernxmpp](https://github.com/modernxmpp/modernxmpp) - Modern XMPP usage guide for client and library developers
@@ -3414,7 +3439,6 @@
 - [Airtable/apps-base-schema](https://github.com/Airtable/apps-base-schema) - Visualize all your base’s tables, fields, and relationships.
 - [cape-ookb/airtable-schema](https://github.com/cape-ookb/airtable-schema) - Download Airtable schema to JSON file.
 - [peterkaminski/airtable-schema-to-base](https://github.com/peterkaminski/airtable-schema-to-base) - Read airtable-schema JSON and write it to pre-configured Airtable base.
-- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [Bluenix2/discord-typings](https://github.com/Bluenix2/discord-typings) - Python typings of all payloads that Discord sends as TypedDicts.
 - [Soheab/discord-ext-slash_parser](https://github.com/Soheab/discord-ext-slash_parser) - 
 - [Soheab/discord.py-listen-overloads](https://github.com/Soheab/discord.py-listen-overloads) - 
@@ -3619,7 +3643,6 @@
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [lubieowoce/tangle](https://github.com/lubieowoce/tangle) - A very messy React Server Components implementation.
 - [Gust4Oliveira/Last.fm-Discord-Rich-Presence](https://github.com/Gust4Oliveira/Last.fm-Discord-Rich-Presence) - Script that catch your listening status from Last.fm and shares as your discord game activity (Discord Rich Presence)
-- [bobsoppe/zsh-ssh-agent](https://github.com/bobsoppe/zsh-ssh-agent) - Ssh-agent management for zsh
 - [Mulan-Szechuan-Sauce/bw-agent](https://github.com/Mulan-Szechuan-Sauce/bw-agent) - An SSH Agent client which pulls ssh keys from Bitwarden secure notes.
 - [joaojacome/bitwarden-ssh-agent](https://github.com/joaojacome/bitwarden-ssh-agent) - Small python script to load bitwarden-store ssh keys into ssh-agent
 - [fedeizzo/nix-dotfiles](https://github.com/fedeizzo/nix-dotfiles) - 
@@ -3757,7 +3780,6 @@
 - [rsantosdev/dotfiles](https://github.com/rsantosdev/dotfiles) - My dotfiles / OSX setup.
 - [Falkor/dotfiles](https://github.com/Falkor/dotfiles) - Personal configuration files for bash, zsh, git, vim, screen  etc.
 - [rylandg/myos](https://github.com/rylandg/myos) - Develop and share terminal environments
-- [zsh-delorean/DeLorean](https://github.com/zsh-delorean/DeLorean) - Send your terminal back to the future!
 - [mollifier/config](https://github.com/mollifier/config) - config files
 - [koic/dotfiles](https://github.com/koic/dotfiles) - :open_file_folder: koic's dotfiles
 - [ckc-org/dotfiles](https://github.com/ckc-org/dotfiles) - 
@@ -3768,11 +3790,6 @@
 - [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 - [bkerley/zshkit](https://github.com/bkerley/zshkit) - My way-overdone zsh config scripts
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
-- [belak/zsh-utils](https://github.com/belak/zsh-utils) - A minimal, opinionated set of ZSH plugins designed to be small, simple, and focused.
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
-- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
-- [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
 - [gustavohellwig/gh-zsh](https://github.com/gustavohellwig/gh-zsh) - 
 - [dotphiles/dotzsh](https://github.com/dotphiles/dotzsh) - A community driven framework for zsh
 - [miohtama/ztanesh](https://github.com/miohtama/ztanesh) - Improve your UNIX command line experience and productivity with ztanesh project: the tools will make your shell more powerful and easier to use.
@@ -3784,7 +3801,6 @@
 - [chrissicool/zsh-256color](https://github.com/chrissicool/zsh-256color) - ZSH plugin to enhance the terminal environment with 256 colors
 - [aspiers/shell-env](https://github.com/aspiers/shell-env) - Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities
 - [iliran11/myzsh](https://github.com/iliran11/myzsh) - 
-- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) - Theme applications with your favourite base16 colorschemes in Nix
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
@@ -3860,7 +3876,7 @@
 - [axsuul/plex-media-server-exporter](https://github.com/axsuul/plex-media-server-exporter) - A better Prometheus exporter for Plex Media Server
 - [Dalvii/plex-library-export](https://github.com/Dalvii/plex-library-export) - Export Plex libraries at image format for better preview of what you have in your Plex
 - [engelde/plex-poster-exporter](https://github.com/engelde/plex-poster-exporter) - Export posters, backgrounds, banners, and theme songs from Plex.
-- [tobyscott25/vite-react-chakra-zustand-starter](https://github.com/tobyscott25/vite-react-chakra-zustand-starter) - A TypeScript React boilerplate with Chakra UI, Zustand, ESLint & Prettier
+- [tbysctt/vite-react-chakra-zustand-starter](https://github.com/tbysctt/vite-react-chakra-zustand-starter) - A TypeScript React boilerplate with Chakra UI, Zustand, ESLint & Prettier
 - [meerbahadin/crystal](https://github.com/meerbahadin/crystal) - Boilerplate written in Next.js, Chakra UI, Jotai, and Typescript 🚀
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
 - [kausko/Discord-Google-Drive-Bot](https://github.com/kausko/Discord-Google-Drive-Bot) - A Discord bot that pulls media from your Google Drive
@@ -4365,7 +4381,6 @@
 - [philpw99/Stash_Helper](https://github.com/philpw99/Stash_Helper) - This is a little helper program for the excellent StashApp in Windows.
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [madslundt/docker-cloud-media-scripts](https://github.com/madslundt/docker-cloud-media-scripts) - Upload and stream media from the cloud with or without encryption. Cache all new and recently streamed media locally to access quickly and reduce API calls
-- [madslundt/cloud-media-scripts](https://github.com/madslundt/cloud-media-scripts) - Upload and stream media from the cloud with or without encryption. Cache all new and recently streamed media locally to access quickly and reduce API calls
 - [nemchik/after-install](https://github.com/nemchik/after-install) - Scripts to automate common tasks after a fresh OS install
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
 - [l3uddz/rtorrent_orphan_cleanup](https://github.com/l3uddz/rtorrent_orphan_cleanup) - Find files in a local download folder that are no longer associated with a torrent in your ruTorrent client
@@ -5444,7 +5459,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [lbonn/i3-quickterm](https://github.com/lbonn/i3-quickterm) - A small drop-down terminal for i3 and sway
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
 - [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -5516,6 +5531,7 @@
 
 ## typescript 
 
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
@@ -5672,6 +5688,7 @@
 
 ## ui 
 
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -5862,6 +5879,61 @@
 ## zig 
 
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
+
+## zsh 
+
+- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [getantidote/zdotdir](https://github.com/getantidote/zdotdir) - Some examples of how you might use antidote in your Zsh config
+- [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
+- [nosvagor/dotfiles](https://github.com/nosvagor/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
+- [maximbaz/dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
+- [bobsoppe/zsh-ssh-agent](https://github.com/bobsoppe/zsh-ssh-agent) - Ssh-agent management for zsh
+- [fluix-dev/dotfiles](https://github.com/fluix-dev/dotfiles) - My dotfiles and colorschemes for sway and a variety of other programs.
+- [bastienwirtz/dotfiles](https://github.com/bastienwirtz/dotfiles) - Linux environment configuration files.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
+- [zsh-delorean/DeLorean](https://github.com/zsh-delorean/DeLorean) - Send your terminal back to the future!
+- [alexbarton/ax-zsh](https://github.com/alexbarton/ax-zsh) - Modular configuration system for the Z shell (ZSH)
+- [htr3n/zsh-config](https://github.com/htr3n/zsh-config) - Faster and enjoyable ZSH (maybe) !!!
+- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
+- [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+- [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
+- [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
+- [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
+- [belak/zsh-utils](https://github.com/belak/zsh-utils) - A minimal, opinionated set of ZSH plugins designed to be small, simple, and focused.
+- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
+- [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze
+- [adamnorwood/adamnorwood-zsh](https://github.com/adamnorwood/adamnorwood-zsh) - Adam Norwood's Z shell (zsh) configuration with custom Oh My Posh theme.
+- [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
+- [zulu-zsh/zulu](https://github.com/zulu-zsh/zulu) - Total environment manager for ZSH
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+- [unixorn/jpb.zshplugin](https://github.com/unixorn/jpb.zshplugin) - ZSH plugin to load some of my tools.
+- [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
+- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [battlesquid/dotfiles](https://github.com/battlesquid/dotfiles) - My personal dotfiles
+- [FedericoAntoniazzi/dotfiles](https://github.com/FedericoAntoniazzi/dotfiles) - Personal dotfiles I use for Sway on my ArchLinux laptop and MacOS
+- [kzndotsh/dotfiles](https://github.com/kzndotsh/dotfiles) - There's no place like ~
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
+- [r0naldoom/dotfiles](https://github.com/r0naldoom/dotfiles) - XFCE - Everything Tokyo Night 🖥
+- [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [Keyitdev/dotfiles](https://github.com/Keyitdev/dotfiles) - My personal build of dotfiles using i3.
+- [dvragulin/dotfiles-public](https://github.com/dvragulin/dotfiles-public) - Personal Ansible roles for installing i3 on Arch Linux and applying my dotfiles.
+- [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
+- [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
+- [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
+- [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
+- [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
+- [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles for unix, managed by GNU stow.
+- [CSaratakij/i3-rice-rin-shelter](https://github.com/CSaratakij/i3-rice-rin-shelter) - My i3wm rice with theme "Rin : shelter"
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [rsnk96/Ubuntu-Setup-Scripts](https://github.com/rsnk96/Ubuntu-Setup-Scripts) - Scripts to help you set up your Ubuntu quickly, especially if you're in any subfield of Data Science or AI!
 
 
 ## License
