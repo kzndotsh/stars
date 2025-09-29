@@ -247,7 +247,6 @@
 
 - [koic/dotfiles](https://github.com/koic/dotfiles) - :open_file_folder: koic's dotfiles
 - [rawleyfowler/tokyo-theme.el](https://github.com/rawleyfowler/tokyo-theme.el) - Tokyo Night theme for GNU Emacs
-- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 
@@ -679,7 +678,7 @@
 - [angular/protractor-accessibility-plugin](https://github.com/angular/protractor-accessibility-plugin) - Runs a set of accessibility audits
 - [medialize/ally.js](https://github.com/medialize/ally.js) - JavaScript library to help modern web applications with accessibility concerns
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [mislav/rfc](https://github.com/mislav/rfc) - Pretty RFC indexes and reformats RFC documents for easier discovery and viewing.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -928,6 +927,7 @@
 - [sheenobu/nix-lfs](https://github.com/sheenobu/nix-lfs) - A workthrough of LinuxFromScratch stable using nix.
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
+- [jwiegley/nix-config](https://github.com/jwiegley/nix-config) - My local Nix configuration
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 
 ## Nunjucks 
@@ -1280,6 +1280,7 @@
 
 ## Python 
 
+- [onerandomusername/monty-python](https://github.com/onerandomusername/monty-python) - A Discord bot for helping with development of Python projects.
 - [SG-Moderation/SmartGuard3](https://github.com/SG-Moderation/SmartGuard3) - An IRC bot that aids moderation by reading messages and narrowing them down into suspicious messages that may contain potential swears or chat abuse.
 - [pytest-dev/pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - a pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
@@ -1394,7 +1395,7 @@
 - [gavindsouza/toolbox](https://github.com/gavindsouza/toolbox) - Automated Database Optimization for your Frappe sites
 - [kmanwar89/nginx_proxy_manager_automation](https://github.com/kmanwar89/nginx_proxy_manager_automation) - Automation for NPM reverse proxy manager
 - [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
-- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A Python Discord bot with reporting features and detailed audit logs.
+- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A verified Python Discord bot with moderation features such as reporting and detailed audit logs.
 - [MAyman007/ShinobiBot](https://github.com/MAyman007/ShinobiBot) - 【Multipurpose Discord Bot】Tickets｜Logging｜Anti-Spam｜Giveaways｜Suggestions｜Moderation｜Games｜AI｜100+ commands
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
 - [dazziedez/discordpy-avatar-logger](https://github.com/dazziedez/discordpy-avatar-logger) - A discord.py bot that logs avatar changes. Features a web ui to view avatar history
@@ -2360,6 +2361,7 @@
 
 ## TypeScript 
 
+- [microsoft/lage](https://github.com/microsoft/lage) - Task runner in JS monorepos
 - [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
