@@ -461,6 +461,7 @@
 
 ## JavaScript 
 
+- [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for JavaScript monorepos
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
 - [Thinkmill/changelogs-xyz](https://github.com/Thinkmill/changelogs-xyz) - A place to see changelogs for any npm package
@@ -554,7 +555,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [BestGamersH/Multipurpose-Discord-Bot](https://github.com/BestGamersH/Multipurpose-Discord-Bot) - The bot that has everything! - Leveling • Music • Memes • Moderation • nsfw • Logging • Tickets • Reaction Roles • Fun • Anime • Applications • Much More
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - A professional and completely free distube based music bot for your Discord server, compatible with the highly modernized discord.js v14.16 version.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.22 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
 - [antoinemcx/Structure-Discord-Bot](https://github.com/antoinemcx/Structure-Discord-Bot) - 🚀 Command, slash command & event handler - Discord Bot Template (v14)
 - [kzndotsh/humanrightsfirst](https://github.com/kzndotsh/humanrightsfirst) - 
 - [zyrouge/xtalbot](https://github.com/zyrouge/xtalbot) - Xtal Discord Bot Source Code | 200+ Commands | DiscordJS v11.5
@@ -765,10 +766,8 @@
 - [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js) - Replace Markdown renderer on Old Reddit with MarkedJS
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
-- [aidenvalentine/clipnuke-chrome-extension](https://github.com/aidenvalentine/clipnuke-chrome-extension) - Chrome Extension for Clips4Sale, ManyVids, OnlyFans, Xvideos, and Pornhub models and producers. Autofill the "new video" forms for these sites right from the browser. Takes the pain away from being an
 - [nielsen-oss/yap-csv](https://github.com/nielsen-oss/yap-csv) - Node.js package that manages CSV to JSON conversion supporting complex field mapping
 - [JoeSz/WordPress-Plugin-Boilerplate-Tutorial](https://github.com/JoeSz/WordPress-Plugin-Boilerplate-Tutorial) - Tutorials and Examples for WordPress Plugin Boilerplate, a foundation for WordPress Plugin Development.
-- [aidenvalentine/adult-content-api](https://github.com/aidenvalentine/adult-content-api) - The Adult Content API is a platform-agnostic API for interacting with 3rd-party clip stores, tube sites, and other CMSs. It’s not meant to be a full-blown application/platform. There is no frontend by
 - [peolic/userscripts](https://github.com/peolic/userscripts) - 
 - [7dJx1qP/stash-userscripts](https://github.com/7dJx1qP/stash-userscripts) - Stash Userscripts
 - [repslet/nightwalker](https://github.com/repslet/nightwalker) - A dark but not black qBittorrent WebUI
@@ -1268,7 +1267,7 @@
 - [chall32/Plex-Parse](https://github.com/chall32/Plex-Parse) - Export Plex Libraries to .csv
 - [spotpuff/rename_subtitles](https://github.com/spotpuff/rename_subtitles) - Scripts to rename subtitles for Plex
 - [angrycuban13/Just-A-Bunch-Of-Starr-Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - Just a bunch of scripts for Starr apps
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
 - [fscorrupt/docker-tautulli2discord](https://github.com/fscorrupt/docker-tautulli2discord) - Send Tautulli Stats via Webhook to Discord Channel
 - [fscorrupt/docker-plexstatus2discord](https://github.com/fscorrupt/docker-plexstatus2discord) - Send the Status from status.plex.tv to Discord
@@ -1280,6 +1279,8 @@
 
 ## Python 
 
+- [Suryachoudhuri003/Video_Curation_AI](https://github.com/Suryachoudhuri003/Video_Curation_AI) - This project tackles the challenge of organizing and categorizing unstructured video data using a generative AI model built with TensorFlow/Keras.  A user-friendly web interface allows users to explor
+- [camgrigo/smart-media-organizer](https://github.com/camgrigo/smart-media-organizer) - Lightweight AI-powered media manager for photos and videos. Organizes files with auto-tagging, metadata, and search via FastAPI + React
 - [onerandomusername/monty-python](https://github.com/onerandomusername/monty-python) - A Discord bot for helping with development of Python projects.
 - [SG-Moderation/SmartGuard3](https://github.com/SG-Moderation/SmartGuard3) - An IRC bot that aids moderation by reading messages and narrowing them down into suspicious messages that may contain potential swears or chat abuse.
 - [pytest-dev/pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) - a pytest plugin that re-runs failed tests up to -n times to eliminate flakey failures
@@ -1319,6 +1320,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [Weid336/Context-Engineering-Lab](https://github.com/Weid336/Context-Engineering-Lab) - A structured exploration of Context Engineering: designing, evaluating, and reasoning about modular prompts, semantic inputs, and retrieval-aligned architectures for LLM systems.
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [GloriousEggroll/flatpost](https://github.com/GloriousEggroll/flatpost) - Desktop Environment agnostic flatpak-only shop gui.
 - [allthingslinux/gitcord](https://github.com/allthingslinux/gitcord) - A Discord bot for Managing your discord's channel and role structure and roles via Git - GitOps
@@ -1337,7 +1339,7 @@
 - [opensource-nepal/commitlint](https://github.com/opensource-nepal/commitlint) - Lint Conventional Commit message on GitHub Actions and pre-commit.
 - [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests.
 - [bregman-arie/infraform](https://github.com/bregman-arie/infraform) - Creating infrastructure and running applications using different platforms
-- [opsmill/infrahub](https://github.com/opsmill/infrahub) - Infrahub offers a central hub to manage the data, templates and playbooks that powers your infrastructure by combining the version control and branch management capabilities of Git with the flexible d
+- [opsmill/infrahub](https://github.com/opsmill/infrahub) - Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 - [compiler-explorer/infra](https://github.com/compiler-explorer/infra) - Infrastructure to set up the public Compiler Explorer instances and compilers
 - [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
@@ -1354,7 +1356,7 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
 - [earwig/mwparserfromhell](https://github.com/earwig/mwparserfromhell) - A Python parser for MediaWiki wikicode
 - [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
@@ -1493,7 +1495,6 @@
 - [Soheab/discord-ext-embeds](https://github.com/Soheab/discord-ext-embeds) - 
 - [Soheab/modal-paginator](https://github.com/Soheab/modal-paginator) - An extension for discord.py that allows you to paginate a Modal using buttons.
 - [Soheab/discord-py-paginators](https://github.com/Soheab/discord-py-paginators) - https://discord-py-paginators.readthedocs.io/en/latest/
-- [pseudify/LavenderIRC](https://github.com/pseudify/LavenderIRC) - a minimal IRC client written in python. Free and Open Source
 - [jayisthelord/Z3R0](https://github.com/jayisthelord/Z3R0) - A multi-purpose open-source discord bot
 - [DuckBot-Discord/duck-hideout-manager-bot](https://github.com/DuckBot-Discord/duck-hideout-manager-bot) - 
 - [ClubNix/Josix](https://github.com/ClubNix/Josix) - A discord bot written in Python for general purpose, fun, stats and more
@@ -1890,6 +1891,7 @@
 
 ## Ruby 
 
+- [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [ankane/dexter](https://github.com/ankane/dexter) - The automatic indexer for Postgres
 - [tomMoulard/make-my-server](https://github.com/tomMoulard/make-my-server) - Docker Compose with Traefik and lots of services
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
@@ -2379,7 +2381,6 @@
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find and build open-source alternatives
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
 - [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [Airizom/context-craft](https://github.com/Airizom/context-craft) - 
