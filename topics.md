@@ -1002,6 +1002,7 @@
 
 ## config 
 
+- [jordantshaw/pydantic-config](https://github.com/jordantshaw/pydantic-config) - Support for Pydantic settings configuration file management
 - [lincolnloop/goodconf](https://github.com/lincolnloop/goodconf) - Transparently load variables from environment or JSON/YAML/TOML file.
 - [prostomarkeloff/betterconf](https://github.com/prostomarkeloff/betterconf) - Minimalistic Python library for your configs.
 - [Izder456/dotfiles](https://github.com/Izder456/dotfiles) - My OpenBSD Dotfiles
@@ -1039,7 +1040,7 @@
 
 ## css 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [trolologuy/useful-tools](https://github.com/trolologuy/useful-tools) - A list of useful tools and programs for developers, DevOps and SysAdmins
@@ -1518,7 +1519,7 @@
 ## documentation 
 
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
@@ -2228,7 +2229,7 @@
 ## html 
 
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -2254,7 +2255,7 @@
 
 ## http 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [finlaysawyer/discord-uptime](https://github.com/finlaysawyer/discord-uptime) - Discord bot to monitor uptime of services using ping and http requests
 
@@ -2304,7 +2305,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Message and manage through your Discord bot, self-hosted.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
@@ -2488,7 +2489,7 @@
 
 ## learning 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -4456,6 +4457,7 @@
 
 ## parsing 
 
+- [romis2012/pydantic-collections](https://github.com/romis2012/pydantic-collections) - Collections of pydantic models
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [davidfstr/trycast](https://github.com/davidfstr/trycast) - trycast parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
 - [StegSchreck/RatS](https://github.com/StegSchreck/RatS) - Movie Ratings Synchronization with Python
@@ -4616,6 +4618,9 @@
 
 ## python 
 
+- [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export) - Export your Pydantic settings to documentation with ease!
+- [jordantshaw/pydantic-config](https://github.com/jordantshaw/pydantic-config) - Support for Pydantic settings configuration file management
+- [romis2012/pydantic-collections](https://github.com/romis2012/pydantic-collections) - Collections of pydantic models
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
@@ -4813,6 +4818,7 @@
 
 ## python3 
 
+- [jordantshaw/pydantic-config](https://github.com/jordantshaw/pydantic-config) - Support for Pydantic settings configuration file management
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [kmbhm1/supabase-pydantic](https://github.com/kmbhm1/supabase-pydantic) - Generate Pydantic models and other types from Supabase/Postgres/MySQL schemas automatically. Ideal for FastAPI, Supabase, and rapid prototyping.
 - [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) - A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)
@@ -5880,7 +5886,7 @@
 
 ## web-development 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
 - [mapache-salvaje/contract-killer](https://github.com/mapache-salvaje/contract-killer) - This is my US English rewrite of the Stuff & Nonsense killer contract for freelancers.
