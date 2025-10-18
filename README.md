@@ -884,7 +884,7 @@
 
 ## Markdown 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
@@ -1285,6 +1285,9 @@
 
 ## Python 
 
+- [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export) - Export your Pydantic settings to documentation with ease!
+- [jordantshaw/pydantic-config](https://github.com/jordantshaw/pydantic-config) - Support for Pydantic settings configuration file management
+- [romis2012/pydantic-collections](https://github.com/romis2012/pydantic-collections) - Collections of pydantic models
 - [asottile/dead](https://github.com/asottile/dead) - dead simple python dead code detection
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
