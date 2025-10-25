@@ -192,6 +192,7 @@
 - [BraydenTW/react-tailwind-portfolio](https://github.com/BraydenTW/react-tailwind-portfolio) - 👨‍🎨 An open-source portfolio template built with React and Tailwind.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
+- [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
 - [nathansmith/960-Grid-System](https://github.com/nathansmith/960-Grid-System) - The 960 Grid System is an effort to streamline web development workflow.
@@ -305,7 +306,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [llitllie/ergo-auth](https://github.com/llitllie/ergo-auth) - External JWT auth for Ergo chat
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 - [TimothyYe/skm](https://github.com/TimothyYe/skm) - A simple and powerful SSH keys manager
 - [tbal999/bb](https://github.com/tbal999/bb) - a pubnix bulletin board
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
@@ -457,7 +458,6 @@
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
-- [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 
 ## JavaScript 
@@ -1284,6 +1284,7 @@
 
 ## Python 
 
+- [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [djpugh/mkdocs_github_changelog](https://github.com/djpugh/mkdocs_github_changelog) - mkdocs extension to autogenerate changelog from github releases
 - [termynal/termynal.py](https://github.com/termynal/termynal.py) - Python markdown terminal. Built for mkdocs
 - [Kl0ven/mkdocs-material-adr](https://github.com/Kl0ven/mkdocs-material-adr) - ADR for MkDocs's Material Theme
@@ -1377,7 +1378,7 @@
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich) - pytest + rich integration (proof of concept)
 - [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -2019,7 +2020,7 @@
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
 - [IsRengel/InstallCursorEditorLinux](https://github.com/IsRengel/InstallCursorEditorLinux) - 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
-- [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) - GitHub Action that will run TFlint on Terraform files.
+- [devops-infra/action-tflint](https://github.com/devops-infra/action-tflint) - GitHub Action that will run TFlint on Terraform files
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [csmart/virt-infra-ansible](https://github.com/csmart/virt-infra-ansible) - An example Ansible playbook for my virt-infra Ansible role.
 - [ernesen/infra-ansible](https://github.com/ernesen/infra-ansible) - End-to-end automated environment with Vagrant, Ansible, Docker, Jenkins, and GitLab.
@@ -2446,7 +2447,7 @@
 - [AgoraIO-Extensions/agora-rtc-react](https://github.com/AgoraIO-Extensions/agora-rtc-react) - Agora RTC React SDK
 - [QuocAnh189/Discord_Clone](https://github.com/QuocAnh189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
 - [sysblok/focalboard](https://github.com/sysblok/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 15
+- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
 - [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
@@ -2682,7 +2683,7 @@
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 16 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [imperadorxs/nextjs-13-boilerplate](https://github.com/imperadorxs/nextjs-13-boilerplate) - Nextjs 13 Boilerplate with a new folder structure app
