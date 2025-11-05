@@ -256,6 +256,9 @@
 
 ## ai 
 
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude, Cursor💡 build-in AI assistant
+- [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
@@ -297,6 +300,7 @@
 
 ## ai-agents 
 
+- [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -494,6 +498,7 @@
 
 ## awesome 
 
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude, Cursor💡 build-in AI assistant
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
 - [skynet2982/awesome-alternative-front-ends](https://github.com/skynet2982/awesome-alternative-front-ends) - A curated list of Open Source alternative front-ends for popular websites.
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - awesome linux minimalism suggestions
@@ -1452,7 +1457,7 @@
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
@@ -2124,7 +2129,7 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
@@ -2362,7 +2367,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
@@ -2732,6 +2737,7 @@
 
 ## llm 
 
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude, Cursor💡 build-in AI assistant
 - [leonardocustodio/mkdocs-copy-to-llm](https://github.com/leonardocustodio/mkdocs-copy-to-llm) - A MkDocs plugin that adds a "Copy to LLM" button to your documentation, making it easy to copy code blocks and entire pages in formats optimized for Large Language Models (LLMs).
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
@@ -2808,6 +2814,7 @@
 
 ## macos 
 
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude, Cursor💡 build-in AI assistant
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
@@ -3030,6 +3037,7 @@
 
 ## nextjs 
 
+- [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) - A stunning, functional and responsive retractable sidebar for Next.js built on top of shadcn/ui.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -3340,6 +3348,7 @@
 
 ## openai 
 
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude, Cursor💡 build-in AI assistant
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
@@ -3378,6 +3387,9 @@
 
 ## others 
 
+- [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get) - 
+- [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000+ Themes for shadcn/ui.
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [omar-dulaimi/prisma-trpc-shield-generator](https://github.com/omar-dulaimi/prisma-trpc-shield-generator) - Prisma +2 generator to emit a tRPC shield from your Prisma schema
 - [omar-dulaimi/prisma-trpc-generator](https://github.com/omar-dulaimi/prisma-trpc-generator) - Prisma 2+ generator to emit fully implemented tRPC routers
 - [shubhamc183/open-source-alternatives](https://github.com/shubhamc183/open-source-alternatives) - A repo to list open-source alternatives to some of the most common paid software
@@ -4107,7 +4119,6 @@
 - [Dalvii/plex-library-export](https://github.com/Dalvii/plex-library-export) - Export Plex libraries at image format for better preview of what you have in your Plex
 - [engelde/plex-poster-exporter](https://github.com/engelde/plex-poster-exporter) - Export posters, backgrounds, banners, and theme songs from Plex.
 - [tbysctt/vite-react-chakra-zustand-starter](https://github.com/tbysctt/vite-react-chakra-zustand-starter) - A TypeScript React boilerplate with Chakra UI, Zustand, ESLint & Prettier
-- [meerbahadin/crystal](https://github.com/meerbahadin/crystal) - Boilerplate written in Next.js, Chakra UI, Jotai, and Typescript 🚀
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
 - [kausko/Discord-Google-Drive-Bot](https://github.com/kausko/Discord-Google-Drive-Bot) - A Discord bot that pulls media from your Google Drive
 - [wasp-lang/SaaS-Template-GPT](https://github.com/wasp-lang/SaaS-Template-GPT) - 
@@ -4808,6 +4819,7 @@
 
 ## python 
 
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
@@ -5353,6 +5365,7 @@
 
 ## security 
 
+- [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
@@ -5406,6 +5419,7 @@
 
 ## self-hosted 
 
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude, Cursor💡 build-in AI assistant
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
@@ -5432,7 +5446,7 @@
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -5664,6 +5678,7 @@
 
 ## tailwind 
 
+- [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) - A stunning, functional and responsive retractable sidebar for Next.js built on top of shadcn/ui.
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
