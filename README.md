@@ -853,6 +853,7 @@
 
 ## c 
 
+- [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 - [stateless-me/uuidv47](https://github.com/stateless-me/uuidv47) - ⚡ UUIDv47 = v4 privacy + v7 performance
 - [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) - Official UnrealIRCd repository. Downloads are available from our site
 - [atheme/atheme](https://github.com/atheme/atheme) - Atheme IRC Services
@@ -3387,6 +3388,10 @@
 
 ## others 
 
+- [thomasdarimont/awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of resources for learning about http://www.keycloak.org
+- [santiblanko/keycloak-nextjs-auth](https://github.com/santiblanko/keycloak-nextjs-auth) - A project with next + keycloak authentication + tailwind installed. Ideal if you neeed a fast auth in your next project or inspiration.
+- [wadahiro/keycloak-discord](https://github.com/wadahiro/keycloak-discord) - Keycloak Identity Provider extension for Discord
+- [p2-inc/phasetwo-admin-portal](https://github.com/p2-inc/phasetwo-admin-portal) - 
 - [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get) - 
 - [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000+ Themes for shadcn/ui.
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
@@ -4257,7 +4262,6 @@
 - [deepbsd/Archtail](https://github.com/deepbsd/Archtail) - A simple Arch linux installer using whiptail.
 - [deepbsd/darchi](https://github.com/deepbsd/darchi) - Dave's Arch Installer
 - [deepbsd/Farchi](https://github.com/deepbsd/Farchi) - Fast Arch Installer
-- [sagb-dev/managing-linux](https://github.com/sagb-dev/managing-linux) - Shell scripts to install and configure Linux
 - [johnynfulleffect/ArchMatic](https://github.com/johnynfulleffect/ArchMatic) - Arch Linux post-installation setup and config scripts
 - [rickellis/ArchMatic](https://github.com/rickellis/ArchMatic) - Arch Linux post-installation setup and config scripts
 - [performanize/boilerHTML](https://github.com/performanize/boilerHTML) - A very extensive HTML5 boilerplate
@@ -5702,6 +5706,7 @@
 
 ## tailwindcss 
 
+- [ALMiG-Kompressoren-GmbH/tailcloakify](https://github.com/ALMiG-Kompressoren-GmbH/tailcloakify) - 🔑 Tailcloakify - A Keycloak theme based on Keycloakify and Tailwind
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -5871,6 +5876,7 @@
 
 ## twitter 
 
+- [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 - [skynet2982/awesome-alternative-front-ends](https://github.com/skynet2982/awesome-alternative-front-ends) - A curated list of Open Source alternative front-ends for popular websites.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [decent-im/decent.im](https://github.com/decent-im/decent.im) - XMPP public service with gateways to other IM networks
