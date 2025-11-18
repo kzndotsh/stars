@@ -3110,6 +3110,7 @@
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
 - [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) - A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter Template with Next.js 16 and Shadcn UI
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
@@ -3810,7 +3811,6 @@
 - [ishaan1013/thr](https://github.com/ishaan1013/thr) - Web remake of Meta's Threads (built before the official web version released)
 - [Railly/shadcn-ui-customizer](https://github.com/Railly/shadcn-ui-customizer) - shadcn/ui themes with color pickers
 - [jhonyrdesouza/cmazxcncn00000dl773xq978n](https://github.com/jhonyrdesouza/cmazxcncn00000dl773xq978n) - WIP.
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs 15 and Shadcn ui
 - [k8ieone/srht-docker](https://github.com/k8ieone/srht-docker) - Pre-built Sourcehut containers
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
@@ -5759,6 +5759,7 @@
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🏗️ Turborepo + TailwindCSS + Storybook + shadcn-ui
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter Template with Next.js 16 and Shadcn UI
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
