@@ -5006,7 +5006,7 @@
 - [apptension/developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [katiehuangx/Portfolio-Guide](https://github.com/katiehuangx/Portfolio-Guide) - A guide and summary to my projects and case studies.
-- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - All-inclusive Python cheatsheet
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
