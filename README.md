@@ -505,7 +505,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
-- [pghacking/awesome-postgres-hacking](https://github.com/pghacking/awesome-postgres-hacking) - A curated list of awesome PostgreSQL hacking resources.
+- [pghacking/awesome](https://github.com/pghacking/awesome) - A curated list of awesome PostgreSQL hacking resources.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -582,7 +582,7 @@
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
-- [pghacking/awesome-postgres-hacking](https://github.com/pghacking/awesome-postgres-hacking) - A curated list of awesome PostgreSQL hacking resources.
+- [pghacking/awesome](https://github.com/pghacking/awesome) - A curated list of awesome PostgreSQL hacking resources.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
@@ -978,6 +978,7 @@
 
 ## cloud 
 
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
 - [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -1452,6 +1453,7 @@
 
 ## docker 
 
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
@@ -1978,6 +1980,7 @@
 
 ## go 
 
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -2116,7 +2119,7 @@
 
 ## hacking 
 
-- [pghacking/awesome-postgres-hacking](https://github.com/pghacking/awesome-postgres-hacking) - A curated list of awesome PostgreSQL hacking resources.
+- [pghacking/awesome](https://github.com/pghacking/awesome) - A curated list of awesome PostgreSQL hacking resources.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -2128,6 +2131,7 @@
 
 ## hacktoberfest 
 
+- [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [aayushchugh/open-source-alternatives](https://github.com/aayushchugh/open-source-alternatives) - List of open source alternatives of paid softwares
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
@@ -2549,6 +2553,7 @@
 
 ## kubernetes 
 
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
@@ -2884,7 +2889,7 @@
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [QuocAnh189/Discord_Clone](https://github.com/QuocAnh189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 15. using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
-- [bysxx/next15-ts-template-fullstack](https://github.com/bysxx/next15-ts-template-fullstack) - ⚡ Fullstack Next.js 15 + TypeScript + MongoDB Template (with SEO)
+- [bysxx/next16-ts-template-fullstack](https://github.com/bysxx/next16-ts-template-fullstack) - ⚡ Fullstack Next.js 16 + TypeScript + MongoDB Template (with SEO)
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
@@ -2907,7 +2912,7 @@
 
 ## mongoose 
 
-- [bysxx/next15-ts-template-fullstack](https://github.com/bysxx/next15-ts-template-fullstack) - ⚡ Fullstack Next.js 15 + TypeScript + MongoDB Template (with SEO)
+- [bysxx/next16-ts-template-fullstack](https://github.com/bysxx/next16-ts-template-fullstack) - ⚡ Fullstack Next.js 16 + TypeScript + MongoDB Template (with SEO)
 - [maharit108/apparel-api](https://github.com/maharit108/apparel-api) - A back end application on Express.js using noSQL(mongoDB) as database primarily for Apparels- An e-commerce app
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [kyooowe/PineUI](https://github.com/kyooowe/PineUI) - 🚀 Boilerplate using TurboRepo, Vite, React, and Express. Provides a fast and efficient setup for building modern web apps.
@@ -3394,6 +3399,13 @@
 
 ## others 
 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [release-flow/keep-a-changelog-action](https://github.com/release-flow/keep-a-changelog-action) - A GitHub Action that performs operations on changelogs in Keep-a-Changelog format: bump the version, query release info.
 - [T1nker-1220/UltraContextAI](https://github.com/T1nker-1220/UltraContextAI) - Hire/Contact me: marquezjohnnathanieljade@gmail.com https://forum.cursor.com/t/rules-for-ultra-context-memories-lessons-scratchpad-with-plan-and-act-modes/48792/22?u=t1nker-1220
@@ -3432,7 +3444,7 @@
 - [jaywhj/mkdocs-document-dates](https://github.com/jaywhj/mkdocs-document-dates) - A new generation MkDocs plugin for displaying exact creation time, last update time, authors, email of documents
 - [pawamoy/mkdocs-llmstxt](https://github.com/pawamoy/mkdocs-llmstxt) - MkDocs plugin to generate an /llms.txt file (https://llmstxt.org/).
 - [six-two/mkdocs-toggle-sidebar-plugin](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) - Toggle the navigation and/or TOC sidebars on your MkDocs site
-- [jaywhj/mkdocs-recently-updated-docs](https://github.com/jaywhj/mkdocs-recently-updated-docs) - One line of code to display a list of recently updated documents
+- [jaywhj/mkdocs-recently-updated-docs](https://github.com/jaywhj/mkdocs-recently-updated-docs) - Display a list of recently updated documents anywhere on your MkDocs site with a single line of code
 - [pawamoy/mkdocs-coverage](https://github.com/pawamoy/mkdocs-coverage) - MkDocs plugin to integrate your coverage HTML report into your site.
 - [djpugh/mkdocs_licenseinfo](https://github.com/djpugh/mkdocs_licenseinfo) - mkdocs extension to visualise package dependencies license information
 - [google/licensecheck](https://github.com/google/licensecheck) - The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.
@@ -4835,6 +4847,7 @@
 
 ## python 
 
+- [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -5130,7 +5143,7 @@
 - [AgoraIO-Extensions/agora-rtc-react](https://github.com/AgoraIO-Extensions/agora-rtc-react) - Agora RTC React SDK
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
 - [AnwarHossainSR/nextjs-16-template](https://github.com/AnwarHossainSR/nextjs-16-template) - This is next js 16 boilerplate. You can start your next 16 project without any hassle of setup.
-- [bysxx/next15-ts-template-fullstack](https://github.com/bysxx/next15-ts-template-fullstack) - ⚡ Fullstack Next.js 15 + TypeScript + MongoDB Template (with SEO)
+- [bysxx/next16-ts-template-fullstack](https://github.com/bysxx/next16-ts-template-fullstack) - ⚡ Fullstack Next.js 16 + TypeScript + MongoDB Template (with SEO)
 - [alan345/Fullstack-SaaS-Boilerplate](https://github.com/alan345/Fullstack-SaaS-Boilerplate) - Fullstack SaaS Boilerplate built with tRPC, Fastify and React
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 - [sachidumaleesha/shadcn-dashboard](https://github.com/sachidumaleesha/shadcn-dashboard) - A Simple Shadcn Dashboard
@@ -5701,7 +5714,7 @@
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
-- [bysxx/next15-ts-template-fullstack](https://github.com/bysxx/next15-ts-template-fullstack) - ⚡ Fullstack Next.js 15 + TypeScript + MongoDB Template (with SEO)
+- [bysxx/next16-ts-template-fullstack](https://github.com/bysxx/next16-ts-template-fullstack) - ⚡ Fullstack Next.js 16 + TypeScript + MongoDB Template (with SEO)
 - [alan345/Fullstack-SaaS-Boilerplate](https://github.com/alan345/Fullstack-SaaS-Boilerplate) - Fullstack SaaS Boilerplate built with tRPC, Fastify and React
 - [reliverse/rse](https://github.com/reliverse/rse) - 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everyth
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
@@ -5739,7 +5752,7 @@
 - [QuocAnh189/Discord_Clone](https://github.com/QuocAnh189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
 - [AnwarHossainSR/nextjs-16-template](https://github.com/AnwarHossainSR/nextjs-16-template) - This is next js 16 boilerplate. You can start your next 16 project without any hassle of setup.
-- [bysxx/next15-ts-template-fullstack](https://github.com/bysxx/next15-ts-template-fullstack) - ⚡ Fullstack Next.js 15 + TypeScript + MongoDB Template (with SEO)
+- [bysxx/next16-ts-template-fullstack](https://github.com/bysxx/next16-ts-template-fullstack) - ⚡ Fullstack Next.js 16 + TypeScript + MongoDB Template (with SEO)
 - [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page) - Example Auth.js v5 Custom Signin Page
@@ -5934,7 +5947,7 @@
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [Mugenhub-io/NextJS15-Shadcn-Dashboard](https://github.com/Mugenhub-io/NextJS15-Shadcn-Dashboard) - Soon to be a full dashboard with either a landing page or blog page
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 15. using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
-- [bysxx/next15-ts-template-fullstack](https://github.com/bysxx/next15-ts-template-fullstack) - ⚡ Fullstack Next.js 15 + TypeScript + MongoDB Template (with SEO)
+- [bysxx/next16-ts-template-fullstack](https://github.com/bysxx/next16-ts-template-fullstack) - ⚡ Fullstack Next.js 16 + TypeScript + MongoDB Template (with SEO)
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
