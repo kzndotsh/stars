@@ -2202,6 +2202,7 @@
 
 ## hacktoberfest 
 
+- [python-humanize/humanize](https://github.com/python-humanize/humanize) - Python humanize functions
 - [PythonistaGuild/Pythonista-Bot](https://github.com/PythonistaGuild/Pythonista-Bot) - Discord Bot for the Pythonista Guild.
 - [getsentry/sentry-wizard](https://github.com/getsentry/sentry-wizard) - Sentry Project Setup Wizard
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
@@ -3475,6 +3476,7 @@
 
 ## others 
 
+- [groodt/retrying](https://github.com/groodt/retrying) - Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.
 - [iDutchy/Charles](https://github.com/iDutchy/Charles) - 
 - [mikeshardmind/discord-scheduler](https://github.com/mikeshardmind/discord-scheduler) - 
 - [mikeshardmind/async-utils](https://github.com/mikeshardmind/async-utils) - Collection of async utillities
@@ -3484,7 +3486,7 @@
 - [mikeshardmind/salamander-reloaded](https://github.com/mikeshardmind/salamander-reloaded) - 
 - [Soheab/soheabs-sync-tools](https://github.com/Soheab/soheabs-sync-tools) - 
 - [mkcode/wrangler-version-deploy-action-with-metadata](https://github.com/mkcode/wrangler-version-deploy-action-with-metadata) - Deploy Cloudflare Workers using Wrangler v4's Versions API while attaching rich metadata to each deployment.
-- [haileyydev/maildrop](https://github.com/haileyydev/maildrop) - ✉️ A self hostable disposable email service
+- [haileyydev/maildrop](https://github.com/haileyydev/maildrop) - ✉️ A simple self hostable email service
 - [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
@@ -4938,6 +4940,10 @@
 
 ## python 
 
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+- [micheles/decorator](https://github.com/micheles/decorator) - decorator
+- [aio-libs/aiosignal](https://github.com/aio-libs/aiosignal) - aiosignal: a list of registered asynchronous callbacks
+- [python-humanize/humanize](https://github.com/python-humanize/humanize) - Python humanize functions
 - [PythonistaGuild/Pythonista-Bot](https://github.com/PythonistaGuild/Pythonista-Bot) - Discord Bot for the Pythonista Guild.
 - [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http) - Python library that handles interactions from Discord POST requests.
 - [thegamecracks/discord-ext-pager](https://github.com/thegamecracks/discord-ext-pager) - A discord.py 2.0 paginator library with a similar interface to discord-ext-menus.
@@ -5988,6 +5994,7 @@
 
 ## testing 
 
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [progval/irctest](https://github.com/progval/irctest) - Semi-automated conformance checking for IRC implementations (RFC1459/RFC2812, the "modern spec" by ircdocs, and IRCv3)
 - [MishaKav/pytest-coverage-comment](https://github.com/MishaKav/pytest-coverage-comment) - Comments a pull request with the pytest code coverage badge and full report
 - [terraform-compliance/cli](https://github.com/terraform-compliance/cli) - a lightweight, security focused, BDD test framework against terraform.
