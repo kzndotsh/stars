@@ -1638,6 +1638,7 @@
 
 ## documentation 
 
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [EddyLuten/mkdocs-categories-plugin](https://github.com/EddyLuten/mkdocs-categories-plugin) - An MkDocs plugin allowing for categorization of wiki pages
 - [thomaszwagerman/mkdocs-authors-plugin](https://github.com/thomaszwagerman/mkdocs-authors-plugin) - MkDocs plugin to display authors dynamically on a template using an .authors.yml file
 - [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin) - ✚ Build multiple documentation folders in a single Mkdocs. Designed for large codebases.
