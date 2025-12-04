@@ -1376,7 +1376,7 @@
 - [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - A customizable badge displaying your Discord account, a server invite, or a bot account.
 - [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Message and manage through your Discord bot, self-hosted.
 - [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
-- [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
+- [allthingslinux/tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs) - A variety of utility cogs and fun cogs including Hockey information from the NHL, badge creation from discord user information, starboard for use on Redbot, twitch follow notifications and more.
 - [Column01/Discord-Moderation-Bot](https://github.com/Column01/Discord-Moderation-Bot) - Modular Moderation bot for Discord
@@ -1546,7 +1546,7 @@
 - [devopshobbies/terraform-templates](https://github.com/devopshobbies/terraform-templates) - The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
 - [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
 - [olivomarco/my-ansible-linux-setup](https://github.com/olivomarco/my-ansible-linux-setup) - Simple, perfect setup of a Linux machine via Ansible
-- [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
+- [allthingslinux/tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [ubc/mediawiki-docker](https://github.com/ubc/mediawiki-docker) - To generate a production use MediaWiki docker image
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -2701,7 +2701,7 @@
 - [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-- [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
+- [allthingslinux/tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
@@ -2843,6 +2843,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, xAI, Gemini, OpenRouter and more)
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
@@ -3046,6 +3047,7 @@
 
 - [kmbhm1/supabase-pydantic](https://github.com/kmbhm1/supabase-pydantic) - Generate Pydantic models and other types from Supabase/Postgres/MySQL schemas automatically. Ideal for FastAPI, Supabase, and rapid prototyping.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
@@ -3491,7 +3493,7 @@
 - [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
-- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
+- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
@@ -4831,6 +4833,8 @@
 - [dbfixtures/pytest-postgresql](https://github.com/dbfixtures/pytest-postgresql) - This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
 - [Pogchamp-company/alembic-postgresql-enum](https://github.com/Pogchamp-company/alembic-postgresql-enum) - Alembic autogenerate support for creation, alteration and deletion of enums
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
+- [allthingslinux/tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [BemiHQ/bemi-prisma](https://github.com/BemiHQ/bemi-prisma) - Automatic data change tracking for Prisma
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
@@ -4999,7 +5003,7 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [earwig/mwparserfromhell](https://github.com/earwig/mwparserfromhell) - A Python parser for MediaWiki wikicode
-- [allthingslinux/tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server.
+- [allthingslinux/tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [siznax/wptools](https://github.com/siznax/wptools) - Wikipedia tools (for Humans): easily extract data from Wikipedia, Wikidata, and other MediaWikis
