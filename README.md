@@ -276,6 +276,7 @@
 
 ## ai 
 
+- [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI-Native Operating System
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude, Cursor💡 build-in Codex agent
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
@@ -3479,6 +3480,7 @@
 
 ## others 
 
+- [wiz-sec-public/secure-rules-files](https://github.com/wiz-sec-public/secure-rules-files) - Baseline rules files to improve the security of AI-generated code (Claude, Cursor, Copilot + more)
 - [groodt/retrying](https://github.com/groodt/retrying) - Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.
 - [iDutchy/Charles](https://github.com/iDutchy/Charles) - 
 - [mikeshardmind/discord-scheduler](https://github.com/mikeshardmind/discord-scheduler) - 
@@ -3533,7 +3535,7 @@
 - [JakubAndrysek/mkdocs-auto-refresh-build-pages](https://github.com/JakubAndrysek/mkdocs-auto-refresh-build-pages) - MkDocs plugin that automatically refreshes the build pages when the documentation is updated.
 - [unmc-vcr/mkdocs-required-frontmatter-plugin](https://github.com/unmc-vcr/mkdocs-required-frontmatter-plugin) - This MkDocs plugin enforces required frontmatter for documentation pages.
 - [tombreit/mkdocs-pagetree-plugin](https://github.com/tombreit/mkdocs-pagetree-plugin) - MkDocs plugin that allows you to display the page tree. Like `sitemap.xml`, but for humans.
-- [jaywhj/mkdocs-document-dates](https://github.com/jaywhj/mkdocs-document-dates) - A new generation MkDocs plugin for displaying exact creation time, last update time, authors, email of documents
+- [jaywhj/mkdocs-document-dates](https://github.com/jaywhj/mkdocs-document-dates) - A new generation MkDocs plugin for displaying exact creation date, last update date, authors, email of documents
 - [pawamoy/mkdocs-llmstxt](https://github.com/pawamoy/mkdocs-llmstxt) - MkDocs plugin to generate an /llms.txt file (https://llmstxt.org/).
 - [six-two/mkdocs-toggle-sidebar-plugin](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) - Toggle the navigation and/or TOC sidebars on your MkDocs site
 - [jaywhj/mkdocs-recently-updated-docs](https://github.com/jaywhj/mkdocs-recently-updated-docs) - Display a list of recently updated documents anywhere on your MkDocs site with a single line of code
@@ -3625,7 +3627,7 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [Weid336/Context-Engineering-Lab](https://github.com/Weid336/Context-Engineering-Lab) - A structured exploration of Context Engineering: designing, evaluating, and reasoning about modular prompts, semantic inputs, and retrieval-aligned architectures for LLM systems.
 - [barnett-yuxiang/prompt-mgmt](https://github.com/barnett-yuxiang/prompt-mgmt) - A comprehensive collection of prompts, strategies, and best practices for effectively utilizing large language models (LLMs).
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+- [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [GloriousEggroll/flatpost](https://github.com/GloriousEggroll/flatpost) - Desktop Environment agnostic flatpak-only shop gui.
 - [Airizom/context-craft](https://github.com/Airizom/context-craft) - 
