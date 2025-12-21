@@ -2968,7 +2968,6 @@
 - [satnaing/astro-paper](https://github.com/satnaing/astro-paper) - A minimal, accessible and SEO-friendly Astro blog theme
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js) - Replace Markdown renderer on Old Reddit with MarkedJS
 
 ## mastodon 
 
@@ -4641,6 +4640,7 @@
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
 - [jakewaldron/PlexEmail](https://github.com/jakewaldron/PlexEmail) - This script aggregates all new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
 - [jo-nike/clipplex](https://github.com/jo-nike/clipplex) - 
+- [Jorenar/RedditOld_MarkedJS.user.js](https://github.com/Jorenar/RedditOld_MarkedJS.user.js) - 
 - [hjone72/RadarrSync](https://github.com/hjone72/RadarrSync) - 
 - [Sperryfreak01/RadarrSync](https://github.com/Sperryfreak01/RadarrSync) - 
 - [EnorMOZ/SonarrSync](https://github.com/EnorMOZ/SonarrSync) - 
