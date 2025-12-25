@@ -281,7 +281,7 @@
 
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 - [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI-Native Operating System
-- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
@@ -545,7 +545,7 @@
 
 ## awesome 
 
-- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
 - [skynet2982/awesome-alternative-front-ends](https://github.com/skynet2982/awesome-alternative-front-ends) - A curated list of Open Source alternative front-ends for popular websites.
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - awesome linux minimalism suggestions
@@ -1086,6 +1086,7 @@
 
 ## compiler 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 ## computer-science 
@@ -2490,6 +2491,7 @@
 
 ## javascript 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
@@ -2845,7 +2847,7 @@
 
 ## llm 
 
-- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [leonardocustodio/mkdocs-copy-to-llm](https://github.com/leonardocustodio/mkdocs-copy-to-llm) - A MkDocs plugin that adds a "Copy to LLM" button to your documentation, making it easy to copy code blocks and entire pages in formats optimized for Large Language Models (LLMs).
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
@@ -2923,7 +2925,7 @@
 
 ## macos 
 
-- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
@@ -3201,7 +3203,6 @@
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and NextJS
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [dkrasnovdev/nextjs-app-router-keycloak-example](https://github.com/dkrasnovdev/nextjs-app-router-keycloak-example) - Next.js application that demonstrates how to integrate Keycloak for authentication using NextAuth with App router.
@@ -3471,7 +3472,7 @@
 
 ## openai 
 
-- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
@@ -3510,6 +3511,7 @@
 
 ## others 
 
+- [murataslan1/cursor-ai-tips](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDE tips, tricks & best practices - Keyboard shortcuts, Composer mode, .cursorrules examples, and Reddit community wisdom
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
@@ -5612,7 +5614,7 @@
 ## self-hosted 
 
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
-- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
+- [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
@@ -6093,6 +6095,7 @@
 
 ## typescript 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
