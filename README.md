@@ -196,6 +196,7 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -289,7 +290,7 @@
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [murataslan1/cursor-ai-tips](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDE tips, tricks & best practices - Keyboard shortcuts, Composer mode, .cursorrules examples, and Reddit community wisdom
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
-- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI-Native Operating System
+- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI Layer For Linux
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
@@ -520,7 +521,7 @@
 ## automation 
 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI-Native Operating System
+- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI Layer For Linux
 - [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
@@ -1293,6 +1294,7 @@
 
 ## deno 
 
+- [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
@@ -1702,7 +1704,7 @@
 
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
-- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - akai_hana's dotfiles.
+- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 akai_hana's BSD/Linux dotfiles.
 - [Izder456/dotfiles](https://github.com/Izder456/dotfiles) - My OpenBSD Dotfiles
 - [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
@@ -2526,6 +2528,7 @@
 
 ## javascript 
 
+- [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo) - Reference example for React.JS and Keycloak SSO integration.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
@@ -2754,8 +2757,8 @@
 
 ## linux 
 
-- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - akai_hana's dotfiles.
-- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI-Native Operating System
+- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 akai_hana's BSD/Linux dotfiles.
+- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI Layer For Linux
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - awesome linux minimalism suggestions
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
@@ -3386,6 +3389,7 @@
 
 ## nodejs 
 
+- [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [trpc/trpc-openapi](https://github.com/trpc/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
@@ -3502,7 +3506,7 @@
 
 ## open-source 
 
-- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI-Native Operating System
+- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI Layer For Linux
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [aayushchugh/open-source-alternatives](https://github.com/aayushchugh/open-source-alternatives) - List of open source alternatives of paid softwares
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
@@ -3763,7 +3767,6 @@
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at) - Universal Basic Chat
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [Weid336/Context-Engineering-Lab](https://github.com/Weid336/Context-Engineering-Lab) - A structured exploration of Context Engineering: designing, evaluating, and reasoning about modular prompts, semantic inputs, and retrieval-aligned architectures for LLM systems.
-- [barnett-yuxiang/prompt-engineering](https://github.com/barnett-yuxiang/prompt-engineering) - A comprehensive collection of prompts, strategies, and best practices for effectively utilizing large language models (LLMs).
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [GloriousEggroll/flatpost](https://github.com/GloriousEggroll/flatpost) - Desktop Environment agnostic flatpak-only shop gui.
@@ -3888,7 +3891,7 @@
 - [SiliconValleyInsight/airtable-json-block](https://github.com/SiliconValleyInsight/airtable-json-block) - Written in TypeScript. Import data from JSON files, and query with JSONPath
 - [UnlyEd/airtable-backups-boilerplate](https://github.com/UnlyEd/airtable-backups-boilerplate) - Configurable automated backups for Airtable meant to be self-hosted, powered by AWS Lambda/S3 with the Serverless framework
 - [imnotashrimp/copyThat-airtable-figma](https://github.com/imnotashrimp/copyThat-airtable-figma) - A Figma plugin that syncs copy from Airtable!
-- [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A wrapper around SonarScanner CLI, available on PyPI.
+- [SonarSource/sonar-scanner-python](https://github.com/SonarSource/sonar-scanner-python) - A python bootstrapper for Sonar Scanner Engine, available on PyPI.
 - [varun21vaidya/apparel-api-nodejs](https://github.com/varun21vaidya/apparel-api-nodejs) - REST API for managing apparel inventory and orders for a vendor. The API is implemented using Node.js in TypeScript.
 - [Gittss/apparel-business](https://github.com/Gittss/apparel-business) - REST APIs for vendor & user
 - [DarkInventor/easy-ui](https://github.com/DarkInventor/easy-ui) - 100% FREE Collection of Premium Web Templates and Components -- Open Source 🌟
@@ -4263,7 +4266,7 @@
 - [x0rzavi/os-backup](https://github.com/x0rzavi/os-backup) - 
 - [dracutdevs/dracut](https://github.com/dracutdevs/dracut) - dracut the event driven initramfs infrastructure
 - [kzndotsh/bloom](https://github.com/kzndotsh/bloom) - Personal Bloom Tech projects and course work.
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [schuelermine/xhmm](https://github.com/schuelermine/xhmm) - Extra home manager modules
 - [nix-community/nix-unit](https://github.com/nix-community/nix-unit) - Unit testing for Nix code [maintainer=@adisbladis]
@@ -4889,7 +4892,7 @@
 ## package-manager 
 
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
-- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI-Native Operating System
+- [cortexlinux/cortex](https://github.com/cortexlinux/cortex) - The AI Layer For Linux
 - [the0807/UV-Toolkit](https://github.com/the0807/UV-Toolkit) - 🔧 UV Toolkit is a Visual Studio Code extension that enhances your experience when working with uv, a Python package manager.
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
@@ -5063,6 +5066,15 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+
+## prompt-engineering 
+
+- [Fr-e-d/AI-Governor-Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - The Keystone Framework for AI-Driven Code ! Turn any AI coding assistant into a disciplined, project-aware engineering partner that respects your architecture and coding standards
+- [Yuan-ManX/context-engineering](https://github.com/Yuan-ManX/context-engineering) - Context Engineering - The art of providing all the context for the task to be plausibly solvable by the LLM.
+- [barnett-yuxiang/prompt-engineering](https://github.com/barnett-yuxiang/prompt-engineering) - A comprehensive collection of prompts, strategies, and best practices for effectively utilizing large language models (LLMs).
+- [ursisterbtw/ccprompts](https://github.com/ursisterbtw/ccprompts) - practical claude code commands and subagents
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 
 ## publishing 
 
