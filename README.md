@@ -3612,6 +3612,7 @@
 
 ## others 
 
+- [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
 - [oimiragieo/agent-studio](https://github.com/oimiragieo/agent-studio) - 
 - [formsort/sentryfuge](https://github.com/formsort/sentryfuge) - A GitHub Action that automatically links to referenced Sentry issues in issues and PRs
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
