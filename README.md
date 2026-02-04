@@ -18,6 +18,7 @@
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [aspnet](#aspnet)
+- [atom](#atom)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -527,6 +528,10 @@
 ## aspnet 
 
 - [TheUltimateC0der/listrr](https://github.com/TheUltimateC0der/listrr) - listrr.pro creates and maintains lists on trakt.tv completely automated based on your filters.
+
+## atom 
+
+- [cristoper/feedmixer](https://github.com/cristoper/feedmixer) - A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 
 ## automation 
 
@@ -1561,6 +1566,8 @@
 
 ## docker 
 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [allthingslinux/portal](https://github.com/allthingslinux/portal) - Portal
 - [heyvaldemar/keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) - Keycloak with Let's Encrypt Using Docker Compose
 - [ML-ZoneReaper/keycloak-compose](https://github.com/ML-ZoneReaper/keycloak-compose) - Keycloak with PostgreSQL, which includes Keycloak's monitoring using Prometheus and Grafana
@@ -2104,6 +2111,7 @@
 
 ## go 
 
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
@@ -2266,6 +2274,7 @@
 
 ## hacktoberfest 
 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [react-keycloak/react-keycloak-examples](https://github.com/react-keycloak/react-keycloak-examples) - Examples for react-keycloak packages
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
@@ -3127,6 +3136,7 @@
 
 ## monitoring 
 
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
@@ -3260,6 +3270,7 @@
 
 ## nextjs 
 
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [allthingslinux/portal](https://github.com/allthingslinux/portal) - Portal
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
@@ -3536,6 +3547,7 @@
 
 ## open-source 
 
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [cxlinux-ai/cx-core](https://github.com/cxlinux-ai/cx-core) - CX Linux — AI-powered Linux OS. Natural language system administration for Ubuntu & Debian. The AI layer for Linux infrastructure.
 - [kanbn/kan](https://github.com/kanbn/kan) - The open source Trello alternative.
 - [aayushchugh/open-source-alternatives](https://github.com/aayushchugh/open-source-alternatives) - List of open source alternatives of paid softwares
@@ -3623,6 +3635,15 @@
 
 ## others 
 
+- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
+- [aaanh/tailflare-ui](https://github.com/aaanh/tailflare-ui) - Sync your Tailscale hosts to Cloudflare DNS
+- [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale
+- [damomurf/coredns-tailscale](https://github.com/damomurf/coredns-tailscale) - A Tailscale lookup plugin for CoreDNS
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
+- [tailscale-dev/docker-guide-code-examples](https://github.com/tailscale-dev/docker-guide-code-examples) - https://tailscale.com/blog/docker-tailscale-guide
+- [QuorumDMS/ftp-srv](https://github.com/QuorumDMS/ftp-srv) - 📮 Modern FTP Server
+- [Qolors/FeedCord](https://github.com/Qolors/FeedCord) - A dead simple RSS Feed with Discord Webhooks
+- [moparisthebest/xmpp-proxy](https://github.com/moparisthebest/xmpp-proxy) - XMPP reverse proxy and outgoing proxy
 - [dsync89/check-media-integrity](https://github.com/dsync89/check-media-integrity) - check-media-integrity is a command line tool that checks the integrity of specific media files (pictures, video, audio) or all the media files in subfolders, recursively.
 - [Daanish2003/validation-better-auth](https://github.com/Daanish2003/validation-better-auth) - A flexible and extensible validation plugin for the Better Auth framework. This package allows developers to validate API request using standard schema library
 - [use-drzl/drzl](https://github.com/use-drzl/drzl) - Zero‑friction codegen for Drizzle ORM. Analyze your schema. Generate validation, services, and routers — fast.
@@ -3838,7 +3859,7 @@
 - [brookslybrand/react-router-cursor-rules](https://github.com/brookslybrand/react-router-cursor-rules) - Cursor rules for using React Router framework mode
 - [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - My go-to rules for using Cursor and LLMs in software development.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
+- [leerob/directories](https://github.com/leerob/directories) - The Cursor & Windsurf community, find rules and MCPs
 - [pulumiverse/infra](https://github.com/pulumiverse/infra) - IaC for all infrastructure required by Pulumiverse
 - [csmart/virt-infra-ansible](https://github.com/csmart/virt-infra-ansible) - An example Ansible playbook for my virt-infra Ansible role.
 - [angular/dev-infra](https://github.com/angular/dev-infra) - Angular Development Infrastructure
@@ -5146,6 +5167,7 @@
 
 ## python 
 
+- [cristoper/feedmixer](https://github.com/cristoper/feedmixer) - A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 - [Anselmoo/mcp-server-analyzer](https://github.com/Anselmoo/mcp-server-analyzer) - MCP server for Python code analysis with RUFF linting and VULTURE dead code detection
 - [rmuir/uv-dependency-submission](https://github.com/rmuir/uv-dependency-submission) - GitHub Action for submitting uv.lock dependencies
 - [nfergu/memalot](https://github.com/nfergu/memalot) - Finds memory leaks in Python programs
@@ -5733,6 +5755,7 @@
 
 ## security 
 
+- [tailscale/security-policies](https://github.com/tailscale/security-policies) - Security policies for Tailscale
 - [rmuir/uv-dependency-submission](https://github.com/rmuir/uv-dependency-submission) - GitHub Action for submitting uv.lock dependencies
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
@@ -5790,6 +5813,9 @@
 
 ## self-hosted 
 
+- [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
+- [cristoper/feedmixer](https://github.com/cristoper/feedmixer) - A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
@@ -6562,6 +6588,9 @@
 
 ## vpn 
 
+- [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [tom472/mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
 - [binhex/documentation](https://github.com/binhex/documentation) - Documentation for software located in the binhex repositories.
