@@ -350,6 +350,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 
 ## algorithm 
 
@@ -752,7 +753,7 @@
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 
 ## babel 
 
@@ -1285,7 +1286,7 @@
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -1576,7 +1577,7 @@
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
 - [allthingslinux/portal](https://github.com/allthingslinux/portal) - Portal
 - [heyvaldemar/keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) - Keycloak with Let's Encrypt Using Docker Compose
-- [ML-ZoneReaper/keycloak-compose](https://github.com/ML-ZoneReaper/keycloak-compose) - Keycloak with PostgreSQL, which includes Keycloak's monitoring using Prometheus and Grafana
+- [ML-ZoneReaper/keycloak-compose](https://github.com/ML-ZoneReaper/keycloak-compose) - Monitoring stack for Keycloak with Prometheus metrics and Grafana dashboards, featuring OAuth2/OIDC authentication.
 - [dasniko/testcontainers-keycloak](https://github.com/dasniko/testcontainers-keycloak) - A Testcontainer implementation for Keycloak IAM & SSO.
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
@@ -2080,7 +2081,7 @@
 - [mxvish/arch-setup](https://github.com/mxvish/arch-setup) - Installer & setup script for Arch Linux in i3 on UEFI x86-64 pc
 - [denisse-dev/dotfiles](https://github.com/denisse-dev/dotfiles) - :dragon_face: My Arch Linux config [Zsh + Sway + Alacritty + Emacs, etc]
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 - [gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet) - Comprehensive Linux Cheatsheet
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 
@@ -2179,7 +2180,6 @@
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -2334,7 +2334,6 @@
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with Astro and Bulma.
 - [FallenDeity/discord.py-masterclass](https://github.com/FallenDeity/discord.py-masterclass) - A tutorial/guide explaining all features in discord.py and how to make a discord bot from scratch.
 - [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
@@ -2539,7 +2538,7 @@
 
 ## ipfs 
 
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Gateway (without FUSE)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 
 ## java 
 
@@ -2948,6 +2947,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 
 ## login 
 
@@ -3528,6 +3528,7 @@
 
 ## nosql 
 
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
 - [oracle/docker-images](https://github.com/oracle/docker-images) - Official source of container configurations, images, and examples for Oracle products and projects
 
 ## npm 
@@ -4999,6 +5000,7 @@
 
 ## penetration-testing 
 
+- [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -5049,7 +5051,7 @@
 
 - [allthingslinux/portal](https://github.com/allthingslinux/portal) - Portal
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [ML-ZoneReaper/keycloak-compose](https://github.com/ML-ZoneReaper/keycloak-compose) - Keycloak with PostgreSQL, which includes Keycloak's monitoring using Prometheus and Grafana
+- [ML-ZoneReaper/keycloak-compose](https://github.com/ML-ZoneReaper/keycloak-compose) - Monitoring stack for Keycloak with Prometheus metrics and Grafana dashboards, featuring OAuth2/OIDC authentication.
 - [vitabaks/autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -5364,7 +5366,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [nickheyer/DiscoFlix](https://github.com/nickheyer/DiscoFlix) - A simple media-requesting, Radarr/Sonarr-interfacing, movie and tv show-listing Chat Bot web-app for your media server.
 - [JakeLunn/prunerr](https://github.com/JakeLunn/prunerr) - A command line application for cleaning up old media from Plex and optionally notifying Sonarr, Radarr and Overseerr
-- [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Deleterr is a Python script designed to help you manage available disk space in your Plex media server.
+- [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) - Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.
 - [everettsouthwick/Eraserr](https://github.com/everettsouthwick/Eraserr) - Python script for deleting unwatched or stale media from Plex servers using Radarr, Sonarr, and Overseerr.
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
