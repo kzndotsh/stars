@@ -3649,6 +3649,9 @@
 
 ## others 
 
+- [KitsuneKode/template-nextjs-express-trpc-better-auth-monorepo](https://github.com/KitsuneKode/template-nextjs-express-trpc-better-auth-monorepo) - A modern, scalable, and type-safe monorepo template
+- [strblr/trpc-zustand](https://github.com/strblr/trpc-zustand) - Zustand bindings for tRPC. Manage tRPC queries, mutations and subscriptions as Zustand stores.
+- [omar-dulaimi/trpc-shield](https://github.com/omar-dulaimi/trpc-shield) - 🛡 A tRPC tool to ease the creation of permission layer.
 - [Polymarket/builder-signing-sdk](https://github.com/Polymarket/builder-signing-sdk) - TypeScript SDK for creating authenticated builder headers
 - [tydukes/coding-style-guide](https://github.com/tydukes/coding-style-guide) - Personal coding style guide
 - [grafana/alerting](https://github.com/grafana/alerting) - Set of libraries used to build alerting systems at Grafana - including the Alertmanager.
