@@ -1427,6 +1427,8 @@
 
 ## discord 
 
+- [williamhorning/lightning](https://github.com/williamhorning/lightning) - read-only mirror: a cross-platform chat bot connecting your communities
+- [BrNi05/DiscOS](https://github.com/BrNi05/DiscOS) - DiscOS is a secure interaction bridge between Discord and Linux servers
 - [PythonistaGuild/Pythonista-Bot](https://github.com/PythonistaGuild/Pythonista-Bot) - Discord Bot for the Pythonista Guild.
 - [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http) - Python library that handles interactions from Discord POST requests.
 - [thegamecracks/discord-ext-pager](https://github.com/thegamecracks/discord-ext-pager) - A discord.py 2.0 paginator library with a similar interface to discord-ext-menus.
@@ -2792,6 +2794,7 @@
 
 ## linux 
 
+- [BrNi05/DiscOS](https://github.com/BrNi05/DiscOS) - DiscOS is a secure interaction bridge between Discord and Linux servers
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles.
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
@@ -5932,6 +5935,7 @@
 
 ## server 
 
+- [BrNi05/DiscOS](https://github.com/BrNi05/DiscOS) - DiscOS is a secure interaction bridge between Discord and Linux servers
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting) - A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimit
@@ -6245,6 +6249,7 @@
 
 ## terminal 
 
+- [BrNi05/DiscOS](https://github.com/BrNi05/DiscOS) - DiscOS is a secure interaction bridge between Discord and Linux servers
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [mrcnski/compnav](https://github.com/mrcnski/compnav) - Complete shell navigation: better up, z, and h
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
