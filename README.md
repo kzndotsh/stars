@@ -2567,6 +2567,7 @@
 
 ## javascript 
 
+- [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo) - Reference example for React.JS and Keycloak SSO integration.
@@ -3431,6 +3432,7 @@
 
 ## node 
 
+- [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [ChristophEnglisch/keycloak-model-context-protocol](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for Keycloak user management. Enables AI-powered administration of Keycloak users and realms through the Model Context Protocol (MCP). Seamlessly integrates with Claude Deskt
 - [nodejs/build](https://github.com/nodejs/build) - Better build and test infra for Node.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
@@ -3453,6 +3455,7 @@
 
 ## nodejs 
 
+- [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [trpc/trpc-openapi](https://github.com/trpc/trpc-openapi) - OpenAPI support for tRPC 🧩
@@ -5678,6 +5681,7 @@
 
 ## react-native 
 
+- [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
 - [getsentry/sentry-wizard](https://github.com/getsentry/sentry-wizard) - Sentry Project Setup Wizard
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
