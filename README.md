@@ -987,6 +987,7 @@
 
 ## chrome-extension 
 
+- [jonerrr/mailcow-alias-extension](https://github.com/jonerrr/mailcow-alias-extension) - A Chrome and Firefox extension for generating Mailcow aliases
 - [woodruffw/ff2mpv](https://github.com/woodruffw/ff2mpv) - A Firefox/Chrome add-on for playing URLs in mpv.
 - [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv
 
@@ -1579,6 +1580,7 @@
 
 ## docker 
 
+- [henkelmax/traefik-mailcow-certdumper](https://github.com/henkelmax/traefik-mailcow-certdumper) - Dumps certificates from Traefik to use them in Mailcow Dockerized.
 - [allthingslinux/bridge](https://github.com/allthingslinux/bridge) - Bridge
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [smilebasti/npmGrafStats](https://github.com/smilebasti/npmGrafStats) - This project exports NginxProxyManager or NPMplus Logs to InfluxDB for displaying them in a Grafana Dashboard.
@@ -2293,6 +2295,7 @@
 
 ## hacktoberfest 
 
+- [schemen/privacycow](https://github.com/schemen/privacycow) - Mailcow Privacy Alias CLI
 - [tailscale-dev/ScaleTail](https://github.com/tailscale-dev/ScaleTail) - Tailscale Sidecar Configurations for Docker
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [react-keycloak/react-keycloak-examples](https://github.com/react-keycloak/react-keycloak-examples) - Examples for react-keycloak packages
@@ -3455,6 +3458,7 @@
 
 ## nodejs 
 
+- [JustSamuel/ts-mailcow-api](https://github.com/JustSamuel/ts-mailcow-api) - TypeScript wrapper for the mailcow API.
 - [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
@@ -3666,6 +3670,19 @@
 
 ## others 
 
+- [allthingslinux/atl.services](https://github.com/allthingslinux/atl.services) - 
+- [DopeDealers/Mailcow.js](https://github.com/DopeDealers/Mailcow.js) - A simple mailcow API wrapper
+- [thanhtunguet/mailcow-bulk-mailbox](https://github.com/thanhtunguet/mailcow-bulk-mailbox) - Bulk create mailboxes for Mailcow server
+- [truc0/mailcow-registry-token](https://github.com/truc0/mailcow-registry-token) - A token-based authentication UI for mailcow register API
+- [cmer/mailcow-vps-proxy](https://github.com/cmer/mailcow-vps-proxy) - Setup a publicly-accessible VPS proxy to your homelab Mailcow, and use the proxy as an SMTP relay
+- [asifbacchus/mailcow-scripts](https://github.com/asifbacchus/mailcow-scripts) - Scripts to help manage mailcow-dockerized installations
+- [hacktisch/mailcow-status-tracker](https://github.com/hacktisch/mailcow-status-tracker) - Track delivery status of outgoing Mailcow emails by checking the Postfix logs through the Mailcow API.
+- [DocFraggle/mailcow-scripts](https://github.com/DocFraggle/mailcow-scripts) - Useful scripts for Mailcow
+- [hagaram/mailcow-grafana-dashboard](https://github.com/hagaram/mailcow-grafana-dashboard) - Mailcow grafana dashboard
+- [prey87/awesome-mailcow](https://github.com/prey87/awesome-mailcow) - delightful resources for the mailcow project
+- [remkolodder/mailcow-dashboard](https://github.com/remkolodder/mailcow-dashboard) - Mailcow dashboard
+- [leolilley/mailcow_mcp](https://github.com/leolilley/mailcow_mcp) - 
+- [ShlomiPorush/mailcow-logs-viewer](https://github.com/ShlomiPorush/mailcow-logs-viewer) - A modern, self-hosted dashboard for viewing and analyzing mailcow mail server logs.
 - [greeeen-dev/shinobu](https://github.com/greeeen-dev/shinobu) - Converse from anywhere, anytime.
 - [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [deepentropy/lightweight-charts-indicators](https://github.com/deepentropy/lightweight-charts-indicators) - 70+ Technical analysis indicators for TradingView's lightweight-charts v5 library
@@ -5216,6 +5233,7 @@
 
 ## python 
 
+- [schemen/privacycow](https://github.com/schemen/privacycow) - Mailcow Privacy Alias CLI
 - [allthingslinux/bridge](https://github.com/allthingslinux/bridge) - Bridge
 - [cristoper/feedmixer](https://github.com/cristoper/feedmixer) - A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
 - [Anselmoo/mcp-server-analyzer](https://github.com/Anselmoo/mcp-server-analyzer) - MCP server for Python code analysis with RUFF linting and VULTURE dead code detection
@@ -6370,6 +6388,7 @@
 
 ## typescript 
 
+- [JustSamuel/ts-mailcow-api](https://github.com/JustSamuel/ts-mailcow-api) - TypeScript wrapper for the mailcow API.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
