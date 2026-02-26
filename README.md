@@ -1429,6 +1429,7 @@
 
 ## discord 
 
+- [delthas/discord-formatting](https://github.com/delthas/discord-formatting) - A small Go library for parsing Discord markdown-like messages to an AST
 - [williamhorning/lightning](https://github.com/williamhorning/lightning) - read-only mirror: a cross-platform chat bot connecting your communities
 - [BrNi05/DiscOS](https://github.com/BrNi05/DiscOS) - DiscOS is a secure interaction bridge between Discord and Linux servers
 - [PythonistaGuild/Pythonista-Bot](https://github.com/PythonistaGuild/Pythonista-Bot) - Discord Bot for the Pythonista Guild.
@@ -3049,6 +3050,7 @@
 
 ## markdown 
 
+- [delthas/discord-formatting](https://github.com/delthas/discord-formatting) - A small Go library for parsing Discord markdown-like messages to an AST
 - [jackdewinter/pymarkdown](https://github.com/jackdewinter/pymarkdown) - 
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -3672,6 +3674,9 @@
 
 ## others 
 
+- [ObsidianIRC/UnrealIRCd-Modules](https://github.com/ObsidianIRC/UnrealIRCd-Modules) - UnrealIRCd modules that implement additional functionality for the ObsidianIRC webclient
+- [pirc-pl/unrealircd-modules](https://github.com/pirc-pl/unrealircd-modules) - 
+- [ValwareIRC/valware-unrealircd-mods](https://github.com/ValwareIRC/valware-unrealircd-mods) - Valware's UnrealIRCd modules
 - [allthingslinux/atl.chat](https://github.com/allthingslinux/atl.chat) - 
 - [legastero/stanza](https://github.com/legastero/stanza) - Modern XMPP, with a JSON API
 - [allthingslinux/atl.services](https://github.com/allthingslinux/atl.services) - 
@@ -3689,7 +3694,7 @@
 - [ShlomiPorush/mailcow-logs-viewer](https://github.com/ShlomiPorush/mailcow-logs-viewer) - A modern, self-hosted dashboard for viewing and analyzing mailcow mail server logs.
 - [greeeen-dev/shinobu](https://github.com/greeeen-dev/shinobu) - Converse from anywhere, anytime.
 - [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
-- [deepentropy/lightweight-charts-indicators](https://github.com/deepentropy/lightweight-charts-indicators) - 70+ Technical analysis indicators for TradingView's lightweight-charts v5 library
+- [deepentropy/lightweight-charts-indicators](https://github.com/deepentropy/lightweight-charts-indicators) - 120+ Technical analysis indicators for TradingView's lightweight-charts v5 library
 - [KitsuneKode/template-nextjs-express-trpc-better-auth-monorepo](https://github.com/KitsuneKode/template-nextjs-express-trpc-better-auth-monorepo) - A modern, scalable, and type-safe monorepo template
 - [strblr/trpc-zustand](https://github.com/strblr/trpc-zustand) - Zustand bindings for tRPC. Manage tRPC queries, mutations and subscriptions as Zustand stores.
 - [omar-dulaimi/trpc-shield](https://github.com/omar-dulaimi/trpc-shield) - 🛡 A tRPC tool to ease the creation of permission layer.
@@ -5788,6 +5793,7 @@
 
 ## ruby 
 
+- [blolol/cinch](https://github.com/blolol/cinch) - Ruby IRC bot framework
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
