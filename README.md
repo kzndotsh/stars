@@ -573,6 +573,8 @@
 
 ## awesome 
 
+- [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
+- [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
@@ -642,7 +644,7 @@
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles of my last wm, managed by GNU stow.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -654,6 +656,8 @@
 
 ## awesome-list 
 
+- [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
+- [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
 - [skynet2982/awesome-alternative-front-ends](https://github.com/skynet2982/awesome-alternative-front-ends) - A curated list of Open Source alternative front-ends for popular websites.
@@ -722,7 +726,7 @@
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -1219,9 +1223,10 @@
 
 ## cybersecurity 
 
+- [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 
 ## data 
 
@@ -1628,7 +1633,6 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mit-27/god-tier-saas](https://github.com/mit-27/god-tier-saas) - A SaaS kit providing end-to-end type safety with ts-rest between Next.js and Nest.js, plus integrated services like AuthJS, PostHog, and Drizzle ORM with PostgreSQL.
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [SaraSmiseth/prosody](https://github.com/SaraSmiseth/prosody) - Prosody XMPP server docker image
 - [Yanik39/IRCNet](https://github.com/Yanik39/IRCNet) - Full featured IRCServer with UnrealIRCd, Atheme-Services and theLounge.
@@ -2141,7 +2145,6 @@
 - [NumeXx/gsm](https://github.com/NumeXx/gsm) - Connect like there's no firewall, but with style and a kick-ass TUI!
 - [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -2185,7 +2188,6 @@
 - [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ethrgeist/git-credential-1password](https://github.com/ethrgeist/git-credential-1password) - A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -2281,6 +2283,7 @@
 
 ## hacking 
 
+- [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [pghacking/awesome](https://github.com/pghacking/awesome) - A curated list of awesome PostgreSQL hacking resources.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
@@ -2336,7 +2339,6 @@
 - [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs) - A variety of utility cogs and fun cogs including Hockey information from the NHL, badge creation from discord user information, starboard for use on Redbot, twitch follow notifications and more.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
 - [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
@@ -2444,7 +2446,7 @@
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -2515,6 +2517,7 @@
 
 ## http 
 
+- [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http) - Python library that handles interactions from Discord POST requests.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -2524,6 +2527,7 @@
 
 ## https 
 
+- [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
 ## image-processing 
@@ -2747,7 +2751,6 @@
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [devopshobbies/terraform-templates](https://github.com/devopshobbies/terraform-templates) - The complete Terraform tutorial, reference, awesome examples with no Public cloud provider
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -3048,6 +3051,7 @@
 
 ## markdown 
 
+- [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
 - [delthas/discord-formatting](https://github.com/delthas/discord-formatting) - A small Go library for parsing Discord markdown-like messages to an AST
 - [jackdewinter/pymarkdown](https://github.com/jackdewinter/pymarkdown) - 
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
@@ -3580,6 +3584,8 @@
 
 ## open-source 
 
+- [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
+- [Punderthings/fossfoundation](https://github.com/Punderthings/fossfoundation) - Directory of non-profit FOSS Foundations, with detailed metadata.
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [cxlinux-ai/cx-core](https://github.com/cxlinux-ai/cx-core) - CX Linux — AI-powered Linux OS. Natural language system administration for Ubuntu & Debian. The AI layer for Linux infrastructure.
@@ -3624,7 +3630,7 @@
 - [mxvish/arch-setup](https://github.com/mxvish/arch-setup) - Installer & setup script for Arch Linux in i3 on UEFI x86-64 pc
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
@@ -3672,6 +3678,9 @@
 
 ## others 
 
+- [symbiod/symbiod](https://github.com/symbiod/symbiod) - :factory: A place where non-profits and developers meet together
+- [herrera-ignacio/architect-handbook](https://github.com/herrera-ignacio/architect-handbook) - Software Architect Handbook
+- [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
 - [ialokin/limnoria-tilde](https://github.com/ialokin/limnoria-tilde) - Limnoria plugin providing information about tilde (pubnix) server(s).
 - [BasedDevelopment/manbot](https://github.com/BasedDevelopment/manbot) - 
 - [BasedDevelopment/man-api](https://github.com/BasedDevelopment/man-api) - 
@@ -5050,6 +5059,7 @@
 
 ## penetration-testing 
 
+- [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -5057,6 +5067,7 @@
 
 ## pentesting 
 
+- [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
@@ -5175,7 +5186,7 @@
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
@@ -5840,6 +5851,8 @@
 
 ## security 
 
+- [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
+- [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [tailscale/security-policies](https://github.com/tailscale/security-policies) - Security policies for Tailscale
 - [rmuir/uv-dependency-submission](https://github.com/rmuir/uv-dependency-submission) - GitHub Action for submitting uv.lock dependencies
@@ -5856,7 +5869,6 @@
 - [matank001/cursor-security-rules](https://github.com/matank001/cursor-security-rules) - This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding p
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -5873,7 +5885,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [denji/nginx-tuning](https://github.com/denji/nginx-tuning) - NGINX tuning for best performance
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -5883,18 +5895,18 @@
 
 ## security-tools 
 
+- [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
 
 ## self-hosted 
