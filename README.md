@@ -285,7 +285,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
@@ -333,7 +333,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -554,12 +554,13 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [mixelpixel/AirScripts](https://github.com/mixelpixel/AirScripts) - Airtable Scripts Written In Javascript
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [IOKernel/Subtitle_renamer](https://github.com/IOKernel/Subtitle_renamer) - A small script to automatically rename subtitle files in a folder
 - [mxvish/arch-setup](https://github.com/mxvish/arch-setup) - Installer & setup script for Arch Linux in i3 on UEFI x86-64 pc
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
+- [baker-scripts/StarrScripts](https://github.com/baker-scripts/StarrScripts) - Bash scripts for Starr apps (Radarr, Sonarr, Lidarr, Readarr) — custom formats, naming, and automation
 - [caronc/nzbget-tidyit](https://github.com/caronc/nzbget-tidyit) - Will clean up your video media library by eliminating directories that no longer contain the video file they once hosted
 - [JohnDoee/autotorrent](https://github.com/JohnDoee/autotorrent) - Matches torrents with files and gets them seeded
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
@@ -824,6 +825,7 @@
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs an unattended, automated and customized Arch Linux system.
 - [scriptzteam/SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS) - Yo! Warez scene scriptz!
 - [arcadellama/plex-nowplaying](https://github.com/arcadellama/plex-nowplaying) - A CLI script to show the "Now Playing" status of your Plex Server.
+- [baker-scripts/StarrScripts](https://github.com/baker-scripts/StarrScripts) - Bash scripts for Starr apps (Radarr, Sonarr, Lidarr, Readarr) — custom formats, naming, and automation
 - [fabricionaweb/sonarr-tba-rename](https://github.com/fabricionaweb/sonarr-tba-rename) - Look for TBA episodes in Library, ask to Refresh them ask to Rename
 - [tom472/mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
 - [tronyx/sonarr-episode-name-checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA"
@@ -1583,6 +1585,7 @@
 
 ## docker 
 
+- [allthingslinux/atl.tools](https://github.com/allthingslinux/atl.tools) - 
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
 - [henkelmax/traefik-mailcow-certdumper](https://github.com/henkelmax/traefik-mailcow-certdumper) - Dumps certificates from Traefik to use them in Mailcow Dockerized.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -1601,7 +1604,6 @@
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
@@ -1899,7 +1901,6 @@
 
 - [demartini/base-configs](https://github.com/demartini/base-configs) - A collection of base configs for code quality and linting tools.
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
-- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 - [NatoBoram/gigachad.ts](https://github.com/NatoBoram/gigachad.ts) - The most gigachad project template for TypeScript
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -3110,7 +3111,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 
 ## microservices 
 
@@ -3302,6 +3303,7 @@
 
 ## nextjs 
 
+- [allthingslinux/atl.tools](https://github.com/allthingslinux/atl.tools) - 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [allthingslinux/portal](https://github.com/allthingslinux/portal) - Portal
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
@@ -3322,7 +3324,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
-- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
+- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [aq189/Discord_Clone](https://github.com/aq189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
 - [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
@@ -3942,7 +3944,7 @@
 - [brookslybrand/react-router-cursor-rules](https://github.com/brookslybrand/react-router-cursor-rules) - Cursor rules for using React Router framework mode
 - [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - My go-to rules for using Cursor and LLMs in software development.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- [leerob/directories](https://github.com/leerob/directories) - The Cursor & Windsurf community, find rules and MCPs
+- [leerob/directories](https://github.com/leerob/directories) - Find rules and MCP servers
 - [pulumiverse/infra](https://github.com/pulumiverse/infra) - IaC for all infrastructure required by Pulumiverse
 - [csmart/virt-infra-ansible](https://github.com/csmart/virt-infra-ansible) - An example Ansible playbook for my virt-infra Ansible role.
 - [angular/dev-infra](https://github.com/angular/dev-infra) - Angular Development Infrastructure
@@ -4709,7 +4711,6 @@
 - [cacheflowe/media-utility-scripts](https://github.com/cacheflowe/media-utility-scripts) - Scripts for common media file conversion tasks
 - [iwalton3/media-scripts](https://github.com/iwalton3/media-scripts) - Scripts to assist with handling media files.
 - [brianspilner01/media-server-scripts](https://github.com/brianspilner01/media-server-scripts) - 
-- [bakerboy448/StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc Scripts for Starr related Apps
 - [rasmusbuchholdt/plex-wrapper](https://github.com/rasmusbuchholdt/plex-wrapper) - Small module that makes it easier to use the Plex API for management
 - [jensenkd/plex-api](https://github.com/jensenkd/plex-api) - .NET Core SDK for Plex Media Server
 - [Kometa-Team/ArrAPI](https://github.com/Kometa-Team/ArrAPI) - A lightweight Python library for Radarr and Sonarr API.
@@ -4938,7 +4939,7 @@
 - [hak5/omg-payloads](https://github.com/hak5/omg-payloads) - Official payload library for the O.MG line of products from Mischief Gadgets
 - [Tweeticoats/stash-plugin-scrape_with](https://github.com/Tweeticoats/stash-plugin-scrape_with) - 
 - [4c0d3r/namer](https://github.com/4c0d3r/namer) - Names files for you.
-- [bakerboy448/pmm-config](https://github.com/bakerboy448/pmm-config) - Bakerboy448's Plex Meta Manager (PMM) Configs
+- [baker-scripts/pmm-config](https://github.com/baker-scripts/pmm-config) - Kometa (Plex Meta Manager) configuration — collection templates, overlays, and metadata management
 - [brettpetch/hosted-scripts](https://github.com/brettpetch/hosted-scripts) - Installers for additional applications not yet integrated into the Swizzin Hosted Platform.
 - [donwa/gclone](https://github.com/donwa/gclone) - rclone mod
 - [dogbutcat/gclone](https://github.com/dogbutcat/gclone) - fork from https://github.com/donwa/gclone
@@ -5424,7 +5425,7 @@
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -5589,7 +5590,7 @@
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
+- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [AgoraIO-Extensions/agora-rtc-react](https://github.com/AgoraIO-Extensions/agora-rtc-react) - Agora RTC React SDK
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
 - [AnwarHossainSR/nextjs-16-template](https://github.com/AnwarHossainSR/nextjs-16-template) - This is next js 16 boilerplate. You can start your next 16 project without any hassle of setup.
@@ -6152,7 +6153,7 @@
 
 ## storybook 
 
-- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
+- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🎨  Design System Starter
@@ -6209,6 +6210,7 @@
 
 ## tailwindcss 
 
+- [allthingslinux/atl.tools](https://github.com/allthingslinux/atl.tools) - 
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
@@ -6226,7 +6228,7 @@
 - [kzndotsh/coinswiper](https://github.com/kzndotsh/coinswiper) - coinswiper is a modern web application built with Next.js for voting on your Solana tokens. It provides real-time data and insights using the DexScreener API integration.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
-- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
+- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [aq189/Discord_Clone](https://github.com/aq189/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
 - [AnwarHossainSR/nextjs-16-template](https://github.com/AnwarHossainSR/nextjs-16-template) - This is next js 16 boilerplate. You can start your next 16 project without any hassle of setup.
@@ -6454,7 +6456,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
-- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 15+ boilerplate with typescript, husky, lint-staged, eslint, prettier, jest, react-testing-library, storybook, ghaction and plop.
+- [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [tremorlabs/template-dashboard-oss](https://github.com/tremorlabs/template-dashboard-oss) - Free open-source dashboard template by Tremor.
 - [Mugenhub-io/NextJS15-Shadcn-Dashboard](https://github.com/Mugenhub-io/NextJS15-Shadcn-Dashboard) - Soon to be a full dashboard with either a landing page or blog page
