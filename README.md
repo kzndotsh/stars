@@ -1435,6 +1435,7 @@
 ## discord 
 
 - [delthas/discord-formatting](https://github.com/delthas/discord-formatting) - A small Go library for parsing Discord markdown-like messages to an AST
+- [allthingslinux/atl.chat](https://github.com/allthingslinux/atl.chat) - 
 - [williamhorning/lightning](https://github.com/williamhorning/lightning) - read-only mirror: a cross-platform chat bot connecting your communities
 - [BrNi05/DiscOS](https://github.com/BrNi05/DiscOS) - DiscOS is a secure interaction bridge between Discord and Linux servers
 - [PythonistaGuild/Pythonista-Bot](https://github.com/PythonistaGuild/Pythonista-Bot) - Discord Bot for the Pythonista Guild.
@@ -1586,6 +1587,7 @@
 ## docker 
 
 - [allthingslinux/atl.tools](https://github.com/allthingslinux/atl.tools) - 
+- [allthingslinux/atl.chat](https://github.com/allthingslinux/atl.chat) - 
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
 - [henkelmax/traefik-mailcow-certdumper](https://github.com/henkelmax/traefik-mailcow-certdumper) - Dumps certificates from Traefik to use them in Mailcow Dockerized.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -3168,6 +3170,7 @@
 
 ## monitoring 
 
+- [horazont/xmpp-blackbox-exporter](https://github.com/horazont/xmpp-blackbox-exporter) - A Prometheus blackbox-like thing to probe XMPP services
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
@@ -3689,7 +3692,6 @@
 - [ObsidianIRC/UnrealIRCd-Modules](https://github.com/ObsidianIRC/UnrealIRCd-Modules) - UnrealIRCd modules that implement additional functionality for the ObsidianIRC webclient
 - [pirc-pl/unrealircd-modules](https://github.com/pirc-pl/unrealircd-modules) - 
 - [ValwareIRC/valware-unrealircd-mods](https://github.com/ValwareIRC/valware-unrealircd-mods) - Valware's UnrealIRCd modules
-- [allthingslinux/atl.chat](https://github.com/allthingslinux/atl.chat) - 
 - [legastero/stanza](https://github.com/legastero/stanza) - Modern XMPP, with a JSON API
 - [allthingslinux/atl.services](https://github.com/allthingslinux/atl.services) - 
 - [DopeDealers/Mailcow.js](https://github.com/DopeDealers/Mailcow.js) - A simple mailcow API wrapper
@@ -5255,6 +5257,7 @@
 
 ## python 
 
+- [allthingslinux/atl.chat](https://github.com/allthingslinux/atl.chat) - 
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
 - [schemen/privacycow](https://github.com/schemen/privacycow) - Mailcow Privacy Alias CLI
 - [cristoper/feedmixer](https://github.com/cristoper/feedmixer) - A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)
