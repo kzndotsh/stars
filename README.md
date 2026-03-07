@@ -42,6 +42,7 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [cms](#cms)
+- [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
@@ -863,6 +864,7 @@
 
 ## bot 
 
+- [RoiArthurB/xmpp-releasetracker](https://github.com/RoiArthurB/xmpp-releasetracker) - [MIRROR] A Go bot that watches repositories on GitHub, GitLab, and Gitea for new releases or tags, and announces them via XMPP — both to MUC rooms and to individual users.
 - [PythonistaGuild/Pythonista-Bot](https://github.com/PythonistaGuild/Pythonista-Bot) - Discord Bot for the Pythonista Guild.
 - [terminaldweller/milla](https://github.com/terminaldweller/milla) - terminaldweller's IRC bot
 - [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
@@ -942,6 +944,7 @@
 
 ## c 
 
+- [profanity-im/profanity](https://github.com/profanity-im/profanity) - Ncurses based XMPP client
 - [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 - [stateless-me/uuidv47](https://github.com/stateless-me/uuidv47) - ⚡ UUIDv47 = v4 privacy + v7 performance
 - [unrealircd/unrealircd](https://github.com/unrealircd/unrealircd) - Official UnrealIRCd repository. Downloads are available from our site
@@ -999,6 +1002,7 @@
 
 ## cli 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [grafana/grafanactl](https://github.com/grafana/grafanactl) - The Grafana CLI. Command-line tool designed to simplify interaction with Grafana resources.
 - [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 99+ CLI tools to build, browse, and blend your media library
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
@@ -1090,6 +1094,10 @@
 - [wutali/nextjs-netlify-blog-template](https://github.com/wutali/nextjs-netlify-blog-template) - Next.js blogging template for Netlify
 - [Xyl2k/Xylitol.Release.System.Final.v1.0.6.Tool-RED](https://github.com/Xyl2k/Xylitol.Release.System.Final.v1.0.6.Tool-RED) - Release portal for webscene groups
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+
+## code 
+
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 ## code-quality 
 
@@ -2592,7 +2600,6 @@
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to learn technical interview questions
 
 ## javafx 
 
@@ -2600,6 +2607,7 @@
 
 ## javascript 
 
+- [iquercorb/xows](https://github.com/iquercorb/xows) - XMPP over WebSocket Web client
 - [ObsidianIRC/ObbyScript](https://github.com/ObsidianIRC/ObbyScript) - A powerful server-side JavaScript scripting module for UnrealIRCd using the embedded Duktape engine.
 - [strophe/strophejs](https://github.com/strophe/strophejs) - Strophe.js is an XMPP library for JavaScript
 - [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
@@ -2833,6 +2841,8 @@
 
 ## linux 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [rallep71/dinox](https://github.com/rallep71/dinox) - DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO 1 + 2 Encryption & API Botmother and AI API DTMF MQTT Support
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
 - [BrNi05/DiscOS](https://github.com/BrNi05/DiscOS) - DiscOS is a secure interaction bridge between Discord and Linux servers
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -3055,6 +3065,7 @@
 
 ## macos 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
@@ -3710,6 +3721,21 @@
 
 ## others 
 
+- [unrealircd/unrealircd-webpanel-plugins](https://github.com/unrealircd/unrealircd-webpanel-plugins) - Third party plugins for the UnrealIRCd webpanel
+- [ValwareIRC/modbuilder](https://github.com/ValwareIRC/modbuilder) - A drag-and-drop no-code builder for creating third-party modules for UnrealIRCd
+- [ValwareIRC/uwp-plugins](https://github.com/ValwareIRC/uwp-plugins) - Official Plugin Repository for UnrealIRCd Web Panel
+- [ValwareIRC/unrealircd-webpanel-2](https://github.com/ValwareIRC/unrealircd-webpanel-2) - UnrealIRCd Web Panel v2 - Complete rewrite with Go backend and React/TypeScript frontend
+- [ValwareIRC/unrealircd-conf-shl](https://github.com/ValwareIRC/unrealircd-conf-shl) - vscode extension for UnrealIRCd .conf files syntax highlighting
+- [Lynthar/XMPanel](https://github.com/Lynthar/XMPanel) - A visual management panel for an XMPP server
+- [unredacted/xmpp.is](https://github.com/unredacted/xmpp.is) - The scripts and configuration that run XMPP.is
+- [modernxmpp/easy-xmpp-invitation](https://github.com/modernxmpp/easy-xmpp-invitation) - Easy XMPP Invitation Landing Page
+- [sv0/ansible-prosody](https://github.com/sv0/ansible-prosody) - Install and configure Prosody XMPP(Jabber) server with Ansible.
+- [casualshammy/prosody](https://github.com/casualshammy/prosody) - Prosody XMPP server docker image with STUN/TURN
+- [Alien-Tech-Solutions/Singularity-Messenger](https://github.com/Alien-Tech-Solutions/Singularity-Messenger) - An XMPP Based Secure Messaging Web Platform
+- [jelmer/prometheus-xmpp-alerts](https://github.com/jelmer/prometheus-xmpp-alerts) - XMPP Web hook for Prometheus
+- [conversejs/converse.js](https://github.com/conversejs/converse.js) - Web-based XMPP/Jabber chat written in JavaScript
+- [xsf/xmpp-providers-website](https://github.com/xsf/xmpp-providers-website) - Source of providers.xmpp.net (community project)
+- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions)
 - [h4ks-com/sshland](https://github.com/h4ks-com/sshland) - Menu and infra for `ssh h4ks.com`
 - [ObsidianIRC/unrealircd-webpanel-2](https://github.com/ObsidianIRC/unrealircd-webpanel-2) - UnrealIRCd Admin Web Panel 2.0
 - [processone/fluux-messenger](https://github.com/processone/fluux-messenger) - Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.
@@ -5065,6 +5091,7 @@
 
 ## p2p 
 
+- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [thcolin/oleoo](https://github.com/thcolin/oleoo) - 🏴‍☠️✨🎟 Oleoo - Scene/P2P/Warez release name parser
 - [vbuell/torram](https://github.com/vbuell/torram) - Utility that recreates a torrent download directory from fully and partially downloaded files
@@ -5205,6 +5232,7 @@
 
 ## privacy 
 
+- [profanity-im/profanity](https://github.com/profanity-im/profanity) - Ncurses based XMPP client
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
@@ -5515,6 +5543,7 @@
 
 ## python3 
 
+- [adator85/unrealircd_rpc_py](https://github.com/adator85/unrealircd_rpc_py) - Python Library for Unrealircd RPC-JSON
 - [nfergu/memalot](https://github.com/nfergu/memalot) - Finds memory leaks in Python programs
 - [djpugh/nskit](https://github.com/djpugh/nskit) - nskit is a python package that provides useful utilities and implementations for creating and managing a namespaced codebase for python and other programming languages.
 - [jordantshaw/pydantic-config](https://github.com/jordantshaw/pydantic-config) - Support for Pydantic settings configuration file management
@@ -5851,6 +5880,7 @@
 
 ## rust 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [crate-ci/imperative](https://github.com/crate-ci/imperative) - Check the mood of a word
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -6181,6 +6211,7 @@
 
 ## statistics 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring Tool for PostgreSQL
 - [thefederationinfo/the-federation.info](https://github.com/thefederationinfo/the-federation.info) - MIRROR of https://codeberg.org/thefederationinfo/the-federation.info
 - [python-discord/metricity](https://github.com/python-discord/metricity) - Advanced metric collection for the Python Discord server
@@ -6412,6 +6443,7 @@
 
 ## testing 
 
+- [profanity-im/stabber](https://github.com/profanity-im/stabber) - Stubbed XMPP Server
 - [dasniko/testcontainers-keycloak](https://github.com/dasniko/testcontainers-keycloak) - A Testcontainer implementation for Keycloak IAM & SSO.
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [progval/irctest](https://github.com/progval/irctest) - Semi-automated conformance checking for IRC implementations (RFC1459/RFC2812, the "modern spec" by ircdocs, and IRCv3)
@@ -6832,6 +6864,8 @@
 
 ## windows 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [rallep71/dinox](https://github.com/rallep71/dinox) - DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO 1 + 2 Encryption & API Botmother and AI API DTMF MQTT Support
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
@@ -6879,6 +6913,7 @@
 
 ## xml 
 
+- [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK/Vala
 - [Airizom/context-craft](https://github.com/Airizom/context-craft) - VS Code extension to cherry-pick workspace files and copy them as LLM-ready XML with token counts.
 
 ## youtube 
