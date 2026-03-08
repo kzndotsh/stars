@@ -1023,7 +1023,6 @@
 - [rubik/radon](https://github.com/rubik/radon) - Various code metrics for Python code
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
-- [reliverse/reliverse](https://github.com/reliverse/reliverse) - 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everyth
 - [josh-stillman/lintier](https://github.com/josh-stillman/lintier) - CLI to setup Eslint & Prettier in Typescript projects.
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [mrcnski/compnav](https://github.com/mrcnski/compnav) - Complete shell navigation: better up, z, and h
@@ -1307,7 +1306,7 @@
 - [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -1582,7 +1581,7 @@
 
 ## django 
 
-- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Performant, concise, and easy-to-use dependency injection container for Python 3.8+.
+- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [lincolnloop/goodconf](https://github.com/lincolnloop/goodconf) - Transparently load variables from environment or JSON/YAML/TOML file.
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
@@ -1655,7 +1654,7 @@
 - [GeekyAnts/express-typescript](https://github.com/GeekyAnts/express-typescript) - Express + TypeScript + Boilerplate for Web / API App
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [xdFNLeaks/managebot](https://github.com/xdFNLeaks/managebot) - just a little project i'm working on that allows you to view and manage your docker containers from discord.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1966,7 +1965,7 @@
 ## fastapi 
 
 - [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
-- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Performant, concise, and easy-to-use dependency injection container for Python 3.8+.
+- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [fastapi-admin/fastapi-admin](https://github.com/fastapi-admin/fastapi-admin) - A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies!
@@ -2009,7 +2008,7 @@
 
 ## flask 
 
-- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Performant, concise, and easy-to-use dependency injection container for Python 3.8+.
+- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [treeben77/discord-oauth2.py](https://github.com/treeben77/discord-oauth2.py) - API Wrapper for Discord OAuth2 & Linked Roles in Python.
 - [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
@@ -2182,7 +2181,7 @@
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2026. with learning resources
@@ -3109,7 +3108,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [bobheadxi/readable](https://github.com/bobheadxi/readable) - 👓 Opinionated Markdown formatter, featuring semantic line breaks
 - [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes) - The github action that creates index pages for your project, the changes still need to be submitted afterwards
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -3389,7 +3388,6 @@
 - [Dannyisadog/nextjs-authentication-template](https://github.com/Dannyisadog/nextjs-authentication-template) - The nextjs-authjs-template is a robust starter template for building modern web applications with Next.js and Auth.js (formerly NextAuth.js).
 - [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page) - Example Auth.js v5 Custom Signin Page
 - [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
-- [reliverse/reliverse](https://github.com/reliverse/reliverse) - 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everyth
 - [miantiao-me/nextflare](https://github.com/miantiao-me/nextflare) - Next.js App running with Lemon Squeezy on Cloudflare.
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
@@ -3594,7 +3592,7 @@
 
 ## nosql 
 
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with hierarchical storage tiers.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [oracle/docker-images](https://github.com/oracle/docker-images) - Official source of container configurations, images, and examples for Oracle products and projects
 
 ## npm 
@@ -3721,6 +3719,10 @@
 
 ## others 
 
+- [hashbang/shell-etc](https://github.com/hashbang/shell-etc) - /etc directory from our shell servers, managed via etckeeper
+- [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users
+- [tildeclub/site](https://github.com/tildeclub/site) - tilde.club site source
+- [tildeclub/tilde.club](https://github.com/tildeclub/tilde.club) - Code and documentation for setting up and managing a tilde.club server
 - [unrealircd/unrealircd-webpanel-plugins](https://github.com/unrealircd/unrealircd-webpanel-plugins) - Third party plugins for the UnrealIRCd webpanel
 - [ValwareIRC/modbuilder](https://github.com/ValwareIRC/modbuilder) - A drag-and-drop no-code builder for creating third-party modules for UnrealIRCd
 - [ValwareIRC/uwp-plugins](https://github.com/ValwareIRC/uwp-plugins) - Official Plugin Repository for UnrealIRCd Web Panel
@@ -4070,6 +4072,7 @@
 - [Kuzma02/NextJS14-NextAuth-Login-And-Register](https://github.com/Kuzma02/NextJS14-NextAuth-Login-And-Register) - NextAuth Boilerplate is a versatile and customizable authentication solution tailored for Next.js 14, offering a seamless integration. This feature-rich boilerplate not only provides a secure and effi
 - [hafisn07/next-auth-v5-advanced-guide-2024](https://github.com/hafisn07/next-auth-v5-advanced-guide-2024) - Next-auth v5 project with Next.js 14, offering robust authentication features including social logins, password recovery, email verification, two-factor authentication, user roles (admin & user), logi
 - [zenWai/nextjs14-next-authv5-app-router](https://github.com/zenWai/nextjs14-next-authv5-app-router) - Nextjs 14 w/ Next-Auth v5, Prisma, zod, react-hook-form | Forgot password | email verification | 2FA | User Roles | Rate Limiting
+- [reliverse/experiments](https://github.com/reliverse/experiments) - Experimental projects, prototypes, and early ideas from the Reliverse and Bleverse ecosystems.
 - [brokenscripts/authentik_traefik](https://github.com/brokenscripts/authentik_traefik) - Authentik behind Traefik
 - [javimosch/landing-proxyflare](https://github.com/javimosch/landing-proxyflare) - Create landing pages and deploy them fast using Proxiflare API
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
@@ -5323,7 +5326,7 @@
 - [nfergu/memalot](https://github.com/nfergu/memalot) - Finds memory leaks in Python programs
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [fastapi-mvc/fastapi-mvc](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
-- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Performant, concise, and easy-to-use dependency injection container for Python 3.8+.
+- [maldoinc/wireup](https://github.com/maldoinc/wireup) - Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.
 - [aminalaee/sqladmin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
@@ -5666,7 +5669,6 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
-- [reliverse/reliverse](https://github.com/reliverse/reliverse) - 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everyth
 - [mickasmt/next-auth-roles-template](https://github.com/mickasmt/next-auth-roles-template) - Open-source Nextjs 14 Template Starter with Auth.js v5, User Roles & Admin Panel. Remove blog or docs parts with one cli.
 - [AndreaPontrandolfo/sheriff](https://github.com/AndreaPontrandolfo/sheriff) - A comprehensive and opinionated Typescript-first ESLint configuration.
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
@@ -5681,7 +5683,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
@@ -6027,7 +6029,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [open-discord-bots/open-ticket](https://github.com/open-discord-bots/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, pterodactyl support & more! Easy setup & powered by discord.js v14!
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -6190,7 +6192,7 @@
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [anand2312/crajybot](https://github.com/anand2312/crajybot) - A small Discord bot
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
@@ -6259,7 +6261,6 @@
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
 - [bysxx/next16-ts-template-fullstack](https://github.com/bysxx/next16-ts-template-fullstack) - ⚡ Fullstack Next.js 16 + TypeScript + MongoDB Template (with SEO)
 - [alan345/AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate) - Fullstack SaaS Boilerplate built with tRPC, Fastify and React
-- [reliverse/reliverse](https://github.com/reliverse/reliverse) - 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everyth
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [alejandronanez/turborepo-nextjs-starter](https://github.com/alejandronanez/turborepo-nextjs-starter) - Turborepo + Next.js + TailwindCSS + TypeScript + Prettier + ESLint template to hit the ground running.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -6307,7 +6308,6 @@
 - [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page) - Example Auth.js v5 Custom Signin Page
 - [Hombre2014/nextjs-14-auth-v5-tutorial](https://github.com/Hombre2014/nextjs-14-auth-v5-tutorial) - Next.js Auth tutorial by Code with Antonio
 - [AsharibAli/next-authjs-v5](https://github.com/AsharibAli/next-authjs-v5) - Next Auth v5 - Advanced Guide with a Project
-- [reliverse/reliverse](https://github.com/reliverse/reliverse) - 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everyth
 - [shinevue/Quick-SAAS-Next-app](https://github.com/shinevue/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) - UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
 - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind
