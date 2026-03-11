@@ -407,6 +407,7 @@
 
 ## android 
 
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
@@ -422,6 +423,8 @@
 
 ## ansible 
 
+- [allthingslinux/atl.sh](https://github.com/allthingslinux/atl.sh) - 
+- [robertdebock/ansible-role-logrotate](https://github.com/robertdebock/ansible-role-logrotate) - Install and configure logrotate on your system.
 - [cary997/fastcow-devops](https://github.com/cary997/fastcow-devops) - Ansible-based task scheduling platform
 - [allthingslinux/infra](https://github.com/allthingslinux/infra) - Infrastructure monorepo for All Things Linux
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
@@ -1595,6 +1598,7 @@
 
 ## docker 
 
+- [allthingslinux/atl.sh](https://github.com/allthingslinux/atl.sh) - 
 - [ObsidianIRC/ObsidianIRC](https://github.com/ObsidianIRC/ObsidianIRC) - Modern IRC Client for the web, desktop and mobile.
 - [allthingslinux/atl.tools](https://github.com/allthingslinux/atl.tools) - 
 - [allthingslinux/atl.chat](https://github.com/allthingslinux/atl.chat) - 
@@ -2773,6 +2777,7 @@
 
 ## kotlin 
 
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [mayope/keycloakmigration](https://github.com/mayope/keycloakmigration) - Manage your Keycloak configuration with code.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 
@@ -2842,6 +2847,8 @@
 
 ## linux 
 
+- [allthingslinux/atl.sh](https://github.com/allthingslinux/atl.sh) - 
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rallep71/dinox](https://github.com/rallep71/dinox) - DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO 1 + 2 Encryption & API Botmother and AI API DTMF MQTT Support
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
@@ -3066,6 +3073,7 @@
 
 ## macos 
 
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
@@ -3209,6 +3217,7 @@
 
 ## monitoring 
 
+- [robertdebock/ansible-role-logrotate](https://github.com/robertdebock/ansible-role-logrotate) - Install and configure logrotate on your system.
 - [horazont/xmpp-blackbox-exporter](https://github.com/horazont/xmpp-blackbox-exporter) - A Prometheus blackbox-like thing to probe XMPP services
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
@@ -3627,6 +3636,8 @@
 
 ## open-source 
 
+- [allthingslinux/atl.sh](https://github.com/allthingslinux/atl.sh) - 
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
 - [Punderthings/fossfoundation](https://github.com/Punderthings/fossfoundation) - Directory of non-profit FOSS Foundations, with detailed metadata.
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
@@ -3680,7 +3691,6 @@
 ## openai 
 
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡 build-in Codex agent use ChatGPT subscription, mcphub
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -3721,6 +3731,10 @@
 
 ## others 
 
+- [lnussbaum/incant](https://github.com/lnussbaum/incant) - Incus frontend to describe and provision development environments
+- [LukeEmmet/molly-brown](https://github.com/LukeEmmet/molly-brown) - 
+- [steveandreassend/linux_auditd](https://github.com/steveandreassend/linux_auditd) - Best practice configuration for Linux auditd for CIS and STIG standards, enhanced with LOTL detection rules.
+- [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [hashbang/shell-etc](https://github.com/hashbang/shell-etc) - /etc directory from our shell servers, managed via etckeeper
 - [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users
 - [tildeclub/site](https://github.com/tildeclub/site) - tilde.club site source
@@ -3807,7 +3821,6 @@
 - [oimiragieo/agent-studio](https://github.com/oimiragieo/agent-studio) - 
 - [formsort/sentryfuge](https://github.com/formsort/sentryfuge) - A GitHub Action that automatically links to referenced Sentry issues in issues and PRs
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-- [berTrindade/terraform-infrastructure-blueprints](https://github.com/berTrindade/terraform-infrastructure-blueprints) - 
 - [yaredow/next-starter](https://github.com/yaredow/next-starter) - A feature rich Next.js starter template
 - [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui) - Beautiful UI components built for Better Auth.
 - [better-auth/awesome](https://github.com/better-auth/awesome) - A curated list of awesome things related to better-auth
@@ -5920,6 +5933,7 @@
 
 ## security 
 
+- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 11/12 hardening
 - [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -6099,6 +6113,7 @@
 
 ## shell 
 
+- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 11/12 hardening
 - [jamestomasino/cosmic](https://github.com/jamestomasino/cosmic) - Cosmic Voyage scripts
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
@@ -6416,6 +6431,7 @@
 
 ## terraform 
 
+- [allthingslinux/atl.sh](https://github.com/allthingslinux/atl.sh) - 
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) - Terraform provider for Keycloak
 - [AleksaC/tflint-py](https://github.com/AleksaC/tflint-py) - pip installable tflint binary with wrapper for pre-commit
@@ -6868,6 +6884,7 @@
 
 ## windows 
 
+- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rallep71/dinox](https://github.com/rallep71/dinox) - DinoX - Modern XMPP Chat Client with Video Calls, Voice Messages & OMEMO 1 + 2 Encryption & API Botmother and AI API DTMF MQTT Support
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
