@@ -3726,6 +3726,7 @@
 
 ## others 
 
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
 - [0-Sandy/better-auth-invite-plugin](https://github.com/0-Sandy/better-auth-invite-plugin) - A plugin for Better Auth that adds an invitation system, allowing you to create, send, and manage invites for user sign-ups or role upgrades.
 - [lnussbaum/incant](https://github.com/lnussbaum/incant) - Incus frontend to describe and provision development environments
