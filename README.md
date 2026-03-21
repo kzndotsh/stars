@@ -1986,6 +1986,7 @@
 
 ## finance 
 
+- [klinecharts/KLineChart](https://github.com/klinecharts/KLineChart) - 📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments knowledge for cloud platforms
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
@@ -4701,7 +4702,7 @@
 - [kiewic/spotify-charts](https://github.com/kiewic/spotify-charts) - Script to automatically download all the data available at https://spotifycharts.com/regional
 - [esteveste/Spotify-Charts-Scraper](https://github.com/esteveste/Spotify-Charts-Scraper) - Python Script for Scrapping all Spotify top 200 by weak/day and country
 - [melissapg/webscraping-bd-spotifycharts](https://github.com/melissapg/webscraping-bd-spotifycharts) - webscraping spotify charts to a relational database
-- [Sebs66/topCharts](https://github.com/Sebs66/topCharts) - REST API to get historic data of Spotify's top 50 charts.
+- [sebsx/topCharts](https://github.com/sebsx/topCharts) - REST API to get historic data of Spotify's top 50 charts.
 - [Kenefab/spotify-api](https://github.com/Kenefab/spotify-api) - get top 100 charts data from spotify
 - [qtilities/picom-conf](https://github.com/qtilities/picom-conf) - GUI configuration tool for Picom X composite manager
 - [falconindy/pkgfile](https://github.com/falconindy/pkgfile) - an alpm .files metadata explorer
