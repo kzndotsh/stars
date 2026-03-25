@@ -3770,7 +3770,7 @@
 - [dark-warlord14/polylens-ui](https://github.com/dark-warlord14/polylens-ui) - A high-performance, automated web dashboard for Polymarket discovery. Converted from the PolyLens Chrome extension into a professional, scalable static web application.
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
-- [0-Sandy/better-auth-invite-plugin](https://github.com/0-Sandy/better-auth-invite-plugin) - A plugin for Better Auth that adds an invitation system, allowing you to create, send, and manage invites for user sign-ups or role upgrades.
+- [better-invite/better-invite](https://github.com/better-invite/better-invite) - A plugin for Better Auth that adds an invitation system, allowing you to create, send, and manage invites for user sign-ups or role upgrades.
 - [lnussbaum/incant](https://github.com/lnussbaum/incant) - Incus frontend to describe and provision development environments
 - [LukeEmmet/molly-brown](https://github.com/LukeEmmet/molly-brown) - 
 - [steveandreassend/linux_auditd](https://github.com/steveandreassend/linux_auditd) - Best practice configuration for Linux auditd for CIS and STIG standards, enhanced with LOTL detection rules.
@@ -5586,7 +5586,7 @@
 - [pushingkarmaorg/python-plexapi](https://github.com/pushingkarmaorg/python-plexapi) - Python bindings for the Plex API.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [hugonun/discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Discord bot that stores messages to Google Sheet.
-- [totaldebug/pyarr](https://github.com/totaldebug/pyarr) - Python client for Servarr API's (Sonarr, Radarr, Readarr, Lidarr)
+- [totaldebug/pyarr](https://github.com/totaldebug/pyarr) - Python client for Servarr API's (Sonarr, Radarr, Readarr, Lidarr, Prowlarr, Bazarr, Dispatcharr, Whisparr)
 - [EthanC/Perplex](https://github.com/EthanC/Perplex) - Discord Rich Presence implementation for Plex.
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
