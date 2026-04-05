@@ -1712,6 +1712,7 @@
 - [v0idp/Mellow](https://github.com/v0idp/Mellow) - Mellow can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming to use those services directly in your Discord client.
 - [felipeall/spotify-charts-pipeline](https://github.com/felipeall/spotify-charts-pipeline) - Get the daily Spotify Charts data history and load to a PostgreSQL database
 - [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
+- [izissise/nginx-explorer](https://github.com/izissise/nginx-explorer) - Zero-dependency file manager powered by Nginx
 - [allenrkeen/server-bot](https://github.com/allenrkeen/server-bot) - Discord bot to remotely monitor and control a docker based server
 - [arabcoders/watchstate](https://github.com/arabcoders/watchstate) - Self-hosted service to sync your plex, jellyfin and emby play state. without relying on 3rd-party external services.
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
@@ -2748,7 +2749,7 @@
 - [Todd-Owen-Mpeli/blueinventory](https://github.com/Todd-Owen-Mpeli/blueinventory) - This is a Next.js 13 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 13 static-side & server-side rendering. This projects is developed with 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [izissise/nginx-explorer](https://github.com/izissise/nginx-explorer) - File explorer in javascript, file come from nginx autoindex
+- [izissise/nginx-explorer](https://github.com/izissise/nginx-explorer) - Zero-dependency file manager powered by Nginx
 - [phillipj/node-plex-api](https://github.com/phillipj/node-plex-api) - Node.js package used to query the Plex Media Server HTTP API
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [acode/FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
@@ -3776,6 +3777,8 @@
 
 ## others 
 
+- [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
+- [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [ezrizhu/now](https://github.com/ezrizhu/now) - efingerd program
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [iobroker-community-adapters/ioBroker.ical](https://github.com/iobroker-community-adapters/ioBroker.ical) - ioBroker adapter to read and parse iCal calender information from ics files, URLs and from CalDAV resources (e.g. NextCloud, Google Calender, etc.)
@@ -6126,6 +6129,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
+- [izissise/nginx-explorer](https://github.com/izissise/nginx-explorer) - Zero-dependency file manager powered by Nginx
 - [allenrkeen/server-bot](https://github.com/allenrkeen/server-bot) - Discord bot to remotely monitor and control a docker based server
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
