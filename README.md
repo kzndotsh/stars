@@ -592,6 +592,7 @@
 
 ## awesome 
 
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
 - [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -675,6 +676,7 @@
 
 ## awesome-list 
 
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
 - [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
@@ -2127,7 +2129,7 @@
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [chaaz/versio](https://github.com/chaaz/versio) - A version number manager
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [opensource-nepal/commitlint](https://github.com/opensource-nepal/commitlint) - Lint Conventional Commit message on GitHub Actions and pre-commit.
 - [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
@@ -3174,7 +3176,7 @@
 ## mcp 
 
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context.
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
 - [Anselmoo/mcp-server-analyzer](https://github.com/Anselmoo/mcp-server-analyzer) - MCP server for Python code analysis with RUFF linting and VULTURE dead code detection
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -3777,6 +3779,8 @@
 
 ## others 
 
+- [ph1p/tailwind-lint](https://github.com/ph1p/tailwind-lint) - A command-line tool that uses the Tailwind CSS IntelliSense plugin to show linting suggestions for your Tailwind CSS classes
+- [laststance/tailwindcss-canonical-classes-monrepo](https://github.com/laststance/tailwindcss-canonical-classes-monrepo) - 
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [ezrizhu/now](https://github.com/ezrizhu/now) - efingerd program
@@ -3978,7 +3982,7 @@
 - [manuzhang/mkdocs-htmlproofer-plugin](https://github.com/manuzhang/mkdocs-htmlproofer-plugin) - A MkDocs plugin that validates URL in rendered html files
 - [OctoPrint/mkdocs-site-urls](https://github.com/OctoPrint/mkdocs-site-urls) - A MkDocs plugin that adds support for site-relative `site:` URLs.
 - [realtimeprojects/mkdocs-ezglossary](https://github.com/realtimeprojects/mkdocs-ezglossary) - Glossary support for mkdocs
-- [Jackiexiao/mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
+- [makerjackie/mkdocs-roamlinks-plugin](https://github.com/makerjackie/mkdocs-roamlinks-plugin) - An MkDocs plugin that automagically generates relative links between markdown pages
 - [wilhelmer/mkdocs-unused-files](https://github.com/wilhelmer/mkdocs-unused-files) - An MkDocs plugin to find unused (orphaned) files in your project.
 - [six-two/mkdocs-backlinks-section-plugin](https://github.com/six-two/mkdocs-backlinks-section-plugin) - Create a backlink section that lists every page linking to the current page
 - [rhshadrach/mkdocs-argref-plugin](https://github.com/rhshadrach/mkdocs-argref-plugin) - mkdocs plugin to provides GitHub like autolink references in Mkdocs.
@@ -4840,7 +4844,6 @@
 - [Arial-Z/Romaji-Renamer](https://github.com/Arial-Z/Romaji-Renamer) - Bash script to retrieve metadata from MAL and Anilist and import it to plex with a kometa metadata file
 - [sayem314/pirates-mediaserver](https://github.com/sayem314/pirates-mediaserver) - private media server installation script
 - [raydouglass/media_management_scripts](https://github.com/raydouglass/media_management_scripts) - Set of tools for managing media libraries
-- [nwithan8/Plex2Jellyfin](https://github.com/nwithan8/Plex2Jellyfin) - Scripts to assist migrating from a Plex Media Server to a Jellyfin Media Server
 - [cacheflowe/media-utility-scripts](https://github.com/cacheflowe/media-utility-scripts) - Scripts for common media file conversion tasks
 - [iwalton3/media-scripts](https://github.com/iwalton3/media-scripts) - Scripts to assist with handling media files.
 - [brianspilner01/media-server-scripts](https://github.com/brianspilner01/media-server-scripts) - 
@@ -4926,7 +4929,6 @@
 - [LatentFreedom/discord-gatherwallets-airtable](https://github.com/LatentFreedom/discord-gatherwallets-airtable) - This repository holds all the needed files to run the discord gather wallets airtable bot
 - [dabblelab/airtable-discord](https://github.com/dabblelab/airtable-discord) - Creating a Discord Bot that connects to Airtable Base to GET, POST, UPDATE and DELETE Data
 - [Developer-DAO/devie-bot](https://github.com/Developer-DAO/devie-bot) - This bot will allow users to use /commands in discord to add resources to our knowledge base on airtable.
-- [nwithan8/QueueBot](https://github.com/nwithan8/QueueBot) - A bot for tracking a queue in Discord
 - [nwithan8/tauticord](https://github.com/nwithan8/tauticord) - A Discord bot that displays live data from Tautulli
 - [anisdzdev/nft-whitelist-bot](https://github.com/anisdzdev/nft-whitelist-bot) - Whitelisting bot for NFT projects
 - [tenjinlab/whitelistPy](https://github.com/tenjinlab/whitelistPy) - A discord bot to assist in recording wallet addresses for NFT drops.
@@ -4960,24 +4962,21 @@
 - [lutris/docs](https://github.com/lutris/docs) - 
 - [Digitalone1/EasyEffects-Presets](https://github.com/Digitalone1/EasyEffects-Presets) - Presets for EasyEffects and PulseEffects.
 - [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
-- [nwithan8/Arca](https://github.com/nwithan8/Arca) - Arca, a Discord bot for BigBox. Cogs for discord.py bots
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [KBlixt/PlexUnify](https://github.com/KBlixt/PlexUnify) - some plex python scripts
-- [tuxmi/plexDash](https://github.com/tuxmi/plexDash) - A system performance dashboard for plex-servers -- linux only!
+- [itsecbern/plexDash](https://github.com/itsecbern/plexDash) - A system performance dashboard for plex-servers -- linux only!
 - [Floydan/plex-discord-webhook](https://github.com/Floydan/plex-discord-webhook) - Plex Discord Webhook integration
 - [mvantassel/plexpy2influx](https://github.com/mvantassel/plexpy2influx) - Pipe select PlexPy metrics to InfluxDB so it can be graphed in Grafana
 - [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 - [JoKneeMo/Plexidex](https://github.com/JoKneeMo/Plexidex) - Export Plex Movie library to HTML/PHP
 - [glitch452/MMM-PlexNowPlaying](https://github.com/glitch452/MMM-PlexNowPlaying) - A MagicMirror2 module that displays the list of playback sessions for a Plex Media Server.
 - [othalla/plex_exporter](https://github.com/othalla/plex_exporter) - Prometheus exporter for Plex Media Server
-- [nwithan8/PlexRecs](https://github.com/nwithan8/PlexRecs) - A Discord bot that provides movie, TV show and music recommendations from your Plex library
 - [scytherswings/Plex-Board](https://github.com/scytherswings/Plex-Board) - A dynamic dashboard for checking the status of multiple services related to Plex Media Server (Plex, Couchpotato, Sickrage, Deluge, Sabnzbd+, etc.).
 - [irbyk/Plex-Discord-Bot_V2](https://github.com/irbyk/Plex-Discord-Bot_V2) - Upgrade of the Plex-Discord-Bot by danxfisher : https://github.com/danxfisher/Plex-Discord-Bot
 - [stokkes/plex_rcs](https://github.com/stokkes/plex_rcs) - Plex rclone cache scanner
 - [cjmanca/plex-credits-detect](https://github.com/cjmanca/plex-credits-detect) - Augments plex's built in intro detection, additionally detecting credits.
 - [bullmoose20/Plex-Stuff](https://github.com/bullmoose20/Plex-Stuff) - Random plex related stuff
 - [thatvirtualboy/plex](https://github.com/thatvirtualboy/plex) - Scripts for Plex Postprocessing
-- [nwithan8/PlexDiscordManager](https://github.com/nwithan8/PlexDiscordManager) - A Discord bot to manage your Plex users
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [JakeWharton/plex-orphaned-files](https://github.com/JakeWharton/plex-orphaned-files) - Find files in your Plex libraries which are not indexed
 - [matthiasxc/PlexClassicCartoons](https://github.com/matthiasxc/PlexClassicCartoons) - Scripts for organizing collections of classic cartoons (Disney, Looney Tunes) properly into Plex
@@ -5706,6 +5705,7 @@
 
 ## react 
 
+- [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
@@ -5866,6 +5866,7 @@
 
 ## react-native 
 
+- [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [react-keycloak/react-keycloak](https://github.com/react-keycloak/react-keycloak) - React/React Native/NextJS/Razzle components for Keycloak
 - [getsentry/sentry-wizard](https://github.com/getsentry/sentry-wizard) - Sentry Project Setup Wizard
