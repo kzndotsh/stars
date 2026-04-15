@@ -3437,6 +3437,7 @@
 
 ## nextjs 
 
+- [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [vmnog/calendarcn](https://github.com/vmnog/calendarcn) - A beautifully crafted calendar component built with shadcn/ui and Tailwind CSS, inspired by Notion Calendar. Week view, dark mode, and more.
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
 - [allthingslinux/atl.tools](https://github.com/allthingslinux/atl.tools) - 
@@ -3727,6 +3728,7 @@
 
 ## open-source 
 
+- [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [brandonhimpfen/awesome-hugging-face](https://github.com/brandonhimpfen/awesome-hugging-face) - A curated list of awesome libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
