@@ -3181,6 +3181,7 @@
 
 ## markdown 
 
+- [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
 - [delthas/discord-formatting](https://github.com/delthas/discord-formatting) - A small Go library for parsing Discord markdown-like messages to an AST
 - [jackdewinter/pymarkdown](https://github.com/jackdewinter/pymarkdown) - 
@@ -3829,6 +3830,7 @@
 
 ## others 
 
+- [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [NielsRogge/awesome-huggingface](https://github.com/NielsRogge/awesome-huggingface) - Repository containing awesome resources regarding Hugging Face tooling.
 - [Hog185/Lufus](https://github.com/Hog185/Lufus) - A rufus clone written in py and designed to work with linux
 - [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
@@ -6632,6 +6634,7 @@
 
 ## typescript 
 
+- [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [antoine-coulon/skott](https://github.com/antoine-coulon/skott) - All-in-one devtool to automatically analyze, search and visualize project modules and dependencies from JavaScript, TypeScript (JSX/TSX) and Node.js (ES6, CommonJS)
 - [acrazing/dpdm](https://github.com/acrazing/dpdm) - Detect circular dependencies in your TypeScript projects.
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
