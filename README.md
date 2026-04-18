@@ -2632,6 +2632,7 @@
 ## http 
 
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
+- [fuomag9/caddy-proxy-manager](https://github.com/fuomag9/caddy-proxy-manager) - The modern web interface for Caddy Server. WAF protection, automatic HTTPS, mTLS, forward auth, geo blocking, L4 TCP/UDP proxying, traffic analytics, a full REST API, and a complete audit trail. All i
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http) - Python library that handles interactions from Discord POST requests.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -3911,7 +3912,6 @@
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
 - [egandro/nginx_proxy_manager_tool](https://github.com/egandro/nginx_proxy_manager_tool) - CLI and Ansible Tool for Nginx Proxy Manager, allowing you to automate configurations by using the REST API.
 - [Festeazy/nginxproxymanagerGraf](https://github.com/Festeazy/nginxproxymanagerGraf) - A Python/Shell connector for Nginx Proxy Manager (Docker)
-- [fuomag9/caddy-proxy-manager](https://github.com/fuomag9/caddy-proxy-manager) - Docker container for managing Caddy proxy hosts with a simple, powerful interface
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [aaanh/tailflare-ui](https://github.com/aaanh/tailflare-ui) - Sync your Tailscale hosts to Cloudflare DNS
@@ -5480,7 +5480,7 @@
 - [romis2012/pydantic-collections](https://github.com/romis2012/pydantic-collections) - Collections of pydantic models
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [getsentry/sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 - [jamesoff/simplemonitor](https://github.com/jamesoff/simplemonitor) - A Python-based network and host monitor
@@ -6962,6 +6962,7 @@
 ## web 
 
 - [prose-im/prose-app-web](https://github.com/prose-im/prose-app-web) - Prose Web application. XMPP client for team messaging.
+- [fuomag9/caddy-proxy-manager](https://github.com/fuomag9/caddy-proxy-manager) - The modern web interface for Caddy Server. WAF protection, automatic HTTPS, mTLS, forward auth, geo blocking, L4 TCP/UDP proxying, traffic analytics, a full REST API, and a complete audit trail. All i
 - [smithyhq/sqladmin](https://github.com/smithyhq/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Message and manage through your Discord bot, self-hosted.
 - [InBrowserApp/tldr.inbrowser.app](https://github.com/InBrowserApp/tldr.inbrowser.app) - 📝 tldr InBrowser.App is a offline-capable PWA for tldr-pages. Fully runs in your browser. Zero API latency.
