@@ -3829,6 +3829,7 @@
 
 ## others 
 
+- [SII-WANGZJ/Polymarket_data](https://github.com/SII-WANGZJ/Polymarket_data) - A comprehensive dataset of 1.1 billion trading records from Polymarket, processed into multiple analysis-ready formats. Features cleaned data, unified token perspectives, and user-level transformation
 - [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [NielsRogge/awesome-huggingface](https://github.com/NielsRogge/awesome-huggingface) - Repository containing awesome resources regarding Hugging Face tooling.
 - [Hog185/Lufus](https://github.com/Hog185/Lufus) - A rufus clone written in py and designed to work with linux
