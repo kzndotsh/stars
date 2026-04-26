@@ -1039,7 +1039,7 @@
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
@@ -1134,7 +1134,7 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [darklang/dark](https://github.com/darklang/dark) - Darklang main repo, including language, backend, and infra
 - [mikeroyal/Terraform-Guide](https://github.com/mikeroyal/Terraform-Guide) - Terraform Guide
-- [dddominikk/airtable-script-extender](https://github.com/dddominikk/airtable-script-extender) - JavaScript is amazing. Managing project dependencies less so. This repo utilizes the Airtable Scripting app to deliver more robust prototyping capabilities despite the block's sanitized, DOM- and HTML
+- [dddominikk/airtable-kit](https://github.com/dddominikk/airtable-kit) - JavaScript is amazing. Managing project dependencies less so. This repo utilizes the Airtable Scripting app to deliver more robust prototyping capabilities despite the block's sanitized, DOM- and HTML
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
@@ -3241,7 +3241,7 @@
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - TUI-based MCP server multiplexer, configure all your MCP's in a single MCP with profiles
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
 - [Anselmoo/mcp-server-analyzer](https://github.com/Anselmoo/mcp-server-analyzer) - MCP server for Python code analysis with RUFF linting and VULTURE dead code detection
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -3919,7 +3919,6 @@
 - [remkolodder/mailcow-dashboard](https://github.com/remkolodder/mailcow-dashboard) - Mailcow dashboard
 - [leolilley/mailcow_mcp](https://github.com/leolilley/mailcow_mcp) - 
 - [ShlomiPorush/mailcow-logs-viewer](https://github.com/ShlomiPorush/mailcow-logs-viewer) - A modern, self-hosted dashboard for viewing and analyzing mailcow mail server logs.
-- [greeeen-dev/shinobu](https://github.com/greeeen-dev/shinobu) - Converse from anywhere, anytime.
 - [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - [deepentropy/lightweight-charts-indicators](https://github.com/deepentropy/lightweight-charts-indicators) - 446 technical analysis indicators for TradingView's lightweight-charts library
 - [KitsuneKode/template-nextjs-express-trpc-better-auth-monorepo](https://github.com/KitsuneKode/template-nextjs-express-trpc-better-auth-monorepo) - A modern, scalable, and type-safe monorepo template
@@ -6250,7 +6249,7 @@
 - [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [dddominikk/airtable-script-extender](https://github.com/dddominikk/airtable-script-extender) - JavaScript is amazing. Managing project dependencies less so. This repo utilizes the Airtable Scripting app to deliver more robust prototyping capabilities despite the block's sanitized, DOM- and HTML
+- [dddominikk/airtable-kit](https://github.com/dddominikk/airtable-kit) - JavaScript is amazing. Managing project dependencies less so. This repo utilizes the Airtable Scripting app to deliver more robust prototyping capabilities despite the block's sanitized, DOM- and HTML
 - [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
