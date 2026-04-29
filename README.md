@@ -4135,7 +4135,7 @@
 - [amplify-education/terrawrap](https://github.com/amplify-education/terrawrap) - 
 - [giang6283623/cursor-tip](https://github.com/giang6283623/cursor-tip) - Do You Want to Build a Snowman ☃️ ?
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [maccman/ai-monorepo-scaffold](https://github.com/maccman/ai-monorepo-scaffold) - A scaffold demonstrating how to use a turbo, mono repo, trpc, better auth, react, postgres and cursor ai rules.
 - [johnlindquist/get-rules](https://github.com/johnlindquist/get-rules) - Downloads .mdc rule files for Cursor from johnlindquist/rules-for-tools repository.
 - [sparesparrow/cursor-rules](https://github.com/sparesparrow/cursor-rules) - A library of rules for the Cursor IDE, providing organized instructions for the Agent Composer LLM backend.
