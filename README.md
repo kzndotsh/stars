@@ -528,7 +528,7 @@
 - [ulises-jeremias/dotfiles](https://github.com/ulises-jeremias/dotfiles) - HorneroConfig is a comprehensive dotfiles framework, tailored for seamless customization of diverse window management setups across various operating systems. Just like the skilled hornero bird meticu
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles-archive](https://github.com/AlexvZyl/.dotfiles-archive) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [christian-heusel/dotfiles](https://github.com/christian-heusel/dotfiles) - My dotfiles and i3 install (configured by ansible)
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
@@ -1892,7 +1892,7 @@
 - [stronk-dev/Tokyo-Night-Linux](https://github.com/stronk-dev/Tokyo-Night-Linux) - Dark theme for i3+polybar, sway+waybar, rofi, GTK, spotify and Discord based on the Tokyo Night vscode theme
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles-archive](https://github.com/AlexvZyl/.dotfiles-archive) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [Wabri/polybar-minimal-nord-theme](https://github.com/Wabri/polybar-minimal-nord-theme) - Minimal polybar nord theme configuration.
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
 - [oknozor/toml-bombadil](https://github.com/oknozor/toml-bombadil) - A dotfile manager with templating
@@ -2676,7 +2676,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
@@ -3021,7 +3021,7 @@
 - [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
 - [stronk-dev/Tokyo-Night-Linux](https://github.com/stronk-dev/Tokyo-Night-Linux) - Dark theme for i3+polybar, sway+waybar, rofi, GTK, spotify and Discord based on the Tokyo Night vscode theme
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles-archive](https://github.com/AlexvZyl/.dotfiles-archive) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [Wabri/polybar-minimal-nord-theme](https://github.com/Wabri/polybar-minimal-nord-theme) - Minimal polybar nord theme configuration.
 - [CodeHeister/dotfiles](https://github.com/CodeHeister/dotfiles) - First rice for i3-gaps
@@ -3426,7 +3426,7 @@
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [eepykate/polka](https://github.com/eepykate/polka) - 🐢 dotless files  (sponsored by https://git.io/kiwmi)
-- [AlexvZyl/.dotfiles](https://github.com/AlexvZyl/.dotfiles) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
+- [AlexvZyl/.dotfiles-archive](https://github.com/AlexvZyl/.dotfiles-archive) - 🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
 - [dikiaap/dotfiles](https://github.com/dikiaap/dotfiles) - Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.
 - [2KAbhishek/dots2k](https://github.com/2KAbhishek/dots2k) - Passionately Crafted CLI Setup 🐧❤️
@@ -3993,7 +3993,6 @@
 - [haileyydev/maildrop](https://github.com/haileyydev/maildrop) - ✉️ A simple self hostable email service
 - [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -6150,7 +6149,7 @@
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -6606,6 +6605,7 @@
 ## tui 
 
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - TUI-based MCP server multiplexer, configure all your MCP's in a single MCP with profiles
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [NumeXx/gsm](https://github.com/NumeXx/gsm) - Connect like there's no firewall, but with style and a kick-ass TUI!
 - [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [breynard0/lscoltui](https://github.com/breynard0/lscoltui) - A TUI tool for changing the colours of ls
@@ -6929,7 +6929,7 @@
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [tom472/mediabox](https://github.com/tom472/mediabox) - Container based media tools configuration
 - [binhex/documentation](https://github.com/binhex/documentation) - Documentation for software located in the binhex repositories.
 
