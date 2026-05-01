@@ -4192,7 +4192,7 @@
 - [ShiroKazane/Tokyo-Night](https://github.com/ShiroKazane/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 - [MiguelCarino/findmeadistro](https://github.com/MiguelCarino/findmeadistro) - a website that finds random OS
 - [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
-- [phoenixcoded/saasable-ui](https://github.com/phoenixcoded/saasable-ui) - Compete solution for UI pages as well Admin Dashboard
+- [phoenixcoded/saasable-ui](https://github.com/phoenixcoded/saasable-ui) - Complete solution for UI pages as well Admin Dashboard
 - [moshefortgang/nextjs-better-auth-drizzle-shadcn](https://github.com/moshefortgang/nextjs-better-auth-drizzle-shadcn) - Full-stack web app template using Next.js 15, React 19, Better Auth, Drizzle ORM, Shadcn/UI, PostgreSQL, and Jest. Built with TypeScript for modern, scalable, and type-safe development.
 - [cahyawibawa/ui-topia](https://github.com/cahyawibawa/ui-topia) - A collection of fine UI components
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
