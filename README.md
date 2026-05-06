@@ -1820,7 +1820,7 @@
 - [hassio-addons/addon-portainer](https://github.com/hassio-addons/addon-portainer) - Portainer - Home Assistant Community Add-ons
 - [sous-chefs/docker](https://github.com/sous-chefs/docker) - Development repository for the docker cookbook
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [oracle/docker-images](https://github.com/oracle/docker-images) - Official source of container configurations, images, and examples for Oracle products and projects
@@ -4099,7 +4099,7 @@
 - [getsentry/pytest-sentry](https://github.com/getsentry/pytest-sentry) - Track flaky tests in Sentry
 - [will-ockmore/httpx-retries](https://github.com/will-ockmore/httpx-retries) - A retry layer for HTTPX.
 - [Thinkmill/changelogs-xyz](https://github.com/Thinkmill/changelogs-xyz) - A place to see changelogs for any npm package
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [ircdocs/ircts](https://github.com/ircdocs/ircts) - IRC Test Suite (very basic and in development)
@@ -4275,7 +4275,7 @@
 - [Kraots/ukiyo](https://github.com/Kraots/ukiyo) - 
 - [aditya20-b/FishyPhishy](https://github.com/aditya20-b/FishyPhishy) - SiH PS 1454 solution
 - [NQN-Discord/MessageHandler](https://github.com/NQN-Discord/MessageHandler) - The message filter NQN uses to filter out messages it doesn't need to process
-- [christiansua/nvim-guide](https://github.com/christiansua/nvim-guide) - 
+- [popstar7/nvim-guide](https://github.com/popstar7/nvim-guide) - 
 - [jvllmr/poetry-types](https://github.com/jvllmr/poetry-types) - A poetry plugin that adds/removes type stubs as dependencies like the mypy --install-types command.
 - [chloecinders/thread-creator](https://github.com/chloecinders/thread-creator) - A Discord bot made in pycord that creates threads using a button on an embed.
 - [cbrxyz/pi-bot](https://github.com/cbrxyz/pi-bot) - 🤖 Scioly.org's resident bot
