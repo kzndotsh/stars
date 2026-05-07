@@ -304,7 +304,6 @@
 
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [sherwoodagent/sherwood](https://github.com/sherwoodagent/sherwood) - Autonomous agent syndicates that pool capital and run composable onchain strategies across DeFi, Polymarket, lending, and more
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -1147,7 +1146,7 @@
 - [snakypy/dotctrl](https://github.com/snakypy/dotctrl) - :snake: :package: :page_facing_up: Dotctrl is a package to control your dotfiles (and more) on Linux or macOS.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [darylhjd/mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## clojure 
 
@@ -3870,7 +3869,7 @@
 - [SII-WANGZJ/Polymarket_data](https://github.com/SII-WANGZJ/Polymarket_data) - A comprehensive dataset of 1.1 billion trading records from Polymarket, processed into multiple analysis-ready formats. Features cleaned data, unified token perspectives, and user-level transformation
 - [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [NielsRogge/awesome-huggingface](https://github.com/NielsRogge/awesome-huggingface) - Repository containing awesome resources regarding Hugging Face tooling.
-- [Hog185/Lufus](https://github.com/Hog185/Lufus) - A rufus clone written in py and designed to work with linux
+- [Hogjects/Lufus](https://github.com/Hogjects/Lufus) - A modern and easy to use drive imaging and formatting utility inspired from Rufus and written in python for Linux-based systems
 - [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
 - [ph1p/tailwind-lint](https://github.com/ph1p/tailwind-lint) - A command-line tool that uses the Tailwind CSS IntelliSense plugin to show linting suggestions for your Tailwind CSS classes
 - [laststance/tailwindcss-canonical-classes-monrepo](https://github.com/laststance/tailwindcss-canonical-classes-monrepo) - 
@@ -4478,6 +4477,7 @@
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [tcmmichaelb139/mailspring-tokyonight-theme](https://github.com/tcmmichaelb139/mailspring-tokyonight-theme) - 
+- [matttelliott/tokyonight.scss](https://github.com/matttelliott/tokyonight.scss) - Bootstrap theme based on tokyonight.nvim
 - [Afiazuh/tokyonightbspwm](https://github.com/Afiazuh/tokyonightbspwm) - tokyo night themed
 - [etrigan63/leftwm-tokyonight](https://github.com/etrigan63/leftwm-tokyonight) - Leftwm config with Tokyo-Night theme
 - [ninryu/Startpage-Tokyonight](https://github.com/ninryu/Startpage-Tokyonight) - A tokyonight themed clean startpage
@@ -5413,7 +5413,7 @@
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## programming 
 
@@ -6311,7 +6311,7 @@
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [snakypy/dotctrl](https://github.com/snakypy/dotctrl) - :snake: :package: :page_facing_up: Dotctrl is a package to control your dotfiles (and more) on Linux or macOS.
 - [CSaratakij/i3-rice-rin-shelter](https://github.com/CSaratakij/i3-rice-rin-shelter) - My i3wm rice with theme "Rin : shelter"
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [clayrisser/deskterm](https://github.com/clayrisser/deskterm) - Turn your Linux desktop into a terminal
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS dotfiles
 - [snwh/ubuntu-post-install](https://github.com/snwh/ubuntu-post-install) - A set of post-installation shell scripts for Ubuntu
@@ -6572,7 +6572,7 @@
 - [arcadellama/plex-nowplaying](https://github.com/arcadellama/plex-nowplaying) - A CLI script to show the "Now Playing" status of your Plex Server.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [darylhjd/mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [clayrisser/deskterm](https://github.com/clayrisser/deskterm) - Turn your Linux desktop into a terminal
 
 ## termux 
@@ -7172,7 +7172,7 @@
 - [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
 - [szorfein/dotfiles](https://github.com/szorfein/dotfiles) - Dotfiles of my last wm, managed by GNU stow.
 - [CSaratakij/i3-rice-rin-shelter](https://github.com/CSaratakij/i3-rice-rin-shelter) - My i3wm rice with theme "Rin : shelter"
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [rsnk96/Ubuntu-Setup-Scripts](https://github.com/rsnk96/Ubuntu-Setup-Scripts) - Scripts to help you set up your Ubuntu quickly, especially if you're in any subfield of Data Science or AI!
 
 
