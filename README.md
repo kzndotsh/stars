@@ -304,7 +304,7 @@
 
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
@@ -1192,7 +1192,7 @@
 
 ## code-review 
 
-- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 
 ## coding 
@@ -2738,7 +2738,7 @@
 - [strophe/strophejs](https://github.com/strophe/strophejs) - Strophe.js is an XMPP library for JavaScript
 - [xmppjs/xmpp.js](https://github.com/xmppjs/xmpp.js) - XMPP for JavaScript
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo) - Reference example for React.JS and Keycloak SSO integration.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
@@ -3867,6 +3867,8 @@
 
 ## others 
 
+- [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [SII-WANGZJ/Polymarket_data](https://github.com/SII-WANGZJ/Polymarket_data) - A comprehensive dataset of 1.1 billion trading records from Polymarket, processed into multiple analysis-ready formats. Features cleaned data, unified token perspectives, and user-level transformation
 - [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [NielsRogge/awesome-huggingface](https://github.com/NielsRogge/awesome-huggingface) - Repository containing awesome resources regarding Hugging Face tooling.
@@ -5781,13 +5783,13 @@
 - [brijr/craft](https://github.com/brijr/craft) - Craft is an AI-first, lightweight, flexible design system for building responsive layouts in React and handling prose.
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [ukorvl/lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components) - A React (React.js) library of Lightweight-charts components written in Typescript
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [dasniko/keycloak-reactjs-demo](https://github.com/dasniko/keycloak-reactjs-demo) - Reference example for React.JS and Keycloak SSO integration.
@@ -6581,6 +6583,7 @@
 
 ## terraform 
 
+- [terranix/terranix](https://github.com/terranix/terranix) - terranix is a Nix-based Terraform JSON generator [maintainer=@sshine]
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak) - Terraform provider for Keycloak
 - [AleksaC/tflint-py](https://github.com/AleksaC/tflint-py) - pip installable tflint binary with wrapper for pre-commit
