@@ -1059,7 +1059,7 @@
 ## claude-code 
 
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - TUI-based MCP server multiplexer, configure all your MCP's in a single MCP with profiles
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -1356,7 +1356,7 @@
 
 ## data-structures 
 
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [Gapur/js-algorithms](https://github.com/Gapur/js-algorithms) - 🤓 Algorithms and data structures in JavaScript
 - [karan1205/javascript-things](https://github.com/karan1205/javascript-things) - JavaScript Data Structures and Algorithms, built-in objects, design-patterns and more
 - [AdithyaBhat17/interview-cookbook](https://github.com/AdithyaBhat17/interview-cookbook) - A playground for learning DataStructures, Algorithms, and Object-Oriented Concepts.
@@ -1462,7 +1462,7 @@
 ## developer-tools 
 
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - TUI-based MCP server multiplexer, configure all your MCP's in a single MCP with profiles
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
@@ -2309,7 +2309,7 @@
 
 ## golang 
 
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - TUI-based MCP server multiplexer, configure all your MCP's in a single MCP with profiles
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [cloudshipai/ship](https://github.com/cloudshipai/ship) - CloudshipAI CLI
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [simplesurance/baur](https://github.com/simplesurance/baur) - An incremental task runner for mono repositories.
@@ -2645,7 +2645,7 @@
 ## html 
 
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [noahstoner/Quick-SAAS-Next-app](https://github.com/noahstoner/Quick-SAAS-Next-app) - This is a Next.js 14 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 14 static-side & server-side rendering. This projects is developed with 
@@ -3260,7 +3260,7 @@
 ## mcp 
 
 - [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - TUI-based MCP server multiplexer, configure all your MCP's in a single MCP with profiles
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
@@ -6634,7 +6634,7 @@
 
 ## tui 
 
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - TUI-based MCP server multiplexer, configure all your MCP's in a single MCP with profiles
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [NumeXx/gsm](https://github.com/NumeXx/gsm) - Connect like there's no firewall, but with style and a kick-ass TUI!
 - [lfaoro/ssm](https://github.com/lfaoro/ssm) - Terminal SSH connection manager
@@ -6701,7 +6701,7 @@
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for TypeScript & JavaScript monorepos
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
@@ -6861,7 +6861,7 @@
 ## ui 
 
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -6948,7 +6948,7 @@
 - [acrazing/dpdm](https://github.com/acrazing/dpdm) - Detect circular dependencies in your TypeScript projects.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
