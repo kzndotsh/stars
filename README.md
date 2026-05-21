@@ -1718,7 +1718,7 @@
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.
 - [allthingslinux/portal](https://github.com/allthingslinux/portal) - Portal
 - [heyvaldemar/keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) - Keycloak with Let's Encrypt Using Docker Compose
-- [ML-ZoneReaper/keycloak-compose](https://github.com/ML-ZoneReaper/keycloak-compose) - Local observability stack: Keycloak + Postgres + Prometheus + Grafana with OAuth/OIDC authentication for Grafana via Keycloak. Suitable as a reference for verifying Keycloak metrics and exercising the
+- [distinguished-sre/keycloak-compose](https://github.com/distinguished-sre/keycloak-compose) - Local observability stack: Keycloak + Postgres + Prometheus + Grafana with OAuth/OIDC authentication for Grafana via Keycloak. Suitable as a reference for verifying Keycloak metrics and exercising the
 - [dasniko/testcontainers-keycloak](https://github.com/dasniko/testcontainers-keycloak) - A Testcontainer implementation for Keycloak IAM & SSO.
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
@@ -5362,7 +5362,7 @@
 
 - [allthingslinux/portal](https://github.com/allthingslinux/portal) - Portal
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [ML-ZoneReaper/keycloak-compose](https://github.com/ML-ZoneReaper/keycloak-compose) - Local observability stack: Keycloak + Postgres + Prometheus + Grafana with OAuth/OIDC authentication for Grafana via Keycloak. Suitable as a reference for verifying Keycloak metrics and exercising the
+- [distinguished-sre/keycloak-compose](https://github.com/distinguished-sre/keycloak-compose) - Local observability stack: Keycloak + Postgres + Prometheus + Grafana with OAuth/OIDC authentication for Grafana via Keycloak. Suitable as a reference for verifying Keycloak metrics and exercising the
 - [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [cybertec-postgresql/pg_squeeze](https://github.com/cybertec-postgresql/pg_squeeze) - A PostgreSQL extension for automatic bloat cleanup
