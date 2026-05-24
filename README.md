@@ -930,7 +930,7 @@
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, xAI, Gemini, OpenRouter and more)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 650k+ users ✨🚀
-- [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
+- [Tortoise-Community/tortoise-bot](https://github.com/Tortoise-Community/tortoise-bot) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
 - [rtk-rnjn/Parrot](https://github.com/rtk-rnjn/Parrot) - Parrot Bot is your all-in-one Discord utility, offering features like starboards, reminders, giveaways, moderation, coding tools, and games
 - [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
@@ -1064,7 +1064,7 @@
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, busines
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -1469,7 +1469,7 @@
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, busines
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
@@ -1569,7 +1569,7 @@
 - [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (Ollama, xAI, Gemini, OpenRouter and more)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 650k+ users ✨🚀
-- [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
+- [Tortoise-Community/tortoise-bot](https://github.com/Tortoise-Community/tortoise-bot) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
 - [rtk-rnjn/Parrot](https://github.com/rtk-rnjn/Parrot) - Parrot Bot is your all-in-one Discord utility, offering features like starboards, reminders, giveaways, moderation, coding tools, and games
 - [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
@@ -2190,6 +2190,7 @@
 
 ## gaming 
 
+- [keenanweaver/nix-config](https://github.com/keenanweaver/nix-config) - NixOS and home-manager config primarily for gaming (mirror)
 - [silentgameplays/Simple-Arch-Linux-Setup](https://github.com/silentgameplays/Simple-Arch-Linux-Setup) - Complete tutorial on how to manually setup a Arch Linux for Gaming and Multimedia.
 
 ## generative-ai 
@@ -2510,7 +2511,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
-- [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
+- [Tortoise-Community/tortoise-bot](https://github.com/Tortoise-Community/tortoise-bot) - Fully functional Bot for Discord coded in Discord.py
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
@@ -5048,7 +5049,6 @@
 - [thund3rsh0ck/Discord-GoogleSheets-bot](https://github.com/thund3rsh0ck/Discord-GoogleSheets-bot) - This is a bot that integrations google sheets with discord API. It was intended to track participation for a game called CATS for Android but could be used for anything
 - [diamondzxd/network-configs](https://github.com/diamondzxd/network-configs) - Networking configurations for running Virtualized networks on OVH and Hetzner
 - [diamondzxd/plex-discord-bot](https://github.com/diamondzxd/plex-discord-bot) - Discord bot to send plex invites to users, list the users, and slots using Discord Python and Plex API
-- [Slyestcat/Plex-Discord-Remote](https://github.com/Slyestcat/Plex-Discord-Remote) - Remote control for plex using Discord.
 - [Br34kInFr33/Auto-Torrent-Maker-2.0](https://github.com/Br34kInFr33/Auto-Torrent-Maker-2.0) - Auto torrent maker with log
 - [Br34kInFr33/Discord-Plex-Announce-Script](https://github.com/Br34kInFr33/Discord-Plex-Announce-Script) - 
 - [bramnijssen/plex-discord-bot](https://github.com/bramnijssen/plex-discord-bot) - Discord bot which notifies server members about Plex events.
@@ -5474,7 +5474,7 @@
 ## prompt-engineering 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 313+ Claude Code skills & agent skills & plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, busines
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 329 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 320+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [Fr-e-d/AI-Governor-Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - The Keystone Framework for AI-Driven Code ! Turn any AI coding assistant into a disciplined, project-aware engineering partner that respects your architecture and coding standards
 - [Yuan-ManX/context-engineering](https://github.com/Yuan-ManX/context-engineering) - Context Engineering - The art of providing all the context for the task to be plausibly solvable by the LLM.
 - [barnett-yuxiang/prompt-engineering](https://github.com/barnett-yuxiang/prompt-engineering) - A comprehensive collection of prompts, strategies, and best practices for effectively utilizing large language models (LLMs).
@@ -5601,7 +5601,7 @@
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [PyLav/PyLav](https://github.com/PyLav/PyLav) - A Lavalink wrapper library to be used by discord-py bots. Docs at: https://pylav.readthedocs.io/
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 650k+ users ✨🚀
-- [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
+- [Tortoise-Community/tortoise-bot](https://github.com/Tortoise-Community/tortoise-bot) - Fully functional Bot for Discord coded in Discord.py
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
 - [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
@@ -5745,7 +5745,7 @@
 - [kmbhm1/supabase-pydantic](https://github.com/kmbhm1/supabase-pydantic) - Generate Pydantic models and other types from Supabase/Postgres/MySQL schemas automatically. Ideal for FastAPI, Supabase, and rapid prototyping.
 - [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) - A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 650k+ users ✨🚀
-- [Tortoise-Community/Tortoise-BOT](https://github.com/Tortoise-Community/Tortoise-BOT) - Fully functional Bot for Discord coded in Discord.py
+- [Tortoise-Community/tortoise-bot](https://github.com/Tortoise-Community/tortoise-bot) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
 - [1ntegrale9/discordbot-echidna](https://github.com/1ntegrale9/discordbot-echidna) - 汎用 Discord Bot
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
