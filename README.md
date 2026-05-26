@@ -1545,6 +1545,7 @@
 
 ## discord 
 
+- [FlameFlag/nixcord](https://github.com/FlameFlag/nixcord) - Declarative Vencord plugins + options
 - [fourjr/rainbot](https://github.com/fourjr/rainbot) - rainbot is a moderation bot that has robust automod and logging features.
 - [delthas/discord-formatting](https://github.com/delthas/discord-formatting) - A small Go library for parsing Discord markdown-like messages to an AST
 - [allthingslinux/atl.chat](https://github.com/allthingslinux/atl.chat) - 
@@ -4028,7 +4029,7 @@
 - [iteratec/kcwarden](https://github.com/iteratec/kcwarden) - Automatically audit your Keycloak configuration for security issues
 - [Octodet/keycloak-mcp](https://github.com/Octodet/keycloak-mcp) - Keycloak MCP server
 - [zonaut/keycloak-extensions](https://github.com/zonaut/keycloak-extensions) - Keycloak extensions
-- [midischwarz12/nix-wrappers](https://github.com/midischwarz12/nix-wrappers) - 
+- [sisyphean-group/nix-wrappers](https://github.com/sisyphean-group/nix-wrappers) - 
 - [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
