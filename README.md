@@ -288,7 +288,6 @@
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
 - [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) - 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
@@ -3945,7 +3944,6 @@
 - [xsf/xmpp-providers-website](https://github.com/xsf/xmpp-providers-website) - Source of providers.xmpp.net (community project)
 - [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions)
 - [h4ks-com/sshland](https://github.com/h4ks-com/sshland) - Menu and infra for `ssh h4ks.com`
-- [obbyworld/unrealircd-webpanel-2](https://github.com/obbyworld/unrealircd-webpanel-2) - UnrealIRCd Admin Web Panel 2.0
 - [processone/fluux-messenger](https://github.com/processone/fluux-messenger) - Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.
 - [symbiod/symbiod](https://github.com/symbiod/symbiod) - :factory: A place where non-profits and developers meet together
 - [herrera-ignacio/architect-handbook](https://github.com/herrera-ignacio/architect-handbook) - Software Architect Handbook
