@@ -309,7 +309,7 @@
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
@@ -410,6 +410,7 @@
 
 ## algorithm 
 
+- [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [Gapur/js-algorithms](https://github.com/Gapur/js-algorithms) - 🤓 Algorithms and data structures in JavaScript
 - [karan1205/javascript-things](https://github.com/karan1205/javascript-things) - JavaScript Data Structures and Algorithms, built-in objects, design-patterns and more
@@ -421,6 +422,7 @@
 
 ## algorithms 
 
+- [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [Gapur/js-algorithms](https://github.com/Gapur/js-algorithms) - 🤓 Algorithms and data structures in JavaScript
 - [KarenOk/Algorithms-and-Data-Structures-Master-Class-Coding-Exercises](https://github.com/KarenOk/Algorithms-and-Data-Structures-Master-Class-Coding-Exercises) - This repository contains my solutions to the coding exercises in Udemy's Javascript Algorithms and Data Structures Master Class course.
@@ -460,7 +462,7 @@
 
 ## android 
 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
@@ -594,6 +596,7 @@
 
 ## automation 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
@@ -631,6 +634,7 @@
 
 ## awesome 
 
+- [emredurukn/awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) - A curated list of awesome job boards
 - [brandonhimpfen/awesome-hugging-face](https://github.com/brandonhimpfen/awesome-hugging-face) - A curated list of awesome libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
@@ -716,6 +720,8 @@
 
 ## awesome-list 
 
+- [neutraltone/awesome-development-jobs](https://github.com/neutraltone/awesome-development-jobs) - :office: A collection of links to various job listings websites and helpful resources
+- [emredurukn/awesome-job-boards](https://github.com/emredurukn/awesome-job-boards) - A curated list of awesome job boards
 - [brandonhimpfen/awesome-hugging-face](https://github.com/brandonhimpfen/awesome-hugging-face) - A curated list of awesome libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
@@ -1062,6 +1068,7 @@
 
 ## claude-code 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -1086,6 +1093,7 @@
 
 ## cli 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path rev
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -1355,6 +1363,7 @@
 
 ## data-science 
 
+- [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [siznax/wptools](https://github.com/siznax/wptools) - Wikipedia tools (for Humans): easily extract data from Wikipedia, Wikidata, and other MediaWikis
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
@@ -1497,6 +1506,7 @@
 
 ## development 
 
+- [neutraltone/awesome-development-jobs](https://github.com/neutraltone/awesome-development-jobs) - :office: A collection of links to various job listings websites and helpful resources
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [atheme/atheme](https://github.com/atheme/atheme) - Atheme IRC Services
 - [exajobs/devops-collection](https://github.com/exajobs/devops-collection) - Welcome To The World of DevOps. An ongoing & curated collection of awesome software, libraries, learning tutorials, tools and resources and cool stuff about DevOps.
@@ -1728,7 +1738,7 @@
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2258,6 +2268,7 @@
 
 ## github 
 
+- [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -2330,6 +2341,7 @@
 
 ## golang 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [cloudshipai/ship](https://github.com/cloudshipai/ship) - CloudshipAI CLI
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
@@ -2340,6 +2352,7 @@
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -2732,6 +2745,7 @@
 
 ## java 
 
+- [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [dasniko/testcontainers-keycloak](https://github.com/dasniko/testcontainers-keycloak) - A Testcontainer implementation for Keycloak IAM & SSO.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -2912,7 +2926,7 @@
 
 ## kotlin 
 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [mayope/keycloakmigration](https://github.com/mayope/keycloakmigration) - Manage your Keycloak configuration with code.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 
@@ -2986,7 +3000,7 @@
 
 - [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [steveandreassend/linux_auditd](https://github.com/steveandreassend/linux_auditd) - Best practice configuration for Linux auditd for CIS and STIG standards, enhanced with LOTL detection rules. If you need help with implementation, contact@criticalmissions.be
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rallep71/dinox](https://github.com/rallep71/dinox) - Moved to Forgejo: https://git.dinox.im/dinoxim/dinox
@@ -2996,7 +3010,7 @@
 - [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles.
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - awesome linux minimalism suggestions
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [IsRengel/InstallCursorEditorLinux](https://github.com/IsRengel/InstallCursorEditorLinux) - 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -3218,10 +3232,10 @@
 ## macos 
 
 - [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡mcphub
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
 - [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
@@ -3298,7 +3312,6 @@
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡mcphub
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
@@ -3682,7 +3695,7 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -3796,13 +3809,15 @@
 
 ## open-source 
 
+- [FrancesCoronel/hire-me](https://github.com/FrancesCoronel/hire-me) - Comprehensive guide to landing a tech job, including resume templates, interview prep, and salary negotiation resources.
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
 - [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [brandonhimpfen/awesome-hugging-face](https://github.com/brandonhimpfen/awesome-hugging-face) - A curated list of awesome libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [thiras/awesome-ngo](https://github.com/thiras/awesome-ngo) - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs
 - [Punderthings/fossfoundation](https://github.com/Punderthings/fossfoundation) - Directory of non-profit FOSS Foundations, with detailed metadata.
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
@@ -3898,6 +3913,7 @@
 
 ## others 
 
+- [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
 - [ibizaman/skarabox](https://github.com/ibizaman/skarabox) - Opinionated and simplified headless NixOS installer.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [SII-WANGZJ/Polymarket_data](https://github.com/SII-WANGZJ/Polymarket_data) - A comprehensive dataset of 1.1 billion trading records from Polymarket, processed into multiple analysis-ready formats. Features cleaned data, unified token perspectives, and user-level transformation
@@ -4424,7 +4440,6 @@
 - [crubier/prisma-client-py](https://github.com/crubier/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client providing a simplistic yet extremely powerful API
 - [brianjp93/amirightladies](https://github.com/brianjp93/amirightladies) - dumb bot that just responds with "am i right ladies" to all your discord messages
 - [arckoor/journey-bot](https://github.com/arckoor/journey-bot) - A bot for the Journey Discord
-- [LunarsDev/cordcutter](https://github.com/LunarsDev/cordcutter) - The circuit breaker design pattern for discord.py application commands
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [IntangibleNetwork/IntangibleNetworkBot](https://github.com/IntangibleNetwork/IntangibleNetworkBot) - 
 - [juniorguru/junior.guru](https://github.com/juniorguru/junior.guru) - The junior.guru website, Discord bot, and synchronization scripts
@@ -5531,6 +5546,7 @@
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
@@ -6085,7 +6101,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [crate-ci/imperative](https://github.com/crate-ci/imperative) - Check the mood of a word
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - Asynchronous ORM that uses pydantic models to represent database tables ✨
@@ -6120,6 +6136,7 @@
 
 ## security 
 
+- [edoardottt/companies-hiring-security-remote](https://github.com/edoardottt/companies-hiring-security-remote) - List of companies that hire security people full remote.
 - [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 11/12 hardening
 - [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
@@ -6130,7 +6147,7 @@
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [docker/scout-action](https://github.com/docker/scout-action) - Docker Scout GitHub Action
@@ -6205,7 +6222,7 @@
 - [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
@@ -6500,7 +6517,7 @@
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -6736,12 +6753,12 @@
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for TypeScript & JavaScript monorepos
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
@@ -7099,11 +7116,11 @@
 
 ## windows 
 
-- [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+- [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rallep71/dinox](https://github.com/rallep71/dinox) - Moved to Forgejo: https://git.dinox.im/dinoxim/dinox
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
