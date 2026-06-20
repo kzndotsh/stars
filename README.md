@@ -336,6 +336,7 @@
 - [brandonhimpfen/awesome-hugging-face](https://github.com/brandonhimpfen/awesome-hugging-face) - A curated list of awesome libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
@@ -1212,6 +1213,7 @@
 
 ## coding 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [murataslan1/cursor-ai-tips](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDE tips, tricks & best practices - Keyboard shortcuts, Composer mode, .cursorrules examples, and Reddit community wisdom
 - [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
@@ -3929,7 +3931,6 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [iobroker-community-adapters/ioBroker.ical](https://github.com/iobroker-community-adapters/ioBroker.ical) - ioBroker adapter to read and parse iCal calender information from ics files, URLs and from CalDAV resources (e.g. NextCloud, Google Calender, etc.)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [deadlock-labs/monox](https://github.com/deadlock-labs/monox) - 
@@ -4605,7 +4606,7 @@
 - [beeper/media-viewer](https://github.com/beeper/media-viewer) - A simple web app that can download, decrypt and display encrypted Matrix media.
 - [sepia04/wallpapers](https://github.com/sepia04/wallpapers) - Wallpapers that are more or less suitable for Tokyo Night Colors maybe???
 - [keefeeilish/Tokyo-Night-Cider-Music-Theme](https://github.com/keefeeilish/Tokyo-Night-Cider-Music-Theme) - A Tokyo Night based theme for Cider music app.
-- [almighty-loaf/rEFInd-tokyo-night](https://github.com/almighty-loaf/rEFInd-tokyo-night) - 
+- [almighty-loaf/rEFInd-tokyo-night](https://github.com/almighty-loaf/rEFInd-tokyo-night) - Tokyo Night theme for rEFInd
 - [MichaelWagnr/tokyo-night.css](https://github.com/MichaelWagnr/tokyo-night.css) - CSS custom properties inspired by the Tokyo Night theme by enkia. Prototype and develop in the same color scheme.
 - [mathisto/tokyo-night-goodness](https://github.com/mathisto/tokyo-night-goodness) - Ports of Enki's amazing 'Tokyo Night' VSCode theme
 - [flippette/rofi-tokyonight](https://github.com/flippette/rofi-tokyonight) - Barebones Tokyo Night theme for `rofi`.
@@ -5318,7 +5319,7 @@
 ## penetration-testing 
 
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
@@ -5327,7 +5328,7 @@
 
 ## pentesting 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - Wiki to collect Red Team infrastructure hardening resources
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) - A Modern Orchestration Engine for Security
@@ -6189,7 +6190,7 @@
 ## security-tools 
 
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
 - [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
