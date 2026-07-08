@@ -393,7 +393,7 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [101dotxyz/GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam: An open-source multi-agent simulation
@@ -2580,7 +2580,6 @@
 - [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring Tool for PostgreSQL
 - [igortg/pytest-async-sqlalchemy](https://github.com/igortg/pytest-async-sqlalchemy) - Database testing fixtures using the SQLAlchemy asyncio API
-- [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) - A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [shikha-16/Women-in-Technology](https://github.com/shikha-16/Women-in-Technology) - A collection of resources for women in tech, consisting of - courses, learning guides, amazing sites and repos, blogs, programs and events. scholarships, etc.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
@@ -5864,7 +5863,6 @@
 - [jordantshaw/pydantic-config](https://github.com/jordantshaw/pydantic-config) - Support for Pydantic settings configuration file management
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [kmbhm1/supabase-pydantic](https://github.com/kmbhm1/supabase-pydantic) - Generate Pydantic models and other types from Supabase/Postgres/MySQL schemas automatically. Ideal for FastAPI, Supabase, and rapid prototyping.
-- [johnmaguire/Cardinal](https://github.com/johnmaguire/Cardinal) - A Python IRC bot, designed to make adding functionality quick and simple. (est. 2013)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 650k+ users ✨🚀
 - [Tortoise-Community/tortoise-bot](https://github.com/Tortoise-Community/tortoise-bot) - Fully functional Bot for Discord coded in Discord.py
 - [vbe0201/Vale.py](https://github.com/vbe0201/Vale.py) - A bot to support Discord servers that I like.
