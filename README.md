@@ -318,6 +318,7 @@
 
 ## agents 
 
+- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration platform built for your AI agents. The unfiltered truth about where your project stands.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
@@ -410,6 +411,8 @@
 
 ## ai-agents 
 
+- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration platform built for your AI agents. The unfiltered truth about where your project stands.
+- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -831,7 +834,7 @@
 
 ## aws 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,368 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,379 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [aryasoni98/InfraBrain](https://github.com/aryasoni98/InfraBrain) - Cloud infrastructures should be designed and managed collaboratively and visually. Get your IaC standardised.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -1538,6 +1541,7 @@
 
 ## developer-tools 
 
+- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration platform built for your AI agents. The unfiltered truth about where your project stands.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
@@ -1581,6 +1585,7 @@
 
 ## devops 
 
+- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration platform built for your AI agents. The unfiltered truth about where your project stands.
 - [cloudshipai/ship](https://github.com/cloudshipai/ship) - CloudshipAI CLI
 - [mayope/keycloakmigration](https://github.com/mayope/keycloakmigration) - Manage your Keycloak configuration with code.
 - [heyvaldemar/keycloak-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/keycloak-traefik-letsencrypt-docker-compose) - Keycloak with Let's Encrypt Using Docker Compose
@@ -2082,7 +2087,7 @@
 
 ## emulator 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,368 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,379 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 
 ## es6 
 
@@ -3608,6 +3613,7 @@
 
 ## nextjs 
 
+- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
 - [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Data table and data grid components built with shadcn/ui, featuring sorting, filtering, pagination, infinite scrolling, and real-time collaboration.
 - [vmnog/calendarcn](https://github.com/vmnog/calendarcn) - A beautifully crafted calendar component built with shadcn/ui and Tailwind CSS, inspired by Notion Calendar. Week view, dark mode, and more.
@@ -3899,6 +3905,7 @@
 
 ## open-source 
 
+- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [FrancesCoronel/hire-me](https://github.com/FrancesCoronel/hire-me) - Comprehensive guide to landing a tech job, including resume templates, interview prep, and salary negotiation resources.
@@ -3998,6 +4005,7 @@
 
 ## osint 
 
+- [reconurge/flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
@@ -4009,6 +4017,7 @@
 
 ## others 
 
+- [SSShooter/mindmapcn](https://github.com/SSShooter/mindmapcn) - Beautiful mind maps, works seamlessly with shadcn/ui.
 - [melromyeah/MixCN](https://github.com/melromyeah/MixCN) - 
 - [snurit/Hackix](https://github.com/snurit/Hackix) - A NixOS flake for making a reproductible and always ready to use security assessment environment (pentest, OSINT, ...).
 - [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat) - Have a natural, spoken conversation with AI!
@@ -5583,6 +5592,7 @@
 
 ## project-management 
 
+- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration platform built for your AI agents. The unfiltered truth about where your project stands.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
@@ -5621,6 +5631,7 @@
 
 ## python 
 
+- [reconurge/flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -5942,6 +5953,8 @@
 
 ## react 
 
+- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration platform built for your AI agents. The unfiltered truth about where your project stands.
+- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
 - [shadcn-labs/ogimagecn](https://github.com/shadcn-labs/ogimagecn) - Beautiful Open Graph image components, built on Satori. 100% Free, Zero config, one command setup.
 - [Delego-Dev/registry](https://github.com/Delego-Dev/registry) - Delego design-system registry for shadcn — theme (OKLCH light/dark) + components: decision pill, signed receipt, status badge, button, field.
@@ -6767,7 +6780,7 @@
 
 ## terraform 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,368 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,379 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 - [terranix/terranix](https://github.com/terranix/terranix) - terranix is a Nix-based Terraform JSON generator [maintainer=@sshine]
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
@@ -6850,6 +6863,8 @@
 
 ## typescript 
 
+- [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration platform built for your AI agents. The unfiltered truth about where your project stands.
+- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [ramonclaudio/tanstack-cn](https://github.com/ramonclaudio/tanstack-cn) - TanStack Start + shadcn template with a one-command scaffolder. Vite 8 + Oxc, Tailwind v4, base-luma on Base UI, React 19, TypeScript 6, Vitest 4. npm, pnpm, bun, or yarn.
