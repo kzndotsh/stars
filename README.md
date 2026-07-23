@@ -6396,7 +6396,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [edoardottt/companies-hiring-security-remote](https://github.com/edoardottt/companies-hiring-security-remote) - List of companies that hire security people full remote.
-- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 11/12 hardening
+- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 11/12/13 hardening
 - [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -6585,7 +6585,7 @@
 
 ## shell 
 
-- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 11/12 hardening
+- [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 11/12/13 hardening
 - [jamestomasino/cosmic](https://github.com/jamestomasino/cosmic) - Cosmic Voyage scripts
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [pawamoy/shellman](https://github.com/pawamoy/shellman) - Write documentation in comments and render it with templates.
