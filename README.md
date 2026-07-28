@@ -852,7 +852,7 @@
 
 ## aws 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,379 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,381 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [aryasoni98/InfraBrain](https://github.com/aryasoni98/InfraBrain) - Cloud infrastructures should be designed and managed collaboratively and visually. Get your IaC standardised.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -2125,7 +2125,7 @@
 
 ## emulator 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,379 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,381 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 
 ## es6 
 
@@ -6915,7 +6915,7 @@
 
 ## terraform 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,379 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,381 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
 - [terranix/terranix](https://github.com/terranix/terranix) - terranix is a Nix-based Terraform JSON generator [maintainer=@sshine]
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
