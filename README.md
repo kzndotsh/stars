@@ -232,6 +232,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
+- [scala](#scala)
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
@@ -538,6 +539,7 @@
 
 ## api 
 
+- [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex) - Cortex: a Powerful Observable Analysis and Active Response Engine
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch) - Advanced fetch client builder
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
@@ -1417,6 +1419,7 @@
 
 ## cybersecurity 
 
+- [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [frangelbarrera/OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE) - Comprehensive 2026 OSINT guide — 450+ tools, AI intelligence, methodologies & ethics across 35 sections for investigation & threat intel.
@@ -1598,7 +1601,6 @@
 - [tanaikech/taking-advantage-of-google-apps-script](https://github.com/tanaikech/taking-advantage-of-google-apps-script) - Here, CLI tools, libraries, Add-ons, Reports, Benchmarks and Sample Scripts for taking advantage of Google Apps Script which are publishing in my blog, Gists and GitHub are summarized.
 - [basetool-ai/basetool](https://github.com/basetool-ai/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [robertwayne/cogwatch](https://github.com/robertwayne/cogwatch) - Hot-reloading for discord.py-based command files.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
@@ -1707,12 +1709,10 @@
 - [thrzl/discord-ext-forms](https://github.com/thrzl/discord-ext-forms) - ❓ a simpler way to make forms, surveys, and reaction input using discord.py.
 - [Naila/Naila.py](https://github.com/Naila/Naila.py) - Naila Bot written in discord.py
 - [mccoderpy/discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) - A "fork" of discord.py library made by Rapptz with implementation of the Discord Message-Components & many other features by mccoderpy
-- [robertwayne/dpymenus](https://github.com/robertwayne/dpymenus) - Simplified menus for discord.py developers.
 - [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
 - [khazhyk/dango.py](https://github.com/khazhyk/dango.py) - discord.py@rewrite version for spoo.py
 - [madeyoga/Nano-Bot](https://github.com/madeyoga/Nano-Bot) - Discord bot made in Python using discord.py
 - [Voxel-Fox-Ltd/VoxelBotUtils](https://github.com/Voxel-Fox-Ltd/VoxelBotUtils) - An extension of the Discord.py library to improve the bot development process.
-- [robertwayne/cogwatch](https://github.com/robertwayne/cogwatch) - Hot-reloading for discord.py-based command files.
 - [Voxel-Fox-Ltd/Novus](https://github.com/Voxel-Fox-Ltd/Novus) - An asyncio Python wrapper around the Discord API, forked off of Rapptz's Discord.py.
 - [LiBa001/disputils](https://github.com/LiBa001/disputils) - Some neat utils for discord.py. Making your life as a Discord bot developer easier.  (not sure about the future of this libraray)
 - [SunnyCord/bot](https://github.com/SunnyCord/bot) - Discord.py bot for moderation, osu! and various other things.
@@ -3034,6 +3034,7 @@
 
 ## json 
 
+- [TheHive-Project/Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) - Cortex Analyzers Repository
 - [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config) - Load configuration variables from multiple sources with flexible adapters, ensuring type safety with Zod.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [StockwatchDev/application_settings](https://github.com/StockwatchDev/application_settings) - For providing a python application or library with configuration and/or settings
@@ -3977,6 +3978,8 @@
 
 ## open-source 
 
+- [TheHive-Project/Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) - Cortex Analyzers Repository
+- [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex) - Cortex: a Powerful Observable Analysis and Active Response Engine
 - [VladTepes84/Rekos](https://github.com/VladTepes84/Rekos) - Terminal-native passive OSINT CLI for local-first public-source investigations, evidence correlation, and case management.
 - [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
@@ -5746,6 +5749,8 @@
 
 ## python 
 
+- [TheHive-Project/Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) - Cortex Analyzers Repository
+- [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex) - Cortex: a Powerful Observable Analysis and Active Response Engine
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -6393,8 +6398,13 @@
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Todd-Owen-Mpeli/blueinventory](https://github.com/Todd-Owen-Mpeli/blueinventory) - This is a Next.js 13 project Inventory Management SAAS (Software as a Service) Web App. A Typescript based project using nextjs 13 static-side & server-side rendering. This projects is developed with 
 
+## scala 
+
+- [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex) - Cortex: a Powerful Observable Analysis and Active Response Engine
+
 ## security 
 
+- [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [VladTepes84/Rekos](https://github.com/VladTepes84/Rekos) - Terminal-native passive OSINT CLI for local-first public-source investigations, evidence correlation, and case management.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
