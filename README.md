@@ -322,6 +322,7 @@
 
 ## agents 
 
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Blocks the rogue tool call before it executes: dangerous commands, secret leaks, prompt injection. Works with any ai agent like Claude Code, Codex, and
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -421,6 +422,7 @@
 
 ## ai-agents 
 
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Blocks the rogue tool call before it executes: dangerous commands, secret leaks, prompt injection. Works with any ai agent like Claude Code, Codex, and
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
 - [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
@@ -732,7 +734,7 @@
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 - [micro-hawk/awesomight](https://github.com/micro-hawk/awesomight) - Enhance your Linux desktop with my Awesome Window Manager config. Customize key bindings, themes, and widgets to manage multiple windows and workspaces efficiently. Check it out now!
-- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
+- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - Hyprland dotfiles
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -1143,6 +1145,7 @@
 
 ## claude-code 
 
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Blocks the rogue tool call before it executes: dangerous commands, secret leaks, prompt injection. Works with any ai agent like Claude Code, Codex, and
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks pro
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [opral/flashtype](https://github.com/opral/flashtype) - The markdown editor for Claude & Codex
@@ -1420,6 +1423,7 @@
 
 ## cybersecurity 
 
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Blocks the rogue tool call before it executes: dangerous commands, secret leaks, prompt injection. Works with any ai agent like Claude Code, Codex, and
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -1995,7 +1999,7 @@
 - [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [getantidote/zdotdir](https://github.com/getantidote/zdotdir) - Some examples of how you might use antidote in your Zsh config
-- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
+- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - Hyprland dotfiles
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [fuku77/dotfiles](https://github.com/fuku77/dotfiles) - Collection of my custom configuration files.
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux Dotfiles (Manjaro + KDE Plasma 6)
@@ -3195,7 +3199,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
 - [micro-hawk/awesomight](https://github.com/micro-hawk/awesomight) - Enhance your Linux desktop with my Awesome Window Manager config. Customize key bindings, themes, and widgets to manage multiple windows and workspaces efficiently. Check it out now!
-- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - My dotfiles, for Wayland and Xorg.
+- [Johanx22x/dotfiles](https://github.com/Johanx22x/dotfiles) - Hyprland dotfiles
 - [coderosh/.dots](https://github.com/coderosh/.dots) - 🐻 dots
 - [nmdra/Dotfiles](https://github.com/nmdra/Dotfiles) - Linux Dotfiles (Manjaro + KDE Plasma 6)
 - [cogikyo/dotfiles](https://github.com/cogikyo/dotfiles) - 🍙 an Arch enabled PDE (Personalized Development Environment)
@@ -3454,6 +3458,7 @@
 
 ## mcp 
 
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Blocks the rogue tool call before it executes: dangerous commands, secret leaks, prompt injection. Works with any ai agent like Claude Code, Codex, and
 - [Gsync/jobsync](https://github.com/Gsync/jobsync) - Self-hosted, open-source job application tracker and AI-powered career assistant. Built with Next.js, helps job seekers manage their search journey with AI resume review, job matching, task logging, a
 - [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) - 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
@@ -6407,6 +6412,7 @@
 
 ## security 
 
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Blocks the rogue tool call before it executes: dangerous commands, secret leaks, prompt injection. Works with any ai agent like Claude Code, Codex, and
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [VladTepes84/Rekos](https://github.com/VladTepes84/Rekos) - Terminal-native passive OSINT CLI for local-first public-source investigations, evidence correlation, and case management.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
@@ -6458,6 +6464,7 @@
 
 ## security-tools 
 
+- [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Blocks the rogue tool call before it executes: dangerous commands, secret leaks, prompt injection. Works with any ai agent like Claude Code, Codex, and
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
