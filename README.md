@@ -293,7 +293,7 @@
 
 ## agent 
 
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -2276,7 +2276,7 @@
 
 ## framework 
 
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
@@ -2900,7 +2900,7 @@
 ## javascript 
 
 - [Gsync/jobsync](https://github.com/Gsync/jobsync) - Self-hosted, open-source job application tracker and AI-powered career assistant. Built with Next.js, helps job seekers manage their search journey with AI resume review, job matching, task logging, a
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [antoine-coulon/skott](https://github.com/antoine-coulon/skott) - All-in-one devtool to automatically analyze, search and visualize project modules and dependencies from JavaScript, TypeScript (JSX/TSX) and Node.js (ES6, CommonJS)
@@ -3418,7 +3418,7 @@
 
 ## markdown 
 
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [opral/flashtype](https://github.com/opral/flashtype) - The markdown editor for Claude & Codex
 - [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks
@@ -7027,7 +7027,7 @@
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
 - [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
-- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [ramonclaudio/tanstack-cn](https://github.com/ramonclaudio/tanstack-cn) - TanStack Start + shadcn template with a one-command scaffolder. Vite 8 + Oxc, Tailwind v4, base-luma on Base UI, React 19, TypeScript 6, Vitest 4. npm, pnpm, bun, or yarn.
 - [kzndotsh/gang.guide](https://github.com/kzndotsh/gang.guide) - Evidence backed mapping of criminal organizations across the US — alliances, rivalries, history, and culture.
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
