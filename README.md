@@ -307,7 +307,7 @@
 - [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - Curated AI Prompts for Cursor Rules, Cline, Windsurf and Github Copilot
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -1884,7 +1884,7 @@
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [eric-sfwe/Discord_Clone](https://github.com/eric-sfwe/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mit-27/god-tier-saas](https://github.com/mit-27/god-tier-saas) - A SaaS kit providing end-to-end type safety with ts-rest between Next.js and Nest.js, plus integrated services like AuthJS, PostHog, and Drizzle ORM with PostgreSQL.
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 150+ open-source web apps with one Docker command
@@ -1941,7 +1941,7 @@
 - [aelfa/scripts](https://github.com/aelfa/scripts) - A bunch of useful scripts
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
+- [TitleCardMaker/TitleCardMaker](https://github.com/TitleCardMaker/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [ninthwalker/NowShowing](https://github.com/ninthwalker/NowShowing) - Generates an email and web page of Plex recently added content
 - [inakiabt/docker-media-center](https://github.com/inakiabt/docker-media-center) - Docker compose to start my local media center
@@ -2115,7 +2115,7 @@
 ## electron 
 
 - [getsentry/sentry-wizard](https://github.com/getsentry/sentry-wizard) - Sentry Project Setup Wizard
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
@@ -3177,7 +3177,7 @@
 - [allthingslinux/tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [besnik/tutorials](https://github.com/besnik/tutorials) - Collection of tutorials for various libraries and technologies
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [xdFNLeaks/managebot](https://github.com/xdFNLeaks/managebot) - just a little project i'm working on that allows you to view and manage your docker containers from discord.
 - [tbal999/bb](https://github.com/tbal999/bb) - a pubnix bulletin board
@@ -3432,7 +3432,7 @@
 - [delthas/discord-formatting](https://github.com/delthas/discord-formatting) - A small Go library for parsing Discord markdown-like messages to an AST
 - [jackdewinter/pymarkdown](https://github.com/jackdewinter/pymarkdown) - 
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [shu307/mkdocs-nav-weight](https://github.com/shu307/mkdocs-nav-weight) - A simple mkdocs plugin, enables to organize Navigation in a more markdownic way.
 - [oprypin/markdown-callouts](https://github.com/oprypin/markdown-callouts) - Markdown extension: a classier syntax for admonitions
 - [daizutabi/mkapi](https://github.com/daizutabi/mkapi) - MkDocs plugin for automatic API documentation generation from Python docstrings
@@ -3485,7 +3485,7 @@
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡mcphub
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
@@ -3776,7 +3776,7 @@
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
 - [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) - A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
@@ -5995,7 +5995,7 @@
 - [hugonun/discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Discord bot that stores messages to Google Sheet.
 - [totaldebug/pyarr](https://github.com/totaldebug/pyarr) - Python client for Servarr API's (Sonarr, Radarr, Readarr, Lidarr, Prowlarr, Bazarr, Dispatcharr, Whisparr)
 - [EthanC/Perplex](https://github.com/EthanC/Perplex) - Discord Rich Presence implementation for Plex.
-- [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
+- [TitleCardMaker/TitleCardMaker](https://github.com/TitleCardMaker/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [mdhiggins/PlexAutoSkip](https://github.com/mdhiggins/PlexAutoSkip) - Automatically skip content in Plex
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [ihack4falafel/OSCP](https://github.com/ihack4falafel/OSCP) - Collection of things made during my OSCP journey
@@ -6186,7 +6186,6 @@
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
@@ -6533,7 +6532,7 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -6853,7 +6852,7 @@
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🎨  Design System Starter
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [amosbastian/template](https://github.com/amosbastian/template) - A Next.js 13 application with authentication and payments, built with PlanetScale, Drizzle ORM, Lucia, Tailwind and LemonSqueezy
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -7151,7 +7150,6 @@
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) - Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons, and configs setup.
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Free, open source, AI-friendly admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
