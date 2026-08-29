@@ -983,7 +983,7 @@
 - [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http) - A Python library for Discord bots using HTTP interactions, with optional WebSocket support and full cache control.
 - [terminaldweller/milla](https://github.com/terminaldweller/milla) - terminaldweller's IRC bot
 - [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
-- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A verified Python Discord bot with moderation features such as reporting and detailed audit logs.
+- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - Discord moderation bot in 700 servers: context-menu report triage, attributed delete logs, per-guild config. Python, discord.py, PostgreSQL.
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
 - [jakobdylanc/llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend - Supports any OpenAI compatible API (OpenRouter, Ollama and more)
 - [statch/gitbot](https://github.com/statch/gitbot) - The most trusted Discord dev toolkit with 650k+ users ✨🚀
@@ -1695,7 +1695,7 @@
 - [TrustyJAID/Trusty-cogs](https://github.com/TrustyJAID/Trusty-cogs) - A variety of utility cogs and fun cogs including Hockey information from the NHL, badge creation from discord user information, starboard for use on Redbot, twitch follow notifications and more.
 - [Column01/Discord-Moderation-Bot](https://github.com/Column01/Discord-Moderation-Bot) - Modular Moderation bot for Discord
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
-- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A verified Python Discord bot with moderation features such as reporting and detailed audit logs.
+- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - Discord moderation bot in 700 servers: context-menu report triage, attributed delete logs, per-guild config. Python, discord.py, PostgreSQL.
 - [Kyrela/discore](https://github.com/Kyrela/discore) - A core for easily initialise and run discord.py bots, and track logs and errors
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [Soheab/dpy-missing-features](https://github.com/Soheab/dpy-missing-features) - List of features that are or were not supported by discord.py but are in the API.
@@ -5648,7 +5648,7 @@
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mit-27/god-tier-saas](https://github.com/mit-27/god-tier-saas) - A SaaS kit providing end-to-end type safety with ts-rest between Next.js and Nest.js, plus integrated services like AuthJS, PostHog, and Drizzle ORM with PostgreSQL.
-- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A verified Python Discord bot with moderation features such as reporting and detailed audit logs.
+- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - Discord moderation bot in 700 servers: context-menu report triage, attributed delete logs, per-guild config. Python, discord.py, PostgreSQL.
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -5879,7 +5879,7 @@
 - [Column01/Discord-Moderation-Bot](https://github.com/Column01/Discord-Moderation-Bot) - Modular Moderation bot for Discord
 - [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
 - [Yanik39/IRCNet](https://github.com/Yanik39/IRCNet) - Full featured IRCServer with UnrealIRCd, Atheme-Services and theLounge.
-- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - A verified Python Discord bot with moderation features such as reporting and detailed audit logs.
+- [Coookei/Coffee-Bot](https://github.com/Coookei/Coffee-Bot) - Discord moderation bot in 700 servers: context-menu report triage, attributed delete logs, per-guild config. Python, discord.py, PostgreSQL.
 - [discordsuperutils/discord-super-utils](https://github.com/discordsuperutils/discord-super-utils) - A modern python module including many useful features that make discord bot programming extremely easy.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [gtalarico/pyairtable](https://github.com/gtalarico/pyairtable) - Python Api Client for Airtable
