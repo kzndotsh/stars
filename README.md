@@ -428,7 +428,7 @@
 - [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agno
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
-- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
+- [jasonakatiff/agentic-react-nextjs-shadcn](https://github.com/jasonakatiff/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -1900,7 +1900,6 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [mpepping/docker-cyberchef](https://github.com/mpepping/docker-cyberchef) - GCHQ CyberChef in a container
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -3092,7 +3091,6 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2026. with learning resources
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -3692,7 +3690,7 @@
 
 - [yassir-jeraidi/full-calendar](https://github.com/yassir-jeraidi/full-calendar) - A feature-rich calendar application built with React, TypeScript, and ShadCN UI components. This project provides a customizable and interactive calendar experience with multiple views, event manageme
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
-- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
+- [jasonakatiff/agentic-react-nextjs-shadcn](https://github.com/jasonakatiff/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
 - [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Data table and data grid components built with shadcn/ui, featuring sorting, filtering, pagination, infinite scrolling, and real-time collaboration.
 - [vmnog/calendarcn](https://github.com/vmnog/calendarcn) - A beautifully crafted calendar component built with shadcn/ui and Tailwind CSS, inspired by Notion Calendar. Week view, dark mode, and more.
@@ -3991,7 +3989,7 @@
 - [TheHive-Project/Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers) - Cortex Analyzers Repository
 - [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex) - Cortex: a Powerful Observable Analysis and Active Response Engine
 - [VladTepes84/Rekos](https://github.com/VladTepes84/Rekos) - Terminal-native passive OSINT CLI for local-first public-source investigations, evidence correlation, and case management.
-- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
+- [jasonakatiff/agentic-react-nextjs-shadcn](https://github.com/jasonakatiff/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [FrancesCoronel/hire-me](https://github.com/FrancesCoronel/hire-me) - Comprehensive guide to landing a tech job, including resume templates, interview prep, and salary negotiation resources.
@@ -4188,7 +4186,7 @@
 - [ValwareIRC/uwp-plugins](https://github.com/ValwareIRC/uwp-plugins) - Official Plugin Repository for UnrealIRCd Web Panel
 - [ValwareIRC/unrealircd-webpanel-2](https://github.com/ValwareIRC/unrealircd-webpanel-2) - UnrealIRCd Web Panel v2 - Complete rewrite with Go backend and React/TypeScript frontend
 - [ValwareIRC/unrealircd-conf-shl](https://github.com/ValwareIRC/unrealircd-conf-shl) - vscode extension for UnrealIRCd .conf files syntax highlighting
-- [Lynthar/XMPanel](https://github.com/Lynthar/XMPanel) - A visual management panel for an XMPP server
+- [Lynthar/XMPanel](https://github.com/Lynthar/XMPanel) - Self-hosted web admin panel for Prosody XMPP servers, with RBAC, MFA and a tamper-evident audit log. Go + React.
 - [unredacted/xmpp.is](https://github.com/unredacted/xmpp.is) - The scripts and configuration that run XMPP.is
 - [modernxmpp/easy-xmpp-invitation](https://github.com/modernxmpp/easy-xmpp-invitation) - Easy XMPP Invitation Landing Page
 - [sv0/ansible-prosody](https://github.com/sv0/ansible-prosody) - Install and configure Prosody XMPP(Jabber) server with Ansible.
@@ -4645,6 +4643,7 @@
 - [dnaprawa/dockerfile-best-practices](https://github.com/dnaprawa/dockerfile-best-practices) - Dockerfile Best Practices
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [CanastaWiki/Canasta-DockerCompose](https://github.com/CanastaWiki/Canasta-DockerCompose) - Docker Compose stack template for Canasta
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
@@ -6110,7 +6109,7 @@
 - [yassir-jeraidi/full-calendar](https://github.com/yassir-jeraidi/full-calendar) - A feature-rich calendar application built with React, TypeScript, and ShadCN UI components. This project provides a customizable and interactive calendar experience with multiple views, event manageme
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
-- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
+- [jasonakatiff/agentic-react-nextjs-shadcn](https://github.com/jasonakatiff/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
 - [shadcn-labs/ogimagecn](https://github.com/shadcn-labs/ogimagecn) - Beautiful Open Graph image components, built on Satori. 100% Free, Zero config, one command setup.
 - [Delego-Dev/registry](https://github.com/Delego-Dev/registry) - Delego design-system registry for shadcn — theme (OKLCH light/dark) + components: decision pill, signed receipt, status badge, button, field.
@@ -7047,7 +7046,7 @@
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
-- [iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
+- [jasonakatiff/agentic-react-nextjs-shadcn](https://github.com/jasonakatiff/agentic-react-nextjs-shadcn) - GitHub template for agent-testable SaaS apps. Next.js 16 + shadcn/ui + Neon Postgres + agent-browser e2e testing via accessibility tree.
 - [abderrahimghazali/shadcn-fintech](https://github.com/abderrahimghazali/shadcn-fintech) - A premium open-source fintech dashboard built with Next.js, shadcn/ui, and Tailwind CSS. 9 pages, drag-and-drop layout, interactive cards, live ticker, spending heatmap, and more.
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [ramonclaudio/tanstack-cn](https://github.com/ramonclaudio/tanstack-cn) - TanStack Start + shadcn template with a one-command scaffolder. Vite 8 + Oxc, Tailwind v4, base-luma on Base UI, React 19, TypeScript 6, Vitest 4. npm, pnpm, bun, or yarn.
