@@ -355,7 +355,7 @@
 ## ai 
 
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
-- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - 
+- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - Watchdog (name STC) is an open-source intelligence (OSINT) case management platform for small teams.
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [ubikron/Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT) - A list of articles, videos, and tools related to the use of AI for OSINT.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -4090,7 +4090,7 @@
 
 ## osint 
 
-- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - 
+- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - Watchdog (name STC) is an open-source intelligence (OSINT) case management platform for small teams.
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
@@ -5622,7 +5622,7 @@
 
 ## postgresql 
 
-- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - 
+- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - Watchdog (name STC) is an open-source intelligence (OSINT) case management platform for small teams.
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
 - [allthingslinux/portal](https://github.com/allthingslinux/portal) - Portal
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -6429,7 +6429,7 @@
 
 ## security 
 
-- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - 
+- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - Watchdog (name STC) is an open-source intelligence (OSINT) case management platform for small teams.
 - [PrismorSec/prismor](https://github.com/PrismorSec/prismor) - Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agno
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [VladTepes84/Rekos](https://github.com/VladTepes84/Rekos) - Terminal-native passive OSINT CLI for local-first public-source investigations, evidence correlation, and case management.
@@ -7041,7 +7041,7 @@
 
 ## typescript 
 
-- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - 
+- [kzndotsh/watchdog](https://github.com/kzndotsh/watchdog) - Watchdog (name STC) is an open-source intelligence (OSINT) case management platform for small teams.
 - [memi-design/memi](https://github.com/memi-design/memi) - The design layer for agentic AI — design context, interface checks, and verification for coding agents.
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
