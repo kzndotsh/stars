@@ -369,7 +369,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [brandonhimpfen/awesome-hugging-face](https://github.com/brandonhimpfen/awesome-hugging-face) - A curated list of awesome libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
@@ -514,6 +514,7 @@
 
 ## angular 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -763,6 +764,7 @@
 
 ## awesome-list 
 
+- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - There's no place like ~/.config
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) - 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!
 - [ubikron/Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT) - A list of articles, videos, and tools related to the use of AI for OSINT.
@@ -860,7 +862,7 @@
 
 ## aws 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,396 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,404 operations, true 100% Smithy conformance (248,557/248,557 variants pass). No account, no auth token, no paid tier.
 - [adobe/ops-cli](https://github.com/adobe/ops-cli) - Ops - cli wrapper for Terraform, Ansible, Helmfile and SSH for cloud automation
 - [aryasoni98/InfraBrain](https://github.com/aryasoni98/InfraBrain) - Cloud infrastructures should be designed and managed collaboratively and visually. Get your IaC standardised.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -902,6 +904,7 @@
 
 ## bash 
 
+- [shelljs/shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -1191,6 +1194,7 @@
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [grafana/grafanactl](https://github.com/grafana/grafanactl) - The Grafana CLI. Command-line tool designed to simplify interaction with Grafana resources.
@@ -1290,7 +1294,7 @@
 ## code-quality 
 
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, h
 - [Anselmoo/mcp-server-analyzer](https://github.com/Anselmoo/mcp-server-analyzer) - MCP server for Python code analysis with RUFF linting and VULTURE dead code detection
 - [demartini/base-configs](https://github.com/demartini/base-configs) - A collection of base configs for code quality and linting tools.
@@ -1330,6 +1334,7 @@
 
 ## compiler 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
@@ -1600,6 +1605,7 @@
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
@@ -2000,6 +2006,7 @@
 
 ## dotfiles 
 
+- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - There's no place like ~/.config
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
 - [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles.
@@ -2139,7 +2146,7 @@
 
 ## emulator 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,396 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,404 operations, true 100% Smithy conformance (248,557/248,557 variants pass). No account, no auth token, no paid tier.
 
 ## es6 
 
@@ -3097,6 +3104,7 @@
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2026. with learning resources
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -3152,6 +3160,7 @@
 
 ## linux 
 
+- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - There's no place like ~/.config
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
@@ -3467,7 +3476,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - Self-hosted MCP gateway and management platform for connecting, managing, and operating MCP servers.
 - [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, h
@@ -3827,6 +3836,7 @@
 
 ## no-code 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [basetool-ai/basetool](https://github.com/basetool-ai/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
@@ -4131,6 +4141,7 @@
 
 ## others 
 
+- [mikearnaldi/accountability](https://github.com/mikearnaldi/accountability) - 
 - [aj47/dotagentsprotocol-website](https://github.com/aj47/dotagentsprotocol-website) - .agents Protocol — The open standard for AI agent configuration. dotagentsprotocol.com
 - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
@@ -6110,6 +6121,7 @@
 
 ## react 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [yassir-jeraidi/full-calendar](https://github.com/yassir-jeraidi/full-calendar) - A feature-rich calendar application built with React, TypeScript, and ShadCN UI components. This project provides a customizable and interactive calendar experience with multiple views, event manageme
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
@@ -6389,6 +6401,7 @@
 
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -6773,6 +6786,7 @@
 
 ## svelte 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [kzndotsh/gang.guide](https://github.com/kzndotsh/gang.guide) - Evidence backed mapping of criminal organizations across the US — alliances, rivalries, history, and culture.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
@@ -6815,6 +6829,7 @@
 
 ## tailwindcss 
 
+- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - There's no place like ~/.config
 - [memi-design/memi](https://github.com/memi-design/memi) - The design layer for agentic AI — design context, interface checks, and verification for coding agents.
 - [yassir-jeraidi/full-calendar](https://github.com/yassir-jeraidi/full-calendar) - A feature-rich calendar application built with React, TypeScript, and ShadCN UI components. This project provides a customizable and interactive calendar experience with multiple views, event manageme
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
@@ -6960,7 +6975,7 @@
 
 ## terraform 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,396 operations, true 100% Smithy conformance (248,319/248,319 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,404 operations, true 100% Smithy conformance (248,557/248,557 variants pass). No account, no auth token, no paid tier.
 - [terranix/terranix](https://github.com/terranix/terranix) - terranix is a Nix-based Terraform JSON generator [maintainer=@sshine]
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
@@ -7061,6 +7076,7 @@
 - [antoine-coulon/skott](https://github.com/antoine-coulon/skott) - All-in-one devtool to automatically analyze, search and visualize project modules and dependencies from JavaScript, TypeScript (JSX/TSX) and Node.js (ES6, CommonJS)
 - [acrazing/dpdm](https://github.com/acrazing/dpdm) - Detect circular dependencies in your TypeScript projects.
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
@@ -7362,6 +7378,7 @@
 
 ## vue 
 
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
