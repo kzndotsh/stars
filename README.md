@@ -439,7 +439,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -764,7 +764,7 @@
 
 ## awesome-list 
 
-- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - There's no place like ~/.config
+- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - Curated list of Unix rices with filters for Distro, WM, Colorscheme, and more!
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) - 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!
 - [ubikron/Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT) - A list of articles, videos, and tools related to the use of AI for OSINT.
@@ -1746,7 +1746,7 @@
 - [Skelmis/Discord-Anti-Spam](https://github.com/Skelmis/Discord-Anti-Spam) - Ever wanted a bot to automatically deal with spammers? This is your Python library for it.
 - [YousefEZ/discord-qalib](https://github.com/YousefEZ/discord-qalib) - 👾 Discord library built on discord.py to simplify source code by rendering markup (xml) templates of embeds and menus (Pagination).
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
-- [open-discord-bots/open-ticket](https://github.com/open-discord-bots/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, pterodactyl support & more! Easy setup & powered by discord.js v14!
+- [open-discord-bots/open-ticket](https://github.com/open-discord-bots/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, statistics, pterodactyl/docker support & more!
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [CarlGroth/Carl-Bot](https://github.com/CarlGroth/Carl-Bot) - Bot for discord using discord.py (outdated code)
 - [poketwo/poketwo](https://github.com/poketwo/poketwo) - A (not so) small Pokécord clone.
@@ -1778,7 +1778,7 @@
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
 - [skyra-project/skyra](https://github.com/skyra-project/skyra) - A multipurpose Discord Bot designed to carry out most of your server's needs with great performance and stability.
 - [codesupport/discord-bot](https://github.com/codesupport/discord-bot) - The CodeSupport Discord Bot
-- [aronson/discord-irc](https://github.com/aronson/discord-irc) - Connects Discord and IRC channels by sending messages back and forth.
+- [struffl/discord-irc](https://github.com/struffl/discord-irc) - Connects Discord and IRC channels by sending messages back and forth.
 - [AallynReed/TroveBot](https://github.com/AallynReed/TroveBot) - This is the repository for Trove Discord Bot, all code used in Trove bot is displayed here, apart from API Keys for obvious reasons
 - [Voxel-Fox-Ltd/Profile](https://github.com/Voxel-Fox-Ltd/Profile) - A Discord bot for storing profiles, characters, and other user information in an easy and modular way.
 - [Defxult/reactionmenu](https://github.com/Defxult/reactionmenu) - A library to create a discord.py 2.0+ paginator (reaction menu/buttons menu). Supports pagination with buttons, reactions, and category selection using selects.
@@ -1911,7 +1911,7 @@
 - [mpepping/docker-cyberchef](https://github.com/mpepping/docker-cyberchef) - GCHQ CyberChef in a container
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2026. with learning resources
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -2007,7 +2007,7 @@
 
 ## dotfiles 
 
-- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - There's no place like ~/.config
+- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - Curated list of Unix rices with filters for Distro, WM, Colorscheme, and more!
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
 - [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles.
@@ -2255,6 +2255,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
+- [fireact-dev/main](https://github.com/fireact-dev/main) - Open-source SaaS framework (React + Firebase + Stripe) with built-in Claude Code AI skills. Auth, billing, teams, and i18n in one command.
 
 ## firefox 
 
@@ -2959,7 +2960,6 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -3159,7 +3159,7 @@
 
 ## linux 
 
-- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - There's no place like ~/.config
+- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - Curated list of Unix rices with filters for Distro, WM, Colorscheme, and more!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
@@ -3308,7 +3308,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [Anselmoo/mcp-server-analyzer](https://github.com/Anselmoo/mcp-server-analyzer) - MCP server for Python code analysis with RUFF linting and VULTURE dead code detection
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡mcphub
@@ -3910,7 +3910,6 @@
 - [sixem/ivfi-node](https://github.com/sixem/ivfi-node) - IVFi is a directory indexer written in Node that aims to make it easy to browse and explore web-accessible directories.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [kabirjaipal/discordjs-base-handler](https://github.com/kabirjaipal/discordjs-base-handler) - Improve Discord.js bot with organized Slash Commands, events, and error handling. Use discord.js, Node.js.
@@ -5083,7 +5082,6 @@
 - [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
 - [aws-samples/aws-saas-factory-bootcamp](https://github.com/aws-samples/aws-saas-factory-bootcamp) - SaaS on AWS Bootcamp - Building SaaS Solutions on AWS
-- [fireact-dev/main](https://github.com/fireact-dev/main) - Open-source SaaS framework (React + Firebase + Stripe) with built-in Claude Code AI skills. Auth, billing, teams, and i18n in one command.
 - [SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) - SaaS template for AWS, Amplify, React, NextJS and Chakra
 - [scriptex/itcss](https://github.com/scriptex/itcss) - Starter CSS boilerplate utilizing the ITCSS pattern
 - [IOKernel/MoveSonarrDB](https://github.com/IOKernel/MoveSonarrDB) - a script to move the Sonarr database from windows to Linux
@@ -5757,7 +5755,7 @@
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 
 ## prompt-engineering 
 
@@ -5809,7 +5807,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [allthingslinux/monorepo](https://github.com/allthingslinux/monorepo) - All Things Linux
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [allthingslinux/atl.chat](https://github.com/allthingslinux/atl.chat) - 
 - [allthingslinux/atl-wiki](https://github.com/allthingslinux/atl-wiki) - All Things Linux Wiki's IaC Deployment
 - [schemen/privacycow](https://github.com/schemen/privacycow) - Mailcow Privacy Alias CLI
@@ -6201,7 +6199,6 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
@@ -6277,6 +6274,7 @@
 - [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [dunky11/react-saas-template](https://github.com/dunky11/react-saas-template) - 🌊   Template for building an SaaS / admin website using React + Material-UI
+- [fireact-dev/main](https://github.com/fireact-dev/main) - Open-source SaaS framework (React + Firebase + Stripe) with built-in Claude Code AI skills. Auth, billing, teams, and i18n in one command.
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [Saas-Starter-Kit/SAAS-Starter-Kit-Pro](https://github.com/Saas-Starter-Kit/SAAS-Starter-Kit-Pro) - A boilerplate for building Software-as-Service (SAAS) apps with Reactjs, and Nodejs
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
@@ -6580,10 +6578,10 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [open-discord-bots/open-ticket](https://github.com/open-discord-bots/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, pterodactyl support & more! Easy setup & powered by discord.js v14!
+- [open-discord-bots/open-ticket](https://github.com/open-discord-bots/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, statistics, pterodactyl/docker support & more!
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -6834,7 +6832,7 @@
 
 ## tailwindcss 
 
-- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - There's no place like ~/.config
+- [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - Curated list of Unix rices with filters for Distro, WM, Colorscheme, and more!
 - [memi-design/memi](https://github.com/memi-design/memi) - The design layer for agentic AI — design context, interface checks, and verification for coding agents.
 - [yassir-jeraidi/full-calendar](https://github.com/yassir-jeraidi/full-calendar) - A feature-rich calendar application built with React, TypeScript, and ShadCN UI components. This project provides a customizable and interactive calendar experience with multiple views, event manageme
 - [bitjaru/styleseed](https://github.com/bitjaru/styleseed) - Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.
@@ -7166,7 +7164,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [open-discord-bots/open-ticket](https://github.com/open-discord-bots/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, pterodactyl support & more! Easy setup & powered by discord.js v14!
+- [open-discord-bots/open-ticket](https://github.com/open-discord-bots/open-ticket) - The most advanced self-hosted discord ticket bot with transcripts, plugins, questions, claiming, statistics, pterodactyl/docker support & more!
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -7239,6 +7237,7 @@
 - [tuanlc/express-prisma-postgresql-boilerplate](https://github.com/tuanlc/express-prisma-postgresql-boilerplate) - This boilerplate follows clean architecture with SOLID principles. This sample define a simple user schema and handle two endpoints that allows users to create new accounts and login by them. There is
 - [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
+- [fireact-dev/main](https://github.com/fireact-dev/main) - Open-source SaaS framework (React + Firebase + Stripe) with built-in Claude Code AI skills. Auth, billing, teams, and i18n in one command.
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [wellyshen/react-cool-starter](https://github.com/wellyshen/react-cool-starter) - 😎 🐣 A starter boilerplate for a universal web app with the best development experience and a focus on performance and best practices.
