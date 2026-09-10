@@ -1126,7 +1126,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI https://mcpmu.bigsy.uk/
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
@@ -1157,7 +1157,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI https://mcpmu.bigsy.uk/
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -1603,7 +1603,7 @@
 - [BradGroux/veritas-kanban](https://github.com/BradGroux/veritas-kanban) - Lightweight orchestration harness built for your AI agents. The unfiltered truth about where your project stands.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI https://mcpmu.bigsy.uk/
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static analysis of code and styles: unused code, duplication, circular deps, complexity hotspots, architecture boundaries, design-system drift
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
@@ -2479,7 +2479,7 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI https://mcpmu.bigsy.uk/
 - [cloudshipai/ship](https://github.com/cloudshipai/ship) - CloudshipAI CLI
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [simplesurance/baur](https://github.com/simplesurance/baur) - An incremental task runner for mono repositories.
@@ -3474,7 +3474,7 @@
 - [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) - 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - Self-hosted MCP gateway and management platform for connecting, managing, and operating MCP servers.
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI https://mcpmu.bigsy.uk/
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
@@ -7036,7 +7036,7 @@
 
 ## tui 
 
-- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI
+- [Bigsy/mcpmu](https://github.com/Bigsy/mcpmu) - MCP server multiplexer, configure all your MCP's in a single MCP with profiles, both TUI and web UI https://mcpmu.bigsy.uk/
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [NumeXx/gsm](https://github.com/NumeXx/gsm) - Connect like there's no firewall, but with style and a kick-ass TUI!
 - [lfaoro/ssm](https://github.com/lfaoro/ssm) - A fast, keyboard-driven TUI that makes your existing ~/.ssh/config delightful to use at fleet scale.
