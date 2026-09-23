@@ -343,7 +343,7 @@
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
@@ -1622,7 +1622,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [taw00/howto](https://github.com/taw00/howto) - Dumping ground for various HowTo documents that I produce
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
-- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@zhaofengli, @stepbrobd, @NickCao]
+- [nix-community/colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool [maintainer=@stepbrobd, @NickCao, @zhaofengli]
 - [DBCDK/morph](https://github.com/DBCDK/morph) - NixOS deployment tool
 
 ## design 
@@ -1909,7 +1909,7 @@
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2540,7 +2540,7 @@
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -3227,7 +3227,7 @@
 - [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles.
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - awesome linux minimalism suggestions
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [IsRengel/InstallCursorEditorLinux](https://github.com/IsRengel/InstallCursorEditorLinux) - 矢印 | Cursor AI Code Editor, installer and setup in Linux  ➤
 - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security) - Ansible Role - Security
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -3465,7 +3465,7 @@
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [milisp/mcp-linker](https://github.com/milisp/mcp-linker) - mcp store manager, add & syncs MCP server configurations across clients like Claude code, Cursor💡mcphub
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [yukondude/Scripnix](https://github.com/yukondude/Scripnix) - Useful Python3 and bash shell scripts for macOS/BSD and *NIX. Useful to me, at any rate. YMMV.
 - [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
@@ -3959,7 +3959,7 @@
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -4219,6 +4219,7 @@
 
 ## others 
 
+- [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) - Async-first agent harness
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -4937,7 +4938,7 @@
 - [sibbl/matrix-bot-media-fetcher](https://github.com/sibbl/matrix-bot-media-fetcher) - A Matrix bot which downloads all media from the rooms it's invited to.
 - [beeper/media-viewer](https://github.com/beeper/media-viewer) - A simple web app that can download, decrypt and display encrypted Matrix media.
 - [sepia04/wallpapers](https://github.com/sepia04/wallpapers) - Wallpapers that are more or less suitable for Tokyo Night Colors maybe???
-- [keefeeilish/Tokyo-Night-Cider-Music-Theme](https://github.com/keefeeilish/Tokyo-Night-Cider-Music-Theme) - A Tokyo Night based theme for Cider music app.
+- [vinamrajain07/Tokyo-Night-Cider-Music-Theme](https://github.com/vinamrajain07/Tokyo-Night-Cider-Music-Theme) - A Tokyo Night based theme for Cider music app.
 - [almighty-loaf/rEFInd-tokyo-night](https://github.com/almighty-loaf/rEFInd-tokyo-night) - Tokyo Night theme for rEFInd
 - [MichaelWagnr/tokyo-night.css](https://github.com/MichaelWagnr/tokyo-night.css) - CSS custom properties inspired by the Tokyo Night theme by enkia. Prototype and develop in the same color scheme.
 - [mathisto/tokyo-night-goodness](https://github.com/mathisto/tokyo-night-goodness) - Ports of Enki's amazing 'Tokyo Night' VSCode theme
@@ -5918,7 +5919,7 @@
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv) - Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
@@ -6500,7 +6501,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [crate-ci/imperative](https://github.com/crate-ci/imperative) - Check the mood of a word
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - A Rust-backed async ORM for Python applications that use Pydantic models ✨
@@ -6557,7 +6558,7 @@
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [docker/scout-action](https://github.com/docker/scout-action) - Docker Scout GitHub Action
@@ -6635,7 +6636,7 @@
 - [autobase-tech/autobase](https://github.com/autobase-tech/autobase) - Automated database platform for PostgreSQL® - Your own DBaaS.
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
@@ -7207,7 +7208,7 @@
 - [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, in
 - [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
@@ -7581,7 +7582,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rallep71/dinox](https://github.com/rallep71/dinox) - Moved to Forgejo: https://git.dinox.im/dinoxim/dinox
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable micro virtual machines for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
 - [TheAcharya/Airlift](https://github.com/TheAcharya/Airlift) - Upload & Merge Data with Attachments to Airtable
 - [Spacial/awesome-systools](https://github.com/Spacial/awesome-systools) - Awesome Systools is a collection of sysadmins daily handy tools.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
