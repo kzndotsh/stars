@@ -380,7 +380,7 @@
 - [utensils/comfyui-nix](https://github.com/utensils/comfyui-nix) - A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [brandonhimpfen/awesome-hugging-face](https://github.com/brandonhimpfen/awesome-hugging-face) - A curated list of awesome libraries, models, datasets, tutorials, and tools from and for the Hugging Face ecosystem.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
@@ -1689,7 +1689,7 @@
 ## development 
 
 - [neutraltone/awesome-development-jobs](https://github.com/neutraltone/awesome-development-jobs) - :office: A collection of links to various job listings websites and helpful resources
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [atheme/atheme](https://github.com/atheme/atheme) - Atheme IRC Services
 - [exajobs/devops-collection](https://github.com/exajobs/devops-collection) - Welcome To The World of DevOps. An ongoing & curated collection of awesome software, libraries, learning tutorials, tools and resources and cool stuff about DevOps.
 - [jbee37142/Interview_Question_for_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
@@ -2093,7 +2093,7 @@
 - [PetarKirov/dotfiles](https://github.com/PetarKirov/dotfiles) - My personal system and $HOME configuration managed by Nix
 - [donovanglover/nix-config](https://github.com/donovanglover/nix-config) - My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.
 - [chris-martin/home](https://github.com/chris-martin/home) - My home directory: Nix config, dotfiles, scripts, etc.
-- [r17x/universe](https://github.com/r17x/universe) - my development universe ❄️ ƛ
+- [r17x/universe](https://github.com/r17x/universe) - let universe speak itself ❄️ ƛ
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [aaronjanse/dotfiles](https://github.com/aaronjanse/dotfiles) - My dotfiles as a Nix flake
 - [matu3ba/dotfiles_skeleton](https://github.com/matu3ba/dotfiles_skeleton) - robust and beginner friendly dotfile skeleton
@@ -2787,7 +2787,7 @@
 - [ps0305/Javascript-Algorithms-And-Data-Structures](https://github.com/ps0305/Javascript-Algorithms-And-Data-Structures) - :books: Javascript Algorithms And Data Structures
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
-- [r17x/universe](https://github.com/r17x/universe) - my development universe ❄️ ƛ
+- [r17x/universe](https://github.com/r17x/universe) - let universe speak itself ❄️ ƛ
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 - [unixorn/jpb.zshplugin](https://github.com/unixorn/jpb.zshplugin) - ZSH plugin to load some of my tools.
@@ -3288,7 +3288,7 @@
 - [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for any Wayland compositor
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [r17x/universe](https://github.com/r17x/universe) - my development universe ❄️ ƛ
+- [r17x/universe](https://github.com/r17x/universe) - let universe speak itself ❄️ ƛ
 - [leomeinel/arch-install](https://github.com/leomeinel/arch-install) - My personal Arch Linux install script using LUKS2 encryption, LVM and btrfs with optional RAID1.
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files, development environment and scripts for various Unix-like systems, text-based command-line applications and interfaces.
@@ -4156,6 +4156,7 @@
 
 ## openai 
 
+- [kzndotsh/fish-audio-suite](https://github.com/kzndotsh/fish-audio-suite) - An opinionated toolkit for Fish Audio: TTS, ASR, and live speech.
 - [theboringhumane/echoOLlama](https://github.com/theboringhumane/echoOLlama) - 🦙 echoOLlama: A real-time voice AI platform powered by local LLMs. Features WebSocket streaming, voice interactions, and OpenAI API compatibility. Built with FastAPI, Redis, and PostgreSQL. Perfect fo
 - [aristoapp/awesome-second-brain](https://github.com/aristoapp/awesome-second-brain) - A curated solutions to building a self-evolving second brain that helps AI agents understand your personal and team context.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -5670,6 +5671,7 @@
 
 ## pentesting 
 
+- [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [wddadk/Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -6606,6 +6608,7 @@
 
 ## security-tools 
 
+- [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
