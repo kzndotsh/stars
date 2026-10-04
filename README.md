@@ -289,6 +289,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -1095,7 +1096,7 @@
 - [actionbrk/abeille](https://github.com/actionbrk/abeille) - Discord bot providing statistics and insights for guilds.
 - [Ki-er/Clarence-Bot](https://github.com/Ki-er/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands
 - [kabirjaipal/discordjs-base-handler](https://github.com/kabirjaipal/discordjs-base-handler) - Improve Discord.js bot with organized Slash Commands, events, and error handling. Use discord.js, Node.js.
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.22 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.27 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
 - [ikrishagarwal/discord-http-bot](https://github.com/ikrishagarwal/discord-http-bot) - A template for making discord HTTP bots with typescript.
 - [kushagraaj/Mito](https://github.com/kushagraaj/Mito) - Mito bot is a multipurpose discord bot serving 200k+ users!
 - [brunos3d/discord-bot-typescript-boilerplate](https://github.com/brunos3d/discord-bot-typescript-boilerplate) - 🤖 NODE.TS - Start your next discord bot project in seconds.
@@ -1880,7 +1881,7 @@
 - [kabirjaipal/discordjs-base-handler](https://github.com/kabirjaipal/discordjs-base-handler) - Improve Discord.js bot with organized Slash Commands, events, and error handling. Use discord.js, Node.js.
 - [mpsparrow/applesauce](https://github.com/mpsparrow/applesauce) - Applesauce is a lightweight Discord bot that provides a plugin management framework to enable powerful modular configurations
 - [BestGamersH/Multipurpose-Discord-Bot](https://github.com/BestGamersH/Multipurpose-Discord-Bot) - The bot that has everything! - Leveling • Music • Memes • Moderation • nsfw • Logging • Tickets • Reaction Roles • Fun • Anime • Applications • Much More
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.22 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.27 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
 - [MericcaN41/discordjs-v14-template-ts](https://github.com/MericcaN41/discordjs-v14-template-ts) - A typescript template for Discord.js v14 that includes handlers, slash commands, mongodb, permissions and more.
 - [dan5py/discordjs-template-ts](https://github.com/dan5py/discordjs-template-ts) - A simple bot template for discordjs (with Typescript)
 - [ikrishagarwal/discord-http-bot](https://github.com/ikrishagarwal/discord-http-bot) - A template for making discord HTTP bots with typescript.
@@ -2979,7 +2980,7 @@
 ## http 
 
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [fuomag9/caddy-proxy-manager](https://github.com/fuomag9/caddy-proxy-manager) - The modern web interface for Caddy Server. WAF protection, automatic HTTPS, mTLS, forward auth, geo blocking, L4 TCP/UDP proxying, traffic analytics, a full REST API, and a complete audit trail. All i
+- [ingres-si/caddy-proxy-manager](https://github.com/ingres-si/caddy-proxy-manager) - The modern web interface for Caddy Server. WAF protection, automatic HTTPS, mTLS, forward auth, geo blocking, L4 TCP/UDP proxying, traffic analytics, a full REST API, and a complete audit trail. All i
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http) - A Python library for Discord bots using HTTP interactions, with optional WebSocket support and full cache control.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -3769,7 +3770,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [PythonistaGuild/Wavelink](https://github.com/PythonistaGuild/Wavelink) - A powerful Lavalink library for Discord.py.
 - [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot) - A Relatively Simply Awesome Discord bot with Music, Games, Comics, Memes and other cool features. This bot is made in Python 3.8 using discord.py
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.22 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.27 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
 - [discordx-ts/templates](https://github.com/discordx-ts/templates) - templates of create-discordx
 - [saiteja-madha/discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖 Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 - [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot) - A multipurpose bot, a clan bot, a all in one bot. The one bot u need for ur server originally made as Milrato discord Bot and by Tomato6966.
@@ -4096,7 +4097,7 @@
 - [ycjcl868/monorepo](https://github.com/ycjcl868/monorepo) - Monorepo with pnpm and turborepo, deploying into Vercel.
 - [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.22 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - Advanced Discord v14.27 Music Bot with YouTube, Spotify, SoundCloud, and Direct Link support.
 - [ikrishagarwal/discord-http-bot](https://github.com/ikrishagarwal/discord-http-bot) - A template for making discord HTTP bots with typescript.
 - [sern-handler/handler](https://github.com/sern-handler/handler) - A JavaScript framework to create your dream Discord bot in nodejs bun or deno
 - [necordjs/necord](https://github.com/necordjs/necord) - 🤖 A module for creating Discord bots using NestJS, based on Discord.js
@@ -4340,6 +4341,8 @@
 
 ## others 
 
+- [mileswangs/pm-cookbook](https://github.com/mileswangs/pm-cookbook) - Practical Polymarket data processing, analysis, and strategy research recipes
+- [mileswangs/pm-hftbacktest](https://github.com/mileswangs/pm-hftbacktest) - high frequency trading and market making backtesting for polymarket.
 - [experientiallabs/experiential](https://github.com/experientiallabs/experiential) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized mode
 - [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) - A Living Manual for Better Interfaces
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
@@ -4493,7 +4496,6 @@
 - [alyx/pam-atheme](https://github.com/alyx/pam-atheme) - PAM module for identification via Atheme
 - [ilbelkyr/syn](https://github.com/ilbelkyr/syn) - archive copy of a bunch of custom Atheme modules, no longer maintained
 - [revrsefr/atheme-mods-contrib](https://github.com/revrsefr/atheme-mods-contrib) - Modules for Atheme IRC Services
-- [supernets/atheme](https://github.com/supernets/atheme) - Atheme IRC services source & configuration
 - [hackint/atheme](https://github.com/hackint/atheme) - Atheme IRC Services
 - [Libera-Chat/atheme-extra](https://github.com/Libera-Chat/atheme-extra) - Libera.Chat specific atheme modules
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
@@ -4770,7 +4772,6 @@
 - [ProjectSegfault/publapi](https://github.com/ProjectSegfault/publapi) - API for pubnix.
 - [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [voaii/thelounge-plugin-quote](https://github.com/voaii/thelounge-plugin-quote) - 
-- [supernets/hardlounge](https://github.com/supernets/hardlounge) - IRCv5 Compliant Web-based IRC Client
 - [allthingslinux/is-it-harmful](https://github.com/allthingslinux/is-it-harmful) - A library dedicated to detecting if a shell command is "harmful"
 - [dazziedez/discordpy-avatar-logger](https://github.com/dazziedez/discordpy-avatar-logger) - A discord.py bot that logs avatar changes. Features a web ui to view avatar history
 - [Auttaja-OpenSource/Marver](https://github.com/Auttaja-OpenSource/Marver) - A Discord bot shard autoscaler for Kubernetes
@@ -6719,7 +6720,7 @@
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [docker/scout-action](https://github.com/docker/scout-action) - Docker Scout GitHub Action
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -6765,7 +6766,7 @@
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [0xffsec/handbook](https://github.com/0xffsec/handbook) - A living document for penetration testing and offensive security.
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -7687,7 +7688,7 @@
 
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [prose-im/prose-app-web](https://github.com/prose-im/prose-app-web) - Prose Web application. XMPP client for team messaging.
-- [fuomag9/caddy-proxy-manager](https://github.com/fuomag9/caddy-proxy-manager) - The modern web interface for Caddy Server. WAF protection, automatic HTTPS, mTLS, forward auth, geo blocking, L4 TCP/UDP proxying, traffic analytics, a full REST API, and a complete audit trail. All i
+- [ingres-si/caddy-proxy-manager](https://github.com/ingres-si/caddy-proxy-manager) - The modern web interface for Caddy Server. WAF protection, automatic HTTPS, mTLS, forward auth, geo blocking, L4 TCP/UDP proxying, traffic analytics, a full REST API, and a complete audit trail. All i
 - [smithyhq/sqladmin](https://github.com/smithyhq/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Message and manage through your Discord bot, self-hosted.
 - [InBrowserApp/tldr.inbrowser.app](https://github.com/InBrowserApp/tldr.inbrowser.app) - 📝 tldr InBrowser.App is a offline-capable PWA for tldr-pages. Fully runs in your browser. Zero API latency.
@@ -7770,6 +7771,10 @@
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## windows-11 
+
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 
 ## wordpress 
 
