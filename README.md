@@ -223,6 +223,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [quantitative-finance](#quantitative-finance)
 - [r](#r)
 - [rag](#rag)
 - [rails](#rails)
@@ -432,7 +433,7 @@
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [alan345/AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate) - Fullstack SaaS Boilerplate built with tRPC, Fastify and React
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -565,7 +566,7 @@
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [Kisspeace/NsfwBox](https://github.com/Kisspeace/NsfwBox) - Cross-platform app for search and download porn
@@ -977,7 +978,7 @@
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Production-ready Node.js TypeScript boilerplate: ESM, Vitest, ESLint, Prettier, GitHub Actions, Mise, and AGENTS.md included.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
@@ -1272,7 +1273,7 @@
 - [galliani/contextmax](https://github.com/galliani/contextmax) - 🚀 Browser-based tool for creating reusable sets of context for LLM. Improve response quality & time and reduce token usage. Privacy-first, works with any LLM (Claude, GPT-4, Gemini). Stop re-explainin
 - [ursisterbtw/ccprompts](https://github.com/ursisterbtw/ccprompts) - practical claude code commands and subagents
 - [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) - Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor, Roo Code, Cline, Windsurf, Claude Code, Gemini Cli, Codex CLI, kilo code, warp custom rules via a un
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## claude-skills 
@@ -1600,6 +1601,7 @@
 
 ## data-science 
 
+- [mtrinkner/edge-audit](https://github.com/mtrinkner/edge-audit) - Backtests trading strategies, then audits whether the edge is real. Counts every strategy searched, seals data it isn't allowed to look at, and reports negative results.
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)
 - [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - Maintained collection of OSINT related resources. (All Free & Actionable)
 - [kzndotsh/gang.guide](https://github.com/kzndotsh/gang.guide) - Evidence backed mapping of criminal organizations across the US — alliances, rivalries, history, and culture.
@@ -1709,7 +1711,7 @@
 - [shadcn-ui/lint](https://github.com/shadcn-ui/lint) - An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [Sakaax/ux-pilot](https://github.com/Sakaax/ux-pilot) - Your UX co-pilot — from idea to validated flow, in your terminal. Claude Code plugin with 376 UX rules, live preview, and smart discovery.
 - [brijr/craft](https://github.com/brijr/craft) - craft is an AI-first, lightweight, flexible design system for building responsive layouts in React and handling prose.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🎨  Design System Starter
@@ -2047,7 +2049,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2026. with learning resources
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [taneba/fullstack-graphql-app](https://github.com/taneba/fullstack-graphql-app) - An opinionated fullstack GraphQL monorepo boilerplate using pnpm, Turborepo, Prisma, GraphQL Yoga 2, Fastify, Nextjs, urql, and React
@@ -2143,7 +2145,7 @@
 ## dotfiles 
 
 - [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - Curated list of Unix rices with filters for Distro, WM, Colorscheme, and more!
-- [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
+- [lassulus/wrappers](https://github.com/lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
 - [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles.
 - [Izder456/dotfiles](https://github.com/Izder456/dotfiles) - My OpenBSD Dotfiles
@@ -2397,7 +2399,7 @@
 
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [enesien/venefish](https://github.com/enesien/venefish) - Boilerplate & template for Next.js project deployable on Vercel. Firebase, shadcn/ui and Tailwind.
 - [fireact-dev/main](https://github.com/fireact-dev/main) - Open-source SaaS framework (React + Firebase + Stripe) with built-in Claude Code AI skills. Auth, billing, teams, and i18n in one command.
 
@@ -2428,7 +2430,7 @@
 ## flutter 
 
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 
 ## font 
 
@@ -2457,7 +2459,7 @@
 - [thedaviddias/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) - 💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers
 - [skynet2982/awesome-alternative-front-ends](https://github.com/skynet2982/awesome-alternative-front-ends) - A curated list of Open Source alternative front-ends for popular websites.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -3036,7 +3038,7 @@
 ## ios 
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 
 ## iot 
@@ -3114,7 +3116,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [tiramisulabs/seyfert](https://github.com/tiramisulabs/seyfert) - the black magic Discord framework 🧙‍♂️
 - [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mixelpixel/AirScripts](https://github.com/mixelpixel/AirScripts) - Airtable Scripts Written In Javascript
@@ -3921,7 +3923,7 @@
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [kzndotsh/coinswiper](https://github.com/kzndotsh/coinswiper) - coinswiper is a modern web application built with Next.js for voting on your Solana tokens. It provides real-time data and insights using the DexScreener API integration.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
 - [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [eric-sfwe/Discord_Clone](https://github.com/eric-sfwe/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
@@ -3960,7 +3962,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [maybemaby/fastify-next-starter](https://github.com/maybemaby/fastify-next-starter) - Monorepo for fastify and nextjs. Uses Supabase for auth, OpenAPI for generating typesafe clients, and prisma as the ORM.
 - [alejandronanez/turborepo-nextjs-starter](https://github.com/alejandronanez/turborepo-nextjs-starter) - Turborepo + Next.js + TailwindCSS + TypeScript + Prettier + ESLint template to hit the ground running.
 - [slymnoyann/hey.xyz](https://github.com/slymnoyann/hey.xyz) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -4359,7 +4361,6 @@
 
 - [mileswangs/pm-cookbook](https://github.com/mileswangs/pm-cookbook) - Practical Polymarket data processing, analysis, and strategy research recipes
 - [mileswangs/pm-hftbacktest](https://github.com/mileswangs/pm-hftbacktest) - high frequency trading and market making backtesting for polymarket.
-- [experientiallabs/experiential](https://github.com/experientiallabs/experiential) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized mode
 - [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) - A Living Manual for Better Interfaces
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
@@ -5031,7 +5032,7 @@
 - [potaatu/nightvim](https://github.com/potaatu/nightvim) - Just a SINGLE FILE configuration for neovim with color scheme included (tokyonight).
 - [k226444/Tokyonight-Startpage](https://github.com/k226444/Tokyonight-Startpage) - My Tokyonight-themed startpage
 - [vitallium/tokyonight-fish](https://github.com/vitallium/tokyonight-fish) - TokyoNight colors for fish shell
-- [atraxsrc/cool-wallpapers](https://github.com/atraxsrc/cool-wallpapers) - very much cool-wallpapers
+- [atraxsrc/cool-wallpapers](https://github.com/atraxsrc/cool-wallpapers) - ⇧⇧⇧⇧⇧⇧⇧⇧⇧
 - [timmajani/tokyonightnoir-vim](https://github.com/timmajani/tokyonightnoir-vim) - Tokyonight theme with a darker background.
 - [jo-project/tokyonight-theme-tmux](https://github.com/jo-project/tokyonight-theme-tmux) - Tokyonight tmux theme (fork from folke/tokyonight.nvim)
 - [Arsemy/bemenu-tokyonight](https://github.com/Arsemy/bemenu-tokyonight) - bemenu tokyonight inpired theme
@@ -6034,6 +6035,7 @@
 
 ## python 
 
+- [mtrinkner/edge-audit](https://github.com/mtrinkner/edge-audit) - Backtests trading strategies, then audits whether the edge is real. Counts every strategy searched, seals data it isn't allowed to look at, and reports negative results.
 - [altered-intelligence/scry](https://github.com/altered-intelligence/scry) - Scry — defensive cyber threat intelligence platform. Ingests public CTI sources, extracts and scores IOCs/claims/entities, routes to analyst review. Seeing threats before they arrive.
 - [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or local models. For authorized security research only.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
@@ -6341,8 +6343,13 @@
 - [Sunderland93/sway-input-config](https://github.com/Sunderland93/sway-input-config) - Input device configurator for Sway
 - [antoniotejada/FileFinder](https://github.com/antoniotejada/FileFinder) - Simplistic but cross-platform version of Everything
 
+## quantitative-finance 
+
+- [mtrinkner/edge-audit](https://github.com/mtrinkner/edge-audit) - Backtests trading strategies, then audits whether the edge is real. Counts every strategy searched, seals data it isn't allowed to look at, and reports negative results.
+
 ## r 
 
+- [mtrinkner/edge-audit](https://github.com/mtrinkner/edge-audit) - Backtests trading strategies, then audits whether the edge is real. Counts every strategy searched, seals data it isn't allowed to look at, and reports negative results.
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 
 ## rag 
@@ -6421,7 +6428,7 @@
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Docs for Agents & Humans.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [AgoraIO-Extensions/agora-rtc-react](https://github.com/AgoraIO-Extensions/agora-rtc-react) - Agora RTC React SDK
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
@@ -6458,7 +6465,7 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [kyooowe/PineUI](https://github.com/kyooowe/PineUI) - 🚀 Boilerplate using TurboRepo, Vite, React, and Express. Provides a fast and efficient setup for building modern web apps.
@@ -6558,7 +6565,7 @@
 - [getsentry/sentry-wizard](https://github.com/getsentry/sentry-wizard) - Sentry Project Setup Wizard
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 
 ## reactjs 
@@ -6860,7 +6867,7 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 800+ 1-click Portainer app templates
 - [FOSSBilling/FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) - Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
@@ -6915,7 +6922,6 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [giuseppelt/httpc](https://github.com/giuseppelt/httpc) - Build function-based API with minimal code and end-to-end type safety
 - [tfpgh/fastapi-microservice-template](https://github.com/tfpgh/fastapi-microservice-template) - A template for a FastAPI based Serverless Framework microservice running on AWS Lambda
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -6992,6 +6998,7 @@
 
 ## sql 
 
+- [mtrinkner/edge-audit](https://github.com/mtrinkner/edge-audit) - Backtests trading strategies, then audits whether the edge is real. Counts every strategy searched, seals data it isn't allowed to look at, and reports negative results.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [yezz123/ormdantic](https://github.com/yezz123/ormdantic) - A Rust-backed async ORM for Python applications that use Pydantic models ✨
@@ -7081,7 +7088,7 @@
 
 ## swift 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 
 ## tailwind 
@@ -7135,7 +7142,7 @@
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
 - [kzndotsh/coinswiper](https://github.com/kzndotsh/coinswiper) - coinswiper is a modern web application built with Next.js for voting on your Solana tokens. It provides real-time data and insights using the DexScreener API integration.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
 - [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [eric-sfwe/Discord_Clone](https://github.com/eric-sfwe/Discord_Clone) - This Next.js-based Discord Clone replicates key features of Discord, providing real-time messaging, voice channels, and seamless user interaction with a modern web experience.
@@ -7420,7 +7427,7 @@
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [kzndotsh/coinswiper](https://github.com/kzndotsh/coinswiper) - coinswiper is a modern web application built with Next.js for voting on your Solana tokens. It provides real-time data and insights using the DexScreener API integration.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [kzndotsh/chat360](https://github.com/kzndotsh/chat360) - 
 - [hadrysm/nextjs-boilerplate](https://github.com/hadrysm/nextjs-boilerplate) - 🚀 Next.js 16+ boilerplate with typescript, husky, lint-staged, biome, vitest, react-testing-library, storybook, and GH actions.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -7571,7 +7578,7 @@
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [arevalolance/design-system-template](https://github.com/arevalolance/design-system-template) - 🎨  Design System Starter
 - [peltho/tufw](https://github.com/peltho/tufw) - Terminal UI for ufw
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -7713,7 +7720,7 @@
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
