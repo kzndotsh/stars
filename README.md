@@ -297,6 +297,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -329,7 +330,7 @@
 - [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - Curated AI Prompts for Cursor Rules, Cline, Windsurf and Github Copilot
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -1546,6 +1547,7 @@
 
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config) - Load configuration variables from multiple sources with flexible adapters, ensuring type safety with Zod.
+- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles. :-)
 - [StockwatchDev/application_settings](https://github.com/StockwatchDev/application_settings) - For providing a python application or library with configuration and/or settings
 - [jordantshaw/pydantic-config](https://github.com/jordantshaw/pydantic-config) - Support for Pydantic settings configuration file management
 - [lincolnloop/goodconf](https://github.com/lincolnloop/goodconf) - Transparently load variables from environment or JSON/YAML/TOML file.
@@ -2228,7 +2230,7 @@
 - [0xN1nja/awesome-dotfiles](https://github.com/0xN1nja/awesome-dotfiles) - Curated list of Unix rices with filters for Distro, WM, Colorscheme, and more!
 - [lassulus/wrappers](https://github.com/lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
-- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles.
+- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles. :-)
 - [Izder456/dotfiles](https://github.com/Izder456/dotfiles) - My OpenBSD Dotfiles
 - [ralish/dotfiles](https://github.com/ralish/dotfiles) - A dotfiles collection with a SysAdmin & DevOps focus
 - [Daru-san/SnowyDots](https://github.com/Daru-san/SnowyDots) - [Mirror] My beautiful, functional NixOS configuration
@@ -3427,7 +3429,7 @@
 - [BrNi05/DiscOS](https://github.com/BrNi05/DiscOS) - DiscOS is a secure interaction bridge between Discord and Linux servers
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
-- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles.
+- [akai-hana/dotfiles](https://github.com/akai-hana/dotfiles) - 🐧 my *BSD/Linux dotfiles. :-)
 - [hardBSDk/awesome-alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of alternatives for the most used programs, games, web services and operating systems
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) - awesome linux minimalism suggestions
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
@@ -3600,7 +3602,7 @@
 - [Airizom/context-craft](https://github.com/Airizom/context-craft) - VS Code extension to cherry-pick workspace files and copy them as LLM-ready XML with token counts.
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
@@ -3790,7 +3792,7 @@
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 - [hpbyte/h-codex](https://github.com/hpbyte/h-codex) - A semantic code search tool for intelligent, cross-repo context retrieval.
 - [pathintegral-institute/mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) - CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features.
-- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
@@ -4881,7 +4883,7 @@
 - [ShiroKazane/Tokyo-Night](https://github.com/ShiroKazane/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 - [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) - Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
 - [phoenixcoded/saasable-ui](https://github.com/phoenixcoded/saasable-ui) - Complete solution for UI pages as well Admin Dashboard
-- [moshefortgang/nextjs-better-auth-drizzle-shadcn](https://github.com/moshefortgang/nextjs-better-auth-drizzle-shadcn) - Full-stack web app template using Next.js 15, React 19, Better Auth, Drizzle ORM, Shadcn/UI, PostgreSQL, and Jest. Built with TypeScript for modern, scalable, and type-safe development.
+- [moshefortgang/nextjs-better-auth-drizzle-shadcn](https://github.com/moshefortgang/nextjs-better-auth-drizzle-shadcn) - Full-stack web app template using Next.js 16, React 19, Better Auth, Drizzle ORM, Shadcn/UI, PostgreSQL, and Jest. Built with TypeScript for modern, scalable, and type-safe development.
 - [cahyawibawa/ui-topia](https://github.com/cahyawibawa/ui-topia) - A collection of fine UI components
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [ThinAirThings/blueprint-website.v.1](https://github.com/ThinAirThings/blueprint-website.v.1) - 
@@ -5432,7 +5434,6 @@
 - [meetzaveri/node-api-boilerplate](https://github.com/meetzaveri/node-api-boilerplate) - A Node API boilerplate including CRUD operations based on MongoDB schema. Used mLab for MongoDB deployment.
 - [GabenGar/nextjs-boilerplate](https://github.com/GabenGar/nextjs-boilerplate) - Boilerplate repo for NextJS with typescript, eslint, prettier, sass,  pre-commit hooks, postgresql and json schemas
 - [xue2sheng/boilerplateCodeDoc](https://github.com/xue2sheng/boilerplateCodeDoc) - Humble attempt to dissociate Backend generated data/schemas from friendly user Frontend formats
-- [a-tonchev/rest-api-boilerplate](https://github.com/a-tonchev/rest-api-boilerplate) - Boilerplate for Rest API with authentication, based on KOA and mongodb driver with JSON Schema validation (which is native for mongo)
 - [Jiratech/boilerplates-openapi-schema](https://github.com/Jiratech/boilerplates-openapi-schema) - 
 - [Azure/draft](https://github.com/Azure/draft) - A day 0 tool for getting your app on k8s fast
 - [hasura/data-hub](https://github.com/hasura/data-hub) - Explore data sources from a native GraphQL API, database schemas to custom code contributed by the community.
@@ -7357,7 +7358,7 @@
 
 ## telegram 
 
-- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you better. Clones that sound more like you.
 - [nickheyer/DiscoFlix](https://github.com/nickheyer/DiscoFlix) - A simple media-requesting, Radarr/Sonarr-interfacing, movie and tv show-listing Chat Bot web-app for your media server.
 - [bunnykek/MultiUpload](https://github.com/bunnykek/MultiUpload) - Telegram bot to upload your GDrive/DDL/Telegram files to 10+ free hosting services
 - [v0idp/Mellow](https://github.com/v0idp/Mellow) - Mellow can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming to use those services directly in your Discord client.
@@ -7937,6 +7938,10 @@
 - [ItzSudhan/Discord-MusicBot](https://github.com/ItzSudhan/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [kzndotsh/homepage](https://github.com/kzndotsh/homepage) - 
 - [realstoman/react-tailwindcss-portfolio](https://github.com/realstoman/react-tailwindcss-portfolio) - A simple React app that uses Context API, custom Hooks, Tailwind CSS & Framer Motion.
+
+## whatsapp 
+
+- [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Social Media OSINT collection containing - tools, techniques & tradecraft.
 
 ## windows 
 
